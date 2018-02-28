@@ -1,0 +1,216 @@
+import java.text.SimpleDateFormat
+import com.bmuschko.gradle.docker.tasks.image.DockerBuildImage
+import com.bmuschko.gradle.docker.tasks.image.DockerPushImage
+import com.bmuschko.gradle.docker.tasks.image.DockerRemoveImage
+import org.apache.tools.ant.filters.ReplaceTokens
+
+buildscript {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.5.9.RELEASE")
+        classpath 'io.github.robwin:jgitflow-gradle-plugin:0.6.0'
+    }
+}
+
+plugins {
+    id 'java'
+    id 'findbugs'
+    id 'org.springframework.boot' version '1.5.9.RELEASE'
+    id 'jacoco'
+    id 'maven-publish'
+    id 'com.jfrog.artifactory' version '4.4.14'
+    id 'com.bmuschko.clover' version '2.2.0'
+    id 'com.bmuschko.docker-remote-api' version '3.2.3'
+}
+apply plugin: 'io.github.robwin.jgitflow'
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web'
+    compile 'org.springframework.boot:spring-boot-starter-actuator'
+    compile 'org.springframework.cloud:spring-cloud-starter-config'
+    compile 'org.springframework.boot:spring-boot-starter-aop'
+    compile 'org.springframework.retry:spring-retry'
+    clover 'org.openclover:clover:4.2.0'
+    testCompile 'org.springframework.boot:spring-boot-starter-test'
+}
+
+dependencyManagement {
+    imports {
+        mavenBom "org.springframework.cloud:spring-cloud-dependencies:Edgware.RELEASE"
+    }
+}
+
+
+/***************************
+ * build information
+ ***************************/
+
+springBoot {
+    buildInfo {
+        // Generate extra build info.
+        additionalProperties = [
+                by: System.properties['user.name'],
+                time: buildTime(),
+        ]
+    }
+}
+
+// Display human readable build time, instead of epoch
+def buildTime() {
+    final dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ssZ")
+    dateFormat.format(new Date())
+}
+
+/***************************
+ * gradle wrapper
+ ***************************/
+task wrapper(type: Wrapper) {
+    gradleVersion = '4.4.1'
+}
+
+/***************************
+ * FindBugs
+ ***************************/
+tasks.withType(FindBugs) {
+    reports {
+        xml.enabled = false
+        html.enabled = true
+    }
+}
+
+findbugs {
+    excludeFilter = file("$rootProject.projectDir/config/findbugs/excludeFilter.xml")
+}
+
+/**
+ * Unit Testing task, to avoid running slower integration tests
+ */
+task unitTest (type: Test) {
+    exclude '**/*IntegrationTest.class'
+}
+
+/***************************
+ * maven publishing
+ ***************************/
+
+task sourceJar(type: Jar) {
+    from sourceSets.main.allJava
+    from sourceSets.test.allJava
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+
+            artifact sourceJar {
+                classifier "sources"
+            }
+        }
+    }
+}
+
+artifactory {
+    contextUrl = artifactoryUrl
+
+    publish {
+        repository {
+            repoKey = project.version.toString().contains('-SNAPSHOT') ? artifactorySnapshotPublish : artifactoryReleasePublish
+            username = artifactoryUser
+            password = artifactoryPassword
+            maven = true
+        }
+        defaults {
+            publications('mavenJava')
+        }
+    }
+}
+
+tasks.artifactoryPublish.dependsOn build
+
+/**
+ * Clover configuration
+ */
+clover {
+    report {
+        html = true
+    }
+}
+
+/***************************
+ * docker
+ ***************************/
+
+docker {
+    registryCredentials {
+        username = dockerHubUser
+        password = dockerHubPassword
+        email = dockerHubEmail
+    }
+}
+
+task dockerCopyFiles(type: Copy) {
+    dependsOn 'bootRepackage'
+
+    from('src/main/docker/') {
+        filter(ReplaceTokens, tokens: [USER_HOME                  : System.env.HOME,
+                                       configServerVersion        : project.configServerVersion,
+                                       version                    : project.version,
+                                       dockerTagBase              : project.dockerTagBase])
+    }
+
+    from("build/libs/${jar.archiveName}") {
+    }
+
+    into 'build/docker'
+}
+
+task dockerBuildImage(type: DockerBuildImage) {
+    dependsOn 'dockerCopyFiles'
+    inputDir = project.file('build/docker/')
+    tag = "${dockerTagBase}/${jar.baseName}:${version}"
+}
+
+task dockerPushImage(type: DockerPushImage) {
+    dependsOn 'dockerBuildImage'
+    imageName = "${dockerTagBase}/${jar.baseName}:${version}"
+}
+
+task dockerRemoveImage(type: DockerRemoveImage) {
+    imageId = "${project.dockerTagBase}/${jar.baseName}:${project.version}"
+}
+
+/**
+ * Kubernetes
+ */
+task setDevKopsConfig(type: Exec) {
+    executable = 'kops'
+    args = ['export', 'kubecfg', '--state', "${project.kubecfgState}", '--name', "${project.kubecfgDevName}"]
+}
+
+task setDevKopsVersion(type: Exec) {
+    dependsOn 'setDevKopsConfig'
+    // Set the version of the docker container to whatever we just built. If we have not done a release build since the last
+    // dev (SNAPSHOT) build, this may be the same as last time, and my not cause the pod to be updated in k8s.
+    // The updateDevKops task will force the update to happen each time it is executed
+    executable = 'kubectl'
+    args = ['set', 'image', 'deployment/ap-imrt-iss-deployment', "ap-imrt-iss=${project.dockerTagBase}/ap-imrt-iss:${project.version}"]
+}
+
+task updateDevKops(type: Exec) {
+    dependsOn 'setDevKopsVersion'
+    // Patch the deployment by changing the date inside the specification. This will cause the pod to be restarted. Since we have
+    // the deployment set to always pull the docker image, this will pick up the latest version even if the tag didn't change
+    executable = 'kubectl'
+    args = ['patch', 'deployment', 'ap-imrt-iss-deployment', '-p', String.format("{\"spec\":{\"template\":{\"metadata\":{\"labels\":{\"date\":\"%s\"}}}}}", new Date().getTime())]
+}
