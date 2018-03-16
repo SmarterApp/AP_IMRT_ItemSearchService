@@ -210,7 +210,7 @@ task kopsVersionSet(type: Exec) {
     // dev (SNAPSHOT) build, this may be the same as last time, and my not cause the pod to be updated in k8s.
     // The updateDevKops task will force the update to happen each time it is executed
     executable = 'kubectl'
-    args = ['set', 'image', 'deployment/ap-imrt-iis-deployment', "ap-imrt-iis=${project.dockerTagBase}/ap-imrt-iis:${project.version}"]
+    args = ['set', 'image', 'deployment/ap-imrt-iss-deployment', "ap-imrt-iss=${project.dockerTagBase}/ap-imrt-iss:${project.version}"]
 }
 
 task kopsUpdateDeployment(type: Exec) {
@@ -218,7 +218,7 @@ task kopsUpdateDeployment(type: Exec) {
     // Patch the deployment by changing the date inside the specification. This will cause the pod to be restarted. Since we have
     // the deployment set to always pull the docker image, this will pick up the latest version even if the tag didn't change
     executable = 'kubectl'
-    args = ['patch', 'deployment', 'ap-imrt-iis-deployment', '-p', String.format("{\"spec\":{\"template\":{\"metadata\":{\"labels\":{\"date\":\"%s\"}}}}}", new Date().getTime())]
+    args = ['patch', 'deployment', 'ap-imrt-iss-deployment', '-p', String.format("{\"spec\":{\"template\":{\"metadata\":{\"labels\":{\"date\":\"%s\"}}}}}", new Date().getTime())]
 }
 
 /**
