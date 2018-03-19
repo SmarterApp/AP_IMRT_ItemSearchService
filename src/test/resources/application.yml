@@ -1,6 +1,3 @@
-test:
-  # Used to conditionally create certain beans during testing
-  enabled: true
 spring:
   jpa:
     hibernate:
