@@ -2,3 +2,6 @@ spring:
   application:
     name: "ap-imrt-iss"
 
+  cloud:
+    config:
+      enabled: false
