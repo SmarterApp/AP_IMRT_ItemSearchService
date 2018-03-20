@@ -39,6 +39,10 @@ targetCompatibility = 1.8
 // Exclude logback, we will use log4j
 configurations {
     compile.exclude module: 'spring-boot-starter-logging'
+
+    // This is pulled in from ap-common, we don't want security
+    // on our endpoints, at least for now
+    compile.exclude module: 'spring-boot-starter-security'
 }
 
 dependencies {
