@@ -33,6 +33,9 @@ services:
         environment:
             CONFIG_SERVICE_ENABLED: "true"
             CONFIG_SERVICE_URL: "http://configuration-service:8888"
+            SPRING_DATASOURCE_URL: "jdbc:postgresql://docker.for.mac.host.internal:5432/imrt"
+            SPRING_DATASOURCE_USERNAME:
+            SPRING_DATASOURCE_PASSWORD:
         ports:
             - 8080:8080
         networks:
