@@ -2,7 +2,7 @@
 
 This project requires certain pieces of software to run. Below is the list and recommended order to install those pieces of software.  
 
-* [Getting Started For Mac](documentation/getting_started_mac.md)
+* [Getting Started For Mac](getting_started_mac.md)
 
 ## Create database and users
 
@@ -37,7 +37,7 @@ The JaCoCo plugin is enabled, so if you want to generate code coverage reports, 
 Test, findbugs, and code coverage reports will be generated in the default location:
 
 ```
-.projectDir/build/reports
+.projectDir/build/jacocoHtml
 ```
 
 During development, you may wish to run just unit tests, rather than the full suite of unit and integration tests. There is a gradle task "unitTest" configured for that. 
@@ -59,9 +59,7 @@ To build the docker image locally, run
 ./gradlew dockerBuildImage
 ```
 
-To run the docker image locally, you will first need to define the GITLAB environment variables as described above.
-These will be taken from the local environment and passed through to the container from within docker-compose.
-In additon, you will need to set environment variables containing the username and password for your database:
+You will need to set environment variables containing the username and password for your database:
 
 ```
 export SPRING_DATASOURCE_USERNAME=imrt_ingest
@@ -97,5 +95,5 @@ and then run
 
 To execute unit tests within an IDE, make sure that an appropriate `SPRING_DATASOURCE_USERNAME` and `SPRING_DATASOURCE_PASSWORD` are configured.
 
-To execute ISS from with an IDE, make sure both the datasource and gitlab environment variables are set.
+To execute ISS from with an IDE, make sure the datasource environment variables are set.
 
