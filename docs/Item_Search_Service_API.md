@@ -7,4 +7,4 @@ TBD - Will be filled out with information once implemented
 
 ## API Documentation
 
-* [Get Item](docs/get_item_api.md)
+* [Get Item](get_item_api.md)
