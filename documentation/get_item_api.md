@@ -1,6 +1,8 @@
 # Get Item
 
-This page covers the API 
+[Go Back](Item_Search_Service_API.md)
+
+This page covers the API to retrieve a single item
 
 ### Supported Content Types
 

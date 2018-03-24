@@ -1,5 +1,7 @@
 # Item Search Service API
 
+[Go Back](/README.md)
+
 Item Search Service contains a searchable API allowing consumers to search over the item bank in different ways.  This document lists out the API's that one can use to search those items.
 
 ## Authentication
