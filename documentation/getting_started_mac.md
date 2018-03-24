@@ -1,7 +1,7 @@
 # Getting Started For Mac
 This page explains how to get software installed for Mac.  
 
-[Go Back](README.md)
+[Go Back](configure_development.md)
 
 ## Install Homebrew 
 [Homebrew Site](https://brew.sh/)
