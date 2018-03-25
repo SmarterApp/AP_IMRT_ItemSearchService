@@ -10,3 +10,4 @@ TBD - Will be filled out with information once implemented
 ## API Documentation
 
 * [Get Item](get_item_api.md)
+* [Get Items](get_items_api.md)
