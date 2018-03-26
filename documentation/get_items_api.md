@@ -10,13 +10,13 @@ This page covers the API to multiple items by their ids.  The ids are the item's
 
 ### Get Items
 
-`GET /items?itemIds={list of item ids}`
+`GET /items?ids={list of item ids}`
 
 | Variable | Description | Sample Value |
 | -------- | ----------- | ------------ |
-| itemIds   | Unique item ids for the items. | 205160
+| ids   | Unique item ids for the items. | 205160
 
-**Example** : `items?itemIds=205160,206111`
+**Example** : `items?ids=205160,206111`
 
 #### Success Responses
 
