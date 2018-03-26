@@ -22,7 +22,6 @@ plugins {
     id 'jacoco'
     id 'maven-publish'
     id 'com.jfrog.artifactory' version '4.4.14'
-    id 'com.bmuschko.clover' version '2.2.0'
     id 'com.bmuschko.docker-remote-api' version '3.2.3'
 }
 apply plugin: 'io.github.robwin.jgitflow'
@@ -54,9 +53,8 @@ dependencies {
     compile 'org.springframework.boot:spring-boot-starter-log4j2'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.4'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.4'
-    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.2'
+    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.6'
     compile 'org.opentestsystem.ap:ap-common:0.3.26'
-    clover 'org.openclover:clover:4.2.0'
     testCompile 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'org.assertj:assertj-core:3.9.1'
 }
@@ -155,12 +153,11 @@ artifactory {
 
 tasks.artifactoryPublish.dependsOn build
 
-/**
- * Clover configuration
- */
-clover {
-    report {
-        html = true
+jacocoTestReport {
+    reports {
+        xml.enabled false
+        csv.enabled false
+        html.destination file("${buildDir}/jacocoHtml")
     }
 }
 
@@ -247,4 +244,3 @@ task revisionSave(type: Copy) {
     include 'build.gradle'
     include 'gradle.properties'
 }
-
