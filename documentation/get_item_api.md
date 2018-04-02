@@ -13,20 +13,41 @@ This page covers the API to retrieve a single item
 Get a single IMRT item.  The item is a representation of an item within the itembank.
 
 `GET /items/{itemId}`
+`GET /items/{itemId}?includeDetails={includeDetailsVal}`
 
-| Variable | Description | Sample Value |
-| -------- | ----------- | ------------ |
-| itemId   | The item's unique id as stored in the itembank. | 205160
+| Variable | Description | Required | Sample Value |
+| -------- | ----------- | -------- |------------ |
+| itemId   | The item's unique id as stored in the itembank. | yes | 205160
+| includeDetailsVal | Boolean to include the item.json from the itembank.  Defaults to false. | no | true/false 
 
-**Example** : `items/123/`
+**Examples** : 
+
+* `items/123/`
+* `items/123?includeDetails=true`
 
 #### Success Responses
 
 ##### HTTP 200 - Success
+**Response Body if Details Not Included**
+<pre>
+{
+	"id": "205033",
+	"subject": "",
+	"grade": "",
+	"workflowStatus": "ParkingLot",
+	"itemType": "sa",
+	"depthOfKnowledge": "",
+	"createdBy": "iat_Draft TestUser",
+	"createdAt": "2018-03-07T01:44:29Z",
+	"standardIds": [],
+	"itemDetail": null
+}
+</pre>
 
-**Response Body**
 
-```
+**Response Body if Details Included**
+
+<pre>
 {  
    "createdAt":"2018-03-14T17:38:46.197Z",
    "updatedAt":"2018-03-14T17:38:46.197Z",
@@ -169,7 +190,8 @@ Get a single IMRT item.  The item is a representation of an item within the item
       }
    }
 }
-```
+</pre>
+
 #### Error Responses
 
 * 404 - when an item cannot be found
