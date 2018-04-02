@@ -11,20 +11,42 @@ This page covers the API to multiple items by their ids.  The ids are the item's
 ### Get Items
 
 `GET /items?ids={list of item ids}`
+`GET /items?ids={list of item ids}&includeDetails={includeDetailsVal}?
 
-| Variable | Description | Sample Value |
-| -------- | ----------- | ------------ |
-| ids   | Unique item ids for the items. | 205160
+| Variable | Description | Required | Sample Value |
+| -------- | ----------- | -------- |------------ |
+| ids   | Unique item ids for the items. | yes | 205160
+| includeDetailsVal | Boolean to include the item.json from the itembank.  Defaults to false. | no | true/false 
 
-**Example** : `items?ids=205160,206111`
+**Example**
+
+* `items?ids=205160,206111`
+* `items?ids=205160,206111&includeDetails=true`
 
 #### Success Responses
 
 ##### HTTP 200 - Success
 
-**Response Body**
+**Response Body if Details Not Included**
+<pre>
+[
+    {
+        "id": "205033",
+        "subject": "",
+        "grade": "",
+        "workflowStatus": "ParkingLot",
+        "itemType": "sa",
+        "depthOfKnowledge": "",
+        "createdBy": "iat_Draft TestUser",
+        "createdAt": "2018-03-07T01:44:29Z",
+        "standardIds": [],
+        "itemDetail": null
+    }
+]
+</pre>
 
-```
+**Response Body if Details Included**
+<pre>
 [
    {
       "createdAt":"2018-03-22T03:09:22.380Z",
@@ -170,7 +192,7 @@ This page covers the API to multiple items by their ids.  The ids are the item's
       }
    }
 ]
-```
+</pre>
 
 #### Error Responses
 
