@@ -6,6 +6,10 @@ spring:
   datasource:
     url: "jdbc:postgresql://localhost:5432/test"
 
+security:
+    basic:
+      enabled: false
+
 logging:
   level:
     org.opentestsystem: DEBUG
