@@ -38,16 +38,14 @@ targetCompatibility = 1.8
 // Exclude logback, we will use log4j
 configurations {
     compile.exclude module: 'spring-boot-starter-logging'
-
-    // This is pulled in from ap-common, we don't want security
-    // on our endpoints, at least for now
-    compile.exclude module: 'spring-boot-starter-security'
 }
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'org.springframework.boot:spring-boot-starter-actuator'
     compile 'org.springframework.cloud:spring-cloud-starter-config'
+    compile 'org.springframework.boot:spring-boot-starter-security'
+    compile 'org.springframework.security.oauth:spring-security-oauth2:2.3.0.RELEASE'
     compile 'org.springframework.boot:spring-boot-starter-aop'
     compile 'org.springframework.retry:spring-retry'
     compile 'org.springframework.boot:spring-boot-starter-log4j2'
