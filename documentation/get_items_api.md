@@ -10,8 +10,8 @@ This page covers the API to multiple items by their ids.  The ids are the item's
 
 ### Get Items
 
-`GET /items?ids={list of item ids}`
-`GET /items?ids={list of item ids}&includeDetails={includeDetailsVal}?
+`GET /v1/items?ids={list of item ids}`
+`GET /v1/items?ids={list of item ids}&includeDetails={includeDetailsVal}?
 
 | Variable | Description | Required | Sample Value |
 | -------- | ----------- | -------- |------------ |

@@ -12,8 +12,8 @@ This page covers the API to retrieve a single item
 
 Get a single IMRT item.  The item is a representation of an item within the itembank.
 
-`GET /items/{itemId}`
-`GET /items/{itemId}?includeDetails={includeDetailsVal}`
+`GET /v1/items/{itemId}`
+`GET /v1/items/{itemId}?includeDetails={includeDetailsVal}`
 
 | Variable | Description | Required | Sample Value |
 | -------- | ----------- | -------- |------------ |
