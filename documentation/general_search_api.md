@@ -45,10 +45,10 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 ##### Integer Range Filter
 | Field | Description | Required | 
 | -------- | ----------- | -------- |
-| type   | Must be "match" | yes 
-| property | The property to run the match filter.  Supported properties listed below. | yes
+| type   | Must be "integerRange" | yes 
+| property | The property to run the integer range filter.  Supported properties listed below. | yes
 | min | The minimum of the range | yes
-| min | The maximim of the range | yes
+| min | The maximum of the range | yes
 
 Properties supported
 
@@ -63,7 +63,7 @@ This is the "page" property in the request body below.  This drives the page con
 | Field | Description | Required | 
 | -------- | ----------- | -------- |
 | size   | The number of results per page. If blank each page will have 1000 records | no
-| number | The page number | yes
+| number | The page number.  This is 1 based meaning when getting the first page you should pass in number == 1| yes
 
 #### Sort
 This is the "sort" property in the request body below.  This is not required and is only needed if one wants to sort results.
