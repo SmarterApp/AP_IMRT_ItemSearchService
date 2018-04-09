@@ -114,59 +114,59 @@ The table below describes the page information included in the response.
 
 <Pre>
 {
-    "results": [
-        {
-            "id": "888",
-            "subject": "MATH",
-            "grade": "4",
-            "workflowStatus": "Draft",
-            "itemType": "EQ",
-            "depthOfKnowledge": "dok",
-            "createdBy": "me",
-            "createdAt": "2018-04-08T22:40:21.673Z",
-            "standardIds": [],
-            "itemDetail": null
-        },
-        {
-            "id": "777",
-            "subject": "MATH",
-            "grade": "4",
-            "workflowStatus": "Draft",
-            "itemType": "EQ",
-            "depthOfKnowledge": "dok",
-            "createdBy": "me",
-            "createdAt": "2018-04-08T22:40:21.673Z",
-            "standardIds": [],
-            "itemDetail": null
-        },
-        {
-            "id": "666",
-            "subject": "MATH",
-            "grade": "4",
-            "workflowStatus": "Draft",
-            "itemType": "EQ",
-            "depthOfKnowledge": "dok",
-            "createdBy": "me",
-            "createdAt": "2018-04-08T22:40:21.673Z",
-            "standardIds": [],
-            "itemDetail": null
-        },
-        {
-            "id": "555",
-            "subject": "MATH",
-            "grade": "4",
-            "workflowStatus": "Draft",
-            "itemType": "EQ",
-            "depthOfKnowledge": "dok",
-            "createdBy": "me",
-            "createdAt": "2018-04-08T22:40:21.673Z",
-            "standardIds": [],
-            "itemDetail": null
-        }
-    ],
-    "last": false,
-    "first": true,
-    "totalPages": 2,
-    "total": 7
+  "results": [
+    {
+      "id": "888",
+      "subject": "MATH",
+      "grade": "4",
+      "workflowStatus": "Draft",
+      "itemType": "EQ",
+      "depthOfKnowledge": "dok",
+      "createdBy": "me",
+      "createdAt": "2018-04-08T22:40:21.673Z",
+      "standardIds": [],
+      "itemDetail": null
+    },
+    {
+      "id": "777",
+      "subject": "MATH",
+      "grade": "4",
+      "workflowStatus": "Draft",
+      "itemType": "EQ",
+      "depthOfKnowledge": "dok",
+      "createdBy": "me",
+      "createdAt": "2018-04-08T22:40:21.673Z",
+      "standardIds": [],
+      "itemDetail": null
+    },
+    {
+      "id": "666",
+      "subject": "MATH",
+      "grade": "4",
+      "workflowStatus": "Draft",
+      "itemType": "EQ",
+      "depthOfKnowledge": "dok",
+      "createdBy": "me",
+      "createdAt": "2018-04-08T22:40:21.673Z",
+      "standardIds": [],
+      "itemDetail": null
+    },
+    {
+      "id": "555",
+      "subject": "MATH",
+      "grade": "4",
+      "workflowStatus": "Draft",
+      "itemType": "EQ",
+      "depthOfKnowledge": "dok",
+      "createdBy": "me",
+      "createdAt": "2018-04-08T22:40:21.673Z",
+      "standardIds": [],
+      "itemDetail": null
+    }
+  ],
+  "last": false,
+  "first": true,
+  "totalPages": 2,
+  "total": 7
 }
 </Pre>
