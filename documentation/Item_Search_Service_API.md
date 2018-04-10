@@ -28,3 +28,4 @@ curl -i -X POST \
 
 * [Get Item](get_item_api.md)
 * [Get Items](get_items_api.md)
+* [General Search](general_search_api.md)
