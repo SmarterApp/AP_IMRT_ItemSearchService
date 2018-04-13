@@ -25,27 +25,6 @@ The property name for this is "filters".  This is an array of `filter` JSON obje
 
 The **Match Filter** provides a facility for searching by a particular property and possible values.  A collection of values can be passed into this filter, making the filter act like an SQL `IN` clause.
 
-**Example Usage**
-
-* Find all items with a workflow status equal to "Draft":
-
-```json
-{
-	"type": "match",
-	"property": "workflowStatus",
-	"values": ["Draft"]
-}
-```
-* Find all items for grades 3 and 4:
-
-```json
-{
-	"type": "match",
-	"property": "workflowStatus",
-	"values": ["3", "4"]
-}
-```
-
 **Match Filter Fields**
 
 This table describes the fields that comprise the match filter:
@@ -70,22 +49,30 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | itemType | Filter by item types  | 
 | subject | Filter by subject | 
 
-##### Integer Range Filter
-
-The **Integer Range Filter** allows for filtering items by a range of numbers.  By passing in a minimum and maximum number, this filter will apply an inclusive range filter on the results.  In effect, this filter acts like an SQL `BETWEEN` clause.
-
 **Example Usage**
 
-* Find all items with an id between 1 and 10:
+* Find all items with a workflow status equal to "Draft":
 
 ```json
 {
-    "type": "integerRange",
-    "property": "id",
-    "min": 1,
-    "max": 10
+	"type": "match",
+	"property": "workflowStatus",
+	"values": ["Draft"]
 }
 ```
+* Find all items for grades 3 and 4:
+
+```json
+{
+	"type": "match",
+	"property": "workflowStatus",
+	"values": ["3", "4"]
+}
+```
+
+##### Integer Range Filter
+
+The **Integer Range Filter** allows for filtering items by a range of numbers.  By passing in a minimum and maximum number, this filter will apply an inclusive range filter on the results.  In effect, this filter acts like an SQL `BETWEEN` clause.
 
 **Integer Range Filter Fields**
 
@@ -102,6 +89,19 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 
 The integer range filter does not currently apply to any searchable properties.
 
+**Example Usage**
+
+* Find all items with an id between 1 and 10:
+
+```json
+{
+    "type": "integerRange",
+    "property": "id",
+    "min": 1,
+    "max": 10
+}
+```
+
 ##### Number of Days in Range Filter
 
 The **Number of Days in Range** filter allows searching for items with a property that has a date older than a number of days ago.  This filter can be used in two ways:
@@ -113,6 +113,21 @@ _**Additional Notes**_
 
 * The `min` value must be smaller than the `max` value.
 * The `min` value can be set to 0, which is effectively telling the filter to find everything older than today.
+
+**Number of Days in Range Filter Fields**
+
+| Field | Description | Type | Required | 
+| -------- | ----------- |---- | -------- |
+| type   | Must be "daysRange" | string | yes 
+| property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
+| min | The minimum number of days an item must be in a status | number | yes
+| max | The maximum number of days in the item must be in a status | number | no
+
+**Properties supported**
+
+| Field| Description |
+| -----| -------|
+| workflowStatusSetAt  | The date/time when an item's workflow status changed  | 
 
 **Example Usage**
 
@@ -158,21 +173,6 @@ _**Additional Notes**_
 	"max": 0
 }
 ```
-
-**Number of Days in Range Filter Fields**
-
-| Field | Description | Type | Required | 
-| -------- | ----------- |---- | -------- |
-| type   | Must be "daysRange" | string | yes 
-| property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
-| min | The minimum number of days an item must be in a status | number | yes
-| max | The maximum number of days in the item must be in a status | number | no
-
-**Properties supported**
-
-| Field| Description |
-| -----| -------|
-| workflowStatusSetAt  | The date/time when an item's workflow status changed  | 
 
 #### Page
 
