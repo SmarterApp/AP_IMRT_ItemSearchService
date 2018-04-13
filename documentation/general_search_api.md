@@ -190,7 +190,7 @@ This is the `sort` property in the request body below.  This is not required and
 | Field | Description | Required | 
 | -------- | ----------- | -------- |
 | property   | the property to sort.  Align with filterable properties | yes 
-| order | "ASC" for ascending and "DESC" for descending | yes
+| direction | "ASC" for ascending and "DESC" for descending | yes
 
 ### Request Body
 
@@ -211,7 +211,7 @@ This is the `sort` property in the request body below.  This is not required and
 	],
 	"sort": {
 		"property": "itemId",
-		"order": "DESC"
+		"direction": "DESC"
 	},
 	"page": {
 		"size": 4,
