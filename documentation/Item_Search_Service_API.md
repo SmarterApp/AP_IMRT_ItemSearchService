@@ -20,7 +20,7 @@ curl -i -X POST \
      -d "username=iss-user@fairwaytech.com" \
      -d "password=iss-password" \
      -d "client_id=pm" \
-     -d "client_secret=sbac12345" \
+     -d "client_secret=[your client secret]" \
    'https://some-open-am-server.org/auth/oauth2/access_token?realm=%2Fsbac'
 </pre>
 
@@ -28,3 +28,4 @@ curl -i -X POST \
 
 * [Get Item](get_item_api.md)
 * [Get Items](get_items_api.md)
+* [General Search](general_search_api.md)
