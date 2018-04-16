@@ -26,7 +26,7 @@ The table below lists the fields which must be within the
 
 | Field | Description | Required | 
 | -------- | ----------- | -------- |
-| groupByProperty   | The property to group items | yes
+| groupBy   | The property to group items | yes
 | fitlers | The filters to apply to the results prior to gather counts| yes
 
 #### Filters
@@ -58,7 +58,7 @@ Supported properties
             "values":["ELA"]
         }
 	],
-	"groupByProperty": "grade"
+	"groupBy": "grade"
 }
 ```
 
@@ -68,13 +68,13 @@ The table below describes the page information included in the response.  Proper
 
 | Field | Description | 
 | -------- | ----------- | 
-| groupByProperty | The property used to generate the counts.  Same as in the request |
+| groupBy | The property used to generate the counts.  Same as in the request |
 | counts | A Map of counts.  They key is the value as stored on the item with the value representing the count of items that have the value. |
 
 #### Response Body
 ```json
 {
-    "groupByProperty": "grade",
+    "groupBy": "grade",
     "counts": {
         "3": 3,
         "4": 2,
