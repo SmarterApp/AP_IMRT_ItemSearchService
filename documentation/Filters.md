@@ -154,3 +154,33 @@ _**Additional Notes**_
 	"max": 0
 }
 ```
+
+**Boolean Filter Fields**
+
+This table describes the fields that comprise the match filter:
+
+| Field | Description | Type | Required | 
+| -------- | ----------- |---- | -------- |
+| type   | Must be "booleanFlag" | string | yes 
+| property | The property to run the boolean filter.  Supported properties listed below. | string | yes
+| flagEnabled | `true` or `false` | boolean | yes
+
+**Properties supported**
+
+Values supported can be found within the Item Data Dictionary.  These values match exactly with what is stored within the item.json format unless stated otherwise.
+
+| Field| Description |
+| -----| -------|
+| beingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  | 
+
+**Example Usage**
+
+* Find all items with a workflow status equal to "Draft":
+
+```json
+{
+	"type": "booleanFlag",
+	"property": "beingCreated",
+	"flagEnabled": true
+}
+```
