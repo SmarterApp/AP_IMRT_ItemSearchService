@@ -64,6 +64,11 @@ dependencyManagement {
     }
 }
 
+test {
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}
 
 /***************************
  * build information
