@@ -46,7 +46,6 @@ Supported properties
 | organizationType | Breaks down the items' counts by organization type |
 | organizationName | Breaks down the items' counts by organization name |
 | workflowStatus | Breaks down the items' counts by workflow status |
-| user | Breaks down the items' counts by the user who created the item |
 
 #### Request Body
 ```json

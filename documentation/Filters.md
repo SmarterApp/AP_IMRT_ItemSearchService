@@ -163,7 +163,7 @@ This table describes the fields that comprise the match filter:
 | -------- | ----------- |---- | -------- |
 | type   | Must be "booleanFlag" | string | yes 
 | property | The property to run the boolean filter.  Supported properties listed below. | string | yes
-| flagEnabled | `true` or `false` | boolean | yes
+| value | `true` or `false` | boolean | yes
 
 **Properties supported**
 
@@ -181,6 +181,50 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 {
 	"type": "booleanFlag",
 	"property": "beingCreated",
-	"flagEnabled": true
+	"value": true
+}
+```
+
+##### Contains Filter
+
+The **Contains Filter** allows searching for items where the property's value matches any part of the value(s) passed in.  When multiple values are passed in, the values will be `OR`ed together.  For example, if "abc" and "def" are passed in as a `contains` filter's `values`, the search will look for any items that has "abc" OR "def" anywhere in the property's value.  In effect, this filter acts like an SQL `LIKE` clause.
+
+_**Additional Notes**_
+
+* This filter is case-insensitive: providing "abc" will match "abc", "ABC" and/or "aBc"
+
+**Contains Filter Fields**
+
+| Field | Description | Type | Required | 
+| -------- | ----------- |---- | -------- |
+| type   | Must be "contains" | string | yes 
+| property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
+| values | A collection of possible values to search for | array | yes
+
+**Properties supported**
+
+| Field| Description |
+| -----| -------|
+| organizationName  | The name of the organization assigned to an item | 
+
+**Example Usage**
+
+* Find all items with an organization name that contains "abc" somewhere in its value:
+
+```json
+{
+	"type": "contains",
+	"property": "organizationName",
+	"values": ["abc"]
+}
+```
+
+* Find all items with an organization name that contains "abc" or "def" somewhere in its value:
+
+```json
+{
+	"type": "contains",
+	"property": "organizationName",
+	"values": ["abc", "def"]
 }
 ```
