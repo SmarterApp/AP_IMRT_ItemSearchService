@@ -2,7 +2,7 @@
 
 [Item Search API](Item_Search_Service_API.md)
 
-##### Match Filter
+## Match Filter
 
 The **Match Filter** provides a facility for searching by a particular property and possible values.  A collection of values can be passed into this filter, making the filter act like an SQL `IN` clause.
 
@@ -51,7 +51,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 }
 ```
 
-##### Integer Range Filter
+## Integer Range Filter
 
 The **Integer Range Filter** allows for filtering items by a range of numbers.  By passing in a minimum and maximum number, this filter will apply an inclusive range filter on the results.  In effect, this filter acts like an SQL `BETWEEN` clause.
 
@@ -83,7 +83,7 @@ The integer range filter does not currently apply to any searchable properties.
 }
 ```
 
-##### Number of Days in Range Filter
+## Number of Days in Range Filter
 
 The **Number of Days in Range** filter allows searching for items with a property that has a date older than a number of days ago.  This filter can be used in two ways:
 
@@ -154,6 +154,8 @@ _**Additional Notes**_
 	"max": 0
 }
 ```
+## Boolean Filter
+This filter does an exact match against supported boolean/flag fields
 
 **Boolean Filter Fields**
 
@@ -185,7 +187,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 }
 ```
 
-##### Contains Filter
+## Contains Filter
 
 The **Contains Filter** allows searching for items where the property's value matches any part of the value(s) passed in.  When multiple values are passed in, the values will be `OR`ed together.  For example, if "abc" and "def" are passed in as a `contains` filter's `values`, the search will look for any items that has "abc" OR "def" anywhere in the property's value.  In effect, this filter acts like an SQL `LIKE` clause.
 
