@@ -155,6 +155,36 @@ _**Additional Notes**_
 }
 ```
 
+**Boolean Filter Fields**
+
+This table describes the fields that comprise the match filter:
+
+| Field | Description | Type | Required | 
+| -------- | ----------- |---- | -------- |
+| type   | Must be "booleanFlag" | string | yes 
+| property | The property to run the boolean filter.  Supported properties listed below. | string | yes
+| value | `true` or `false` | boolean | yes
+
+**Properties supported**
+
+Values supported can be found within the Item Data Dictionary.  These values match exactly with what is stored within the item.json format unless stated otherwise.
+
+| Field| Description |
+| -----| -------|
+| beingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  | 
+
+**Example Usage**
+
+* Find all items with a workflow status equal to "Draft":
+
+```json
+{
+	"type": "booleanFlag",
+	"property": "beingCreated",
+	"value": true
+}
+```
+
 ##### Contains Filter
 
 The **Contains Filter** allows searching for items where the property's value matches any part of the value(s) passed in.  When multiple values are passed in, the values will be `OR`ed together.  For example, if "abc" and "def" are passed in as a `contains` filter's `values`, the search will look for any items that has "abc" OR "def" anywhere in the property's value.  In effect, this filter acts like an SQL `LIKE` clause.
