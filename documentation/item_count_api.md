@@ -43,7 +43,7 @@ Supported properties
 | -------- | ----------- |
 | subject | Breaks down item counts by items' subject |
 | grade | Breaks down item counts by items' grade | 
-| organizationType | Breaks down the items' counts by organization type |
+| organizationTypeId | Breaks down the items' counts by organization type id |
 | organizationName | Breaks down the items' counts by organization name |
 | workflowStatus | Breaks down the items' counts by workflow status |
 
