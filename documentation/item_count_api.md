@@ -46,6 +46,8 @@ Supported properties
 | organizationTypeId | Breaks down the items' counts by organization type id |
 | organizationName | Breaks down the items' counts by organization name |
 | workflowStatus | Breaks down the items' counts by workflow status |
+| primaryClaim | Breaks down the items' counts by primary claim |
+| primaryAssessmentTarget | Breaks down the items' counts by primary target |
 
 #### Request Body
 ```json
