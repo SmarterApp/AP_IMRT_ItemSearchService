@@ -30,6 +30,8 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | itemType | Filter by item types  |
 | subject | Filter by subject |
 | organizationTypeId | Filter by Organization Type.  Typical values are "member", "nonMember", "vendor", "smarterBalanced" |
+| primaryClaim | Filter by claim id | 
+| primaryAssessmentTarget | filter by primary assessment target |
 
 **Example Usage**
 
