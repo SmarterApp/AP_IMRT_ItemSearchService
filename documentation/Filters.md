@@ -10,9 +10,9 @@ The **Match Filter** provides a facility for searching by a particular property 
 
 This table describes the fields that comprise the match filter:
 
-| Field | Description | Type | Required | 
+| Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "match" | string | yes 
+| type   | Must be "match" | string | yes
 | property | The property to run the match filter.  Supported properties listed below. | string | yes
 | values | The values to match against | array | yes
 
@@ -22,13 +22,14 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 
 | Field| Description |
 | -----| -------|
-| itemId | The unique item id  | 
-| grade | The grade for the item | 
-| stimulusId | The associated stimulus id for an item  | 
-| depthOfKnowledge | Filter by depth of knowledge values | 
-| workflowStatus | Allows filtering by workflow statuses.   | 
-| itemType | Filter by item types  | 
-| subject | Filter by subject | 
+| itemId | The unique item id  |
+| grade | The grade for the item |
+| stimulusId | The associated stimulus id for an item  |
+| depthOfKnowledge | Filter by depth of knowledge values |
+| workflowStatus | Allows filtering by workflow statuses.   |
+| itemType | Filter by item types  |
+| subject | Filter by subject |
+| organizationTypeId | Filter by Organization Type.  Typical values are "member", "nonMember", "vendor", "smarterBalanced" |
 
 **Example Usage**
 
@@ -57,9 +58,9 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 
 **Integer Range Filter Fields**
 
-| Field | Description | Type | Required | 
+| Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "integerRange" | string | yes 
+| type   | Must be "integerRange" | string | yes
 | property | The property to run the integer range filter.  Supported properties listed below. | string | yes
 | min | The minimum of the range | number | yes
 | max | The maximum of the range | number | yes
@@ -97,9 +98,9 @@ _**Additional Notes**_
 
 **Number of Days in Range Filter Fields**
 
-| Field | Description | Type | Required | 
+| Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "daysRange" | string | yes 
+| type   | Must be "daysRange" | string | yes
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
 | min | The minimum number of days an item must be in a status | number | yes
 | max | The maximum number of days in the item must be in a status | number | no
@@ -108,7 +109,7 @@ _**Additional Notes**_
 
 | Field| Description |
 | -----| -------|
-| workflowStatusSetAt  | The date/time when an item's workflow status changed  | 
+| workflowStatusSetAt  | The date/time when an item's workflow status changed  |
 
 **Example Usage**
 
@@ -161,9 +162,9 @@ This filter does an exact match against supported boolean/flag fields
 
 This table describes the fields that comprise the match filter:
 
-| Field | Description | Type | Required | 
+| Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "booleanFlag" | string | yes 
+| type   | Must be "booleanFlag" | string | yes
 | property | The property to run the boolean filter.  Supported properties listed below. | string | yes
 | value | `true` or `false` | boolean | yes
 
@@ -173,7 +174,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 
 | Field| Description |
 | -----| -------|
-| beingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  | 
+| beingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  |
 
 **Example Usage**
 
@@ -197,9 +198,9 @@ _**Additional Notes**_
 
 **Contains Filter Fields**
 
-| Field | Description | Type | Required | 
+| Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "contains" | string | yes 
+| type   | Must be "contains" | string | yes
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
 | values | A collection of possible values to search for | array | yes
 
@@ -207,7 +208,7 @@ _**Additional Notes**_
 
 | Field| Description |
 | -----| -------|
-| organizationName  | The name of the organization assigned to an item | 
+| organizationName  | The name of the organization assigned to an item |
 
 **Example Usage**
 
