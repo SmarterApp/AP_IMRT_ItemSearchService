@@ -40,8 +40,8 @@ This is the `page` property in the request body below.  This drives the page con
 
 | Field | Description | Required | 
 | -------- | ----------- | -------- |
-| size   | The number of results per page. The current max page IMRT is 1000 items. | yes
-| number | The page number.  This is 0 based meaning when getting the first page you should pass in number == 0| yes
+| pageSize   | The pageNumber of results per page. The current max page IMRT is 1000 items. | yes
+| pageNumber | The page pageNumber.  This is 0 based meaning when getting the first page you should pass in pageNumber == 0| yes
 
 ```json
 page : {
@@ -88,8 +88,8 @@ sort : {
 		"direction": "desc"
 	},
 	"page": {
-		"size": 4,
-		"number": 0
+		"pageSize": 4,
+		"pageNumber": 0
 	}
 }
 ```
@@ -101,8 +101,8 @@ The table below describes the page information included in the response.
 | Field | Description | 
 | -------- | ----------- | 
 | results | the data results |
-| totalPages | The total number of pages.  Based on page size in request
-| total | Total number of results |
+| page | Object containing the pageNumber and pageSize as sent in the request |
+| totalResults | Total number of results |
 
 ```json
 {
@@ -114,14 +114,12 @@ The table below describes the page information included in the response.
             "workflowStatus": "Draft",
             "itemType": "mc",
             "depthOfKnowledge": "3",
-            "createdBy": "A User",
+            "createdBy": "User 1",
             "createdAt": "2018-04-12T16:36:56Z",
-            "itemDetail": null,
-            "beingCreated": false,
             "organizationTypeId": "",
             "organizationName": "",
             "contentTaskModel": "123",
-            "workflowStatusUpdatedAt": "2018-04-12T16:36:56Z",
+            "workflowStatusUpdatedDate": "2018-04-12T16:36:56Z",
             "primaryClaim": "2",
             "primaryAssessmentTarget": "Tearge",
             "primaryContentDomain": "",
@@ -138,12 +136,47 @@ The table below describes the page information included in the response.
             "quaternaryAssessmentTarget": "",
             "quaternaryContentDomain": "",
             "quaternaryCommonCoreStandard": "",
-            "daysInWorkflowStatus": 7
+            "daysInWorkflowStatus": 8,
+            "isBeingCreated": false
+        },
+        {
+            "id": "205312",
+            "subject": "ELA",
+            "grade": "5",
+            "workflowStatus": "EducatorCommitteeReview",
+            "itemType": "sa",
+            "depthOfKnowledge": "4",
+            "createdBy": "A User",
+            "createdAt": "2018-04-20T16:01:19Z",
+            "stimulusId": "205237",
+            "organizationTypeId": "",
+            "organizationName": "",
+            "contentTaskModel": "5",
+            "workflowStatusUpdatedDate": "2018-04-20T16:01:19Z",
+            "primaryClaim": "4",
+            "primaryAssessmentTarget": "QA PAT1",
+            "primaryContentDomain": "ReadingLiterature",
+            "primaryCommonCoreStandard": "6",
+            "secondaryClaim": "",
+            "secondaryAssessmentTarget": "",
+            "secondaryContentDomain": "",
+            "secondaryCommonCoreStandard": "6",
+            "tertiaryClaim": "",
+            "tertiaryAssessmentTarget": "",
+            "tertiaryContentDomain": "",
+            "tertiaryCommonCoreStandard": "",
+            "quaternaryClaim": "",
+            "quaternaryAssessmentTarget": "",
+            "quaternaryContentDomain": "",
+            "quaternaryCommonCoreStandard": "",
+            "daysInWorkflowStatus": 0,
+            "isBeingCreated": false
         }
     ],
-    "last": true,
-    "first": true,
-    "totalPages": 1,
-    "total": 1
+    "totalResults": 2,
+    "page": {
+        "pageSize": 1000,
+        "pageNumber": 0
+    }
 }
 ```
