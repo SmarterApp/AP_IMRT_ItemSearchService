@@ -112,7 +112,7 @@ _**Additional Notes**_
 
 | Field| Description |
 | -----| -------|
-| workflowStatusSetAt  | The date/time when an item's workflow status changed  |
+| daysInWorkflowStatus  | The number of days the item has been in the current workflow status  |
 
 **Example Usage**
 
@@ -121,7 +121,7 @@ _**Additional Notes**_
 ```json
 {
 	"type": "daysRange",
-	"property": "workflowStatusSetAt",
+	"property": "daysInWorkflowStatus",
 	"min": 5
 }
 ```
@@ -131,7 +131,7 @@ _**Additional Notes**_
 ```json
 {
 	"type": "daysRange",
-	"property": "workflowStatusSetAt",
+	"property": "daysInWorkflowStatus",
 	"min": 5,
 	"max": 10
 }
@@ -142,7 +142,7 @@ _**Additional Notes**_
 ```json
 {
 	"type": "daysRange",
-	"property": "workflowStatusSetAt",
+	"property": "daysInWorkflowStatus",
 	"min": 5,
 	"max": 5
 }
@@ -153,7 +153,7 @@ _**Additional Notes**_
 ```json
 {
 	"type": "daysRange",
-	"property": "workflowStatusSetAt",
+	"property": "daysInWorkflowStatus",
 	"min": 0,
 	"max": 0
 }
