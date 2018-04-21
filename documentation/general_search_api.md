@@ -16,7 +16,7 @@ This page covers the API to search items
 
 Searches the imrt item bank for items.  Results are paged by default with a max page size of 1000 results.  Due to the size of search configurations searches leverage a POST.
 
-The values within each filter is "OR"ed with each filter being "AND"ed together.  In the "Request Body" section below there is a discription of how this would work.
+The values within each filter are "OR"ed with each filter being "AND"ed together.  In the "Request Body" section below there is a discription of how this would work.
 
 **All properties are required in requests**
 
