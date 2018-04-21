@@ -16,7 +16,9 @@ This page covers the API to search items
 
 Searches the imrt item bank for items.  Results are paged by default with a max page size of 1000 results.  Due to the size of search configurations searches leverage a POST.
 
-The values within each filter is "OR"ed with each filter being "AND"ed together.  In the "Request Body" section below there is a discription of how this would work.
+The values within each filter are "OR"ed with each filter being "AND"ed together.  In the "Request Body" section below there is a discription of how this would work.
+
+**All properties are required in requests**
 
 `POST /v1/items/search`
 
@@ -24,27 +26,45 @@ The values within each filter is "OR"ed with each filter being "AND"ed together.
 
 #### Filters
 
-The property name for this is "filters".  This is an array of `filter` JSON objects describing different filters to run.
+The property name for this is "filters".  This is an array of `filter` JSON objects describing different filters to run.  If one does not want any filters simply provide an empty array.
+
+```json
+filters: []
+```
 
 Available filters can be found [here](Filters.md)
 
 #### Page
 
-This is the `page` property in the request body below.  This drives the page configruation for the results.  This is not a required object and will default to page size of 1000 and the first page.
+This is the `page` property in the request body below.  This drives the page configruation for the results.  
 
 | Field | Description | Required | 
 | -------- | ----------- | -------- |
-| size   | The number of results per page. If blank each page will have 1000 records | no
-| number | The page number.  This is 1 based meaning when getting the first page you should pass in number == 1| yes
+| pageSize   | The pageNumber of results per page. The current max page IMRT is 1000 items. | yes
+| pageNumber | The page pageNumber.  This is 0 based meaning when getting the first page you should pass in pageNumber == 0| yes
+
+```json
+page : {
+	pageSize: 100,
+	pageNumber: 0
+}
+```
 
 #### Sort
 
-This is the `sort` property in the request body below.  This is not required and is only needed if one wants to sort results.
+This is the `sort` property in the request body below. 
 
 | Field | Description | Required | 
 | -------- | ----------- | -------- |
 | property   | the property to sort.  Align with filterable properties | yes 
-| direction | "ASC" for ascending and "DESC" for descending | yes
+| direction | "asc" for ascending and "desc" for descending | yes
+
+```json
+sort : {
+	property: "grade",
+	direction: "asc"
+}
+```
 
 ### Request Body
 
@@ -65,11 +85,11 @@ This is the `sort` property in the request body below.  This is not required and
 	],
 	"sort": {
 		"property": "itemId",
-		"direction": "DESC"
+		"direction": "desc"
 	},
 	"page": {
-		"size": 4,
-		"number": 1
+		"pageSize": 4,
+		"pageNumber": 0
 	}
 }
 ```
@@ -80,10 +100,9 @@ The table below describes the page information included in the response.
 
 | Field | Description | 
 | -------- | ----------- | 
-| last   | True if this is the last page
-| first | True if this is the first page
-| totalPages | The total number of pages.  Based on page size in request
-| total | Total number of results |
+| results | the data results |
+| page | Object containing the pageNumber and pageSize as sent in the request |
+| totalResults | Total number of results |
 
 ```json
 {
@@ -95,14 +114,12 @@ The table below describes the page information included in the response.
             "workflowStatus": "Draft",
             "itemType": "mc",
             "depthOfKnowledge": "3",
-            "createdBy": "A User",
+            "createdBy": "User 1",
             "createdAt": "2018-04-12T16:36:56Z",
-            "itemDetail": null,
-            "beingCreated": false,
             "organizationTypeId": "",
             "organizationName": "",
             "contentTaskModel": "123",
-            "workflowStatusUpdatedAt": "2018-04-12T16:36:56Z",
+            "workflowStatusUpdatedDate": "2018-04-12T16:36:56Z",
             "primaryClaim": "2",
             "primaryAssessmentTarget": "Tearge",
             "primaryContentDomain": "",
@@ -119,12 +136,47 @@ The table below describes the page information included in the response.
             "quaternaryAssessmentTarget": "",
             "quaternaryContentDomain": "",
             "quaternaryCommonCoreStandard": "",
-            "daysInWorkflowStatus": 7
+            "daysInWorkflowStatus": 8,
+            "isBeingCreated": false
+        },
+        {
+            "id": "205312",
+            "subject": "ELA",
+            "grade": "5",
+            "workflowStatus": "EducatorCommitteeReview",
+            "itemType": "sa",
+            "depthOfKnowledge": "4",
+            "createdBy": "A User",
+            "createdAt": "2018-04-20T16:01:19Z",
+            "stimulusId": "205237",
+            "organizationTypeId": "",
+            "organizationName": "",
+            "contentTaskModel": "5",
+            "workflowStatusUpdatedDate": "2018-04-20T16:01:19Z",
+            "primaryClaim": "4",
+            "primaryAssessmentTarget": "QA PAT1",
+            "primaryContentDomain": "ReadingLiterature",
+            "primaryCommonCoreStandard": "6",
+            "secondaryClaim": "",
+            "secondaryAssessmentTarget": "",
+            "secondaryContentDomain": "",
+            "secondaryCommonCoreStandard": "6",
+            "tertiaryClaim": "",
+            "tertiaryAssessmentTarget": "",
+            "tertiaryContentDomain": "",
+            "tertiaryCommonCoreStandard": "",
+            "quaternaryClaim": "",
+            "quaternaryAssessmentTarget": "",
+            "quaternaryContentDomain": "",
+            "quaternaryCommonCoreStandard": "",
+            "daysInWorkflowStatus": 0,
+            "isBeingCreated": false
         }
     ],
-    "last": true,
-    "first": true,
-    "totalPages": 1,
-    "total": 1
+    "totalResults": 2,
+    "page": {
+        "pageSize": 1000,
+        "pageNumber": 0
+    }
 }
 ```
