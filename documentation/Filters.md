@@ -212,6 +212,7 @@ _**Additional Notes**_
 | Field| Description |
 | -----| -------|
 | organizationName  | The name of the organization assigned to an item |
+| itemAuthor  | The item author for the item.  This is the ItemAuthor field as defined in the IDD |
 
 **Example Usage**
 
