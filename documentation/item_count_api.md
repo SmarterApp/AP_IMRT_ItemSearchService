@@ -47,7 +47,7 @@ Supported properties
 | organizationName | Breaks down the items' counts by organization name |
 | workflowStatus | Breaks down the items' counts by workflow status |
 | primaryClaim | Breaks down the items' counts by primary claim |
-| primaryAssessmentTarget | Breaks down the items' counts by primary target |
+| primaryTarget | Breaks down the items' counts by primary target |
 | itemAuthor | Breaks down the items' counts by item author |
 
 #### Request Body
