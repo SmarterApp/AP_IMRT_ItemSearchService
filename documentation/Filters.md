@@ -22,12 +22,12 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 
 | Field| Description |
 | -----| -------|
-| itemId | The unique item id  |
-| grade | The grade for the item |
+| id | The unique item id  |
+| intendedGrade | The grade for the item |
 | stimulusId | The associated stimulus id for an item  |
 | depthOfKnowledge | Filter by depth of knowledge values |
 | workflowStatus | Allows filtering by workflow statuses.   |
-| itemType | Filter by item types  |
+| type | Filter by item types  |
 | subject | Filter by subject |
 | organizationTypeId | Filter by Organization Type.  Typical values are "member", "nonMember", "vendor", "smarterBalanced" |
 | primaryClaim | Filter by claim id | 
@@ -177,7 +177,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 
 | Field| Description |
 | -----| -------|
-| beingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  |
+| isBeingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  |
 
 **Example Usage**
 
@@ -186,7 +186,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 ```json
 {
 	"type": "booleanFlag",
-	"property": "beingCreated",
+	"property": "isBeingCreated",
 	"value": true
 }
 ```
@@ -212,6 +212,7 @@ _**Additional Notes**_
 | Field| Description |
 | -----| -------|
 | organizationName  | The name of the organization assigned to an item |
+| itemAuthor  | The item author for the item.  This is the ItemAuthor field as defined in the IDD |
 
 **Example Usage**
 

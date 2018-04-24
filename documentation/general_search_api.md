@@ -61,7 +61,7 @@ This is the `sort` property in the request body below.
 
 ```json
 sort : {
-	property: "grade",
+	property: "intendedGrade",
 	direction: "asc"
 }
 ```
@@ -73,7 +73,7 @@ sort : {
 	"filters": [
 		{
 			"type": "match",
-			"property": "grade",
+			"property": "intendedGrade",
 			"values":["2","3"]
 		},
 		{
@@ -96,7 +96,7 @@ sort : {
 
 ### Response Body
 
-The table below describes the page information included in the response.
+The table below describes the page information included in the response.  The fields which have null values mean they are not yet available in IMRT.  They are placeholders which will be populated in future IMRT releases.
 
 | Field | Description | 
 | -------- | ----------- | 
@@ -108,72 +108,61 @@ The table below describes the page information included in the response.
 {
     "results": [
         {
-            "id": "205238",
-            "subject": "Math",
-            "grade": "5",
-            "workflowStatus": "Draft",
-            "itemType": "mc",
-            "depthOfKnowledge": "3",
-            "createdBy": "User 1",
-            "createdAt": "2018-04-12T16:36:56Z",
-            "organizationTypeId": "",
+            "allowCalculator": null,
+            "associatedItemCount": null,
+            "closedCaptioningUploadedPriorToLastContentUpdate": null,
+            "contentTaskModel": "",
+            "createDate": "2018-04-13T01:38:52Z",
+            "createdBy": "a user",
+            "daysInWorkflowStatus": 10,
+            "depthOfKnowledge": "",
+            "englishContentLastUpdatedDate": null,
+            "fieldTestDate": null,
+            "id": "205249",
+            "intendedGrade": "4",
+            "isAslProvided": null,
+            "isAslRequired": null,
+            "isAslUploadedPriorToLastContentUpdate": null,
+            "isBeingCreated": false,
+            "isBrailleProvided": null,
+            "isBrailleRequired": null,
+            "isBrailleUploadedPriorToLastContentUpdate": null,
+            "isClosedCaptioningProvided": null,
+            "isClosedCaptioningRequired": null,
+            "isTranslationProvided": null,
+            "isTranslationRequired": null,
+            "itemAuthor": "An Author",
+            "itemDifficultyQuintile": null,
             "organizationName": "",
-            "contentTaskModel": "123",
-            "workflowStatusUpdatedDate": "2018-04-12T16:36:56Z",
-            "primaryClaim": "2",
-            "primaryAssessmentTarget": "Tearge",
-            "primaryContentDomain": "",
-            "primaryCommonCoreStandard": "",
-            "secondaryClaim": "1",
-            "secondaryAssessmentTarget": "",
-            "secondaryContentDomain": "",
+            "organizationTypeId": "",
+            "performanceTask": null,
+            "primaryAssessmentTarget": "ddd",
+            "primaryClaim": "1",
+            "primaryCommonCoreStandard": "Core?",
+            "primaryContentDomain": "ReadingInformation",
+            "quaternaryAssessmentTarget": "C",
+            "quaternaryClaim": "1",
+            "quaternaryCommonCoreStandard": "",
+            "quaternaryContentDomain": "",
+            "secondaryAssessmentTarget": "E",
+            "secondaryClaim": "2",
             "secondaryCommonCoreStandard": "",
-            "tertiaryClaim": "",
-            "tertiaryAssessmentTarget": "",
-            "tertiaryContentDomain": "",
-            "tertiaryCommonCoreStandard": "",
-            "quaternaryClaim": "",
-            "quaternaryAssessmentTarget": "",
-            "quaternaryContentDomain": "",
-            "quaternaryCommonCoreStandard": "",
-            "daysInWorkflowStatus": 8,
-            "isBeingCreated": false
-        },
-        {
-            "id": "205312",
-            "subject": "ELA",
-            "grade": "5",
-            "workflowStatus": "EducatorCommitteeReview",
-            "itemType": "sa",
-            "depthOfKnowledge": "4",
-            "createdBy": "A User",
-            "createdAt": "2018-04-20T16:01:19Z",
-            "stimulusId": "205237",
-            "organizationTypeId": "",
-            "organizationName": "",
-            "contentTaskModel": "5",
-            "workflowStatusUpdatedDate": "2018-04-20T16:01:19Z",
-            "primaryClaim": "4",
-            "primaryAssessmentTarget": "QA PAT1",
-            "primaryContentDomain": "ReadingLiterature",
-            "primaryCommonCoreStandard": "6",
-            "secondaryClaim": "",
-            "secondaryAssessmentTarget": "",
             "secondaryContentDomain": "",
-            "secondaryCommonCoreStandard": "6",
-            "tertiaryClaim": "",
+            "stimulusId": null,
+            "subject": "ELA",
             "tertiaryAssessmentTarget": "",
-            "tertiaryContentDomain": "",
+            "tertiaryClaim": "3",
             "tertiaryCommonCoreStandard": "",
-            "quaternaryClaim": "",
-            "quaternaryAssessmentTarget": "",
-            "quaternaryContentDomain": "",
-            "quaternaryCommonCoreStandard": "",
-            "daysInWorkflowStatus": 0,
-            "isBeingCreated": false
+            "tertiaryContentDomain": "",
+            "testCategory": null,
+            "totalExposures": null,
+            "type": "mc",
+            "workflowStatus": "Draft",
+            "workflowStatusUpdatedDate": "2018-04-13T01:38:52Z",
+            "writingPurpose": null
         }
     ],
-    "totalResults": 2,
+    "totalResults": 1,
     "page": {
         "pageSize": 1000,
         "pageNumber": 0
