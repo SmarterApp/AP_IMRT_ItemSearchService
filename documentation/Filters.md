@@ -31,7 +31,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | subject | Filter by subject |
 | organizationTypeId | Filter by Organization Type.  Typical values are "member", "nonMember", "vendor", "smarterBalanced" |
 | primaryClaim | Filter by claim id | 
-| primaryAssessmentTarget | filter by primary assessment target |
+| primaryTarget | filter by primary target |
 | contentTaskModel | filter by content task model |
 
 **Example Usage**
