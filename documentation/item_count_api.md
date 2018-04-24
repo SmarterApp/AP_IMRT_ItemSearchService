@@ -42,7 +42,7 @@ Supported properties
 | Property | Description | 
 | -------- | ----------- |
 | subject | Breaks down item counts by items' subject |
-| grade | Breaks down item counts by items' grade | 
+| intendedGrade | Breaks down item counts by items' grade | 
 | organizationTypeId | Breaks down the items' counts by organization type id |
 | organizationName | Breaks down the items' counts by organization name |
 | workflowStatus | Breaks down the items' counts by workflow status |
