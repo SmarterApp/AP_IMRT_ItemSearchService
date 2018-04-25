@@ -4,6 +4,8 @@
 
 This page covers the API to search items
 
+**Invalid or unsupported filters will result in empty responses**
+
 ### Supported Content Types
 
 * `application/json`

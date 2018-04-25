@@ -4,6 +4,8 @@
 
 This page covers the API to group counts of items by a specific item property.
 
+**Invalid or unsupported filters or group by will result in empty responses**
+
 ### Supported Content Types
 
 * `application/json`
@@ -91,4 +93,6 @@ The table below describes the page information included in the response.  Proper
     ]
 }
 ```
+
+
 
