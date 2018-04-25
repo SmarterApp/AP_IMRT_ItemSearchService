@@ -71,22 +71,24 @@ The table below describes the page information included in the response.  Proper
 | Field | Description | 
 | -------- | ----------- | 
 | groupBy | The property used to generate the counts.  Same as in the request |
-| counts | A Map of counts.  They key is the value as stored on the item with the value representing the count of items that have the value. |
+| totalCount | The total count |
+| counts | An array of count objects with the value being the groupBy property value and count being the number of items with the groupBy value |
 
 #### Response Body
 ```json
 {
-    "groupBy": "grade",
-    "counts": {
-        "3": 3,
-        "4": 2,
-        "5": 5,
-        "6": 2,
-        "7": 1,
-        "8": 2,
-        "11": 3,
-        "": 82
-    }
+    "groupBy": "intendedGrade",
+    "totalCount": 3,
+    "counts": [
+        {
+            "value": "4",
+            "count": 1
+        },
+        {
+            "value": "5",
+            "count": 2
+        }
+    ]
 }
 ```
 
