@@ -235,3 +235,46 @@ _**Additional Notes**_
 	"values": ["abc", "def"]
 }
 ```
+
+## Date Range Filter
+
+The **Date Range Filter** allows for filtering items by a range of dates.  In effect, this filter acts like an SQL `BETWEEN` clause for timestamps.
+
+**Integer Range Filter Fields**
+
+| Field | Description | Type | Required |
+| -------- | ----------- |---- | -------- |
+| type   | Must be "dateRange" | string | yes
+| property | The property to run the date range filter.  Supported properties listed below. | string | yes
+| from | The "from" date in UTC | time | yes
+| to | The "to" date in UTC | time | yes
+
+**Properties supported**
+
+| Field| Description |
+| -----| -------|
+| workflowStatusUpdatedDate  | The date the current worfklow status was set |
+
+* Find all items whose workflow status was updated between 4/11/2018 12AM and 4/13/2018 11:59:59 PM
+
+```json
+{
+	"filters": [
+		{
+			"type": "dateRange",
+			"property": "workflowStatusUpdatedDate",
+			"from": "2018-04-11T00:00:00Z",
+			"to": "2018-04-13T11:59:59Z"
+		}
+	],
+	"sort": {
+		"property": "grade",
+		"direction": "asc"
+	},
+	"page": {
+		"pageSize": 10,
+		"pageNumber": 0
+	}
+}
+```
+
