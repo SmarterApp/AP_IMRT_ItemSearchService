@@ -89,10 +89,10 @@ The integer range filter does not currently apply to any searchable properties.
 
 ## Number of Days in Range Filter
 
-The **Number of Days in Range** filter allows searching for items with a property that has a date older than a number of days ago.  This filter can be used in two ways:
+The **Number of Days in Range** filter allows searching for items with a property that has a date older than a number of calendar days ago.  This filter can be used in two ways:
 
-* property date is older than _X_ number of days ago
-* property date is older than _X_ number of days ago but newer than _Y_ number of days ago
+* property date is older than _X_ number of calendar days ago
+* property date is older than _X_ number of calendar days ago but newer than _Y_ number of days ago
 
 _**Additional Notes**_
 
@@ -105,18 +105,18 @@ _**Additional Notes**_
 | -------- | ----------- |---- | -------- |
 | type   | Must be "daysRange" | string | yes
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
-| min | The minimum number of days an item must be in a status | number | yes
-| max | The maximum number of days in the item must be in a status | number | no
+| min | The minimum number of calendar days an item must be in a status | number | yes
+| max | The maximum number of calendar days in the item must be in a status | number | no
 
 **Properties supported**
 
 | Field| Description |
 | -----| -------|
-| daysInWorkflowStatus  | The number of days the item has been in the current workflow status  |
+| daysInWorkflowStatus  | The number of calendar days the item has been in the current workflow status  |
 
 **Example Usage**
 
-* Find all items with a workflow status date that is at least five days old:
+* Find all items with a workflow status date that is at least five calendar days old:
 
 ```json
 {
@@ -126,7 +126,7 @@ _**Additional Notes**_
 }
 ```
 
-* Find all items with a workflow status between five and ten days old:
+* Find all items with a workflow status between five and ten calendar days old:
 
 ```json
 {
@@ -137,7 +137,7 @@ _**Additional Notes**_
 }
 ```
 
-* Find all items with a workflow status date that was changed exactly five days ago:
+* Find all items with a workflow status date that was changed exactly five calendar days ago:
 
 ```json
 {
