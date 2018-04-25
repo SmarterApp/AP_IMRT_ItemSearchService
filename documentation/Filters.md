@@ -89,10 +89,10 @@ The integer range filter does not currently apply to any searchable properties.
 
 ## Number of Days in Range Filter
 
-The **Number of Days in Range** filter allows searching for items with a property that has a date older than a number of days ago.  This filter can be used in two ways:
+The **Number of Days in Range** filter allows searching for items with a property that has a date older than a number of calendar days ago.  This filter can be used in two ways:
 
-* property date is older than _X_ number of days ago
-* property date is older than _X_ number of days ago but newer than _Y_ number of days ago
+* property date is older than _X_ number of calendar days ago
+* property date is older than _X_ number of calendar days ago but newer than _Y_ number of days ago
 
 _**Additional Notes**_
 
@@ -105,18 +105,18 @@ _**Additional Notes**_
 | -------- | ----------- |---- | -------- |
 | type   | Must be "daysRange" | string | yes
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
-| min | The minimum number of days an item must be in a status | number | yes
-| max | The maximum number of days in the item must be in a status | number | no
+| min | The minimum number of calendar days an item must be in a status | number | yes
+| max | The maximum number of calendar days in the item must be in a status | number | no
 
 **Properties supported**
 
 | Field| Description |
 | -----| -------|
-| daysInWorkflowStatus  | The number of days the item has been in the current workflow status  |
+| daysInWorkflowStatus  | The number of calendar days the item has been in the current workflow status  |
 
 **Example Usage**
 
-* Find all items with a workflow status date that is at least five days old:
+* Find all items with a workflow status date that is at least five calendar days old:
 
 ```json
 {
@@ -126,7 +126,7 @@ _**Additional Notes**_
 }
 ```
 
-* Find all items with a workflow status between five and ten days old:
+* Find all items with a workflow status between five and ten calendar days old:
 
 ```json
 {
@@ -137,7 +137,7 @@ _**Additional Notes**_
 }
 ```
 
-* Find all items with a workflow status date that was changed exactly five days ago:
+* Find all items with a workflow status date that was changed exactly five calendar days ago:
 
 ```json
 {
@@ -235,3 +235,46 @@ _**Additional Notes**_
 	"values": ["abc", "def"]
 }
 ```
+
+## Date Range Filter
+
+The **Date Range Filter** allows for filtering items by a range of dates.  In effect, this filter acts like an SQL `BETWEEN` clause for timestamps.
+
+**Integer Range Filter Fields**
+
+| Field | Description | Type | Required |
+| -------- | ----------- |---- | -------- |
+| type   | Must be "dateRange" | string | yes
+| property | The property to run the date range filter.  Supported properties listed below. | string | yes
+| from | The "from" date in UTC | time | yes
+| to | The "to" date in UTC | time | yes
+
+**Properties supported**
+
+| Field| Description |
+| -----| -------|
+| workflowStatusUpdatedDate  | The date the current worfklow status was set |
+
+* Find all items whose workflow status was updated between 4/11/2018 12AM and 4/13/2018 11:59:59 PM
+
+```json
+{
+	"filters": [
+		{
+			"type": "dateRange",
+			"property": "workflowStatusUpdatedDate",
+			"from": "2018-04-11T00:00:00Z",
+			"to": "2018-04-13T11:59:59Z"
+		}
+	],
+	"sort": {
+		"property": "grade",
+		"direction": "asc"
+	},
+	"page": {
+		"pageSize": 10,
+		"pageNumber": 0
+	}
+}
+```
+
