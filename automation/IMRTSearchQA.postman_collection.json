@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "bb94afcf-265e-4c99-a464-e16f66ea2410",
+		"_postman_id": "9d2f438d-6a30-4acd-b768-2bc2f5e4289a",
 		"name": "IMRTSearchQA",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -458,7 +458,7 @@
 			},
 			"response": [
 				{
-					"id": "6d0912fb-4e49-4f37-b297-cf556d429291",
+					"id": "c2612a65-4298-4dee-9f90-fa58ccfd1fc9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2338,7 +2338,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "189b2b48-4913-470e-9a01-fa15b18ecded",
+						"id": "9f7edbef-5059-4a0d-bb5f-44509e893bf5",
 						"type": "text/javascript",
 						"exec": [
 							"pm.test(\"Should find status Draft\", function () {",
@@ -2357,11 +2357,10 @@
 							"var resultsArray = pm.response.json().results;",
 							"var testTitle = \"\";",
 							"",
-							"resultsArray.forEach(function(result) {  ",
+							"resultsArray.forEach(function(result) {  //loop through all results returned",
 							"    testTitle = \"Item ID \" + result.id + \" should have workflow status Draft\";",
 							"    pm.test(testTitle,function(){",
 							"        pm.expect(result.workflowStatus).to.eql(\"Draft\");",
-							"    ",
 							"    });",
 							"});",
 							"",
