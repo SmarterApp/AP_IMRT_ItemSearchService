@@ -458,7 +458,7 @@
 			},
 			"response": [
 				{
-					"id": "b86eee24-349c-4def-98ea-9ddbda55bcbd",
+					"id": "6d0912fb-4e49-4f37-b297-cf556d429291",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2338,7 +2338,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "ddd84529-1824-4c1d-8d76-bc6c725b5106",
+						"id": "189b2b48-4913-470e-9a01-fa15b18ecded",
 						"type": "text/javascript",
 						"exec": [
 							"pm.test(\"Should find status Draft\", function () {",
@@ -2351,6 +2351,18 @@
 							"",
 							"pm.test(\"Should not find status contentReview\", function () {",
 							"    pm.expect(pm.response.text()).to.not.include(\"contentReview\");",
+							"});",
+							"",
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have workflow status Draft\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.workflowStatus).to.eql(\"Draft\");",
+							"    ",
+							"    });",
 							"});",
 							"",
 							""
