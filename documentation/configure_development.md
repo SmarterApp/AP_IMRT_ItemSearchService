@@ -6,13 +6,13 @@ This project requires certain pieces of software to run. Below is the list and r
 
 * [Getting Started For Mac](getting_started_mac.md)
 
-## Create database and users
+## Create Database and Users
 
-Please refer to the "Create database and users" section within 
+Please refer to the [AP\_IMRT\_Schema](https://github.com/SmarterApp/AP_IMRT_Schema) project for instructions on how to create the databases and user accounts.
 
 ## Building with Gradle
 
-The database tests that are part of the build require access to the test database on your local machine. 
+The integration tests that are part of the build require access to the test database on your local machine. 
 Before you can run them you need to export the following environment variables:
 
 ```
@@ -54,7 +54,7 @@ Finally, to disable findbugs, you must use the '-x' argument to gradle to preven
 ```
 
 ## Docker Support
-The project uses the [https://github.com/bmuschko/gradle-docker-plugin] to provide docker support.
+The project uses the [Gradle Docker Plugin](https://github.com/bmuschko/gradle-docker-plugin) to provide docker support.
 
 To build the docker image locally, run
 ```
@@ -71,11 +71,10 @@ export SPRING_DATASOURCE_PASSWORD=<password>
 Once all the variables are set, run:
 ```
 cd build/docker
-docker-compose up
+docker-compose up -d configuration-service
 ```
 
-As well as standing up the IMRT ISS service, docker-compose up will also bring up a Spring Cloud Configuration Service.
-The configuration service is configured to look in the directory $USER_HOME/sbac/imrt-config-repo for a git based configuration.
+The docker-compose command above will only bring up the Spring Cloud Configuration Service, which is the only service the Item Search Service depends on.  The configuration service is configured to look in the directory $USER_HOME/sbac/imrt-config-repo for a git based configuration.
 For example:
 
 ```
