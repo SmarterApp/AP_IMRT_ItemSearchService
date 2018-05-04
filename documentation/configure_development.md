@@ -6,9 +6,9 @@ This project requires certain pieces of software to run. Below is the list and r
 
 * [Getting Started For Mac](getting_started_mac.md)
 
-## Create database and users
+## Create Database and Users
 
-Please refer to the "Create database and users" section within 
+Please refer to the [AP\_IMRT\_Schema](https://github.com/SmarterApp/AP_IMRT_Schema) project for instructions on how to create the databases and user accounts.
 
 ## Building with Gradle
 
