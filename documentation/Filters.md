@@ -240,14 +240,21 @@ _**Additional Notes**_
 
 The **Date Range Filter** allows for filtering items by a range of dates.  In effect, this filter acts like an SQL `BETWEEN` clause for timestamps.
 
-**Integer Range Filter Fields**
+**Date Range Filter Fields**
 
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
 | type   | Must be "dateRange" | string | yes
 | property | The property to run the date range filter.  Supported properties listed below. | string | yes
-| from | The "from" date in UTC | time | yes
-| to | The "to" date in UTC | time | yes
+| from | The "from" date in UTC | time | no
+| to | The "to" date in UTC | time | no
+
+**Date Range Filter Behavior**
+
+* If the `from` date is provided but the `to` date is not, the filter will effectively be `my_date >= fromDate`
+* If the `to` date is provided but the `from` date is not, the filter will effectively be `my_date <= toDate`
+* If the `to` date and `from` date are both provided, the filter will effectively be `my_date BETWEEN fromDate AND toDate`
+* If neither the `from` date nor `to` date are provided, the filter will be ignored
 
 **Properties supported**
 
