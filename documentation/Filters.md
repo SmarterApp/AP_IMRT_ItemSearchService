@@ -87,12 +87,13 @@ The integer range filter does not currently apply to any searchable properties.
 }
 ```
 
-## Number of Days in Range Filter
+## Days in Workflow Status Filter
 
-The **Number of Days in Range** filter allows searching for items with a property that has a date older than a number of calendar days ago.  This filter can be used in two ways:
+The **Days in Workflow Status** filter allows searching for items with a property that has a date older than a number of calendar days ago.  This filter can be used in three ways:
 
 * property date is older than _X_ number of calendar days ago
 * property date is older than _X_ number of calendar days ago but newer than _Y_ number of days ago
+* property date is newer than _X_ number of calendar days ago
 
 _**Additional Notes**_
 
@@ -103,10 +104,10 @@ _**Additional Notes**_
 
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "daysRange" | string | yes
+| type   | Must be "integerRange" | string | yes
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
-| min | The minimum number of calendar days an item must be in a status | number | yes
-| max | The maximum number of calendar days in the item must be in a status | number | no
+| min | The minimum number of calendar days an item must be in a status | number | no, as long as max is provided
+| max | The maximum number of calendar days in the item must be in a status | number | no, as long as min is provided
 
 **Properties supported**
 
@@ -120,7 +121,7 @@ _**Additional Notes**_
 
 ```json
 {
-	"type": "daysRange",
+	"type": "integerRange",
 	"property": "daysInWorkflowStatus",
 	"min": 5
 }
@@ -130,7 +131,7 @@ _**Additional Notes**_
 
 ```json
 {
-	"type": "daysRange",
+	"type": "integerRange",
 	"property": "daysInWorkflowStatus",
 	"min": 5,
 	"max": 10
@@ -141,7 +142,7 @@ _**Additional Notes**_
 
 ```json
 {
-	"type": "daysRange",
+	"type": "integerRange",
 	"property": "daysInWorkflowStatus",
 	"min": 5,
 	"max": 5
@@ -152,7 +153,7 @@ _**Additional Notes**_
 
 ```json
 {
-	"type": "daysRange",
+	"type": "integerRange",
 	"property": "daysInWorkflowStatus",
 	"min": 0,
 	"max": 0
