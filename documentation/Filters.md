@@ -214,6 +214,7 @@ _**Additional Notes**_
 | -----| -------|
 | organizationName  | The name of the organization assigned to an item |
 | itemAuthor  | The item author for the item.  This is the ItemAuthor field as defined in the IDD |
+| createdBy  | The Gitlab user that created the item |
 
 **Example Usage**
 
