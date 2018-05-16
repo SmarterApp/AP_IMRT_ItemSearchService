@@ -51,6 +51,7 @@ Supported properties
 | primaryClaim | Breaks down the items' counts by primary claim |
 | primaryTarget | Breaks down the items' counts by primary target |
 | itemAuthor | Breaks down the items' counts by item author |
+| depthOfKnowledge | Breaks down the items' counts by depthOfKnowledge |
 
 #### Request Body
 ```json
