@@ -33,6 +33,14 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | primaryClaim | Filter by claim id | 
 | primaryTarget | filter by primary target |
 | contentTaskModel | filter by content task model |
+| isAslRequired | filter by ASL content requirement |
+| isAslProvided | filter by whether ASL content has been provided |
+| isBrailleRequired | filter by Braille content requirement |
+| isBrailleProvided | filter by whether Braille content has been provided |
+| isClosedCaptioningRequired | filter by closed-captioning content requirement |
+| isCloseCaptioningProvided | filter by whether closed-captioning has been provided |
+| isTranslationRequired | filter by Translation content requirement |
+| isTranslationProvided | filter by whether Translation content has been provided |
 
 **Example Usage**
 
