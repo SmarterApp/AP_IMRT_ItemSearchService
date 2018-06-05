@@ -39,7 +39,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | isAslRequired | Yes | Yes | Yes | match |
 | isAslUploadedPriorToLastContentUpdate | No | No | No | No |
 | isBeingCreated | Yes | Yes | No | booleanFlag | 
-| isBrailledProvided | Yes | Yes | Yes | match |
+| isBrailleProvided | Yes | Yes | Yes | match |
 | isBrailleRequired | Yes | Yes | Yes | match |
 | isBrailleUploadedPriorToLastContentUpdate | No | No | No | No |
 | isClosedCaptioningProvided | Yes | Yes | Yes | match |
