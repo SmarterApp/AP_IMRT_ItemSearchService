@@ -114,6 +114,9 @@ _**Additional Notes**_
 | Field| Description |
 | -----| -------|
 | daysInWorkflowStatus  | The number of calendar days the item has been in the current workflow status  |
+| calculatedFormCount | Count of all forms associated with an item |
+| calculatedExposuresCount | All exposures across all forms |
+| itemDifficultyQuintile | The difficulty level of the item |
 
 **Example Usage**
 
