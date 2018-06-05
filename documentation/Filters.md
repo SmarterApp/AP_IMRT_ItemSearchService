@@ -65,14 +65,18 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 | -------- | ----------- |---- | -------- |
 | type   | Must be "integerRange" | string | yes
 | property | The property to run the integer range filter.  Supported properties listed below. | string | yes
-| min | The minimum of the range | number | yes
-| max | The maximum of the range | number | yes
+| min | The minimum of the range | number | no, if max is supplied
+| max | The maximum of the range | number | no, if min is supplied
 
-**NOTE:** The `min` value must be smaller than the `max` value.
+**NOTE:** The `min` value must be smaller than the `max` value.  
 
 **Properties supported**
 
-The integer range filter does not currently apply to any searchable properties.
+| Field| Description |
+| -----| -------|
+| calculatedFormCount | Count of all forms associated with an item |
+| calculatedExposuresCount | All exposures across all forms |
+| itemDifficultyQuintile | The difficulty level of the item |
 
 **Example Usage**
 

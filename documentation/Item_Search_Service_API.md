@@ -30,3 +30,4 @@ curl -i -X POST \
 * [Get Items](get_items_api.md)
 * [General Search](general_search_api.md)
 * [Item Count](item_count_api.md)
+* [IMRT Search Fields](imrt_search_fields.md)
