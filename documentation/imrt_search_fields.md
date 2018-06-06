@@ -45,7 +45,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | isBrailleUploadedPriorToLastContentUpdate | No | No | No | n/a | No |
 | isClosedCaptioningProvided | Yes | Yes | No | match | Yes |
 | isClosedCaptioningRequired | Yes | Yes | No | match | Yes |
-| isClosedCaptioningUploadedPriorToLastContentUpdate | No | No | No | n/a | No |
+| isClosedCaptioningUploaded PriorToLastContentUpdate | No | No | No | n/a | No |
 | isTranslationProvided | Yes | Yes | No | match | Yes |
 | isTranslationRequired | Yes | Yes | No | match | Yes |
 | itemAuthor | Yes | Yes | Yes | contains | Yes |
