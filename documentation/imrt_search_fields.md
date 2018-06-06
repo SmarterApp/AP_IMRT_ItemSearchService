@@ -34,7 +34,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | fieldTestDate | No | No | No | n/a |
 | formType | No | No | No | n/a |
 | assessmentType | No | No | No | n/a |
-| id | Yes | Yes | Yes | match |
+| id | Yes | Yes | No | match |
 | intendedGrade | Yes | Yes | Yes | match |
 | isAslProvided | Yes | Yes | No | match |
 | isAslRequired | Yes | Yes | No | match |
