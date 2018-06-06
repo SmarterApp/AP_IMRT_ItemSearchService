@@ -32,6 +32,12 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | organizationTypeId | Filter by Organization Type.  Typical values are "member", "nonMember", "vendor", "smarterBalanced" |
 | primaryClaim | Filter by claim id | 
 | primaryTarget | filter by primary target |
+| secondaryClaim | Filter by secondary claim id | 
+| secondaryTarget | filter by secondary target |
+| tertiaryClaim | Filter by tertiary claim id | 
+| tertiaryTarget | filter by tertiary target |
+| quaternaryClaim | Filter by quaternary claim id | 
+| quaternaryTarget | filter by quaternary target |
 | contentTaskModel | filter by content task model |
 | isAslRequired | filter by ASL content requirement |
 | isAslProvided | filter by whether ASL content has been provided |
