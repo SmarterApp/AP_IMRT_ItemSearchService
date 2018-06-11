@@ -15,6 +15,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | Is Result Column | Yes/No based on if the field will be populated in the results  | 
 | Is Count Supported | Yes/No based on if the field can be used in a count |
 | Filter Type | The type of the filter based on the list of [filters](Filters.md) |
+| Is Sort Supported | Yes/No based on if the field can be sorted in the results |
 
 
 ## IMRT Supported Fields
