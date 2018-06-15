@@ -17,6 +17,3 @@ logging:
 
 openam:
     checkTokenEndpointUrl: https://sso-deployment.sbtds.org/auth/oauth2/tokeninfo
-
-server:
-  port: 9080
