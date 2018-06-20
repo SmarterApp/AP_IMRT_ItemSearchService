@@ -47,6 +47,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | isCloseCaptioningProvided | filter by whether closed-captioning has been provided |
 | isTranslationRequired | filter by Translation content requirement |
 | isTranslationProvided | filter by whether Translation content has been provided |
+| isVisualTTSRequired | filter by Text-to-Speech content requirement |
 
 **Example Usage**
 
@@ -197,6 +198,8 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | Field| Description |
 | -----| -------|
 | isBeingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  |
+| isVisualTTSProvided | `true` means the item's Text-to-Speech visual content has been provided |
+| isSightTTSProvided | `true` means the item's Text-to-Speech sight-related content has been provided |
 
 **Example Usage**
 
