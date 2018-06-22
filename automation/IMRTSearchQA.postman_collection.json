@@ -220,7 +220,7 @@
 			},
 			"response": [
 				{
-					"id": "e41cc8a5-d6af-4a41-829c-94f8720d9b52",
+					"id": "39a9da87-9125-4dd5-99b3-7958848649f1",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -409,7 +409,7 @@
 			},
 			"response": [
 				{
-					"id": "92102b64-e9f7-4d03-b423-6bcf095f4897",
+					"id": "4b0faf0b-55d6-43be-aeb1-759a8e112ce8",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -600,7 +600,7 @@
 			},
 			"response": [
 				{
-					"id": "423e0cbb-a909-46b9-9ac2-eae93029fb7a",
+					"id": "37ad132a-7d78-48b0-936e-79aa89f34f9c",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -791,7 +791,7 @@
 			},
 			"response": [
 				{
-					"id": "65d4f2f6-489f-4f9d-afe2-8528e5967ceb",
+					"id": "dfc26e20-3663-43c3-baa6-e60ae0720ce9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -986,7 +986,7 @@
 			},
 			"response": [
 				{
-					"id": "e99ae61f-943d-4c8d-ab6b-d70b872c5d61",
+					"id": "902eccc6-0841-4f43-889f-5e9219542efa",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1174,7 +1174,7 @@
 			},
 			"response": [
 				{
-					"id": "7f5f94a4-7f4e-45c8-8b6d-7eceff752ba3",
+					"id": "ee3eae6f-2f0a-4536-a403-407f09d0d360",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1362,7 +1362,7 @@
 			},
 			"response": [
 				{
-					"id": "d8c6d792-b04f-4d62-a0cc-a298498a753d",
+					"id": "93ad4715-d001-49d4-87b6-0b94a79acc21",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1550,7 +1550,7 @@
 			},
 			"response": [
 				{
-					"id": "d76043b5-d642-4c73-8a60-aeca982e52bb",
+					"id": "72affb80-7799-42f8-8457-cfd5a3b0d929",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1738,7 +1738,7 @@
 			},
 			"response": [
 				{
-					"id": "d1607a80-8282-4076-b381-450af799c713",
+					"id": "b0d6c684-cfba-413c-9935-6a41c7d53ca0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1926,7 +1926,7 @@
 			},
 			"response": [
 				{
-					"id": "164bfcee-8fb7-496e-8a3b-99c89f610238",
+					"id": "b8e2e1cc-12c6-4716-a36f-06c65b7f1438",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2114,7 +2114,7 @@
 			},
 			"response": [
 				{
-					"id": "ce34a01f-c49d-40f7-95f7-95d01ae92e98",
+					"id": "680788d4-972a-4853-971e-8c1d8bb99b5c",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2302,7 +2302,7 @@
 			},
 			"response": [
 				{
-					"id": "1f75ed29-dcb7-4732-907c-5b52afaf1a40",
+					"id": "57012b52-ce59-4880-972c-2214c63c1971",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2490,7 +2490,7 @@
 			},
 			"response": [
 				{
-					"id": "c47ea71c-7298-4a01-8568-f645a1e13b82",
+					"id": "5961af3f-6c16-4250-86e5-9c906204e57e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2678,7 +2678,7 @@
 			},
 			"response": [
 				{
-					"id": "fa4eccb7-f0f1-4ba2-8f28-2246b49b1a33",
+					"id": "55a4f526-909a-47fe-bc33-d383163041b7",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2866,7 +2866,7 @@
 			},
 			"response": [
 				{
-					"id": "3e5edf11-d18a-48d5-929c-8e96e422cabb",
+					"id": "3f19ef33-93ba-43ec-aaf1-dc1439144106",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3054,7 +3054,7 @@
 			},
 			"response": [
 				{
-					"id": "7f1c5aee-1a55-4ede-851d-aec9755d196b",
+					"id": "7ab36028-8aa1-4603-93ae-eecb658f8375",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3242,7 +3242,7 @@
 			},
 			"response": [
 				{
-					"id": "84f41774-aa8a-470d-9063-789a31f75a31",
+					"id": "d30d5c2e-2ad6-43f9-af1f-d92e3f39453b",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3430,7 +3430,7 @@
 			},
 			"response": [
 				{
-					"id": "06ba3119-3c72-4846-8e6e-0e9e7102e576",
+					"id": "32a1cfce-318e-4ec7-b8a1-573b6481f0bf",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3618,7 +3618,7 @@
 			},
 			"response": [
 				{
-					"id": "db01ef8b-9a6f-44a0-b63e-329283c451d0",
+					"id": "11ec42a9-5e9b-40f7-af27-40d362092ca9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3806,7 +3806,7 @@
 			},
 			"response": [
 				{
-					"id": "c9100369-c03a-4ebb-aa71-551e997384e1",
+					"id": "59926587-a959-4d76-9464-a6e3f7966e25",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3994,7 +3994,7 @@
 			},
 			"response": [
 				{
-					"id": "371addc4-e07e-42f5-905c-a1aa4ba6867b",
+					"id": "298af601-0c45-472b-9656-8c5cb39b63b1",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4182,7 +4182,7 @@
 			},
 			"response": [
 				{
-					"id": "6435ec8e-7124-4bc9-b936-3d9c21c6aea9",
+					"id": "a3171f12-1af2-409c-88a3-dc96f00fdbf1",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4370,7 +4370,7 @@
 			},
 			"response": [
 				{
-					"id": "4f50ed47-480a-43f1-a57c-3adbc76feb89",
+					"id": "0662bc62-e7c5-4abe-9528-b7c47f64cb5c",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4558,7 +4558,7 @@
 			},
 			"response": [
 				{
-					"id": "a9d2fdc0-bce4-43a3-8d12-61162a6db4e6",
+					"id": "36b32ae5-d934-4f5c-aa07-a423e8b0630f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4746,7 +4746,7 @@
 			},
 			"response": [
 				{
-					"id": "c260a880-b3db-4922-bce7-a1992dfaf77e",
+					"id": "cd40d5c9-d5e4-4bf0-86a5-ceb43e72ae03",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4934,7 +4934,7 @@
 			},
 			"response": [
 				{
-					"id": "3b184fd7-0513-447c-9797-35e136685f5c",
+					"id": "86a67615-94b2-4d5f-a392-c65976ad250d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5122,7 +5122,7 @@
 			},
 			"response": [
 				{
-					"id": "f6d1e59c-7f16-4818-98f1-41092810020f",
+					"id": "e72f2a74-7fec-4bd9-935d-029c0b467d42",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5310,7 +5310,7 @@
 			},
 			"response": [
 				{
-					"id": "4cd1bf27-a89a-4702-b1e7-c705f11a8f33",
+					"id": "d1801db6-eb0a-4f1c-89e5-9f8f713e5066",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5498,7 +5498,7 @@
 			},
 			"response": [
 				{
-					"id": "175bf5ab-2287-4c4e-ba6d-92da93aeaa82",
+					"id": "2557eef8-a72c-42e3-a402-f6240fa3a162",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5686,7 +5686,7 @@
 			},
 			"response": [
 				{
-					"id": "224d0d49-15a7-4cfa-a857-4be02ee78d01",
+					"id": "1a08361b-9a61-48ea-8296-7073a9a2dcd3",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5874,7 +5874,7 @@
 			},
 			"response": [
 				{
-					"id": "31d6d675-7af9-4fe2-bd48-1ee4f800623a",
+					"id": "1fa727d5-b501-47dc-a5e6-fc49509f1702",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6062,7 +6062,7 @@
 			},
 			"response": [
 				{
-					"id": "4423bc82-da2c-4f73-925c-471cb5f439f3",
+					"id": "8bda5350-3ca9-4137-b696-a6ffcc46fa3d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6185,6 +6185,348 @@
 					"body": "{\"results\":[{\"id\":\"214\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:25:08Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3476\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2065\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2064\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:19Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2063\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:00Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2061\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:42Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2055\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205262\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-16T18:10:37Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205260\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Hal Jordan\",\"createdAt\":\"2018-04-16T17:52:59Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205255\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-16T15:04:13Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205253\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T20:58:02Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205252\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"wer\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-13T19:47:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205251\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"InitialReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-13T19:15:32Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205250\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-13T14:26:57Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205249\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T01:38:52Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"ddd\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"C\",\"commonCoreStandard\":\"\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205245\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-12T21:28:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205244\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Alex Ponce\",\"createdAt\":\"2018-04-12T21:06:33Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205243\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T20:28:14Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205242\",\"subject\":\"ELA\",\"grade\":\"8\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T19:11:50Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205240\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:21:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205239\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:13:30Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205238\",\"subject\":\"Math\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-12T16:36:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205236\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-11T23:35:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205234\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-11T18:25:35Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205231\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-10T21:57:06Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"PAT\",\"commonCoreStandard\":\"PCCS\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205228\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Johnson\",\"createdAt\":\"2018-04-09T21:04:43Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205220\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205219\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:48:46Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205218\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:10Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205217\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:44:26Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205216\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:36:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205212\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-03T18:37:05Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205211\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:35:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205210\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:19:38Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205209\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-04-03T15:20:34Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205203\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-31T18:04:28Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205202\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-30T20:46:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205190\",\"subject\":\"Math\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T22:04:30Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"asdasd\",\"target\":\"PAT123123\",\"commonCoreStandard\":\"asdasd\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"213213\",\"target\":\"D\",\"commonCoreStandard\":\"234234\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"wewe3\",\"target\":\"K\",\"commonCoreStandard\":\"werwer\",\"type\":\"TERTIARY\"},{\"claim\":\"4\",\"contentDomain\":\"wer\",\"target\":\"N\",\"commonCoreStandard\":\"werwer\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"stimulusId\":\"205255\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205188\",\"subject\":\"ELA\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:57:27Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"ReadingInformation\",\"target\":\"4\",\"commonCoreStandard\":\"asd\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205187\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:39:51Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205181\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-03-27T22:20:39Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205180\",\"subject\":\"Math\",\"grade\":\"3\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-27T19:50:47Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"PCD 328\",\"target\":\"PAT328\",\"commonCoreStandard\":\"PCCS 328\",\"type\":\"PRIMARY\"},{\"claim\":\"1\",\"contentDomain\":\"SCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"PCCS QA2 328\",\"type\":\"SECONDARY\"},{\"claim\":\"1\",\"contentDomain\":\"TCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"TCCS 328\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"QCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"QCCS 328\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205177\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-27T16:54:52Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205171\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-26T20:12:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205170\",\"subject\":\"ELA\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T14:03:04.966Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"QA PAT1\",\"commonCoreStandard\":\"QA PCCS1\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205169\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:27:35.150Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205168\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:12:22.913Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205167\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:18:47.195Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205166\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T01:55:45.534Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205165\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-24T16:57:59.562Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205162\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T18:58:58.752Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"domain\",\"target\":\"target\",\"commonCoreStandard\":\"standard\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205159\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T07:45:41.869Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205151\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T20:14:45.434Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205150\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:13:26.587Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205149\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:09:24.463Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205143\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-19T20:23:07.637Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1841\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1769\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1768\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:36Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1692\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:50Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3709\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1472\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:36Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3691\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1080\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1079\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:08Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1078\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1076\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:40Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1075\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:28Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1074\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1073\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1072\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:42Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"}],\"last\":true,\"first\":true,\"totalPages\":1,\"total\":68}"
 				}
 			]
+		},
+		{
+			"name": "Search - sort by \"isVisualTTSProvided\" ascending",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c9d022c6-2f1a-4e1a-8383-4367f65a7dd1",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n     \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n    \n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - sort by \"isVisualTTSProvided\" ids 205773, 205858 ascending",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c9d022c6-2f1a-4e1a-8383-4367f65a7dd1",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205773\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - sort by \"isVisualTTSRequired\" descending",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "4a50a82d-8f9e-4d01-ac5c-13c468fb2db0",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSRequired\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - sort by \"isVisualTTSRequired\" ids 205869 205858 ascending",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "4a50a82d-8f9e-4d01-ac5c-13c468fb2db0",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205869\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSRequired\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - sort by \"isSightTTSProvided\" ids 205773, 205858 ascending",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2026471a-1b81-402f-bb05-d847aaac34a8",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205773\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isSightTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - sort by \"isSightTTSProvided\" ascending",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2026471a-1b81-402f-bb05-d847aaac34a8",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n       \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isSightTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
 		},
 		{
 			"name": "GeneralSearch- id 205315 sa",
@@ -13262,6 +13604,346 @@
 			"response": []
 		},
 		{
+			"name": "Search - \"isVisualTTSProvided\" is \"true\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "7fa635a1-afdf-4706-82bc-93b264fd7059",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSProvided = true\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isVisualTTSProvided).to.eql(\"true\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isVisualTTSProvided\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3a4df55f-f3c4-4101-a591-4dfa0d134b26",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSProvided = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isVisualTTSProvided).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isSightTTSProvided\" is \"true\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "76791e74-3f3a-4796-9860-09b1639ce278",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isSightTTSProvided = true\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isSightTTSProvided).to.eql(\"true\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isSightTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isSightTTSProvided\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "915b37f2-371c-4b37-aa6d-fb44819fc938",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isSightTTSProvided = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isSightTTSProvided).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isSightTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isVisualTTSRequired\" is \"true\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "8b6c1731-6cc2-445e-b876-2074a585198d",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSRequired = true\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isVisualTTSRequired).to.eql(\"true\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSRequired\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GetSingleItem 205320",
 			"event": [
 				{
@@ -13527,6 +14209,74 @@
 							"key": "ids",
 							"value": "205320,205315, 205323"
 						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isVisualTTSRequired\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "6688e8ab-9f6d-4908-9f14-d4a34f7e6867",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSRequired = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isVisualTTSRequired).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSRequired\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
 					]
 				}
 			},
