@@ -7,7 +7,7 @@
     </Properties>
     <Appenders>
         <Gelf host="udp:${env:GRAYLOG_HOST:-localhost}" port="${env:GRAYLOG_PORT:-12201}"
-              name="gelf"
+              name="graylog-gelf"
               version="1.1"
               extractStackTrace="true"
               mdcProfiling="true"
@@ -21,13 +21,13 @@
         </Gelf>
 
         <Console name="Console" target="SYSTEM_OUT">
-            <PatternLayout pattern="${CONSOLE_LOG_PATTERN}"/>
+            <PatternLayout pattern="${sys:CONSOLE_LOG_PATTERN}"/>
         </Console>
     </Appenders>
     <Loggers>
         <Root level="info">
             <AppenderRef ref="Console"/>
-            <AppenderRef ref="gelf"/>
+            <AppenderRef ref="graylog-gelf"/>
         </Root>
     </Loggers>
 </Configuration>
