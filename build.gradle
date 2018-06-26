@@ -52,7 +52,7 @@ dependencies {
     compile 'org.springframework.boot:spring-boot-starter-data-jpa'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310'
-    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.36'
+    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.37-SNAPSHOT'
     compile 'org.opentestsystem.ap:ap-common:0.3.59'
     testCompile 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'org.assertj:assertj-core:3.9.1'
