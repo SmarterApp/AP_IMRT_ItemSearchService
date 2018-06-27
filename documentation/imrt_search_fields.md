@@ -15,66 +15,65 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | Is Result Column | Yes/No based on if the field will be populated in the results  | 
 | Is Count Supported | Yes/No based on if the field can be used in a count |
 | Filter Type | The type of the filter based on the list of [filters](Filters.md) |
-| Is Sort Supported | Yes/No based on if the field can be sorted in the results |
 
 
 ## IMRT Supported Fields
 
-| Field Name | Is Filterable | Is Result Column | Is Count Supported | Filter Type | Is Sort Supported |
-| ---------- | ---------- | ------------- | --------------- | ----------- | ----------- |
-| allowCalculator | No | No | No | n/a | No |
-| associatedItemCount | No | No | No | n/a | No |
-| calculatedExposuresCount | Yes | Yes | No | integerRange | Yes |
-| calculatedFormCount | Yes | Yes | No | integerRange | Yes |
-| contentTaskModel | Yes | Yes | No | match | Yes |
-| createDate | Yes | Yes | No | dateRange | Yes |
-| createdBy | Yes | Yes | No | contains | Yes |
-| daysInWorkflowStatus | Yes | Yes | No | integerRange | Yes |
-| depthOfKnowledge | Yes | Yes | Yes | match |  Yes |
-| englishContentLastUpdatedDate | No | No | No | n/a | No |
-| fieldTestDate | No | No | No | n/a | No |
-| formType | No | No | No | n/a | No |
-| assessmentType | No | No | No | n/a | No |
-| id | Yes | Yes | No | match | Yes |
-| intendedGrade | Yes | Yes | Yes | match | Yes |
-| isAslProvided | Yes | Yes | No | match | Yes |
-| isAslRequired | Yes | Yes | No | match | Yes |
-| isAslUploadedPriorToLastContentUpdate | No | No | No | n/a | No |
-| isBeingCreated | Yes | Yes | No | booleanFlag |  Yes |
-| isBrailleProvided | Yes | Yes | No | match | Yes |
-| isBrailleRequired | Yes | Yes | No | match | Yes |
-| isBrailleUploadedPriorToLastContentUpdate | No | No | No | n/a | No |
-| isClosedCaptioningProvided | Yes | Yes | No | match | Yes |
-| isClosedCaptioningRequired | Yes | Yes | No | match | Yes |
-| isClosedCaptioningUploaded PriorToLastContentUpdate | No | No | No | n/a | No |
-| isTranslationProvided | Yes | Yes | No | match | Yes |
-| isTranslationRequired | Yes | Yes | No | match | Yes |
-| itemAuthor | Yes | Yes | Yes | contains | Yes |
-| itemDifficultyQuintile | Yes | Yes | Yes | integerRange | Yes |
-| organizationName | Yes | Yes | Yes | contains |  Yes |
-| organizationTypeId | Yes | Yes | Yes | match | Yes |
-| performanceTask | No | No | No | n/a | No |
-| primaryClaim | Yes | Yes | Yes | match | Yes |
-| primaryCommonCoreStandard | No | Yes | No | n/a | No |
-| primaryContentDomain | No | Yes | No | n/a | No |
-| primaryTarget | Yes | Yes | Yes | match | Yes |
-| quaternaryClaim | Yes | Yes | No | match | Yes |
-| quaternaryCommonCoreStandard | No | Yes | No | n/a | No |
-| quaternaryContentDomain | No | Yes | No | n/a | No |
-| quaternaryTarget | Yes | Yes | Yes | n/a | No |
-| scoringEngine | No | No | No | n/a | No |
-| secondaryClaim | Yes | Yes | No | match | Yes |
-| secondaryCommonCoreStandard | No | Yes | No | n/a | No |
-| secondaryContentDomain | No | Yes | No | n/a | No |
-| secondaryTarget | Yes | Yes | No | match | Yes |
-| stimulusId | Yes | Yes | No | match | Yes |
-| subject | Yes | Yes | Yes | match | Yes |
-| tertiaryClaim | No | Yes | No | n/a | No |
-| tertiaryCommonCoreStandard | No | Yes | No | n/a | No |
-| tertiaryContentDomain | No | Yes | No | n/a | No |
-| tertiaryTarget | Yes | Yes | No | n/a | Yes |
-| testCategory | No | No | No | n/a | No |
-| type | Yes | Yes | Yes | match | Yes |
-| workflowStatus | Yes | Yes | Yes | match | Yes |
-| workflowStatusUpdatedDate | Yes | Yes | No | dateRange | Yes |
-| writingPurpose | No | No | No | n/a | No |
+| Field Name | Is Filterable | Is Result Column | Is Count Supported | Filter Type |
+| ---------- | ---------- | ------------- | --------------- | ----------- | 
+| allowCalculator | No | No | No | n/a |
+| associatedItemCount | No | No | No | n/a | 
+| calculatedExposuresCount | Yes | Yes | No | Integer Range |
+| calculatedFormCount | Yes | Yes | No | Integer Range |
+| contentTaskModel | Yes | Yes | No | Match |
+| createDate | Yes | Yes | No | Date Range |
+| createdBy | Yes | Yes | No | contains | 
+| daysInWorkflowStatus | Yes | Yes | No | IntegBooleaner Range |
+| depthOfKnowledge | Yes | Yes | Yes | Match | 
+| englishContentLastUpdatedDate | No | No | No | n/a |
+| fieldTestDate | No | No | No | n/a |
+| formType | Yes | No | No | Match |
+| assessmentType | Yes | No | No | Match | 
+| id | Yes | Yes | No | Match |
+| intendedGrade | Yes | Yes | Yes | Match | 
+| isAslProvided | Yes | Yes | No | Match |
+| isAslRequired | Yes | Yes | No | Match |
+| isAslUploadedPriorToLastContentUpdate | No | No | No | n/a |
+| isBeingCreated | Yes | Yes | No | Boolean | 
+| isBrailleProvided | Yes | Yes | No | Match |
+| isBrailleRequired | Yes | Yes | No | Match |
+| isBrailleUploadedPriorToLastContentUpdate | No | No | No | n/a |
+| isClosedCaptioningProvided | Yes | Yes | No | Match |
+| isClosedCaptioningRequired | Yes | Yes | No | Match |
+| isClosedCaptioningUploaded PriorToLastContentUpdate | No | No | No | n/a |
+| isTranslationProvided | Yes | Yes | No | Match |
+| isTranslationRequired | Yes | Yes | No | Match |
+| itemAuthor | Yes | Yes | Yes | contains |
+| itemDifficultyQuintile | Yes | Yes | Yes | Integer Range |
+| organizationName | Yes | Yes | Yes | contains |
+| organizationTypeId | Yes | Yes | Yes | Match | 
+| performanceTask | No | No | No | n/a |
+| primaryClaim | Yes | Yes | Yes | Match |
+| primaryCommonCoreStandard | No | Yes | No | n/a |
+| primaryContentDomain | No | Yes | No | n/a |
+| primaryTarget | Yes | Yes | Yes | Match |
+| quaternaryClaim | Yes | Yes | No | Match |
+| quaternaryCommonCoreStandard | No | Yes | No | n/a |
+| quaternaryContentDomain | No | Yes | No | n/a | 
+| quaternaryTarget | Yes | Yes | Yes | n/a |
+| scoringEngine | No | No | No | n/a |
+| secondaryClaim | Yes | Yes | No | Match |
+| secondaryCommonCoreStandard | No | Yes | No | n/a |
+| secondaryContentDomain | No | Yes | No | n/a |
+| secondaryTarget | Yes | Yes | No | Match |
+| stimulusId | Yes | Yes | No | Match |
+| subject | Yes | Yes | Yes | Match |
+| tertiaryClaim | No | Yes | No | n/a |
+| tertiaryCommonCoreStandard | No | Yes | No | n/a |
+| tertiaryContentDomain | No | Yes | No | n/a |
+| tertiaryTarget | Yes | Yes | No | n/a |
+| testCategory | No | No | No | n/a |
+| type | Yes | Yes | Yes | Match |
+| workflowStatus | Yes | Yes | Yes | Match |
+| workflowStatusUpdatedDate | Yes | Yes | No | Date Range |
+| writingPurpose | No | No | No | n/a |
