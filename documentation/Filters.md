@@ -12,7 +12,6 @@ This table describes the fields that comprise the match filter:
 
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "match" | string | yes
 | property | The property to run the match filter.  Supported properties listed below. | string | yes
 | values | The values to match against | array | yes
 
@@ -48,6 +47,8 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | isTranslationRequired | filter by Translation content requirement |
 | isTranslationProvided | filter by whether Translation content has been provided |
 | isVisualTTSRequired | filter by Text-to-Speech content requirement |
+| formType | filter by the form type on an item's forms |
+| assessmentType | filter by the asssessment type on an item's forms |
 
 **Example Usage**
 
@@ -55,7 +56,6 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 
 ```json
 {
-	"type": "match",
 	"property": "workflowStatus",
 	"values": ["Draft"]
 }
@@ -64,7 +64,6 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 
 ```json
 {
-	"type": "match",
 	"property": "workflowStatus",
 	"values": ["3", "4"]
 }
@@ -78,7 +77,6 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "integerRange" | string | yes
 | property | The property to run the integer range filter.  Supported properties listed below. | string | yes
 | min | The minimum of the range | number | no, if max is supplied
 | max | The maximum of the range | number | no, if min is supplied
@@ -92,92 +90,20 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 | calculatedFormCount | Count of all forms associated with an item |
 | calculatedExposuresCount | All exposures across all forms |
 | itemDifficultyQuintile | The difficulty level of the item |
+| daysInWorkflowStatus | The number of days an item has been in the currently workflow status |
 
 **Example Usage**
 
-* Find all items with an id between 1 and 10:
+* Find all items with an calculated form count between 1 and 10:
 
 ```json
 {
-    "type": "integerRange",
-    "property": "id",
+    "property": "calculatedFormCount",
     "min": 1,
     "max": 10
 }
 ```
 
-## Days in Workflow Status Filter
-
-The **Days in Workflow Status** filter allows searching for items with a property that has a date older than a number of calendar days ago.  This filter can be used in three ways:
-
-* property date is older than _X_ number of calendar days ago
-* property date is older than _X_ number of calendar days ago but newer than _Y_ number of days ago
-* property date is newer than _X_ number of calendar days ago
-
-_**Additional Notes**_
-
-* The `min` value must be smaller than the `max` value.
-* The `min` value can be set to 0, which is effectively telling the filter to find everything older than today.
-
-**Number of Days in Range Filter Fields**
-
-| Field | Description | Type | Required |
-| -------- | ----------- |---- | -------- |
-| type   | Must be "integerRange" | string | yes
-| property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
-| min | The minimum number of calendar days an item must be in a status | number | no, as long as max is provided
-| max | The maximum number of calendar days in the item must be in a status | number | no, as long as min is provided
-
-**Properties supported**
-
-| Field| Description |
-| -----| -------|
-| daysInWorkflowStatus  | The number of calendar days the item has been in the current workflow status  |
-
-**Example Usage**
-
-* Find all items with a workflow status date that is at least five calendar days old:
-
-```json
-{
-	"type": "integerRange",
-	"property": "daysInWorkflowStatus",
-	"min": 5
-}
-```
-
-* Find all items with a workflow status between five and ten calendar days old:
-
-```json
-{
-	"type": "integerRange",
-	"property": "daysInWorkflowStatus",
-	"min": 5,
-	"max": 10
-}
-```
-
-* Find all items with a workflow status date that was changed exactly five calendar days ago:
-
-```json
-{
-	"type": "integerRange",
-	"property": "daysInWorkflowStatus",
-	"min": 5,
-	"max": 5
-}
-```
-
-* Find all items with a workflow status date that was changed today:
-
-```json
-{
-	"type": "integerRange",
-	"property": "daysInWorkflowStatus",
-	"min": 0,
-	"max": 0
-}
-```
 ## Boolean Filter
 This filter does an exact match against supported boolean/flag fields
 
@@ -187,7 +113,6 @@ This table describes the fields that comprise the match filter:
 
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "booleanFlag" | string | yes
 | property | The property to run the boolean filter.  Supported properties listed below. | string | yes
 | value | `true` or `false` | boolean | yes
 
@@ -207,7 +132,6 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 
 ```json
 {
-	"type": "booleanFlag",
 	"property": "isBeingCreated",
 	"value": true
 }
@@ -225,7 +149,6 @@ _**Additional Notes**_
 
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "contains" | string | yes
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
 | values | A collection of possible values to search for | array | yes
 
@@ -267,7 +190,6 @@ The **Date Range Filter** allows for filtering items by a range of dates.  In ef
 
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
-| type   | Must be "dateRange" | string | yes
 | property | The property to run the date range filter.  Supported properties listed below. | string | yes
 | from | The "from" date in UTC | time | no
 | to | The "to" date in UTC | time | no
