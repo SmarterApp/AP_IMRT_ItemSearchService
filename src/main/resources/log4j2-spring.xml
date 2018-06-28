@@ -16,11 +16,12 @@
             <Field name="level" pattern="%5p" />
             <Field name="className" pattern="%C" />
             <Field name="server" pattern="%host" />
+            <Field name="environment" pattern="${env:SPRING_CLOUD_CONFIG_LABEL:-local}" />
             <DynamicMdcFields regex="mdc.*" />
             <DynamicMdcFields regex="(mdc|MDC)fields" />
         </Gelf>
 
-        <Console name="Console" target="SYSTEM_OUT">
+        <Console name="Console" target="SYSTEM_OUT" immediateFlush="false">
             <PatternLayout pattern="${sys:CONSOLE_LOG_PATTERN}"/>
         </Console>
     </Appenders>
