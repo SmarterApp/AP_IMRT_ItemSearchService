@@ -10,6 +10,7 @@ spring:
   datasource:
     url: "jdbc:postgresql://localhost:5432/imrt"
 
+
 logging:
   level:
     org.opentestsystem: INFO
