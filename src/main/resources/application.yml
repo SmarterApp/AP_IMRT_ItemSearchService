@@ -14,8 +14,9 @@ spring:
 logging:
   level:
     org.opentestsystem: INFO
+#  config: classpath:log4j2-local.xml
 
 openam:
     checkTokenEndpointUrl: https://sso-deployment.sbtds.org/auth/oauth2/tokeninfo
-server:
-  port: 9080
+    #server:
+    #port: 9080
