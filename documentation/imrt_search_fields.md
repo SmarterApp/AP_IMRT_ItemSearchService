@@ -68,7 +68,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | secondaryTarget | Yes | Yes | No | Match |
 | stimulusId | Yes | Yes | No | Match |
 | subject | Yes | Yes | Yes | Match |
-| tertiaryClaim | No | Yes | No | n/a |
+| tertiaryClaim | Yes | Yes | No | n/a |
 | tertiaryCommonCoreStandard | No | Yes | No | n/a |
 | tertiaryContentDomain | No | Yes | No | n/a |
 | tertiaryTarget | Yes | Yes | No | n/a |
