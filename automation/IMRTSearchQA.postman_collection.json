@@ -220,7 +220,7 @@
 			},
 			"response": [
 				{
-					"id": "39a9da87-9125-4dd5-99b3-7958848649f1",
+					"id": "17f6fda5-13cc-4172-9e63-9a569c08ad84",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -409,7 +409,7 @@
 			},
 			"response": [
 				{
-					"id": "4b0faf0b-55d6-43be-aeb1-759a8e112ce8",
+					"id": "db363801-1da0-4a5a-b1cc-e5b19182c15c",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -600,7 +600,7 @@
 			},
 			"response": [
 				{
-					"id": "37ad132a-7d78-48b0-936e-79aa89f34f9c",
+					"id": "ca226017-81fa-4bb9-90ca-5926194c00b5",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -791,7 +791,7 @@
 			},
 			"response": [
 				{
-					"id": "dfc26e20-3663-43c3-baa6-e60ae0720ce9",
+					"id": "c759afdf-123b-4b57-8759-0f36cc78d428",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -986,7 +986,7 @@
 			},
 			"response": [
 				{
-					"id": "902eccc6-0841-4f43-889f-5e9219542efa",
+					"id": "c4702f21-10bf-49f9-a1fd-480116c49347",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1174,7 +1174,7 @@
 			},
 			"response": [
 				{
-					"id": "ee3eae6f-2f0a-4536-a403-407f09d0d360",
+					"id": "873b1de8-9147-4cf6-b767-859d3c844e20",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1362,7 +1362,7 @@
 			},
 			"response": [
 				{
-					"id": "93ad4715-d001-49d4-87b6-0b94a79acc21",
+					"id": "0bcf47ad-c787-4674-a3fa-45cf51ace4b6",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1550,7 +1550,7 @@
 			},
 			"response": [
 				{
-					"id": "72affb80-7799-42f8-8457-cfd5a3b0d929",
+					"id": "6526f08a-2757-4b2c-9318-bfdd5a349e75",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1719,7 +1719,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"type\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"type\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -1738,7 +1738,7 @@
 			},
 			"response": [
 				{
-					"id": "b0d6c684-cfba-413c-9935-6a41c7d53ca0",
+					"id": "9b65acf7-3865-4bcf-943a-486f4d67f2f6",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1907,7 +1907,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"subject\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"subject\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -1926,7 +1926,7 @@
 			},
 			"response": [
 				{
-					"id": "b8e2e1cc-12c6-4716-a36f-06c65b7f1438",
+					"id": "8f9b2a9e-b9c8-4840-be96-af1f581deaf0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2095,7 +2095,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"organizationTypeId\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"organizationTypeId\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -2114,7 +2114,7 @@
 			},
 			"response": [
 				{
-					"id": "680788d4-972a-4853-971e-8c1d8bb99b5c",
+					"id": "f154625a-1f2a-448e-a566-ef0535d793ff",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2283,7 +2283,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"organizationName\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"organizationName\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -2302,7 +2302,7 @@
 			},
 			"response": [
 				{
-					"id": "57012b52-ce59-4880-972c-2214c63c1971",
+					"id": "35e64c7b-cb38-4fa9-af14-31203032374d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2471,7 +2471,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"createdBy\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"createdBy\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -2490,7 +2490,7 @@
 			},
 			"response": [
 				{
-					"id": "5961af3f-6c16-4250-86e5-9c906204e57e",
+					"id": "142b4718-7e45-415b-b7a0-315febc59aae",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2659,7 +2659,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"primaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"primaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 800,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -2678,7 +2678,7 @@
 			},
 			"response": [
 				{
-					"id": "55a4f526-909a-47fe-bc33-d383163041b7",
+					"id": "c3af2d09-f3b1-4f1d-a727-dc935c8bf8c9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2847,7 +2847,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"secondaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"secondaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -2866,7 +2866,7 @@
 			},
 			"response": [
 				{
-					"id": "3f19ef33-93ba-43ec-aaf1-dc1439144106",
+					"id": "96cbabbf-9c95-4bae-8355-d4eb76c167fa",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3035,7 +3035,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"tertiaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"tertiaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 300,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -3054,7 +3054,7 @@
 			},
 			"response": [
 				{
-					"id": "7ab36028-8aa1-4603-93ae-eecb658f8375",
+					"id": "c98502e0-278f-4237-babe-caeb0dbf9822",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3223,7 +3223,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"quaternaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"quaternaryClaim\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 200,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -3242,7 +3242,7 @@
 			},
 			"response": [
 				{
-					"id": "d30d5c2e-2ad6-43f9-af1f-d92e3f39453b",
+					"id": "210b7db1-c009-4b17-8f85-2cbb96f8525e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3411,7 +3411,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"primaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"primaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 200,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -3430,7 +3430,7 @@
 			},
 			"response": [
 				{
-					"id": "32a1cfce-318e-4ec7-b8a1-573b6481f0bf",
+					"id": "bca6fc47-687f-4375-8b78-d0e2e3f07e5b",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3599,7 +3599,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"secondaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"secondaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 200,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -3618,7 +3618,7 @@
 			},
 			"response": [
 				{
-					"id": "11ec42a9-5e9b-40f7-af27-40d362092ca9",
+					"id": "f45bccf6-751d-4789-b538-d6bfca33fc0f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3787,7 +3787,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"tertiaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"tertiaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 300,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -3806,7 +3806,7 @@
 			},
 			"response": [
 				{
-					"id": "59926587-a959-4d76-9464-a6e3f7966e25",
+					"id": "1526b891-5063-4f1e-b08c-084e335bcf5d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3975,7 +3975,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"quaternaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"quaternaryTarget\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 200,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -3994,7 +3994,7 @@
 			},
 			"response": [
 				{
-					"id": "298af601-0c45-472b-9656-8c5cb39b63b1",
+					"id": "d01809b2-baa0-42aa-a591-986340673d99",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4163,7 +4163,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"contentTaskModel\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"contentTaskModel\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 200,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -4182,7 +4182,7 @@
 			},
 			"response": [
 				{
-					"id": "a3171f12-1af2-409c-88a3-dc96f00fdbf1",
+					"id": "7e38a186-8b47-4ca5-accb-8381568f49fa",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4351,7 +4351,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"writingPurpose\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"writingPurpose\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -4370,7 +4370,7 @@
 			},
 			"response": [
 				{
-					"id": "0662bc62-e7c5-4abe-9528-b7c47f64cb5c",
+					"id": "e9975b80-d32b-41d8-acc2-006f64425eb2",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4539,7 +4539,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"performanceTask\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"performanceTask\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -4558,7 +4558,7 @@
 			},
 			"response": [
 				{
-					"id": "36b32ae5-d934-4f5c-aa07-a423e8b0630f",
+					"id": "a1e28a0c-0424-4397-8994-b04915dcfc92",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4727,7 +4727,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isAslProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isAslProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -4746,7 +4746,7 @@
 			},
 			"response": [
 				{
-					"id": "cd40d5c9-d5e4-4bf0-86a5-ceb43e72ae03",
+					"id": "30d6fd00-e2c1-4adf-af46-25223e91b215",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4915,7 +4915,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isAslRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isAslRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -4934,7 +4934,7 @@
 			},
 			"response": [
 				{
-					"id": "86a67615-94b2-4d5f-a392-c65976ad250d",
+					"id": "83a0c677-cf27-4c3f-8561-acb283973336",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5103,7 +5103,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isBrailleProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isBrailleProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -5122,7 +5122,7 @@
 			},
 			"response": [
 				{
-					"id": "e72f2a74-7fec-4bd9-935d-029c0b467d42",
+					"id": "425d53e5-d5ad-47cc-9096-436604ff8961",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5291,7 +5291,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isBrailleRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isBrailleRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -5310,7 +5310,7 @@
 			},
 			"response": [
 				{
-					"id": "d1801db6-eb0a-4f1c-89e5-9f8f713e5066",
+					"id": "18332054-c4a7-4c98-8b35-feda18d13ff1",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5479,7 +5479,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isClosedCaptioningProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isClosedCaptioningProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -5498,7 +5498,7 @@
 			},
 			"response": [
 				{
-					"id": "2557eef8-a72c-42e3-a402-f6240fa3a162",
+					"id": "55c9c425-ad37-46d5-8124-9c02b50363bb",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5667,7 +5667,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isClosedCaptioningRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isClosedCaptioningRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -5686,7 +5686,7 @@
 			},
 			"response": [
 				{
-					"id": "1a08361b-9a61-48ea-8296-7073a9a2dcd3",
+					"id": "574f0514-c57c-48e9-8ad1-887dc92dfbcc",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5855,7 +5855,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isTranslationProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isTranslationProvided\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -5874,7 +5874,7 @@
 			},
 			"response": [
 				{
-					"id": "1fa727d5-b501-47dc-a5e6-fc49509f1702",
+					"id": "6739c8fd-e71e-4655-a9e3-1c87c80895e5",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6043,7 +6043,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isTranslationRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"isBeingCreated\",\n            \"value\": false\n        }\n    ],\n    \"sort\": {\n        \"property\": \"isTranslationRequired\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -6062,7 +6062,7 @@
 			},
 			"response": [
 				{
-					"id": "8bda5350-3ca9-4137-b696-a6ffcc46fa3d",
+					"id": "084ecb03-a913-4928-975e-343701e98b53",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6224,7 +6224,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n     \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n    \n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n     \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n    \n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -6281,7 +6281,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205773\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205773\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -6338,7 +6338,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSRequired\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSRequired\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -6395,7 +6395,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205869\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSRequired\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205869\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isVisualTTSRequired\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -6452,7 +6452,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205773\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isSightTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"id\",\n      \"values\": [\"205773\", \"205858\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isSightTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -6509,7 +6509,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n       \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isSightTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n       \"property\": \"isBeingCreated\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"isSightTTSProvided\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -8024,6 +8024,149 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch- id blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2794503e-de96-41f9-a130-972c72a9ebc6",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have id blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.id).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"\"],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- id 206006 asl and braille attachments",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2356a3bd-7254-4c98-b9d5-ae5857840f89",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should find Asl attachment\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"PaSsaGe_206006_ASL_STEM.MP4\");",
+							"});",
+							"",
+							"",
+							"",
+							"pm.test(\"Should find Braille attachment\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"item_206006_enu_ecn_transcript.prn\");",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"206006\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch- workflowStatusUpdatedDate contains 4/13/18",
 			"event": [
 				{
@@ -8357,6 +8500,78 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch- intendedGrade blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "9fda5607-b0fc-4e2c-84be-7212aaf302a7",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have intendedGrade blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.intendedGrade).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"intendedGrade\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch-daysInWorkflowStatus = 0",
 			"event": [
 				{
@@ -8410,7 +8625,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 0,\n            \"max\": 0\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 0,\n            \"max\": 0\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -8484,7 +8699,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 7,\n            \"max\": 7\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 7,\n            \"max\": 7\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -8556,7 +8771,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 1,\n            \"max\": 7\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 1,\n            \"max\": 7\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -8619,7 +8834,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 14,\n            \"max\": 60\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 14,\n            \"max\": 60\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -8682,7 +8897,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 60,\n            \"max\": 120\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"daysInWorkflowStatus\",\n            \"min\": 60,\n            \"max\": 120\n        }\n    ],\n    \"sort\": {\n        \"property\": \"daysInWorkflowStatus\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 500,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -8779,7 +8994,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "10be4700-8dfd-489b-9e73-a990e9faa917",
+						"id": "91331865-d456-43bc-93e1-cf55e164bd65",
 						"type": "text/javascript",
 						"exec": [
 							"var resultsArray = pm.response.json().results;",
@@ -8827,6 +9042,78 @@
 				"body": {
 					"mode": "raw",
 					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"stimulusId\",\n            \"values\":[\"205328\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n   \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-stimulusId blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a1b3a526-f478-4a2c-9dc0-a89c5f79818f",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have stimulusId blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.stimulusId).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"stimulusId\",\n            \"values\":[],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n   \n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -8918,6 +9205,78 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch-depthOfKnowledge blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2e0001ee-f365-4dbc-b50b-49638fa14879",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have depthOfKnowledge blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.depthOfKnowledge).to.eql('');",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"depthOfKnowledge\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 10,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch-WorkflowStatus=Draft",
 			"event": [
 				{
@@ -8982,7 +9341,81 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"workflowStatus\",\n            \"values\":[\"Draft\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 70,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"workflowStatus\",\n            \"values\":[\"Draft\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-WorkflowStatus blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "98eca37b-0900-475a-b8cf-1d3761078e4a",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have workflow status blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.workflowStatus).to.eql(\"blank\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"workflowStatus\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -9371,6 +9804,78 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch- type = blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d8a4abb0-ca8f-4cec-92a6-fdd94c3f16a2",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have type blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.type).to.eql('');",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"type\",\n              \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch- type = sa, eq",
 			"event": [
 				{
@@ -9425,7 +9930,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"type\",\n            \"values\":[\"sa\", \"eq\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"type\",\n            \"values\":[\"sa\", \"eq\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 200,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -9590,6 +10095,294 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch-Subject=blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "9b012b0c-c5fd-4c0c-9964-c8d10c1a8425",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have subject blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.subject).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"subject\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- created by Jeff Melin",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "857df69d-eb36-4976-863c-d7ebb8823bd8",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should be createdBy Jeff Melin\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.createdBy).to.eql(\"Jeff Melin\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"createdBy\",\n            \"values\":[\"Jeff Melin\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- itemAuthor JMQA",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "6b321063-f838-4fae-b066-0bb6b5ab3d75",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have itemAuthor JMQA\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.itemAuthor).to.include(\"JMQA\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"itemAuthor\",\n            \"values\":[\"JMQA\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- itemAuthor blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "71872878-ddca-4c16-bd7d-9fdb53c2165b",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have itemAuthor blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.itemAuthor).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n           \n            \"property\": \"itemAuthor\",\n            \"values\":[],\n            \"includeBlanks\": true\n            \n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch-organizationTypeId = vendor, smarterBalanced",
 			"event": [
 				{
@@ -9716,7 +10509,80 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"primaryClaim\",\n            \"values\":[\"2\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"primaryClaim\",\n            \"values\":[\"2\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-primaryClaim = blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "48fe13f7-06b4-4bad-9791-3cd31245e260",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have primaryClaim blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.primaryClaim).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"primaryClaim\",\n            \"values\":[],\n            \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -9789,7 +10655,80 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"secondaryClaim\",\n            \"values\":[\"1\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"secondaryClaim\",\n            \"values\":[\"1\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-secondaryClaim blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "689c1965-e041-4bc5-aa02-f87626adaf78",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have secondaryClaim blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.secondaryClaim).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"secondaryClaim\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -9862,7 +10801,80 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"tertiaryClaim\",\n            \"values\":[\"4\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"tertiaryClaim\",\n            \"values\":[\"4\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-tertiaryClaim blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "fee05442-8d08-4715-9846-8ada1a26821d",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have tertiaryClaim blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.tertiaryClaim).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"tertiaryClaim\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -9935,7 +10947,80 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"quaternaryClaim\",\n            \"values\":[\"3\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"quaternaryClaim\",\n            \"values\":[\"3\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-quaternaryClaim blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0f658736-2b9d-4b90-915d-d0536a6294ff",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have quaternaryClaim blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.quaternaryClaim).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n          \n            \"property\": \"quaternaryClaim\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -10027,6 +11112,78 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch-primaryTarget = blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "37b72ab7-bac2-416f-9416-120849b0e47e",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have primaryTarget blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.primaryTarget).to.eql('');",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n         \n            \"property\": \"primaryTarget\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 10,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch-secondaryTarget = L",
 			"event": [
 				{
@@ -10080,6 +11237,78 @@
 				"body": {
 					"mode": "raw",
 					"raw": "{\n    \"filters\": [\n        {\n         \n            \"property\": \"secondaryTarget\",\n            \"values\":[\"L\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-secondaryTarget blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "28b273cb-1728-4e95-ae0c-34282ef682b8",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have secondaryTarget blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.secondaryTarget).to.eql('');",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n         \n            \"property\": \"secondaryTarget\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -10171,6 +11400,78 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch-tertiaryTarget blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "47f34c17-8549-4afc-b280-54ead618690a",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have tertiaryTarget blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.tertiaryTarget).to.eql('');",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n         \n            \"property\": \"tertiaryTarget\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch-quaternaryTarget = A",
 			"event": [
 				{
@@ -10224,6 +11525,78 @@
 				"body": {
 					"mode": "raw",
 					"raw": "{\n    \"filters\": [\n        {\n         \n            \"property\": \"quaternaryTarget\",\n            \"values\":[\"A\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-quaternaryTarget blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "6e4d954e-20c6-4246-84b8-7e0f24e4bef4",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have quaternaryTarget blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.quaternaryTarget).to.eql('');",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n         \n            \"property\": \"quaternaryTarget\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -10300,7 +11673,82 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"contentTaskModel\",\n            \"values\":[\"model\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1000,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"contentTaskModel\",\n            \"values\":[\"model\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 200,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-contentTaskModel contains blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "915bfe2e-6e38-4cdf-ac0b-b0663234cf4e",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have contentTaskModel contain blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.contentTaskModel).to.include([\"\"]);",
+							"    ",
+							"    });",
+							"});",
+							"",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"contentTaskModel\",\n             \"values\":[],\n             \"includeBlanks\": true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -10538,6 +11986,132 @@
 			"response": []
 		},
 		{
+			"name": "GeneralSearch-organizationName contains sb, A, h",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "71ef43fc-0961-4bb2-b135-90ea4575e559",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n      {\n      \n      \"property\": \"organizationName\",\n      \"values\":[\"sb\",\"A\",\"h\"]\n    }\n    ],\n    \"sort\": {\n        \"property\": \"organizationName\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch-organizationName blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "71ef43fc-0961-4bb2-b135-90ea4575e559",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n      {\n      \n      \"property\": \"organizationName\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n    ],\n    \"sort\": {\n        \"property\": \"organizationName\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "GeneralSearch-organizationTypeId matches smarterBalanced",
 			"event": [
 				{
@@ -10610,15 +12184,24 @@
 			"response": []
 		},
 		{
-			"name": "GeneralSearch-organizationName contains sb, A, h",
+			"name": "GeneralSearch-organizationTypeId blank",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "71ef43fc-0961-4bb2-b135-90ea4575e559",
+						"id": "191c038a-d56f-43e0-b5eb-923dcefa9377",
 						"type": "text/javascript",
 						"exec": [
-							""
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have organizationTypeId 'smarterBalanced'\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.organizationTypeId).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
 						]
 					}
 				}
@@ -10653,7 +12236,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n      {\n      \n      \"property\": \"organizationName\",\n      \"values\":[\"sb\",\"A\",\"h\"]\n    }\n    ],\n    \"sort\": {\n        \"property\": \"organizationName\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n      {\n      \n      \"property\": \"organizationTypeId\",\n       \"values\":[],\n      \"includeBlanks\": true\n    }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -11966,19 +13549,19 @@
 			"response": []
 		},
 		{
-			"name": "Search - \"isAslRequired\" is empty",
+			"name": "Search - \"isAslRequired\" is blank",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "02060a1f-c10e-4cdd-987f-c1fc7ccd6f7d",
+						"id": "004f9ad1-dc71-4f45-b1d9-1d2a53b87f4b",
 						"type": "text/javascript",
 						"exec": [
 							"var resultsArray = pm.response.json().results;",
 							"var testTitle = \"\";",
 							"",
 							"resultsArray.forEach(function(result) {  ",
-							"    testTitle = \"Item ID \" + result.id + \" has isAslRequired = empty\";",
+							"    testTitle = \"Item ID \" + result.id + \" has isAslRequired blank\";",
 							"    pm.test(testTitle,function(){",
 							"        pm.expect(result.isAslRequired).to.eql(\"\");",
 							"    ",
@@ -12012,7 +13595,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isAslRequired\",\n      \"values\": [\"\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 10,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isAslRequired\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -12107,7 +13690,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "80b6d977-cb0d-4e87-9b52-6258b25656bc",
+						"id": "98508611-70d0-4aaa-bc05-2c353006d3dd",
 						"type": "text/javascript",
 						"exec": [
 							"var resultsArray = pm.response.json().results;",
@@ -12121,9 +13704,7 @@
 							"    });",
 							"});",
 							"",
-							"pm.test(\"Should find 205767\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"205796\");",
-							"});"
+							""
 						]
 					}
 				}
@@ -12152,7 +13733,75 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isAslProvided\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isAslProvided\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isAslProvided\" is blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a2228bf0-c11d-4bb8-a09e-11c013a78df3",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isAslRequired = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isAslProvided).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 90fedcee-f0bb-4eb1-b787-b823c6b7c273"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isAslProvided\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -12177,12 +13826,9 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "e950e3d0-619a-4801-8966-0d078b25cb59",
+						"id": "ab95c816-0e15-4f1c-b49e-d1b792525757",
 						"type": "text/javascript",
 						"exec": [
-							"pm.test(\"Should find 205767\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"205767\");",
-							"});",
 							"",
 							"var resultsArray = pm.response.json().results;",
 							"var testTitle = \"\";",
@@ -12312,17 +13958,83 @@
 			"response": []
 		},
 		{
+			"name": "Search - \"isBrailleRequired\" is blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "dce28088-f549-4ec3-af34-f063b9647901",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isBrailleRequired blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isBrailleRequired).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 90fedcee-f0bb-4eb1-b787-b823c6b7c273"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n      \n      \"property\": \"isBrailleRequired\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "Search - \"isBrailleProvided\" is \"true\"",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "e73918a2-d702-4fd8-a732-dde1b760c9c9",
+						"id": "fd8d0a77-2d5b-4579-9e25-f35b38ef44d9",
 						"type": "text/javascript",
 						"exec": [
-							"pm.test(\"Should find 205767\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"205767\");",
-							"});",
+							"",
 							"",
 							"var resultsArray = pm.response.json().results;",
 							"var testTitle = \"\";",
@@ -12387,7 +14099,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "4a978439-7ea5-4c56-b49d-64ffec9edb80",
+						"id": "a015452c-e4c1-49ec-b432-c12cb2d44e5e",
 						"type": "text/javascript",
 						"exec": [
 							"var resultsArray = pm.response.json().results;",
@@ -12401,9 +14113,7 @@
 							"    });",
 							"});",
 							"",
-							"pm.test(\"Should find 205796\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"205796\");",
-							"});"
+							""
 						]
 					}
 				}
@@ -12432,7 +14142,75 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isBrailleProvided\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isBrailleProvided\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isBrailleProvided\" is blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "e2773a1b-9804-4e6c-a7a9-294ec0c20343",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isBrailleProvided blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isBrailleProvided).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 90fedcee-f0bb-4eb1-b787-b823c6b7c273"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isBrailleProvided\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -12502,7 +14280,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningRequired\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningRequired\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -12572,7 +14350,75 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningRequired\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningRequired\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isClosedCaptioningRequired\" is blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "1d58c967-e389-4611-ba7d-dc4bb0e0da65",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isClosedCaptioningRequired blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isClosedCaptioningRequired).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 90fedcee-f0bb-4eb1-b787-b823c6b7c273"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningRequired\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -12642,7 +14488,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n    \n      \"property\": \"isClosedCaptioningProvided\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n    \n      \"property\": \"isClosedCaptioningProvided\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -12667,7 +14513,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "66a27e13-7207-4c20-ab19-bda82d0991af",
+						"id": "07bc522c-4aba-4d0f-8683-5189800b8b71",
 						"type": "text/javascript",
 						"exec": [
 							"var resultsArray = pm.response.json().results;",
@@ -12681,9 +14527,7 @@
 							"    });",
 							"});",
 							"",
-							"pm.test(\"Should find 205796\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"205796\");",
-							"});"
+							""
 						]
 					}
 				}
@@ -12712,7 +14556,75 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningProvided\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningProvided\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isClosedCaptioningProvided\" is blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "dae4e879-b092-40df-91a3-17ca0c2336e7",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isClosedCaptioningProvided blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isClosedCaptioningProvided).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 90fedcee-f0bb-4eb1-b787-b823c6b7c273"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isClosedCaptioningProvided\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -12878,6 +14790,76 @@
 			"response": []
 		},
 		{
+			"name": "Search - \"isTranslationRequired\" is blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a7b6a554-b6a8-4ec4-b1a4-455d1deab3b7",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isTranslationRequired blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isTranslationRequired).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 90fedcee-f0bb-4eb1-b787-b823c6b7c273"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isTranslationRequired\",\n       \"values\":[],\n      \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "Search - \"isTranslationProvided\" is \"true\"",
 			"event": [
 				{
@@ -13018,6 +15000,72 @@
 			"response": []
 		},
 		{
+			"name": "Search - \"isTranslationProvided\" is blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c3d24859-03a9-4dcd-a738-a03cb5f4d100",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isTranslationProvided blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isTranslationProvided).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 90fedcee-f0bb-4eb1-b787-b823c6b7c273"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isTranslationProvided\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "Search by Targets A, B, C, D",
 			"event": [
 				{
@@ -13103,7 +15151,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n      \n      \"property\": \"primaryTarget\",\n      \"values\" : [\"A\"]\n    },\n    {\n      \n      \"property\": \"secondaryTarget\",\n      \"values\" : [\"B\"]\n    },\n    {\n     \n      \"property\": \"tertiaryTarget\",\n      \"values\" : [\"C\"]\n    },\n    {\n    \n      \"property\": \"quaternaryTarget\",\n      \"values\" : [\"D\"]\n    }    \n  ],\n  \"sort\": {\n    \"property\": \"calculatedFormCount\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 10,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n      \n      \"property\": \"primaryTarget\",\n      \"values\" : [\"A\"]\n    },\n    {\n      \n      \"property\": \"secondaryTarget\",\n      \"values\" : [\"B\"]\n    },\n    {\n     \n      \"property\": \"tertiaryTarget\",\n      \"values\" : [\"C\"]\n    },\n    {\n    \n      \"property\": \"quaternaryTarget\",\n      \"values\" : [\"D\"]\n    }    \n  ],\n  \"sort\": {\n    \"property\": \"calculatedFormCount\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13208,7 +15256,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n      \n      \"property\": \"primaryTarget\",\n      \"values\" : [\"J\"]\n    },\n    {\n      \n      \"property\": \"secondaryTarget\",\n      \"values\" : [\"L\"]\n    },\n    {\n      \n      \"property\": \"tertiaryTarget\",\n      \"values\" : [\"M\"]\n    },\n    {\n      \n      \"property\": \"quaternaryTarget\",\n      \"values\" : [\"F\"]\n    }    \n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 10,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n      \n      \"property\": \"primaryTarget\",\n      \"values\" : [\"J\"]\n    },\n    {\n      \n      \"property\": \"secondaryTarget\",\n      \"values\" : [\"L\"]\n    },\n    {\n      \n      \"property\": \"tertiaryTarget\",\n      \"values\" : [\"M\"]\n    },\n    {\n      \n      \"property\": \"quaternaryTarget\",\n      \"values\" : [\"F\"]\n    }    \n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13314,7 +15362,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"primaryClaim\",\n      \"values\" : [\"4\"]\n    },\n    {\n     \n      \"property\": \"secondaryClaim\",\n      \"values\" : [\"3\"]\n    },\n    {\n      \n      \"property\": \"tertiaryClaim\",\n      \"values\" : [\"1\"]\n    },\n    {\n      \n      \"property\": \"quaternaryClaim\",\n      \"values\" : [\"2\"]\n    }    \n  ],\n  \"sort\": {\n    \"property\": \"calculatedFormCount\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 10,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"primaryClaim\",\n      \"values\" : [\"4\"]\n    },\n    {\n     \n      \"property\": \"secondaryClaim\",\n      \"values\" : [\"3\"]\n    },\n    {\n      \n      \"property\": \"tertiaryClaim\",\n      \"values\" : [\"1\"]\n    },\n    {\n      \n      \"property\": \"quaternaryClaim\",\n      \"values\" : [\"2\"]\n    }    \n  ],\n  \"sort\": {\n    \"property\": \"calculatedFormCount\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13449,7 +15497,133 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n      \"property\": \"writingPurpose\",\n      \"values\":[\"Narrative\", \"InformationalExplanatory\", \"OpinionArgumentative\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"writingPurpose\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n      \"property\": \"writingPurpose\",\n      \"values\":[\"Narrative\", \"InformationalExplanatory\", \"OpinionArgumentative\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"writingPurpose\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 200,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				},
+				"description": "Sample search and sort created by"
+			},
+			"response": []
+		},
+		{
+			"name": "Search writingPurpose blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0f1e8faa-afea-4ee9-96f3-507296e5c30a",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have writingPurpose blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.writingPurpose).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer a55f65db-0f00-484f-b22d-1e4313f56079"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n      \"property\": \"writingPurpose\",\n      \"values\":[],\n      \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"writingPurpose\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				},
+				"description": "Sample search and sort created by"
+			},
+			"response": []
+		},
+		{
+			"name": "Search formType Operational",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "09263c6a-e488-4ab3-aa1c-6ab8f53edafa",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer a55f65db-0f00-484f-b22d-1e4313f56079"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n      \"property\": \"formType\",\n      \"values\":[\"Operational\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 500,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13516,7 +15690,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"performanceTask\",\n      \"values\":[\"No\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"performanceTask\",\n      \"values\":[\"No\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13583,7 +15757,74 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"performanceTask\",\n      \"values\":[\"Yes\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"performanceTask\",\n      \"values\":[\"Yes\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				},
+				"description": "Sample search and sort created by"
+			},
+			"response": []
+		},
+		{
+			"name": "Search performanceTask blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3d7e7b83-0c53-4a51-a6ae-e058d32aad69",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have performanceTask blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.performanceTask).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer a55f65db-0f00-484f-b22d-1e4313f56079"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"performanceTask\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13652,7 +15893,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13720,7 +15961,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13788,7 +16029,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isSightTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isSightTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13856,7 +16097,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isSightTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isSightTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13924,7 +16165,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSRequired\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSRequired\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -13940,6 +16181,275 @@
 						"search"
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - \"isVisualTTSRequired\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "6688e8ab-9f6d-4908-9f14-d4a34f7e6867",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSRequired = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isVisualTTSRequired).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSRequired\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Search - calculatedExposuresCount blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "33a342c1-20f5-4766-ac5c-a510d9d09c5d",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have calculatedExposuresCount blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.calculatedExposuresCount).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer a55f65db-0f00-484f-b22d-1e4313f56079"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"calculatedExposuresCount\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				},
+				"description": "Sample search and sort created by"
+			},
+			"response": []
+		},
+		{
+			"name": "Search - calculatedFormCount blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "03bd8b46-81dd-4026-9238-cecce7b405e5",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have calculatedFormCount blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.calculatedFormCount).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer a55f65db-0f00-484f-b22d-1e4313f56079"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"calculatedFormCount\",\n       \"values\":[],\n       \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				},
+				"description": "Sample search and sort created by"
+			},
+			"response": []
+		},
+		{
+			"name": "Search - itemDifficultyQuintile blank",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "5b7de791-1a06-4a6c-8731-ae9171b10839",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" should have itemDifficultyQuintile blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.itemDifficultyQuintile).to.eql(\"\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer a55f65db-0f00-484f-b22d-1e4313f56079"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"itemDifficultyQuintile\",\n      \"values\":[],\n      \"includeBlanks\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"asc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				},
+				"description": "Sample search and sort created by"
 			},
 			"response": []
 		},
@@ -14215,25 +16725,14 @@
 			"response": []
 		},
 		{
-			"name": "Search - \"isVisualTTSRequired\" is \"false\"",
+			"name": "GeneralSearch- formAssessmentType = Summative",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "6688e8ab-9f6d-4908-9f14-d4a34f7e6867",
+						"id": "491aa993-58c3-4b25-aa67-c59e9802aa9b",
 						"type": "text/javascript",
 						"exec": [
-							"var resultsArray = pm.response.json().results;",
-							"var testTitle = \"\";",
-							"",
-							"resultsArray.forEach(function(result) {  ",
-							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSRequired = false\";",
-							"    pm.test(testTitle,function(){",
-							"        pm.expect(result.isVisualTTSRequired).to.eql(\"false\");",
-							"    ",
-							"    });",
-							"});",
-							"",
 							""
 						]
 					}
@@ -14241,11 +16740,21 @@
 			],
 			"request": {
 				"auth": {
-					"type": "bearer",
-					"bearer": [
+					"type": "oauth2",
+					"oauth2": [
 						{
-							"key": "token",
+							"key": "accessToken",
 							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
 							"type": "string"
 						}
 					]
@@ -14255,15 +16764,263 @@
 					{
 						"key": "Content-Type",
 						"value": "application/json"
-					},
-					{
-						"key": "Authorization",
-						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
 					}
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSRequired\",\n      \"values\": [\"false\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 1000,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"assessmentType\",\n            \"values\":[\"Summative\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- formAssessmentType = Interim",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "491aa993-58c3-4b25-aa67-c59e9802aa9b",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"assessmentType\",\n            \"values\":[\"Interim\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- formAssessmentType = Practice",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "491aa993-58c3-4b25-aa67-c59e9802aa9b",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"assessmentType\",\n            \"values\":[\"Practice\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- formType FieldTest",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "7b035979-b9b0-4d0d-953b-73a7501965d4",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"formType\",\n            \"values\":[\"FieldTest\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneralSearch- formType Operational",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "7b035979-b9b0-4d0d-953b-73a7501965d4",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"formType\",\n            \"values\":[\"Operational\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",

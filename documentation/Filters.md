@@ -14,6 +14,7 @@ This table describes the fields that comprise the match filter:
 | -------- | ----------- |---- | -------- |
 | property | The property to run the match filter.  Supported properties listed below. | string | yes
 | values | The values to match against | array | yes
+| includeBlanks | `true` to include items where the property is not set | no
 
 **Properties supported**
 
@@ -57,7 +58,8 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 ```json
 {
 	"property": "workflowStatus",
-	"values": ["Draft"]
+	"values": ["Draft"],
+	"includeBlanks" : false
 }
 ```
 * Find all items for grades 3 and 4:
@@ -80,6 +82,7 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 | property | The property to run the integer range filter.  Supported properties listed below. | string | yes
 | min | The minimum of the range | number | no, if max is supplied
 | max | The maximum of the range | number | no, if min is supplied
+| includeBlanks | `true` to include items where the property is not set | no
 
 **NOTE:** The `min` value must be smaller than the `max` value.  
 
@@ -100,7 +103,8 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 {
     "property": "calculatedFormCount",
     "min": 1,
-    "max": 10
+    "max": 10,
+    "includeBlanks" : false
 }
 ```
 
@@ -150,7 +154,8 @@ _**Additional Notes**_
 | Field | Description | Type | Required |
 | -------- | ----------- |---- | -------- |
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
-| values | A collection of possible values to search for | array | yes
+| values | A collection of possible values to search for | array | yes |
+| includeBlanks | `true` to include items where the property is not set | no |
 
 **Properties supported**
 
@@ -168,7 +173,8 @@ _**Additional Notes**_
 {
 	"type": "contains",
 	"property": "organizationName",
-	"values": ["abc"]
+	"values": ["abc"],
+	"includeBlanks": false
 }
 ```
 
@@ -193,6 +199,7 @@ The **Date Range Filter** allows for filtering items by a range of dates.  In ef
 | property | The property to run the date range filter.  Supported properties listed below. | string | yes
 | from | The "from" date in UTC | time | no
 | to | The "to" date in UTC | time | no
+| includeBlanks | `true` to include items where the property is not set | no
 
 **Date Range Filter Behavior**
 
