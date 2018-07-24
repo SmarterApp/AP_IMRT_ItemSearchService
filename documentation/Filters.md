@@ -215,6 +215,7 @@ The **Date Range Filter** allows for filtering items by a range of dates.  In ef
 | workflowStatusUpdatedDate  | The date the current worfklow status was set |
 | createDate  | The date the item was created within gitlab |
 | englishContentLastUpdatedDate | The most recent date/time that English content for the item was changed |
+| spanishContentLastUpdatedDate | The most recent date/time that Spanish content for the item was changed |
 
 * Find all items whose workflow status was updated between 4/11/2018 12AM and 4/13/2018 11:59:59 PM
 
