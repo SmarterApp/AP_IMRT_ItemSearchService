@@ -50,6 +50,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | isVisualTTSRequired | filter by Text-to-Speech content requirement |
 | formType | filter by the form type on an item's forms |
 | assessmentType | filter by the asssessment type on an item's forms |
+| scoringEngine | filter by the item's scoring engine value |
 
 **Example Usage**
 
@@ -163,6 +164,14 @@ _**Additional Notes**_
 | -----| -------|
 | organizationName  | The name of the organization assigned to an item |
 | itemAuthor  | The item author for the item.  This is the ItemAuthor field as defined in the IDD |
+| primaryCommonCoreStandard | The primary common core standard for the item |
+| primaryContentDomain | the primary content domain for the item |
+| secondaryCommonCoreStandard | The secondary common core standard for the item |
+| secondaryContentDomain | the secondary content domain for the item |
+| tertiaryCommonCoreStandard | The tertiary common core standard for the item |
+| tertiaryContentDomain | the tertiary content domain for the item |
+| quaternaryCommonCoreStandard | The quaternary common core standard for the item |
+| quaternaryContentDomain | the quaternary content domain for the item |
 | createdBy  | The Gitlab user that created the item |
 
 **Example Usage**
