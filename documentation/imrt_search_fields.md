@@ -61,7 +61,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | quaternaryCommonCoreStandard | Yes | Yes | No | contains |
 | quaternaryContentDomain | Yes | Yes | No | cointains | 
 | quaternaryTarget | Yes | Yes | Yes | Match |
-| scoringEngine | No | No | No | n/a |
+| scoringEngine | Yes | Yes | No | Match |
 | secondaryClaim | Yes | Yes | Yes | Match |
 | secondaryCommonCoreStandard | Yes | Yes | No | contains |
 | secondaryContentDomain | Yes | Yes | No | contains |
