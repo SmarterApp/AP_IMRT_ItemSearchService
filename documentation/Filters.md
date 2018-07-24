@@ -50,6 +50,7 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | isVisualTTSRequired | filter by Text-to-Speech content requirement |
 | formType | filter by the form type on an item's forms |
 | assessmentType | filter by the asssessment type on an item's forms |
+| scoringEngine | filter by the item's scoring engine value |
 
 **Example Usage**
 
