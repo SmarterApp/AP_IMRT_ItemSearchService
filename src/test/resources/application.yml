@@ -9,6 +9,8 @@ spring:
         format_sql: true
   datasource:
     url: "jdbc:postgresql://localhost:5432/test"
+  freemarker:
+    check-template-location: false
 
 security:
     basic:
