@@ -6,6 +6,7 @@
 	},
 	"item": [
 		{
+			"_postman_id": "cdba2278-b7de-4bac-8151-17c45309b2d8",
 			"name": "OpenAM OAuth (password) Token",
 			"event": [
 				{
@@ -84,6 +85,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "63d5246f-7a8a-4487-9541-34d6db9bdefd",
 			"name": "GeneralSearch-BeingCreated=true",
 			"event": [
 				{
@@ -155,6 +157,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "278d9be6-2ef6-4b50-9947-425e5890d04f",
 			"name": "GeneralSearch- sort id",
 			"event": [
 				{
@@ -220,7 +223,7 @@
 			},
 			"response": [
 				{
-					"id": "d6981ebe-dc2a-4a96-96cc-b03d734fd3d7",
+					"id": "48adb032-508f-49f6-846b-f673cf9f830c",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -345,6 +348,7 @@
 			]
 		},
 		{
+			"_postman_id": "e8aceee7-837e-41c7-a0cb-2081c8ca3318",
 			"name": "GeneralSearch- sort id - pageNumber 2",
 			"event": [
 				{
@@ -409,7 +413,7 @@
 			},
 			"response": [
 				{
-					"id": "a79ef6fb-0eec-4913-899b-2cb209468d37",
+					"id": "cf3c165d-1917-49c9-8bc3-f21c57b7dd36",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -534,6 +538,7 @@
 			]
 		},
 		{
+			"_postman_id": "a385dffb-0f8d-45ba-9634-4b1c488d8afe",
 			"name": "GeneralSearch- sort intendedGrade",
 			"event": [
 				{
@@ -600,7 +605,7 @@
 			},
 			"response": [
 				{
-					"id": "c6d937e0-a4ef-4d2f-bc2a-23c4f34a0feb",
+					"id": "a028f6bc-42ef-4fd3-818b-4769f3670b37",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -725,6 +730,7 @@
 			]
 		},
 		{
+			"_postman_id": "90b3dd11-300f-4086-a571-9d689557b0ce",
 			"name": "GeneralSearch- sort intendedGrade - pageNumber 5",
 			"event": [
 				{
@@ -791,7 +797,7 @@
 			},
 			"response": [
 				{
-					"id": "85e3e58a-6fe1-46a4-a50b-3574a06c1bc4",
+					"id": "f0110d15-acac-4595-832e-17d1b2740c4b",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -916,6 +922,7 @@
 			]
 		},
 		{
+			"_postman_id": "2a99044e-157b-41e8-b2dc-cc7ba6f66a3f",
 			"name": "GeneralSearch- sort stimulusId",
 			"event": [
 				{
@@ -986,7 +993,7 @@
 			},
 			"response": [
 				{
-					"id": "17ad4cbd-ec50-42ed-8daf-41374a4128f8",
+					"id": "bcee9005-42ae-447e-ae53-60fe069acbe2",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1111,6 +1118,7 @@
 			]
 		},
 		{
+			"_postman_id": "fee963d6-2b76-40ce-88ac-751445781d99",
 			"name": "GeneralSearch-sort depthOfKnowledge",
 			"event": [
 				{
@@ -1174,7 +1182,7 @@
 			},
 			"response": [
 				{
-					"id": "b50ea99f-7689-48ba-a114-7061a8f771b5",
+					"id": "fc7a00f8-909a-42e1-8e7f-8cd9b717853d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1299,6 +1307,7 @@
 			]
 		},
 		{
+			"_postman_id": "cc7029f3-6a48-4198-8924-d52a74736b82",
 			"name": "GeneralSearch-sort workflowStatus",
 			"event": [
 				{
@@ -1362,7 +1371,7 @@
 			},
 			"response": [
 				{
-					"id": "c0861f14-8926-4741-a5b9-1ef4bc6db2c6",
+					"id": "788bc9b6-eab9-449c-90c0-3536261dfae2",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1487,6 +1496,7 @@
 			]
 		},
 		{
+			"_postman_id": "a9a7b1ad-ae1a-451c-9d7c-00b0a3e8c06b",
 			"name": "GeneralSearch-sort workflowStatusUpdatedDate",
 			"event": [
 				{
@@ -1550,7 +1560,7 @@
 			},
 			"response": [
 				{
-					"id": "d2d3eb75-abb3-478c-a049-cd4d649f890f",
+					"id": "4e287db5-c3eb-4868-bf02-8e25635aa759",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1675,6 +1685,7 @@
 			]
 		},
 		{
+			"_postman_id": "28a904af-e974-411d-b1b1-e086b0c12dd2",
 			"name": "GeneralSearch-sort type",
 			"event": [
 				{
@@ -1738,7 +1749,7 @@
 			},
 			"response": [
 				{
-					"id": "a20290da-b85a-4b7c-92d6-d2b8c588e1eb",
+					"id": "9378bf45-536a-4d70-8f78-41847f3d2da0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1863,6 +1874,7 @@
 			]
 		},
 		{
+			"_postman_id": "3c108159-2d1f-4a9a-bb10-0e17d94012af",
 			"name": "GeneralSearch-sort subject",
 			"event": [
 				{
@@ -1926,7 +1938,7 @@
 			},
 			"response": [
 				{
-					"id": "3f50a5ed-8a3a-419c-ba5c-6c2aacce0993",
+					"id": "28155d6c-6ea0-4ba9-8242-5c1b15a51df1",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2051,6 +2063,7 @@
 			]
 		},
 		{
+			"_postman_id": "7413c4f2-ce05-4001-b252-77d4bad42d6d",
 			"name": "GeneralSearch-sort organizationTypeId",
 			"event": [
 				{
@@ -2114,7 +2127,7 @@
 			},
 			"response": [
 				{
-					"id": "908772ea-25ed-4c8d-8449-653b0d72570a",
+					"id": "25c56d96-a027-4a76-8924-9b165c015846",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2239,6 +2252,7 @@
 			]
 		},
 		{
+			"_postman_id": "ed2a28aa-6dbf-43d3-af9a-f19cd26144b4",
 			"name": "GeneralSearch-sort organizationName",
 			"event": [
 				{
@@ -2302,7 +2316,7 @@
 			},
 			"response": [
 				{
-					"id": "6973ab98-bc07-41ca-a7ca-a22959f074de",
+					"id": "3559f16d-2905-4be9-befb-3283d503838b",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2427,6 +2441,7 @@
 			]
 		},
 		{
+			"_postman_id": "560faefb-0634-45d4-8046-b7bfd7173438",
 			"name": "GeneralSearch-sort createdBy",
 			"event": [
 				{
@@ -2490,7 +2505,7 @@
 			},
 			"response": [
 				{
-					"id": "8166df44-061a-4e34-b9d7-24b3cdba054c",
+					"id": "e746768f-dac7-4c4e-b706-f64b4101141f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2615,6 +2630,7 @@
 			]
 		},
 		{
+			"_postman_id": "6b1b4864-d84d-48fc-bc9c-18cccb32af54",
 			"name": "GeneralSearch-sort primaryClaim",
 			"event": [
 				{
@@ -2678,7 +2694,7 @@
 			},
 			"response": [
 				{
-					"id": "0ab3a2a5-6dd3-4377-9fd7-f481d502cacb",
+					"id": "5a4cec9b-c75c-4818-895d-d29b02488f01",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2803,6 +2819,7 @@
 			]
 		},
 		{
+			"_postman_id": "30aaaf6a-bc9e-4761-9edd-9f6fad3bbe4e",
 			"name": "GeneralSearch-sort secondaryClaim",
 			"event": [
 				{
@@ -2866,7 +2883,7 @@
 			},
 			"response": [
 				{
-					"id": "ab5901f0-3372-4912-ae57-39b62881868d",
+					"id": "6e835147-f8a3-4220-b3b5-01e8e0315913",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2991,6 +3008,7 @@
 			]
 		},
 		{
+			"_postman_id": "074c8f12-8e19-4ac3-95d2-1eb4bb770b51",
 			"name": "GeneralSearch-sort tertiaryClaim",
 			"event": [
 				{
@@ -3054,7 +3072,7 @@
 			},
 			"response": [
 				{
-					"id": "37fc6588-23b3-4e03-949c-737dc623b488",
+					"id": "c37da80d-df72-4ba1-896b-d5f0b6be9fe0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3179,6 +3197,7 @@
 			]
 		},
 		{
+			"_postman_id": "882830b6-11da-4e49-a6f8-6135f5a34cc2",
 			"name": "GeneralSearch-sort quaternaryClaim",
 			"event": [
 				{
@@ -3242,7 +3261,7 @@
 			},
 			"response": [
 				{
-					"id": "3d03c50c-c50d-49de-bc1b-20efd20768ff",
+					"id": "ac4204f6-0f29-4f7a-b91c-a22c386fdf3e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3367,6 +3386,7 @@
 			]
 		},
 		{
+			"_postman_id": "893442e6-e2ea-42df-9712-4be3ebd3d7d5",
 			"name": "GeneralSearch-sort primaryTarget",
 			"event": [
 				{
@@ -3430,7 +3450,7 @@
 			},
 			"response": [
 				{
-					"id": "63acefc8-74e7-49e2-a443-638f3656dece",
+					"id": "82b9b7d1-bec3-4d9b-897c-832c86053031",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3555,6 +3575,7 @@
 			]
 		},
 		{
+			"_postman_id": "0b18b0a5-a1fe-4e93-bf8d-0d1ae33700ce",
 			"name": "GeneralSearch-sort secondaryTarget",
 			"event": [
 				{
@@ -3618,7 +3639,7 @@
 			},
 			"response": [
 				{
-					"id": "c328cbf8-b7a8-4e07-b1e7-0b30c23e2ede",
+					"id": "9e290891-71b3-4d44-9635-b47a597ee4f3",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3743,6 +3764,7 @@
 			]
 		},
 		{
+			"_postman_id": "2d36d487-05d0-4b00-b02b-f21a451537c8",
 			"name": "GeneralSearch-sort tertiaryTarget",
 			"event": [
 				{
@@ -3806,7 +3828,7 @@
 			},
 			"response": [
 				{
-					"id": "9f882a45-6a9d-4893-b7f4-254d3a607529",
+					"id": "30d2fd38-d27a-4813-af5b-9eb0b3ce03ee",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3931,6 +3953,7 @@
 			]
 		},
 		{
+			"_postman_id": "8613ca66-70c7-4050-8806-8e164560d91f",
 			"name": "GeneralSearch-sort quaternaryTarget",
 			"event": [
 				{
@@ -3994,7 +4017,7 @@
 			},
 			"response": [
 				{
-					"id": "eb030d03-7113-4615-9a60-aa2ea58adf11",
+					"id": "3699ab1c-7500-4aa5-929c-d4e23e25f61e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4119,6 +4142,7 @@
 			]
 		},
 		{
+			"_postman_id": "6070db8f-e42a-4113-9f85-78b95a1c49a7",
 			"name": "GeneralSearch-sort contentTaskModel",
 			"event": [
 				{
@@ -4182,7 +4206,7 @@
 			},
 			"response": [
 				{
-					"id": "d2405420-34f6-4662-83cb-2001c3cdfbd2",
+					"id": "0a3d31be-3ce9-4dfc-a652-63ab06ce4eca",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4307,6 +4331,7 @@
 			]
 		},
 		{
+			"_postman_id": "1edbe3a1-9a3e-488b-8232-c41821383769",
 			"name": "GeneralSearch-sort writingPurpose",
 			"event": [
 				{
@@ -4370,7 +4395,7 @@
 			},
 			"response": [
 				{
-					"id": "0ddd1137-c1e4-4b4f-b4e7-daabfcc26866",
+					"id": "8061264d-0907-46f0-aa61-aa3445137d26",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4495,6 +4520,7 @@
 			]
 		},
 		{
+			"_postman_id": "7616e816-519e-49eb-9a13-9eac2f9be7a8",
 			"name": "GeneralSearch-sort performanceTask",
 			"event": [
 				{
@@ -4558,7 +4584,7 @@
 			},
 			"response": [
 				{
-					"id": "2987f2ae-398b-45bf-b97d-112612cec33e",
+					"id": "15deec50-8d66-480d-a769-7be8427fbb56",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4683,6 +4709,7 @@
 			]
 		},
 		{
+			"_postman_id": "4a8883c3-770a-4587-8559-be840bf2fdf0",
 			"name": "GeneralSearch-sort isAslProvided",
 			"event": [
 				{
@@ -4746,7 +4773,7 @@
 			},
 			"response": [
 				{
-					"id": "ec5cca19-411a-463d-8196-62d7d9aba04d",
+					"id": "898edef3-8b3e-4143-9384-d9592f251231",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4871,6 +4898,7 @@
 			]
 		},
 		{
+			"_postman_id": "4e951017-3a20-481f-a8e5-1e3113456f97",
 			"name": "GeneralSearch-sort isAslRequired",
 			"event": [
 				{
@@ -4934,7 +4962,7 @@
 			},
 			"response": [
 				{
-					"id": "f013036f-760b-4b6c-8aa2-abc52608b5b1",
+					"id": "42d013bf-d8f8-4a3a-8a36-eef06b92580b",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5059,6 +5087,7 @@
 			]
 		},
 		{
+			"_postman_id": "2c89ab00-7235-4249-8d25-a095441fe7fb",
 			"name": "GeneralSearch-sort isBrailleProvided",
 			"event": [
 				{
@@ -5122,7 +5151,7 @@
 			},
 			"response": [
 				{
-					"id": "c98ce65d-a01e-43f5-924b-d09ab1f4cfc4",
+					"id": "e8e09f07-fdc9-4f72-8777-60a83128bd00",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5247,6 +5276,7 @@
 			]
 		},
 		{
+			"_postman_id": "1411c13b-f666-4f9c-b2cc-e0f80886a503",
 			"name": "GeneralSearch-sort isBrailleRequired",
 			"event": [
 				{
@@ -5310,7 +5340,7 @@
 			},
 			"response": [
 				{
-					"id": "fe651bb7-41d2-4324-a7d9-97109b031f60",
+					"id": "89a09744-2451-4052-a38b-362d27526af7",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5435,6 +5465,7 @@
 			]
 		},
 		{
+			"_postman_id": "30dce1b4-ae18-4c1d-a046-424bf4c892ad",
 			"name": "GeneralSearch-sort isClosedCaptioningProvided",
 			"event": [
 				{
@@ -5498,7 +5529,7 @@
 			},
 			"response": [
 				{
-					"id": "fb53e88c-aa0f-4891-92b1-460f5395a696",
+					"id": "b445edc8-66df-4f82-922f-a08e366b2354",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5623,6 +5654,7 @@
 			]
 		},
 		{
+			"_postman_id": "b2ef2b9c-ccc4-4a64-8433-d458a07435e9",
 			"name": "GeneralSearch-sort isClosedCaptioningRequired",
 			"event": [
 				{
@@ -5686,7 +5718,7 @@
 			},
 			"response": [
 				{
-					"id": "2aa54391-53b1-4e03-87c2-e14ee7910b8d",
+					"id": "0c2a39d4-d6b9-4d75-a58d-80439b68b0e4",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5811,6 +5843,7 @@
 			]
 		},
 		{
+			"_postman_id": "c918f500-949d-4981-b88b-2d6c6f75e8a5",
 			"name": "GeneralSearch-sort isTranslationProvided",
 			"event": [
 				{
@@ -5874,7 +5907,7 @@
 			},
 			"response": [
 				{
-					"id": "257d5dd3-8ed0-42c7-a724-cfd4fe76c1d0",
+					"id": "cd3ec264-1389-4878-9b17-b51a0b992fe3",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5999,6 +6032,7 @@
 			]
 		},
 		{
+			"_postman_id": "c19aaa77-47c9-42ca-976e-79d19ec9bf02",
 			"name": "GeneralSearch-sort isTranslationRequired",
 			"event": [
 				{
@@ -6062,7 +6096,7 @@
 			},
 			"response": [
 				{
-					"id": "0e6f0009-9154-4bfc-a301-56a23db390f9",
+					"id": "c4800c7e-a0ef-45ab-8810-bb5ab66f0b18",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6187,6 +6221,7 @@
 			]
 		},
 		{
+			"_postman_id": "abde4b17-07c9-4582-b589-7c0a01db1450",
 			"name": "Search - sort by \"isVisualTTSProvided\" ascending",
 			"event": [
 				{
@@ -6244,6 +6279,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f9cd3994-7cb8-4136-bfd5-fb697ade5b2e",
 			"name": "Search - sort by \"isVisualTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6301,6 +6337,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f726e2cb-f995-4729-9bf9-d6fdf45eb66e",
 			"name": "Search - sort by \"isVisualTTSRequired\" descending",
 			"event": [
 				{
@@ -6358,6 +6395,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "ad8f19bd-5b6c-4dc5-b754-2e2d82dc6f37",
 			"name": "Search - sort by \"isVisualTTSRequired\" ids 205869 205858 ascending",
 			"event": [
 				{
@@ -6415,6 +6453,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "c782a4ec-831a-4389-b237-106ce05a8333",
 			"name": "Search - sort by \"isSightTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6472,6 +6511,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "01eb3ec8-ce3e-41bb-83d9-10acf47bac84",
 			"name": "Search - sort by \"isSightTTSProvided\" ascending",
 			"event": [
 				{
@@ -6529,6 +6569,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "07e93ffd-aefa-4b82-ad74-f7dd4341bd25",
 			"name": "GeneralSearch- id 205315 sa",
 			"event": [
 				{
@@ -6615,6 +6656,94 @@
 			"response": []
 		},
 		{
+			"_postman_id": "52ed400d-f8e5-4a6e-9242-d69f9625779b",
+			"name": "GeneralSearch- id 205315 sa Copy",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "4c337534-ee3e-435a-a023-82a27ee4c18b",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should find id 205315\", function () {",
+							"    pm.expect(pm.response.json().results[0].id).to.eql(\"205315\");",
+							"});",
+							"",
+							"pm.test(\"Should find type 'sa'\", function () {",
+							"    pm.expect(pm.response.json().results[0].type).to.eql(\"sa\");",
+							"});",
+							"",
+							"pm.test(\"Should find stimulusId 205237\", function () {",
+							"    pm.expect(pm.response.json().results[0].stimulusId).to.eql(\"205237\");",
+							"});",
+							"",
+							"pm.test(\"Should find intendedGrade 5\", function () {",
+							"    pm.expect(pm.response.json().results[0].intendedGrade).to.eql(\"5\");",
+							"});",
+							"",
+							"pm.test(\"Should find createDate 2018-04-20T18:58:38Z\", function () {",
+							"    pm.expect(pm.response.json().results[0].createDate).to.eql(\"2018-04-20T18:58:38Z\");",
+							"});",
+							"",
+							"pm.test(\"Should find workflowStatusUpdatedDate 2018-04-20T18:58:38Z\", function () {",
+							"    pm.expect(pm.response.json().results[0].workflowStatusUpdatedDate).to.eql(\"2018-04-20T18:58:38Z\");",
+							"});",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"205315\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "0e736bb5-b689-4e85-8f6a-a89081f2b5b2",
 			"name": "GeneralSearch- id 206143",
 			"event": [
 				{
@@ -6678,6 +6807,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "c1f988b1-00c3-4041-9acd-99bbfd85d64e",
 			"name": "GeneralSearch- id 205320",
 			"event": [
 				{
@@ -6764,6 +6894,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "41dec2fa-5d7c-47c1-8a02-87b622d4ecc5",
 			"name": "GeneralSearch- id 205767",
 			"event": [
 				{
@@ -6847,6 +6978,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f4bc7b74-36d1-49ab-8e14-ba23e183a2ec",
 			"name": "GeneralSearch- id 206194  - testCategory Summative",
 			"event": [
 				{
@@ -6921,6 +7053,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "36d1817f-7b95-4b29-9dd3-1e8f781fa9e6",
 			"name": "GeneralSearch- id 205315 sa, createDate 2018-04-20T18:56:44Z",
 			"event": [
 				{
@@ -6990,6 +7123,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "4528b2e7-0868-4c88-8116-0baae24374b2",
 			"name": "GeneralSearch- id 205315 sa, workflowStatusUpdatedDate 2018-04-20T18:58:38Z",
 			"event": [
 				{
@@ -7059,6 +7193,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "97af0638-c94e-4973-8cb1-ece7ae46439b",
 			"name": "GeneralSearch- id 205363 - All Use Case 2 except daysInWorkflowStatus",
 			"event": [
 				{
@@ -7176,6 +7311,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "16897a98-d567-45fd-bf02-702db07a2760",
 			"name": "GeneralSearch- id 205326 eq",
 			"event": [
 				{
@@ -7254,6 +7390,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "b96da5f8-aa43-4690-95ba-6c08a137dbd9",
 			"name": "GeneralSearch- id 205327 stim Math",
 			"event": [
 				{
@@ -7328,6 +7465,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "83ac70e5-7305-44ae-a7a0-318b306302c0",
 			"name": "GeneralSearch- id 205328 stim ELA",
 			"event": [
 				{
@@ -7401,6 +7539,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "d11211bc-1e8d-400e-93aa-667936c0fda7",
 			"name": "GeneralSearch- id 205330 GI",
 			"event": [
 				{
@@ -7484,6 +7623,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "051c809d-544a-4485-9ba2-f793e8467895",
 			"name": "GeneralSearch- id 205331 HTQO",
 			"event": [
 				{
@@ -7559,6 +7699,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "ce0d4579-8749-4ee0-819f-f9f330fa2338",
 			"name": "GeneralSearch- id 205332 htqs",
 			"event": [
 				{
@@ -7632,6 +7773,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "80807160-7b54-429b-821b-a259e502c7f6",
 			"name": "GeneralSearch- id 205334 MI",
 			"event": [
 				{
@@ -7705,6 +7847,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "620d5cc4-c440-47f4-8c47-37009167d9f4",
 			"name": "GeneralSearch- id 205335 mc",
 			"event": [
 				{
@@ -7783,6 +7926,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "77fd6306-7ca1-47fb-9336-f21f33427665",
 			"name": "GeneralSearch- id 205336 ms",
 			"event": [
 				{
@@ -7861,6 +8005,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "988d2c4e-b3fc-4b05-bca1-6eccbad55615",
 			"name": "GeneralSearch- id 205337 sa",
 			"event": [
 				{
@@ -7938,6 +8083,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "8776e50a-2738-47b5-8cda-b02a27f7e97f",
 			"name": "GeneralSearch- id 205338 ti",
 			"event": [
 				{
@@ -8015,6 +8161,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "c23f0056-4ddb-464a-9ef7-9b0ac7d11b15",
 			"name": "GeneralSearch- id 205339 wer",
 			"event": [
 				{
@@ -8088,6 +8235,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "20d30fe8-ccb2-481c-bcd9-ef7bf5a0d64a",
 			"name": "GeneralSearch- id 205333 tut",
 			"event": [
 				{
@@ -8161,6 +8309,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "dc630cb0-6bfa-4e4d-9fad-5749543dc641",
 			"name": "GeneralSearch- id blank",
 			"event": [
 				{
@@ -8233,6 +8382,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "8d99c910-a3a8-416d-8a24-7a2b1e219312",
 			"name": "GeneralSearch- id 206006 asl and braille attachments",
 			"event": [
 				{
@@ -8304,6 +8454,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "6a1daa6e-ba15-4548-8c76-4f3fbbccccfc",
 			"name": "GeneralSearch- workflowStatusUpdatedDate contains 4/13/18",
 			"event": [
 				{
@@ -8376,6 +8527,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "917e90b9-8379-4fc1-9ef2-8bf1e40aabe9",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range: 5/18-6/7",
 			"event": [
 				{
@@ -8439,6 +8591,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9dc04b58-eade-4752-a1e1-3697f564cd06",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without 'to' date",
 			"event": [
 				{
@@ -8502,6 +8655,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "df5d1794-e96c-47d0-b0b5-c4b3c4e20aa0",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without \"from\" date",
 			"event": [
 				{
@@ -8565,6 +8719,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "38ebbfe5-a4ee-4bf3-8ac0-3865af01095a",
 			"name": "GeneralSearch- intendedGrade = 3",
 			"event": [
 				{
@@ -8637,6 +8792,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "e9b7dd77-2b9b-44d2-be08-35749190a370",
 			"name": "GeneralSearch- intendedGrade blank",
 			"event": [
 				{
@@ -8709,6 +8865,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "b60b4f18-9d75-4386-bf2e-b2d07177f0e9",
 			"name": "GeneralSearch-daysInWorkflowStatus = 0",
 			"event": [
 				{
@@ -8782,6 +8939,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "cb124c51-b4db-480c-b47d-a44542210292",
 			"name": "GeneralSearch-daysInWorkflowStatus = 7",
 			"event": [
 				{
@@ -8856,6 +9014,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "3ff04e8e-32a8-4f33-94cc-353ab557243f",
 			"name": "GeneralSearch-daysInWorkflowStatus = 1-7",
 			"event": [
 				{
@@ -8928,6 +9087,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "4ba3ad08-79c0-45cf-b89b-56b8239a95dd",
 			"name": "GeneralSearch-daysInWorkflowStatus = 14-60",
 			"event": [
 				{
@@ -8991,6 +9151,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "e6137eca-ee5d-4973-a019-99d2549e13be",
 			"name": "GeneralSearch-daysInWorkflowStatus = 60-120",
 			"event": [
 				{
@@ -9054,6 +9215,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "7c271420-05b3-4fff-84b3-35280f82c123",
 			"name": "GeneralSearch-stimulusId 205237",
 			"event": [
 				{
@@ -9126,6 +9288,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "1bf52466-171b-40c2-baad-eb201b73ba7f",
 			"name": "GeneralSearch-stimulusId 205328",
 			"event": [
 				{
@@ -9198,6 +9361,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "e2b022c5-05ee-4784-9e9d-3ed1f615fdcf",
 			"name": "GeneralSearch-stimulusId blank",
 			"event": [
 				{
@@ -9270,6 +9434,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9fd56140-c6a6-4afb-9152-ce869d693892",
 			"name": "GeneralSearch-depthOfKnowledge=3",
 			"event": [
 				{
@@ -9342,6 +9507,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "219db4c4-8381-4e69-a3a1-7e3b8ed96f68",
 			"name": "GeneralSearch-depthOfKnowledge blank",
 			"event": [
 				{
@@ -9414,6 +9580,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "57acdf42-a805-4955-bb77-f5de3e9f19d8",
 			"name": "GeneralSearch-WorkflowStatus=Draft",
 			"event": [
 				{
@@ -9498,6 +9665,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9d692e1a-d891-4a3b-b357-b01f6d639fac",
 			"name": "GeneralSearch-WorkflowStatus blank",
 			"event": [
 				{
@@ -9572,6 +9740,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "abc06816-6e2a-48ed-b8be-7eee01764209",
 			"name": "GeneralSearch-WorkflowStatus: Draft, Subject:ELA",
 			"event": [
 				{
@@ -9645,6 +9814,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "49f8952c-d692-406b-a30e-e2f6bf811f50",
 			"name": "GeneralSearch-WorkflowStatus=Draft, Subject=ELA, intendedGrade=3",
 			"event": [
 				{
@@ -9722,6 +9892,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "1addd230-0556-4e19-b1bf-4b7dc07e3e93",
 			"name": "GeneralSearch-workflowStatus=draft, intendedGrade = 7, primaryClaim = 3, stimulusId = 205255",
 			"event": [
 				{
@@ -9795,6 +9966,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "39cb268b-7aaf-4fd0-8b9f-dc33331664c9",
 			"name": "GeneralSearch-WorkflowStatus: Draft, daysRange: 2-4",
 			"event": [
 				{
@@ -9869,6 +10041,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "87c6542f-bc11-4f2a-ad03-ff3aac7480f5",
 			"name": "GeneralSearch- type = eq",
 			"event": [
 				{
@@ -9941,6 +10114,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "aeba865b-9ef2-4ecf-ba34-158c9c95d659",
 			"name": "GeneralSearch- type = blank",
 			"event": [
 				{
@@ -10013,6 +10187,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9d9daa03-5b4e-43f2-93b3-4a5b8cfd5198",
 			"name": "GeneralSearch- type = sa, eq",
 			"event": [
 				{
@@ -10087,6 +10262,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "26b70a08-bf5e-4b37-bab1-997e94c4a78a",
 			"name": "GeneralSearch-Subject=Math",
 			"event": [
 				{
@@ -10160,6 +10336,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "ff8a3d58-229b-46d6-b3a5-fdc5ccf360ab",
 			"name": "GeneralSearch-Subject=ELA",
 			"event": [
 				{
@@ -10232,6 +10409,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "76c44db4-469e-4bc0-8fa6-4edcfe816069",
 			"name": "GeneralSearch-Subject=blank",
 			"event": [
 				{
@@ -10304,6 +10482,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "95dce033-e853-427d-8e09-dc313fb2794a",
 			"name": "GeneralSearch- created by Jeff Melin",
 			"event": [
 				{
@@ -10376,6 +10555,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "28538aa3-14f3-428f-abf1-76672c9baa74",
 			"name": "GeneralSearch- itemAuthor JMQA",
 			"event": [
 				{
@@ -10448,6 +10628,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f5f1eda0-e169-41c6-9f77-c71ac67a9080",
 			"name": "GeneralSearch- itemAuthor blank",
 			"event": [
 				{
@@ -10520,6 +10701,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "927220e0-7a0a-4754-ab29-4496af26edf4",
 			"name": "GeneralSearch-organizationTypeId = vendor, smarterBalanced",
 			"event": [
 				{
@@ -10593,6 +10775,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "8ff337eb-585f-4cef-9d1a-b61c7b2399e4",
 			"name": "GeneralSearch-primaryClaim = 2",
 			"event": [
 				{
@@ -10666,6 +10849,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "01b50a2f-49b0-4a39-ba84-932f915c6758",
 			"name": "GeneralSearch-primaryClaim = blank",
 			"event": [
 				{
@@ -10739,6 +10923,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "d58663ee-21d4-49b2-a25b-18e1cb581937",
 			"name": "GeneralSearch-secondaryClaim = 1",
 			"event": [
 				{
@@ -10812,6 +10997,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "958e32ba-2fe2-49f9-a195-6bf86604f5be",
 			"name": "GeneralSearch-secondaryClaim blank",
 			"event": [
 				{
@@ -10885,6 +11071,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "7f3e3eb6-47e5-40eb-b463-2535e4c3e3af",
 			"name": "GeneralSearch-tertiaryClaim = 4",
 			"event": [
 				{
@@ -10958,6 +11145,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "c523b138-a71c-4c12-8737-4cd39a5f04af",
 			"name": "GeneralSearch-tertiaryClaim blank",
 			"event": [
 				{
@@ -11031,6 +11219,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "b895ea37-64fa-4986-a1ac-449478a47d30",
 			"name": "GeneralSearch-quaternaryClaim = 3",
 			"event": [
 				{
@@ -11104,6 +11293,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "39a3c471-9e33-448c-8a40-63432c6521ca",
 			"name": "GeneralSearch-quaternaryClaim blank",
 			"event": [
 				{
@@ -11177,6 +11367,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "de992273-ded8-4ff1-972e-dec8ed5996f2",
 			"name": "GeneralSearch-primaryTarget = QA PAT1",
 			"event": [
 				{
@@ -11249,6 +11440,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "083b1437-8aa0-49a0-83a8-6bbe53586683",
 			"name": "GeneralSearch-primaryTarget = blank",
 			"event": [
 				{
@@ -11321,6 +11513,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "76b8b9d8-be65-4c2b-8f52-cc7eec605e1c",
 			"name": "GeneralSearch-secondaryTarget = L",
 			"event": [
 				{
@@ -11393,6 +11586,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "64b7ef58-5e06-42d8-9cb6-a638e5f57c3c",
 			"name": "GeneralSearch-secondaryTarget blank",
 			"event": [
 				{
@@ -11465,6 +11659,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "8e59ccfd-055c-47a8-93a8-f69f1429b9ef",
 			"name": "GeneralSearch-tertiaryTarget = M",
 			"event": [
 				{
@@ -11537,6 +11732,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "5c7d40be-e7be-43a8-be02-8699ce91c6c5",
 			"name": "GeneralSearch-tertiaryTarget blank",
 			"event": [
 				{
@@ -11609,6 +11805,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "376bc911-3d16-4fa2-901b-c585535bde6f",
 			"name": "GeneralSearch-quaternaryTarget = A",
 			"event": [
 				{
@@ -11681,6 +11878,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "d4a0f336-79d4-42af-8eef-08746b4644ef",
 			"name": "GeneralSearch-quaternaryTarget blank",
 			"event": [
 				{
@@ -11753,6 +11951,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "3939aa71-8275-4d6a-a3ae-817f4266476f",
 			"name": "GeneralSearch-contentTaskModel contains 'odel'",
 			"event": [
 				{
@@ -11830,6 +12029,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "7f9f23a1-de7e-490e-ab47-11c0e01537e5",
 			"name": "GeneralSearch-contentTaskModel contains blank",
 			"event": [
 				{
@@ -11905,6 +12105,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "847d5ef4-3889-4392-918d-e9eba5db6551",
 			"name": "GeneralSearch-primaryTarget = PAT, QA PAT1",
 			"event": [
 				{
@@ -11977,6 +12178,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "649b6779-07b9-46dc-959a-f84d10df5a48",
 			"name": "GeneralSearch-organizationName = QA",
 			"event": [
 				{
@@ -12051,6 +12253,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "cc265ee9-4784-4639-92be-2fbda9199852",
 			"name": "GeneralSearch-organizationName contain Q",
 			"event": [
 				{
@@ -12123,6 +12326,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "8f4c7fc9-599d-4373-abfc-008907c2cf75",
 			"name": "GeneralSearch-organizationName contains sb, A, h",
 			"event": [
 				{
@@ -12186,6 +12390,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "fbcbbcad-82cf-4cf9-aa5e-9627bb1c9359",
 			"name": "GeneralSearch-organizationName blank",
 			"event": [
 				{
@@ -12249,6 +12454,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "417704e6-660c-45b8-b308-688ba311fd30",
 			"name": "GeneralSearch-organizationTypeId matches smarterBalanced",
 			"event": [
 				{
@@ -12321,6 +12527,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "0f0c30f9-2226-49b9-aa2d-ce99721effdc",
 			"name": "GeneralSearch-organizationTypeId blank",
 			"event": [
 				{
@@ -12393,6 +12600,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9ce70370-bb50-4d04-a4cd-45bd9d8668f3",
 			"name": "GeneralSearch-Item Count groupBy intendedGrade for subject ELA",
 			"event": [
 				{
@@ -12480,6 +12688,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "08440f80-efeb-4e6a-9746-2ab1f7550116",
 			"name": "GeneralSearch-Item Count groupBy subject",
 			"event": [
 				{
@@ -12553,6 +12762,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "a63b77b6-3406-4eef-9ff2-d63c0a73a037",
 			"name": "GeneralSearch-Item Count groupBy depthOfKnowledge",
 			"event": [
 				{
@@ -12630,6 +12840,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "c4ba78ab-cfa9-4a05-8d93-bddb7afc0e91",
 			"name": "GeneralSearch-Item Count groupBy primaryClaim",
 			"event": [
 				{
@@ -12695,6 +12906,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "d3ad9822-f70a-4d5f-8996-b15ce0b81dba",
 			"name": "GeneralSearch-Item Count groupBy secondaryClaim",
 			"event": [
 				{
@@ -12760,6 +12972,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "6058a636-6c8c-4dca-a0e6-8ee9df8581d5",
 			"name": "GeneralSearch-Item Count groupBy tertiaryClaim",
 			"event": [
 				{
@@ -12825,6 +13038,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "3bf8c69d-06ec-46f0-af2b-8836c11092b3",
 			"name": "GeneralSearch-Item Count groupBy quaternaryClaim",
 			"event": [
 				{
@@ -12890,6 +13104,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "da336be5-fd99-464e-b804-f6108e38e186",
 			"name": "GeneralSearch-Item Count groupBy primaryTarget",
 			"event": [
 				{
@@ -12957,6 +13172,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "005ac2f5-6ae3-4b9e-8ad7-e46587ebaf46",
 			"name": "GeneralSearch-Item Count groupBy secondaryTarget",
 			"event": [
 				{
@@ -13022,6 +13238,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "e98e4923-8819-4c77-a73d-e6f1b5b50468",
 			"name": "GeneralSearch-Item Count groupBy tertiaryTarget",
 			"event": [
 				{
@@ -13087,6 +13304,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9069b5d4-c4ac-4858-9484-76a1727c4992",
 			"name": "GeneralSearch-Item Count groupBy quaternaryTarget",
 			"event": [
 				{
@@ -13152,6 +13370,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "e31fac15-da86-4ad2-a693-bddda78b1fa9",
 			"name": "GeneralSearch-Item Count groupBy organizationName",
 			"event": [
 				{
@@ -13217,6 +13436,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "6b56185a-acbb-46bf-b617-380b00882a39",
 			"name": "GeneralSearch-Item Count groupBy organizationTypeId",
 			"event": [
 				{
@@ -13282,6 +13502,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "c5c33657-828f-4b11-aab2-6015706216bb",
 			"name": "GeneralSearch-Item Count groupBy workflowStatus",
 			"event": [
 				{
@@ -13359,6 +13580,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f91dd098-9235-4b48-bef7-046821d39072",
 			"name": "GeneralSearch -Item Count groupBy itemDiffficultyQuintile",
 			"request": {
 				"auth": {
@@ -13408,6 +13630,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "d28618a5-63c1-4997-ae31-3a425958a4df",
 			"name": "Item Count - groupBy testCategory",
 			"request": {
 				"auth": {
@@ -13467,6 +13690,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "11112782-b3e2-4b49-8ea9-09e825f77f52",
 			"name": "Search By Item Difficulty Quintile",
 			"request": {
 				"auth": {
@@ -13513,6 +13737,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "d12910bf-4f57-4d9c-b1a3-64d964b0686d",
 			"name": "Search By Calculated Exposures Count",
 			"request": {
 				"auth": {
@@ -13559,6 +13784,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "16bcb40a-2406-4ffa-b7a5-32e1ed494631",
 			"name": "Search By Calculated Form Count",
 			"request": {
 				"auth": {
@@ -13605,6 +13831,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "70d33a5b-9ff9-4c7a-a352-106e6da915ff",
 			"name": "Search - \"isAslRequired\" is \"true\"",
 			"event": [
 				{
@@ -13675,6 +13902,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "ba1439ff-d3cf-4076-8f67-aa29b8f9a45e",
 			"name": "Search - \"isAslRequired\" is \"false\"",
 			"event": [
 				{
@@ -13745,6 +13973,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "0bf1d985-df4e-4130-81a3-0d089b845c5f",
 			"name": "Search - \"isAslRequired\" is blank",
 			"event": [
 				{
@@ -13811,6 +14040,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "d6154e72-d2d7-46d8-a273-6b0ecd6bd6ca",
 			"name": "Search - \"isAslProvided\" is \"true\"",
 			"event": [
 				{
@@ -13881,6 +14111,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "0d7f48de-bda5-44a3-8ba1-6033d30d5b4f",
 			"name": "Search - \"isAslProvided\" is \"false\"",
 			"event": [
 				{
@@ -13949,6 +14180,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "70c12b6b-9dcc-4b53-9b40-7efb76bd989b",
 			"name": "Search - \"isAslProvided\" is blank",
 			"event": [
 				{
@@ -14017,6 +14249,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "cd151ae3-16b1-4f3b-b557-d77cca11bf08",
 			"name": "Search - \"isBrailleRequired\" is \"true\"",
 			"event": [
 				{
@@ -14084,6 +14317,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "2a2061a4-0cac-4812-af3e-7f20bcb22f6b",
 			"name": "Search - \"isBrailleRequired\" is \"false\"",
 			"event": [
 				{
@@ -14154,6 +14388,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "070eff35-0527-425c-bad3-c423f0bae514",
 			"name": "Search - \"isBrailleRequired\" is blank",
 			"event": [
 				{
@@ -14222,6 +14457,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "bc3a20ed-7a49-4ed1-ab79-dd0c29cb40fa",
 			"name": "Search - \"isBrailleProvided\" is \"true\"",
 			"event": [
 				{
@@ -14290,6 +14526,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "394a8793-69fc-44a8-8197-fd8ff48b4604",
 			"name": "Search - \"isBrailleProvided\" is \"false\"",
 			"event": [
 				{
@@ -14358,6 +14595,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "b8a58532-30ec-44e8-8685-1e65527a9c26",
 			"name": "Search - \"isBrailleProvided\" is blank",
 			"event": [
 				{
@@ -14426,6 +14664,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "7159bff1-7a69-4c09-bd70-64dcb249154b",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"true\"",
 			"event": [
 				{
@@ -14496,6 +14735,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9a2fd12f-42ed-405a-b20e-c03007988acc",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"false\"",
 			"event": [
 				{
@@ -14566,6 +14806,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "16a8b181-33e0-4be3-9eea-dd99d90359fc",
 			"name": "Search - \"isClosedCaptioningRequired\" is blank",
 			"event": [
 				{
@@ -14634,6 +14875,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "9b3bc1ba-be94-40c6-98cd-a8f223ec4077",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"true\"",
 			"event": [
 				{
@@ -14704,6 +14946,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "166a27c9-51f3-4024-9104-13546cb8c980",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"false\"",
 			"event": [
 				{
@@ -14772,6 +15015,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "966af11b-d3bc-4467-81d4-44bcc1aff8ab",
 			"name": "Search - \"isClosedCaptioningProvided\" is blank",
 			"event": [
 				{
@@ -14840,6 +15084,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "197598a8-f0a0-4c1b-8a28-3138e431a7be",
 			"name": "Search - \"isTranslationRequired\" is \"true\"",
 			"event": [
 				{
@@ -14910,6 +15155,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "af87a476-5502-4ded-a950-c8164356495b",
 			"name": "Search - \"isTranslationRequired\" is \"false\"",
 			"event": [
 				{
@@ -14986,6 +15232,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "ac538b1a-5d8f-4bba-ae49-f5cfda136591",
 			"name": "Search - \"isTranslationRequired\" is blank",
 			"event": [
 				{
@@ -15056,6 +15303,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "5aa7d58e-f976-409d-9267-8494405770ad",
 			"name": "Search - \"isTranslationProvided\" is \"true\"",
 			"event": [
 				{
@@ -15130,6 +15378,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "8a6e324b-976e-4921-9a5d-917a16196d14",
 			"name": "Search - \"isTranslationProvided\" is \"false\"",
 			"event": [
 				{
@@ -15196,6 +15445,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "465d49b4-732f-437d-bdbe-b0cf34149d77",
 			"name": "Search - \"isTranslationProvided\" is blank",
 			"event": [
 				{
@@ -15262,6 +15512,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "a98abddb-7445-49c5-bcd3-b0ffc5c37741",
 			"name": "Search by Targets A, B, C, D",
 			"event": [
 				{
@@ -15368,6 +15619,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "02eb5092-81fd-43e1-b476-0febff03575a",
 			"name": "Search by Targets J, L, M, F",
 			"event": [
 				{
@@ -15473,6 +15725,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f6761f94-1357-42aa-a732-87eba9bc48de",
 			"name": "Search by Claims",
 			"event": [
 				{
@@ -15579,6 +15832,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "72f9524f-af32-4dfa-8f3e-8b3d8359baf6",
 			"name": "Search writingPurpose = Narrative",
 			"event": [
 				{
@@ -15646,6 +15900,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "b754314b-9c5e-4606-87de-65661e694394",
 			"name": "Search writingPurpose all",
 			"event": [
 				{
@@ -15714,6 +15969,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "b58a9bca-b538-4291-beda-1fef1ae91a59",
 			"name": "Search writingPurpose blank",
 			"event": [
 				{
@@ -15782,6 +16038,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "eb5267c3-8c28-4a67-9b57-ba56a51c3a21",
 			"name": "Search formType Operational",
 			"event": [
 				{
@@ -15840,6 +16097,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "e8cf94da-6c3a-463f-a7ce-92708cfa2d82",
 			"name": "Search performanceTask = No",
 			"event": [
 				{
@@ -15907,6 +16165,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f3f8150f-3f4a-477e-98b2-e4b38aa1304b",
 			"name": "Search performanceTask = Yes",
 			"event": [
 				{
@@ -15974,6 +16233,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "78c14874-2ec0-4740-a35f-29dd1855cb10",
 			"name": "Search performanceTask blank",
 			"event": [
 				{
@@ -16041,6 +16301,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "05dfc279-b1d6-4309-9793-f6a85a5642a6",
 			"name": "Search - \"isVisualTTSProvided\" is \"true\"",
 			"event": [
 				{
@@ -16109,6 +16370,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "14cd4006-435f-4f2e-8a62-5a173ba5cbd7",
 			"name": "Search - \"isVisualTTSProvided\" is \"false\"",
 			"event": [
 				{
@@ -16177,6 +16439,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "2b527d97-7757-443d-b5c7-532e83746147",
 			"name": "Search - \"isSightTTSProvided\" is \"true\"",
 			"event": [
 				{
@@ -16245,6 +16508,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "6a9bd44f-0147-4e83-ac84-c0147342bd2b",
 			"name": "Search - \"isSightTTSProvided\" is \"false\"",
 			"event": [
 				{
@@ -16313,6 +16577,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "703354e1-0399-4dca-a6e5-41ac839d4310",
 			"name": "Search - \"isVisualTTSRequired\" is \"true\"",
 			"event": [
 				{
@@ -16381,6 +16646,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "fb777cea-0143-4cbb-b1d0-bc43a863b6b1",
 			"name": "Search - \"isVisualTTSRequired\" is \"false\"",
 			"event": [
 				{
@@ -16449,6 +16715,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "05a45853-4e00-455d-9ed3-9bd27f7477ef",
 			"name": "Search - calculatedExposuresCount blank",
 			"event": [
 				{
@@ -16516,6 +16783,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "1e9e164d-e79c-41e1-b781-d180e5add4dc",
 			"name": "Search - calculatedFormCount blank",
 			"event": [
 				{
@@ -16583,6 +16851,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "427e4a46-fa8d-4913-8fd1-de2282330749",
 			"name": "Search - itemDifficultyQuintile blank",
 			"event": [
 				{
@@ -16650,6 +16919,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "137366e5-8438-40b3-ae56-a1852967bbd4",
 			"name": "GetSingleItem 205320",
 			"event": [
 				{
@@ -16723,6 +16993,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "f9f34e0d-1996-42e4-98e8-42547091eeca",
 			"name": "GetSingleItem 205857",
 			"event": [
 				{
@@ -16778,6 +17049,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "4714b23d-bb27-4f52-ad64-fbe00f1e9571",
 			"name": "GetSingleItem 205323",
 			"event": [
 				{
@@ -16858,6 +17130,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "7d77fa8c-a612-495e-ab27-316246d13ba7",
 			"name": "GetMultipleItems 205320,205315, 205323",
 			"event": [
 				{
@@ -16921,6 +17194,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "bf4063f2-146d-43ca-bf05-cc5d9ff57428",
 			"name": "GeneralSearch- formAssessmentType = Summative",
 			"event": [
 				{
@@ -16984,6 +17258,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "5cb4d92c-035a-45c1-a579-4a67c1cc331d",
 			"name": "GeneralSearch- formAssessmentType = Interim",
 			"event": [
 				{
@@ -17047,6 +17322,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "65e97bb1-b2b4-45ce-b919-a7b92fbc8d99",
 			"name": "GeneralSearch- formAssessmentType = Practice",
 			"event": [
 				{
@@ -17110,6 +17386,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "855ab55a-956b-4813-be9a-96d672984d34",
 			"name": "GeneralSearch- formType FieldTest",
 			"event": [
 				{
@@ -17173,6 +17450,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "73c751af-9d49-4961-ac9e-e6af0ea62099",
 			"name": "GeneralSearch- formType Operational",
 			"event": [
 				{
@@ -17236,6 +17514,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "291b3d4f-2794-4e47-a86a-66310245b9c9",
 			"name": "Search - TestCategory - Summative, Practice, or Interim",
 			"event": [
 				{
@@ -17314,6 +17593,7 @@
 			"response": []
 		},
 		{
+			"_postman_id": "ef150861-2a0a-409a-85b9-e1a907122a0d",
 			"name": "Search - TestCategory includeBlanks",
 			"event": [
 				{
@@ -17368,6 +17648,1046 @@
 						"org"
 					],
 					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "3ee57bbc-90fc-4f56-9f7c-e80b590601a2",
+			"name": "GeneralSearch-EnglishContentLastUpdated-From-and-To",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"type": "text/javascript",
+						"exec": [
+							"/*",
+							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
+							"});",
+							"",
+							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
+							"});",
+							"*/",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-23T00:00:00Z\",\n\t\t\t\"to\": \"2018-07-23T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 20,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "5f38168b-53d7-4281-a304-dc37cbbec9d4",
+			"name": "GeneralSearch-EnglishContentLastUpdated-From",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"type": "text/javascript",
+						"exec": [
+							"/*",
+							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
+							"});",
+							"",
+							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
+							"});",
+							"*/",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-24T00:00:00Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "113227eb-d738-4251-9672-4bf5cef94058",
+			"name": "GeneralSearch-EnglishContentLastUpdated-To",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"type": "text/javascript",
+						"exec": [
+							"/*",
+							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
+							"});",
+							"",
+							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
+							"});",
+							"*/",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"to\": \"2018-07-23T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "bbf4e641-db64-4b49-93dc-62dcfb5c9d6f",
+			"name": "GeneralSearch-EnglishContentLastUpdated-To-sort-by-eng-lang-update-date",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"type": "text/javascript",
+						"exec": [
+							"/*",
+							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
+							"});",
+							"",
+							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
+							"});",
+							"*/",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"to\": \"2018-07-24T16:56:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "b0aa07db-e719-4e13-8a37-e4b1672a978f",
+			"name": "GeneralSearch-EnglishContentLastUpdated-From-sort-by-eng-lang-update-asc",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"type": "text/javascript",
+						"exec": [
+							"/*",
+							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
+							"});",
+							"",
+							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
+							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
+							"});",
+							"*/",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-24T00:00:00Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "24f93e54-ae43-4065-b642-d52c774db3fc",
+			"name": "General Search Scoring Engine - HandScored",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"HandScored\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "cb5d77a9-74b2-4e0d-93e3-c58b52f33269",
+			"name": "General Search Scoring Engine - AutomaticWithRubric",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"AutomaticWithRubric\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "bfe63c7b-def7-4bd0-b9e0-361a130ddd96",
+			"name": "General Search Scoring Engine - Automatic With Machine Rubric",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"Automatic with Machine Rubric\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "608b7261-e554-448d-a3ff-d6429c0dae82",
+			"name": "General Search Scoring Engine - AutomaticWithKey",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"AutomaticWithKey\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "12eac40e-931a-45c1-87cc-5a6ed030e66f",
+			"name": "General Search Scoring Engine - AutomaticWithKeys",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"AutomaticWithKeys\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "6da010a1-ee20-4c85-8222-0ace097018f5",
+			"name": "General Search Scoring Engine Blanks",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3dff5378-73d3-4cd9-98d4-e8078ea8a7cd",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"HandScored\"],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "6dd26e32-5ef6-43d2-bfbe-b0b77559a167",
+			"name": "General Search Content Domain",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3e4291a5-8e9e-4e05-8068-3490b7513222",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryContentDomain\",\n            \"values\": [\"QA3\"]\n        },\n        {\n            \"property\": \"secondaryContentDomain\",\n            \"values\": [\"QA3\"]\n        },\n                {\n            \"property\": \"tertiaryContentDomain\",\n            \"values\": [\"QA3\"]\n        },\n        {\n            \"property\": \"quaternaryContentDomain\",\n            \"values\": [\"QA3\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "ef7f510a-9aa2-42e4-bf20-d223d87433e5",
+			"name": "General Search Content Domain Blanks",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "5df15edb-bc0e-4b1b-a1fa-7f5ad70b07b5",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"secondaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n                {\n            \"property\": \"tertiaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"quaternaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 20,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "cdded496-800a-4090-b73f-9a48f24c3d6f",
+			"name": "General Search Common Core Standard",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "82bc288d-028c-4a13-bc34-12ca654d1295",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryCommonCoreStandard\",\n            \"values\": [\"pccs qa\"]\n        },\n        {\n            \"property\": \"secondaryCommonCoreStandard\",\n            \"values\": [\"sccs qa\"]\n        },\n                {\n            \"property\": \"tertiaryCommonCoreStandard\",\n            \"values\": [\"tccs qa\"]\n        },\n        {\n            \"property\": \"quaternaryCommonCoreStandard\",\n            \"values\": [\"qccs qa\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "fddee1e0-f316-4172-ae4f-02ab834d06c9",
+			"name": "General Search Common Core Standard Blanks",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "8d88a52f-86b0-4a8d-8c37-22ba6374031e",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"secondaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n                {\n            \"property\": \"tertiaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"quaternaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"",
 						"v1",
 						"items",
 						"search"
