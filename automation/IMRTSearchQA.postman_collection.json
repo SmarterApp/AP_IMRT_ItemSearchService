@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"_postman_id": "cdba2278-b7de-4bac-8151-17c45309b2d8",
+			"_postman_id": "72a60e96-6583-4697-9aea-269525e48aab",
 			"name": "OpenAM OAuth (password) Token",
 			"event": [
 				{
@@ -85,7 +85,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "63d5246f-7a8a-4487-9541-34d6db9bdefd",
+			"_postman_id": "8b606bae-200f-467f-91fa-965c8851d5b5",
 			"name": "GeneralSearch-BeingCreated=true",
 			"event": [
 				{
@@ -157,7 +157,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "278d9be6-2ef6-4b50-9947-425e5890d04f",
+			"_postman_id": "3cbbce00-1e54-48b3-b847-1a3c95257a4c",
 			"name": "GeneralSearch- sort id",
 			"event": [
 				{
@@ -223,7 +223,7 @@
 			},
 			"response": [
 				{
-					"id": "48adb032-508f-49f6-846b-f673cf9f830c",
+					"id": "c66f49a1-7f31-4afa-85ed-cd4a803d9e45",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -348,7 +348,7 @@
 			]
 		},
 		{
-			"_postman_id": "e8aceee7-837e-41c7-a0cb-2081c8ca3318",
+			"_postman_id": "ce07f99a-a8ce-4c6a-927f-b468e5a76eef",
 			"name": "GeneralSearch- sort id - pageNumber 2",
 			"event": [
 				{
@@ -413,7 +413,7 @@
 			},
 			"response": [
 				{
-					"id": "cf3c165d-1917-49c9-8bc3-f21c57b7dd36",
+					"id": "06808f88-a7bd-45a2-aa9b-d01b1d907d06",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -538,7 +538,7 @@
 			]
 		},
 		{
-			"_postman_id": "a385dffb-0f8d-45ba-9634-4b1c488d8afe",
+			"_postman_id": "a0b54b0a-3d22-4d2e-b7a6-5ec09993ffc1",
 			"name": "GeneralSearch- sort intendedGrade",
 			"event": [
 				{
@@ -605,7 +605,7 @@
 			},
 			"response": [
 				{
-					"id": "a028f6bc-42ef-4fd3-818b-4769f3670b37",
+					"id": "8ab09d10-f29e-4494-811c-2e8bef1383d3",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -730,7 +730,7 @@
 			]
 		},
 		{
-			"_postman_id": "90b3dd11-300f-4086-a571-9d689557b0ce",
+			"_postman_id": "8ff08a14-823e-4f95-a87a-94e176cf43f2",
 			"name": "GeneralSearch- sort intendedGrade - pageNumber 5",
 			"event": [
 				{
@@ -797,7 +797,7 @@
 			},
 			"response": [
 				{
-					"id": "f0110d15-acac-4595-832e-17d1b2740c4b",
+					"id": "27560e6c-a09a-4758-863f-b89bafdd0d88",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -922,7 +922,7 @@
 			]
 		},
 		{
-			"_postman_id": "2a99044e-157b-41e8-b2dc-cc7ba6f66a3f",
+			"_postman_id": "4fa5fd02-6a28-4c0e-a55b-99dd82f0e01d",
 			"name": "GeneralSearch- sort stimulusId",
 			"event": [
 				{
@@ -993,7 +993,7 @@
 			},
 			"response": [
 				{
-					"id": "bcee9005-42ae-447e-ae53-60fe069acbe2",
+					"id": "3f484fdf-295c-462d-82af-4efad092aef9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1118,7 +1118,7 @@
 			]
 		},
 		{
-			"_postman_id": "fee963d6-2b76-40ce-88ac-751445781d99",
+			"_postman_id": "ecdb7bb7-2fb3-4d0d-a82a-f6df60402646",
 			"name": "GeneralSearch-sort depthOfKnowledge",
 			"event": [
 				{
@@ -1182,7 +1182,7 @@
 			},
 			"response": [
 				{
-					"id": "fc7a00f8-909a-42e1-8e7f-8cd9b717853d",
+					"id": "643f271e-db9e-4e08-b1d2-4807d0480f6e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1307,7 +1307,7 @@
 			]
 		},
 		{
-			"_postman_id": "cc7029f3-6a48-4198-8924-d52a74736b82",
+			"_postman_id": "a08130c5-dc38-4fdf-8874-f7518b91c31a",
 			"name": "GeneralSearch-sort workflowStatus",
 			"event": [
 				{
@@ -1371,7 +1371,7 @@
 			},
 			"response": [
 				{
-					"id": "788bc9b6-eab9-449c-90c0-3536261dfae2",
+					"id": "93fa87ad-5e98-406c-bb50-f1c93d7a59e5",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1496,7 +1496,7 @@
 			]
 		},
 		{
-			"_postman_id": "a9a7b1ad-ae1a-451c-9d7c-00b0a3e8c06b",
+			"_postman_id": "0a34d56b-4da0-476d-b3d1-4675f2e9807c",
 			"name": "GeneralSearch-sort workflowStatusUpdatedDate",
 			"event": [
 				{
@@ -1560,7 +1560,7 @@
 			},
 			"response": [
 				{
-					"id": "4e287db5-c3eb-4868-bf02-8e25635aa759",
+					"id": "41ec47aa-8b65-43e3-aedd-fc646aab3419",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1685,7 +1685,7 @@
 			]
 		},
 		{
-			"_postman_id": "28a904af-e974-411d-b1b1-e086b0c12dd2",
+			"_postman_id": "386f1034-b695-44c7-abcd-8738b9fb0d55",
 			"name": "GeneralSearch-sort type",
 			"event": [
 				{
@@ -1749,7 +1749,7 @@
 			},
 			"response": [
 				{
-					"id": "9378bf45-536a-4d70-8f78-41847f3d2da0",
+					"id": "cc73b409-9603-4c77-a523-1c458f7105ff",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1874,7 +1874,7 @@
 			]
 		},
 		{
-			"_postman_id": "3c108159-2d1f-4a9a-bb10-0e17d94012af",
+			"_postman_id": "25573b12-dd4d-4ba2-815d-f3b8cbef4346",
 			"name": "GeneralSearch-sort subject",
 			"event": [
 				{
@@ -1938,7 +1938,7 @@
 			},
 			"response": [
 				{
-					"id": "28155d6c-6ea0-4ba9-8242-5c1b15a51df1",
+					"id": "4b226c4c-d43e-42c6-844e-d2ead6104ad8",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2063,7 +2063,7 @@
 			]
 		},
 		{
-			"_postman_id": "7413c4f2-ce05-4001-b252-77d4bad42d6d",
+			"_postman_id": "5f4fd99f-8aea-484f-a05f-fe7152f72d98",
 			"name": "GeneralSearch-sort organizationTypeId",
 			"event": [
 				{
@@ -2127,7 +2127,7 @@
 			},
 			"response": [
 				{
-					"id": "25c56d96-a027-4a76-8924-9b165c015846",
+					"id": "e353fc91-f53b-431b-8d4a-d733c48ba942",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2252,7 +2252,7 @@
 			]
 		},
 		{
-			"_postman_id": "ed2a28aa-6dbf-43d3-af9a-f19cd26144b4",
+			"_postman_id": "7f13f234-24b4-4603-94cd-e71dfa4f1642",
 			"name": "GeneralSearch-sort organizationName",
 			"event": [
 				{
@@ -2316,7 +2316,7 @@
 			},
 			"response": [
 				{
-					"id": "3559f16d-2905-4be9-befb-3283d503838b",
+					"id": "0fd4cacd-2667-419d-978a-50a52a73b879",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2441,7 +2441,7 @@
 			]
 		},
 		{
-			"_postman_id": "560faefb-0634-45d4-8046-b7bfd7173438",
+			"_postman_id": "9d582a7f-4584-46af-b732-c7763de095ce",
 			"name": "GeneralSearch-sort createdBy",
 			"event": [
 				{
@@ -2505,7 +2505,7 @@
 			},
 			"response": [
 				{
-					"id": "e746768f-dac7-4c4e-b706-f64b4101141f",
+					"id": "145fab93-fd0e-491d-b19c-8f6b04335d84",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2630,7 +2630,7 @@
 			]
 		},
 		{
-			"_postman_id": "6b1b4864-d84d-48fc-bc9c-18cccb32af54",
+			"_postman_id": "3e574923-1e13-41e0-80e6-16306db526f4",
 			"name": "GeneralSearch-sort primaryClaim",
 			"event": [
 				{
@@ -2694,7 +2694,7 @@
 			},
 			"response": [
 				{
-					"id": "5a4cec9b-c75c-4818-895d-d29b02488f01",
+					"id": "de8b9a3b-4f24-4fe7-bd60-afd5f2242c46",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2819,7 +2819,7 @@
 			]
 		},
 		{
-			"_postman_id": "30aaaf6a-bc9e-4761-9edd-9f6fad3bbe4e",
+			"_postman_id": "bdee386c-822d-4ec3-bd38-9a725aa69cad",
 			"name": "GeneralSearch-sort secondaryClaim",
 			"event": [
 				{
@@ -2883,7 +2883,7 @@
 			},
 			"response": [
 				{
-					"id": "6e835147-f8a3-4220-b3b5-01e8e0315913",
+					"id": "86fca7de-2abe-4384-9d2c-a520395d04af",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3008,7 +3008,7 @@
 			]
 		},
 		{
-			"_postman_id": "074c8f12-8e19-4ac3-95d2-1eb4bb770b51",
+			"_postman_id": "57313925-08c1-4cdf-9b3d-27de9d380e5d",
 			"name": "GeneralSearch-sort tertiaryClaim",
 			"event": [
 				{
@@ -3072,7 +3072,7 @@
 			},
 			"response": [
 				{
-					"id": "c37da80d-df72-4ba1-896b-d5f0b6be9fe0",
+					"id": "edfb6df0-d254-4086-99fd-1c0f694ae3be",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3197,7 +3197,7 @@
 			]
 		},
 		{
-			"_postman_id": "882830b6-11da-4e49-a6f8-6135f5a34cc2",
+			"_postman_id": "445b2c6e-16b1-4044-bb49-f3c10c597238",
 			"name": "GeneralSearch-sort quaternaryClaim",
 			"event": [
 				{
@@ -3261,7 +3261,7 @@
 			},
 			"response": [
 				{
-					"id": "ac4204f6-0f29-4f7a-b91c-a22c386fdf3e",
+					"id": "7b396c11-af21-4f1c-b465-52f91c79648f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3386,7 +3386,7 @@
 			]
 		},
 		{
-			"_postman_id": "893442e6-e2ea-42df-9712-4be3ebd3d7d5",
+			"_postman_id": "7b6f5f17-9784-410e-8f55-813fa2bbc51b",
 			"name": "GeneralSearch-sort primaryTarget",
 			"event": [
 				{
@@ -3450,7 +3450,7 @@
 			},
 			"response": [
 				{
-					"id": "82b9b7d1-bec3-4d9b-897c-832c86053031",
+					"id": "4cd381a0-84df-44db-a63e-bc9e58fdfe27",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3575,7 +3575,7 @@
 			]
 		},
 		{
-			"_postman_id": "0b18b0a5-a1fe-4e93-bf8d-0d1ae33700ce",
+			"_postman_id": "25cceb03-64c7-4786-b42c-420d6c4b2836",
 			"name": "GeneralSearch-sort secondaryTarget",
 			"event": [
 				{
@@ -3639,7 +3639,7 @@
 			},
 			"response": [
 				{
-					"id": "9e290891-71b3-4d44-9635-b47a597ee4f3",
+					"id": "60231e21-51bd-43e4-99e3-753ba1ee7467",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3764,7 +3764,7 @@
 			]
 		},
 		{
-			"_postman_id": "2d36d487-05d0-4b00-b02b-f21a451537c8",
+			"_postman_id": "f566517b-2115-4f42-91ea-a6a2f5c9c37c",
 			"name": "GeneralSearch-sort tertiaryTarget",
 			"event": [
 				{
@@ -3828,7 +3828,7 @@
 			},
 			"response": [
 				{
-					"id": "30d2fd38-d27a-4813-af5b-9eb0b3ce03ee",
+					"id": "fc87c03a-21d8-4f8b-a3ab-3189a8cbca80",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3953,7 +3953,7 @@
 			]
 		},
 		{
-			"_postman_id": "8613ca66-70c7-4050-8806-8e164560d91f",
+			"_postman_id": "12e87930-bbf8-45f8-97a6-082f8be8d876",
 			"name": "GeneralSearch-sort quaternaryTarget",
 			"event": [
 				{
@@ -4017,7 +4017,7 @@
 			},
 			"response": [
 				{
-					"id": "3699ab1c-7500-4aa5-929c-d4e23e25f61e",
+					"id": "3eac825d-5899-4f45-9961-53b44a5cc858",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4142,7 +4142,7 @@
 			]
 		},
 		{
-			"_postman_id": "6070db8f-e42a-4113-9f85-78b95a1c49a7",
+			"_postman_id": "9ad45e54-bd30-48a1-8e4d-34ccaf74df5f",
 			"name": "GeneralSearch-sort contentTaskModel",
 			"event": [
 				{
@@ -4206,7 +4206,7 @@
 			},
 			"response": [
 				{
-					"id": "0a3d31be-3ce9-4dfc-a652-63ab06ce4eca",
+					"id": "3beb86dd-5f55-4c24-8136-1911c6b66da3",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4331,7 +4331,7 @@
 			]
 		},
 		{
-			"_postman_id": "1edbe3a1-9a3e-488b-8232-c41821383769",
+			"_postman_id": "8f2aef10-b3ec-4001-a063-ca52a96cdbdd",
 			"name": "GeneralSearch-sort writingPurpose",
 			"event": [
 				{
@@ -4395,7 +4395,7 @@
 			},
 			"response": [
 				{
-					"id": "8061264d-0907-46f0-aa61-aa3445137d26",
+					"id": "00f82a58-8d5d-4301-a7d3-2ad7c06bd4fd",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4520,7 +4520,7 @@
 			]
 		},
 		{
-			"_postman_id": "7616e816-519e-49eb-9a13-9eac2f9be7a8",
+			"_postman_id": "89deb342-f1b3-4445-8257-bc80e1987a64",
 			"name": "GeneralSearch-sort performanceTask",
 			"event": [
 				{
@@ -4584,7 +4584,7 @@
 			},
 			"response": [
 				{
-					"id": "15deec50-8d66-480d-a769-7be8427fbb56",
+					"id": "707fe087-bd6c-42e1-a8e3-8d3c710d0825",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4709,7 +4709,7 @@
 			]
 		},
 		{
-			"_postman_id": "4a8883c3-770a-4587-8559-be840bf2fdf0",
+			"_postman_id": "833bf648-26c5-4268-ad41-402297172374",
 			"name": "GeneralSearch-sort isAslProvided",
 			"event": [
 				{
@@ -4773,7 +4773,7 @@
 			},
 			"response": [
 				{
-					"id": "898edef3-8b3e-4143-9384-d9592f251231",
+					"id": "b7fe5dd0-ac52-4935-896c-cca68e0c66df",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4898,7 +4898,7 @@
 			]
 		},
 		{
-			"_postman_id": "4e951017-3a20-481f-a8e5-1e3113456f97",
+			"_postman_id": "6b69c791-a0c6-4b8e-bb28-e7b7862d801a",
 			"name": "GeneralSearch-sort isAslRequired",
 			"event": [
 				{
@@ -4962,7 +4962,7 @@
 			},
 			"response": [
 				{
-					"id": "42d013bf-d8f8-4a3a-8a36-eef06b92580b",
+					"id": "97a07148-4e24-4905-aa47-1babb9981503",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5087,7 +5087,7 @@
 			]
 		},
 		{
-			"_postman_id": "2c89ab00-7235-4249-8d25-a095441fe7fb",
+			"_postman_id": "78585d0a-a5d3-4076-a309-291abed46091",
 			"name": "GeneralSearch-sort isBrailleProvided",
 			"event": [
 				{
@@ -5151,7 +5151,7 @@
 			},
 			"response": [
 				{
-					"id": "e8e09f07-fdc9-4f72-8777-60a83128bd00",
+					"id": "d59cac5d-db6b-420a-ae48-ee46d49206c0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5276,7 +5276,7 @@
 			]
 		},
 		{
-			"_postman_id": "1411c13b-f666-4f9c-b2cc-e0f80886a503",
+			"_postman_id": "78847721-82f6-4132-8fbc-c2c1426347ba",
 			"name": "GeneralSearch-sort isBrailleRequired",
 			"event": [
 				{
@@ -5340,7 +5340,7 @@
 			},
 			"response": [
 				{
-					"id": "89a09744-2451-4052-a38b-362d27526af7",
+					"id": "9cc465f1-8c76-4f3c-8615-4cd776262ba0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5465,7 +5465,7 @@
 			]
 		},
 		{
-			"_postman_id": "30dce1b4-ae18-4c1d-a046-424bf4c892ad",
+			"_postman_id": "14f9a8a9-a326-4e0c-a3ae-5f0c7023760e",
 			"name": "GeneralSearch-sort isClosedCaptioningProvided",
 			"event": [
 				{
@@ -5529,7 +5529,7 @@
 			},
 			"response": [
 				{
-					"id": "b445edc8-66df-4f82-922f-a08e366b2354",
+					"id": "4ff66428-7c17-42b6-9f2b-de0d3138dbb3",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5654,7 +5654,7 @@
 			]
 		},
 		{
-			"_postman_id": "b2ef2b9c-ccc4-4a64-8433-d458a07435e9",
+			"_postman_id": "a4dedce2-8dc7-4b7a-abfc-ca8cb52213fc",
 			"name": "GeneralSearch-sort isClosedCaptioningRequired",
 			"event": [
 				{
@@ -5718,7 +5718,7 @@
 			},
 			"response": [
 				{
-					"id": "0c2a39d4-d6b9-4d75-a58d-80439b68b0e4",
+					"id": "9eb3177a-4645-411e-a83a-fe263ecefca5",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5843,7 +5843,7 @@
 			]
 		},
 		{
-			"_postman_id": "c918f500-949d-4981-b88b-2d6c6f75e8a5",
+			"_postman_id": "a37f06e5-63a5-4db7-86ad-c5ece3aafe78",
 			"name": "GeneralSearch-sort isTranslationProvided",
 			"event": [
 				{
@@ -5907,7 +5907,7 @@
 			},
 			"response": [
 				{
-					"id": "cd3ec264-1389-4878-9b17-b51a0b992fe3",
+					"id": "75b59844-1bfc-44cf-a0b2-bcd718354b6d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6032,7 +6032,7 @@
 			]
 		},
 		{
-			"_postman_id": "c19aaa77-47c9-42ca-976e-79d19ec9bf02",
+			"_postman_id": "24f82fe2-a79b-4cd9-bc39-f0a83baa8ae6",
 			"name": "GeneralSearch-sort isTranslationRequired",
 			"event": [
 				{
@@ -6096,7 +6096,7 @@
 			},
 			"response": [
 				{
-					"id": "c4800c7e-a0ef-45ab-8810-bb5ab66f0b18",
+					"id": "4a6b2ed3-9822-4765-835d-cae0aa0dd591",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6221,7 +6221,7 @@
 			]
 		},
 		{
-			"_postman_id": "abde4b17-07c9-4582-b589-7c0a01db1450",
+			"_postman_id": "36344870-2e57-4025-80b2-c516c97ae4a8",
 			"name": "Search - sort by \"isVisualTTSProvided\" ascending",
 			"event": [
 				{
@@ -6279,7 +6279,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f9cd3994-7cb8-4136-bfd5-fb697ade5b2e",
+			"_postman_id": "683bc61f-1465-4c50-a2b5-69c5cde0420e",
 			"name": "Search - sort by \"isVisualTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6337,7 +6337,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f726e2cb-f995-4729-9bf9-d6fdf45eb66e",
+			"_postman_id": "0b97370d-c47c-4535-9c55-06943573a034",
 			"name": "Search - sort by \"isVisualTTSRequired\" descending",
 			"event": [
 				{
@@ -6395,7 +6395,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ad8f19bd-5b6c-4dc5-b754-2e2d82dc6f37",
+			"_postman_id": "cabe894d-d4f2-415b-80ec-54093c2d4a06",
 			"name": "Search - sort by \"isVisualTTSRequired\" ids 205869 205858 ascending",
 			"event": [
 				{
@@ -6453,7 +6453,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c782a4ec-831a-4389-b237-106ce05a8333",
+			"_postman_id": "d1b82715-d2d6-4ad9-beec-52f8fa38e9de",
 			"name": "Search - sort by \"isSightTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6511,7 +6511,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "01eb3ec8-ce3e-41bb-83d9-10acf47bac84",
+			"_postman_id": "85b9bdc0-fc43-4c38-91e6-d4053a57c2dd",
 			"name": "Search - sort by \"isSightTTSProvided\" ascending",
 			"event": [
 				{
@@ -6569,7 +6569,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "07e93ffd-aefa-4b82-ad74-f7dd4341bd25",
+			"_postman_id": "502e79b4-97c7-4ec8-b16d-a0d9fe9b95d7",
 			"name": "GeneralSearch- id 205315 sa",
 			"event": [
 				{
@@ -6656,7 +6656,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "52ed400d-f8e5-4a6e-9242-d69f9625779b",
+			"_postman_id": "9499e123-3258-45eb-a79a-9fd9ae5e0002",
 			"name": "GeneralSearch- id 205315 sa Copy",
 			"event": [
 				{
@@ -6743,7 +6743,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0e736bb5-b689-4e85-8f6a-a89081f2b5b2",
+			"_postman_id": "fe9cdf1c-7196-48d2-bd37-df27aba043cd",
 			"name": "GeneralSearch- id 206143",
 			"event": [
 				{
@@ -6807,7 +6807,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c1f988b1-00c3-4041-9acd-99bbfd85d64e",
+			"_postman_id": "e8a2881c-05df-41d4-bdf0-2f67f4278ce8",
 			"name": "GeneralSearch- id 205320",
 			"event": [
 				{
@@ -6894,7 +6894,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "41dec2fa-5d7c-47c1-8a02-87b622d4ecc5",
+			"_postman_id": "217f3028-fb44-4277-a141-3cd5b150ddf0",
 			"name": "GeneralSearch- id 205767",
 			"event": [
 				{
@@ -6978,7 +6978,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f4bc7b74-36d1-49ab-8e14-ba23e183a2ec",
+			"_postman_id": "7ab7bda8-ef81-4087-8a63-260e3b151eba",
 			"name": "GeneralSearch- id 206194  - testCategory Summative",
 			"event": [
 				{
@@ -7053,7 +7053,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "36d1817f-7b95-4b29-9dd3-1e8f781fa9e6",
+			"_postman_id": "a5fb937f-e9ee-4f9b-b4a8-b9bce3a570f1",
 			"name": "GeneralSearch- id 205315 sa, createDate 2018-04-20T18:56:44Z",
 			"event": [
 				{
@@ -7123,7 +7123,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4528b2e7-0868-4c88-8116-0baae24374b2",
+			"_postman_id": "c05c7e74-1882-4125-99e8-bf87497e89f7",
 			"name": "GeneralSearch- id 205315 sa, workflowStatusUpdatedDate 2018-04-20T18:58:38Z",
 			"event": [
 				{
@@ -7193,7 +7193,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "97af0638-c94e-4973-8cb1-ece7ae46439b",
+			"_postman_id": "65b985ef-840f-4f9a-bf18-d541953ed172",
 			"name": "GeneralSearch- id 205363 - All Use Case 2 except daysInWorkflowStatus",
 			"event": [
 				{
@@ -7311,7 +7311,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "16897a98-d567-45fd-bf02-702db07a2760",
+			"_postman_id": "97268ba7-f734-4a11-a5de-02ca45b2c780",
 			"name": "GeneralSearch- id 205326 eq",
 			"event": [
 				{
@@ -7390,7 +7390,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b96da5f8-aa43-4690-95ba-6c08a137dbd9",
+			"_postman_id": "313cb39c-ed77-4c14-96b9-a7a4758aaebf",
 			"name": "GeneralSearch- id 205327 stim Math",
 			"event": [
 				{
@@ -7465,7 +7465,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "83ac70e5-7305-44ae-a7a0-318b306302c0",
+			"_postman_id": "fe9e5f74-74da-4b40-9fe0-0e670cf419a1",
 			"name": "GeneralSearch- id 205328 stim ELA",
 			"event": [
 				{
@@ -7539,7 +7539,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d11211bc-1e8d-400e-93aa-667936c0fda7",
+			"_postman_id": "e7555084-70fa-4c5e-aecf-f31791f0c879",
 			"name": "GeneralSearch- id 205330 GI",
 			"event": [
 				{
@@ -7623,7 +7623,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "051c809d-544a-4485-9ba2-f793e8467895",
+			"_postman_id": "20bcd806-3c8c-40aa-8d7f-4e110be17d45",
 			"name": "GeneralSearch- id 205331 HTQO",
 			"event": [
 				{
@@ -7699,7 +7699,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ce0d4579-8749-4ee0-819f-f9f330fa2338",
+			"_postman_id": "580bd01c-0913-4fce-9d07-d100360e5671",
 			"name": "GeneralSearch- id 205332 htqs",
 			"event": [
 				{
@@ -7773,7 +7773,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "80807160-7b54-429b-821b-a259e502c7f6",
+			"_postman_id": "a21517a4-3d5f-47f3-b240-98080689a00c",
 			"name": "GeneralSearch- id 205334 MI",
 			"event": [
 				{
@@ -7847,7 +7847,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "620d5cc4-c440-47f4-8c47-37009167d9f4",
+			"_postman_id": "8072d5f9-791d-497b-bed5-9ba00abd0f71",
 			"name": "GeneralSearch- id 205335 mc",
 			"event": [
 				{
@@ -7926,7 +7926,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "77fd6306-7ca1-47fb-9336-f21f33427665",
+			"_postman_id": "85b29153-3492-4032-88ae-c0ed10e3b5ae",
 			"name": "GeneralSearch- id 205336 ms",
 			"event": [
 				{
@@ -8005,7 +8005,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "988d2c4e-b3fc-4b05-bca1-6eccbad55615",
+			"_postman_id": "a4d09bd4-c2f2-4b95-b2d1-be56a85820a4",
 			"name": "GeneralSearch- id 205337 sa",
 			"event": [
 				{
@@ -8083,7 +8083,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8776e50a-2738-47b5-8cda-b02a27f7e97f",
+			"_postman_id": "a807ca17-3886-42e3-aec1-bdf6740081fd",
 			"name": "GeneralSearch- id 205338 ti",
 			"event": [
 				{
@@ -8161,7 +8161,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c23f0056-4ddb-464a-9ef7-9b0ac7d11b15",
+			"_postman_id": "e67bc0ba-d229-4eb9-ae78-bc7e63cd5092",
 			"name": "GeneralSearch- id 205339 wer",
 			"event": [
 				{
@@ -8235,7 +8235,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "20d30fe8-ccb2-481c-bcd9-ef7bf5a0d64a",
+			"_postman_id": "f5cf6849-54d4-4f56-82a8-ca8c0f428c8a",
 			"name": "GeneralSearch- id 205333 tut",
 			"event": [
 				{
@@ -8309,7 +8309,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "dc630cb0-6bfa-4e4d-9fad-5749543dc641",
+			"_postman_id": "cc7afd65-e1e9-4e2b-8b06-59a318f3e018",
 			"name": "GeneralSearch- id blank",
 			"event": [
 				{
@@ -8382,7 +8382,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8d99c910-a3a8-416d-8a24-7a2b1e219312",
+			"_postman_id": "dfdae948-5820-44c8-bff6-98165d407dd9",
 			"name": "GeneralSearch- id 206006 asl and braille attachments",
 			"event": [
 				{
@@ -8454,7 +8454,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6a1daa6e-ba15-4548-8c76-4f3fbbccccfc",
+			"_postman_id": "bd546fe2-1a73-4640-b38f-d6d4a82cfa98",
 			"name": "GeneralSearch- workflowStatusUpdatedDate contains 4/13/18",
 			"event": [
 				{
@@ -8527,7 +8527,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "917e90b9-8379-4fc1-9ef2-8bf1e40aabe9",
+			"_postman_id": "5980932d-e633-45c1-be21-47f2605564ca",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range: 5/18-6/7",
 			"event": [
 				{
@@ -8591,7 +8591,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9dc04b58-eade-4752-a1e1-3697f564cd06",
+			"_postman_id": "521591be-4cfb-4650-bb7f-da52d7f5c69e",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without 'to' date",
 			"event": [
 				{
@@ -8655,7 +8655,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "df5d1794-e96c-47d0-b0b5-c4b3c4e20aa0",
+			"_postman_id": "34066764-2e6a-4d5e-88e3-010c795afd32",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without \"from\" date",
 			"event": [
 				{
@@ -8719,7 +8719,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "38ebbfe5-a4ee-4bf3-8ac0-3865af01095a",
+			"_postman_id": "e3b2840a-49ac-411a-a901-11e31eeb28cc",
 			"name": "GeneralSearch- intendedGrade = 3",
 			"event": [
 				{
@@ -8792,7 +8792,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e9b7dd77-2b9b-44d2-be08-35749190a370",
+			"_postman_id": "2184c874-9978-452a-8015-eed65ad8a67f",
 			"name": "GeneralSearch- intendedGrade blank",
 			"event": [
 				{
@@ -8865,7 +8865,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b60b4f18-9d75-4386-bf2e-b2d07177f0e9",
+			"_postman_id": "85782758-4006-4651-8102-e6406984f941",
 			"name": "GeneralSearch-daysInWorkflowStatus = 0",
 			"event": [
 				{
@@ -8939,7 +8939,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cb124c51-b4db-480c-b47d-a44542210292",
+			"_postman_id": "ff36ecdd-a48b-49c1-9701-fe107b491491",
 			"name": "GeneralSearch-daysInWorkflowStatus = 7",
 			"event": [
 				{
@@ -9014,7 +9014,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3ff04e8e-32a8-4f33-94cc-353ab557243f",
+			"_postman_id": "70d58be6-8ceb-4c98-b47d-bca727d40591",
 			"name": "GeneralSearch-daysInWorkflowStatus = 1-7",
 			"event": [
 				{
@@ -9087,7 +9087,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4ba3ad08-79c0-45cf-b89b-56b8239a95dd",
+			"_postman_id": "89aeabe6-ce9e-478a-af4f-cb4a068d17d2",
 			"name": "GeneralSearch-daysInWorkflowStatus = 14-60",
 			"event": [
 				{
@@ -9151,7 +9151,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e6137eca-ee5d-4973-a019-99d2549e13be",
+			"_postman_id": "f8feebdd-8d63-4d8d-bdb3-83b2a19df488",
 			"name": "GeneralSearch-daysInWorkflowStatus = 60-120",
 			"event": [
 				{
@@ -9215,7 +9215,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7c271420-05b3-4fff-84b3-35280f82c123",
+			"_postman_id": "f1030b29-8deb-4d6e-9721-caf7ab49329f",
 			"name": "GeneralSearch-stimulusId 205237",
 			"event": [
 				{
@@ -9288,7 +9288,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1bf52466-171b-40c2-baad-eb201b73ba7f",
+			"_postman_id": "352d2678-e097-4e5d-b17d-f2909daf07c8",
 			"name": "GeneralSearch-stimulusId 205328",
 			"event": [
 				{
@@ -9361,7 +9361,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e2b022c5-05ee-4784-9e9d-3ed1f615fdcf",
+			"_postman_id": "9fc06989-fb7e-49a3-ab5b-9c5954210a8b",
 			"name": "GeneralSearch-stimulusId blank",
 			"event": [
 				{
@@ -9434,7 +9434,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9fd56140-c6a6-4afb-9152-ce869d693892",
+			"_postman_id": "8db978f4-0cb2-43c7-b496-8972af76ca0d",
 			"name": "GeneralSearch-depthOfKnowledge=3",
 			"event": [
 				{
@@ -9507,7 +9507,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "219db4c4-8381-4e69-a3a1-7e3b8ed96f68",
+			"_postman_id": "ab6e2210-4b12-4aaa-918b-7f37e77f4a4c",
 			"name": "GeneralSearch-depthOfKnowledge blank",
 			"event": [
 				{
@@ -9580,7 +9580,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "57acdf42-a805-4955-bb77-f5de3e9f19d8",
+			"_postman_id": "0fb09197-b156-481a-84d0-1057e31822de",
 			"name": "GeneralSearch-WorkflowStatus=Draft",
 			"event": [
 				{
@@ -9665,7 +9665,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9d692e1a-d891-4a3b-b357-b01f6d639fac",
+			"_postman_id": "6f971761-9533-4573-b5f2-5fa8b6bce229",
 			"name": "GeneralSearch-WorkflowStatus blank",
 			"event": [
 				{
@@ -9740,7 +9740,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "abc06816-6e2a-48ed-b8be-7eee01764209",
+			"_postman_id": "9c176e92-a621-4ad0-98cd-f928b2ee5f04",
 			"name": "GeneralSearch-WorkflowStatus: Draft, Subject:ELA",
 			"event": [
 				{
@@ -9814,7 +9814,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "49f8952c-d692-406b-a30e-e2f6bf811f50",
+			"_postman_id": "c1596cc0-f408-43d3-bd04-3794b3f67460",
 			"name": "GeneralSearch-WorkflowStatus=Draft, Subject=ELA, intendedGrade=3",
 			"event": [
 				{
@@ -9892,7 +9892,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1addd230-0556-4e19-b1bf-4b7dc07e3e93",
+			"_postman_id": "f217a1c6-8d94-4129-b2c8-2a46f2e955a9",
 			"name": "GeneralSearch-workflowStatus=draft, intendedGrade = 7, primaryClaim = 3, stimulusId = 205255",
 			"event": [
 				{
@@ -9966,7 +9966,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "39cb268b-7aaf-4fd0-8b9f-dc33331664c9",
+			"_postman_id": "1233d485-c59d-4046-8b65-612d743cd88e",
 			"name": "GeneralSearch-WorkflowStatus: Draft, daysRange: 2-4",
 			"event": [
 				{
@@ -10041,7 +10041,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "87c6542f-bc11-4f2a-ad03-ff3aac7480f5",
+			"_postman_id": "94672282-9b88-4a57-9736-d2e31048af41",
 			"name": "GeneralSearch- type = eq",
 			"event": [
 				{
@@ -10114,7 +10114,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "aeba865b-9ef2-4ecf-ba34-158c9c95d659",
+			"_postman_id": "4ecc8a74-ff9f-43bf-b01c-2c0f4e61330e",
 			"name": "GeneralSearch- type = blank",
 			"event": [
 				{
@@ -10187,7 +10187,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9d9daa03-5b4e-43f2-93b3-4a5b8cfd5198",
+			"_postman_id": "35ead9a5-17ed-44b6-9611-5d821f608329",
 			"name": "GeneralSearch- type = sa, eq",
 			"event": [
 				{
@@ -10262,7 +10262,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "26b70a08-bf5e-4b37-bab1-997e94c4a78a",
+			"_postman_id": "d1ac48ae-384a-4ac6-b113-20777796ab96",
 			"name": "GeneralSearch-Subject=Math",
 			"event": [
 				{
@@ -10336,7 +10336,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ff8a3d58-229b-46d6-b3a5-fdc5ccf360ab",
+			"_postman_id": "2fb4cc25-a12b-4a7d-87e4-f94d3cdd1d8f",
 			"name": "GeneralSearch-Subject=ELA",
 			"event": [
 				{
@@ -10409,7 +10409,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "76c44db4-469e-4bc0-8fa6-4edcfe816069",
+			"_postman_id": "55595ab7-2ce1-48f2-8692-e3e78768f3e3",
 			"name": "GeneralSearch-Subject=blank",
 			"event": [
 				{
@@ -10482,7 +10482,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "95dce033-e853-427d-8e09-dc313fb2794a",
+			"_postman_id": "e889887d-2260-4539-af86-43c62b786b8d",
 			"name": "GeneralSearch- created by Jeff Melin",
 			"event": [
 				{
@@ -10555,7 +10555,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "28538aa3-14f3-428f-abf1-76672c9baa74",
+			"_postman_id": "2f523a4d-57d5-4c62-b214-e010b8b168ac",
 			"name": "GeneralSearch- itemAuthor JMQA",
 			"event": [
 				{
@@ -10628,7 +10628,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f5f1eda0-e169-41c6-9f77-c71ac67a9080",
+			"_postman_id": "3621bc6c-ef6b-4526-a964-25b2bbe2008c",
 			"name": "GeneralSearch- itemAuthor blank",
 			"event": [
 				{
@@ -10701,7 +10701,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "927220e0-7a0a-4754-ab29-4496af26edf4",
+			"_postman_id": "f1e1ebcb-1fad-462b-acd4-6236675e0548",
 			"name": "GeneralSearch-organizationTypeId = vendor, smarterBalanced",
 			"event": [
 				{
@@ -10775,7 +10775,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8ff337eb-585f-4cef-9d1a-b61c7b2399e4",
+			"_postman_id": "1138fed3-364e-4720-85cd-583050b23147",
 			"name": "GeneralSearch-primaryClaim = 2",
 			"event": [
 				{
@@ -10849,7 +10849,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "01b50a2f-49b0-4a39-ba84-932f915c6758",
+			"_postman_id": "4cb0f4f4-b21f-442e-bfb7-6f03d183421d",
 			"name": "GeneralSearch-primaryClaim = blank",
 			"event": [
 				{
@@ -10923,7 +10923,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d58663ee-21d4-49b2-a25b-18e1cb581937",
+			"_postman_id": "1fa07162-dda0-48f9-bec3-cde3246e95ee",
 			"name": "GeneralSearch-secondaryClaim = 1",
 			"event": [
 				{
@@ -10997,7 +10997,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "958e32ba-2fe2-49f9-a195-6bf86604f5be",
+			"_postman_id": "8e6f1a97-56a1-4fbd-a91a-9437d8ddd5a2",
 			"name": "GeneralSearch-secondaryClaim blank",
 			"event": [
 				{
@@ -11071,7 +11071,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7f3e3eb6-47e5-40eb-b463-2535e4c3e3af",
+			"_postman_id": "bdbc70e3-1bc0-49b1-8e84-5ee9eb0cc20b",
 			"name": "GeneralSearch-tertiaryClaim = 4",
 			"event": [
 				{
@@ -11145,7 +11145,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c523b138-a71c-4c12-8737-4cd39a5f04af",
+			"_postman_id": "c5dc7077-e2ff-414d-9eae-30c2dad27ac6",
 			"name": "GeneralSearch-tertiaryClaim blank",
 			"event": [
 				{
@@ -11219,7 +11219,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b895ea37-64fa-4986-a1ac-449478a47d30",
+			"_postman_id": "2caeb507-aa9e-441a-a95d-f86559301e9d",
 			"name": "GeneralSearch-quaternaryClaim = 3",
 			"event": [
 				{
@@ -11293,7 +11293,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "39a3c471-9e33-448c-8a40-63432c6521ca",
+			"_postman_id": "5ec41666-e984-4b20-a400-9982d6c2e2ce",
 			"name": "GeneralSearch-quaternaryClaim blank",
 			"event": [
 				{
@@ -11367,7 +11367,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "de992273-ded8-4ff1-972e-dec8ed5996f2",
+			"_postman_id": "f978bdd2-6086-4d1b-90c4-a2342cdca039",
 			"name": "GeneralSearch-primaryTarget = QA PAT1",
 			"event": [
 				{
@@ -11440,7 +11440,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "083b1437-8aa0-49a0-83a8-6bbe53586683",
+			"_postman_id": "13832d32-ce61-4e43-a59a-f550eae15310",
 			"name": "GeneralSearch-primaryTarget = blank",
 			"event": [
 				{
@@ -11513,7 +11513,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "76b8b9d8-be65-4c2b-8f52-cc7eec605e1c",
+			"_postman_id": "d8594983-00d1-4f15-a489-7687ea2f9779",
 			"name": "GeneralSearch-secondaryTarget = L",
 			"event": [
 				{
@@ -11586,7 +11586,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "64b7ef58-5e06-42d8-9cb6-a638e5f57c3c",
+			"_postman_id": "2350f410-fe29-4a03-836e-2fb95197a8cc",
 			"name": "GeneralSearch-secondaryTarget blank",
 			"event": [
 				{
@@ -11659,7 +11659,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8e59ccfd-055c-47a8-93a8-f69f1429b9ef",
+			"_postman_id": "8a7a6b3b-f859-413b-91d5-68a6e0255f0d",
 			"name": "GeneralSearch-tertiaryTarget = M",
 			"event": [
 				{
@@ -11732,7 +11732,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5c7d40be-e7be-43a8-be02-8699ce91c6c5",
+			"_postman_id": "e5091cb1-bb62-42e4-a3b4-019e3e90b755",
 			"name": "GeneralSearch-tertiaryTarget blank",
 			"event": [
 				{
@@ -11805,7 +11805,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "376bc911-3d16-4fa2-901b-c585535bde6f",
+			"_postman_id": "53469099-cafa-4c11-8e29-4d91d4afad11",
 			"name": "GeneralSearch-quaternaryTarget = A",
 			"event": [
 				{
@@ -11878,7 +11878,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d4a0f336-79d4-42af-8eef-08746b4644ef",
+			"_postman_id": "d9e733c1-a3de-4254-8e55-53bf80717c1c",
 			"name": "GeneralSearch-quaternaryTarget blank",
 			"event": [
 				{
@@ -11951,7 +11951,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3939aa71-8275-4d6a-a3ae-817f4266476f",
+			"_postman_id": "b2f19b52-a509-44c7-95c8-7860a307328c",
 			"name": "GeneralSearch-contentTaskModel contains 'odel'",
 			"event": [
 				{
@@ -12029,7 +12029,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7f9f23a1-de7e-490e-ab47-11c0e01537e5",
+			"_postman_id": "9dc0a1b2-dd25-4a89-80ca-c6dd38c99cbb",
 			"name": "GeneralSearch-contentTaskModel contains blank",
 			"event": [
 				{
@@ -12105,7 +12105,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "847d5ef4-3889-4392-918d-e9eba5db6551",
+			"_postman_id": "493ace4a-8cdd-40f4-bd83-2d120acb33f5",
 			"name": "GeneralSearch-primaryTarget = PAT, QA PAT1",
 			"event": [
 				{
@@ -12178,7 +12178,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "649b6779-07b9-46dc-959a-f84d10df5a48",
+			"_postman_id": "753e4211-9661-4db8-9fc6-7e84461e4e64",
 			"name": "GeneralSearch-organizationName = QA",
 			"event": [
 				{
@@ -12253,7 +12253,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cc265ee9-4784-4639-92be-2fbda9199852",
+			"_postman_id": "56e15d60-6cc2-4a6c-ad75-86ac8d3ce569",
 			"name": "GeneralSearch-organizationName contain Q",
 			"event": [
 				{
@@ -12326,7 +12326,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8f4c7fc9-599d-4373-abfc-008907c2cf75",
+			"_postman_id": "620da849-2815-46ec-b2de-9f158071be2c",
 			"name": "GeneralSearch-organizationName contains sb, A, h",
 			"event": [
 				{
@@ -12390,7 +12390,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "fbcbbcad-82cf-4cf9-aa5e-9627bb1c9359",
+			"_postman_id": "c6646a7d-afb1-43ce-90e4-f47822d74535",
 			"name": "GeneralSearch-organizationName blank",
 			"event": [
 				{
@@ -12454,7 +12454,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "417704e6-660c-45b8-b308-688ba311fd30",
+			"_postman_id": "c4dd2640-b99c-4763-9648-2c2e1724280d",
 			"name": "GeneralSearch-organizationTypeId matches smarterBalanced",
 			"event": [
 				{
@@ -12527,7 +12527,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0f0c30f9-2226-49b9-aa2d-ce99721effdc",
+			"_postman_id": "90b8e50a-c74b-4091-a2fb-8cbc7fc8b9b2",
 			"name": "GeneralSearch-organizationTypeId blank",
 			"event": [
 				{
@@ -12600,7 +12600,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9ce70370-bb50-4d04-a4cd-45bd9d8668f3",
+			"_postman_id": "6f12d270-c48f-4fcb-83f7-50be8279b126",
 			"name": "GeneralSearch-Item Count groupBy intendedGrade for subject ELA",
 			"event": [
 				{
@@ -12688,7 +12688,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "08440f80-efeb-4e6a-9746-2ab1f7550116",
+			"_postman_id": "58a5efb5-78bd-400c-9592-b83077e08cb3",
 			"name": "GeneralSearch-Item Count groupBy subject",
 			"event": [
 				{
@@ -12762,7 +12762,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a63b77b6-3406-4eef-9ff2-d63c0a73a037",
+			"_postman_id": "a7e07f60-6e77-4052-b41f-7d448b504016",
 			"name": "GeneralSearch-Item Count groupBy depthOfKnowledge",
 			"event": [
 				{
@@ -12840,7 +12840,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c4ba78ab-cfa9-4a05-8d93-bddb7afc0e91",
+			"_postman_id": "1fbd7772-c9a4-4f91-9c3c-05c1892a269d",
 			"name": "GeneralSearch-Item Count groupBy primaryClaim",
 			"event": [
 				{
@@ -12906,7 +12906,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d3ad9822-f70a-4d5f-8996-b15ce0b81dba",
+			"_postman_id": "c983fd87-fec0-4ee2-a04f-6a6701e0580f",
 			"name": "GeneralSearch-Item Count groupBy secondaryClaim",
 			"event": [
 				{
@@ -12972,7 +12972,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6058a636-6c8c-4dca-a0e6-8ee9df8581d5",
+			"_postman_id": "52adb419-670b-4222-bf2a-b9f1098ef2ad",
 			"name": "GeneralSearch-Item Count groupBy tertiaryClaim",
 			"event": [
 				{
@@ -13038,7 +13038,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3bf8c69d-06ec-46f0-af2b-8836c11092b3",
+			"_postman_id": "055d9f23-d2ac-4a63-acc2-03a7375c7151",
 			"name": "GeneralSearch-Item Count groupBy quaternaryClaim",
 			"event": [
 				{
@@ -13104,7 +13104,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "da336be5-fd99-464e-b804-f6108e38e186",
+			"_postman_id": "2e220f4a-95f2-40d2-9b7a-7b7b821ebddb",
 			"name": "GeneralSearch-Item Count groupBy primaryTarget",
 			"event": [
 				{
@@ -13172,7 +13172,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "005ac2f5-6ae3-4b9e-8ad7-e46587ebaf46",
+			"_postman_id": "a090c2c3-ea90-43b8-89e6-ebb2947eafb2",
 			"name": "GeneralSearch-Item Count groupBy secondaryTarget",
 			"event": [
 				{
@@ -13238,7 +13238,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e98e4923-8819-4c77-a73d-e6f1b5b50468",
+			"_postman_id": "93a07762-42fe-40c9-93ab-c1a4b55ae003",
 			"name": "GeneralSearch-Item Count groupBy tertiaryTarget",
 			"event": [
 				{
@@ -13304,7 +13304,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9069b5d4-c4ac-4858-9484-76a1727c4992",
+			"_postman_id": "930c420d-d39c-428c-ac11-069eadcd6b73",
 			"name": "GeneralSearch-Item Count groupBy quaternaryTarget",
 			"event": [
 				{
@@ -13370,7 +13370,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e31fac15-da86-4ad2-a693-bddda78b1fa9",
+			"_postman_id": "1d403373-5e1c-4a82-8926-641255a18530",
 			"name": "GeneralSearch-Item Count groupBy organizationName",
 			"event": [
 				{
@@ -13436,7 +13436,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6b56185a-acbb-46bf-b617-380b00882a39",
+			"_postman_id": "68f4c660-0b25-4b2b-a08c-d987011d9611",
 			"name": "GeneralSearch-Item Count groupBy organizationTypeId",
 			"event": [
 				{
@@ -13502,7 +13502,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c5c33657-828f-4b11-aab2-6015706216bb",
+			"_postman_id": "8d5fb2c8-dcab-4e3d-872e-6c386e54beac",
 			"name": "GeneralSearch-Item Count groupBy workflowStatus",
 			"event": [
 				{
@@ -13580,7 +13580,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f91dd098-9235-4b48-bef7-046821d39072",
+			"_postman_id": "69721485-8301-478e-9aa5-15e9b3a4668a",
 			"name": "GeneralSearch -Item Count groupBy itemDiffficultyQuintile",
 			"request": {
 				"auth": {
@@ -13630,7 +13630,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d28618a5-63c1-4997-ae31-3a425958a4df",
+			"_postman_id": "0e0f2f77-a9de-4a68-b747-4c39a8c4ca4b",
 			"name": "Item Count - groupBy testCategory",
 			"request": {
 				"auth": {
@@ -13690,7 +13690,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "11112782-b3e2-4b49-8ea9-09e825f77f52",
+			"_postman_id": "aba3dbcf-f811-4533-bc0d-9705c130dfbc",
 			"name": "Search By Item Difficulty Quintile",
 			"request": {
 				"auth": {
@@ -13737,7 +13737,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d12910bf-4f57-4d9c-b1a3-64d964b0686d",
+			"_postman_id": "1fed3ae3-3122-422f-93a8-c5420afe6de6",
 			"name": "Search By Calculated Exposures Count",
 			"request": {
 				"auth": {
@@ -13784,7 +13784,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "16bcb40a-2406-4ffa-b7a5-32e1ed494631",
+			"_postman_id": "1ba31504-9254-4272-ad17-3f18855f9fe7",
 			"name": "Search By Calculated Form Count",
 			"request": {
 				"auth": {
@@ -13831,7 +13831,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "70d33a5b-9ff9-4c7a-a352-106e6da915ff",
+			"_postman_id": "1b0e85fa-2421-45ad-aaa3-3e0006b05474",
 			"name": "Search - \"isAslRequired\" is \"true\"",
 			"event": [
 				{
@@ -13902,7 +13902,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ba1439ff-d3cf-4076-8f67-aa29b8f9a45e",
+			"_postman_id": "86a3941c-7457-4dea-b812-b6a7c7e24864",
 			"name": "Search - \"isAslRequired\" is \"false\"",
 			"event": [
 				{
@@ -13973,7 +13973,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0bf1d985-df4e-4130-81a3-0d089b845c5f",
+			"_postman_id": "9981a54b-d6bb-4b82-81ee-a22c3c945dbd",
 			"name": "Search - \"isAslRequired\" is blank",
 			"event": [
 				{
@@ -14040,7 +14040,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d6154e72-d2d7-46d8-a273-6b0ecd6bd6ca",
+			"_postman_id": "334d340c-1052-4b26-816d-f3385179426c",
 			"name": "Search - \"isAslProvided\" is \"true\"",
 			"event": [
 				{
@@ -14111,7 +14111,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0d7f48de-bda5-44a3-8ba1-6033d30d5b4f",
+			"_postman_id": "ba2d1a05-2dd5-40c6-915a-ff7dfece0f23",
 			"name": "Search - \"isAslProvided\" is \"false\"",
 			"event": [
 				{
@@ -14180,7 +14180,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "70c12b6b-9dcc-4b53-9b40-7efb76bd989b",
+			"_postman_id": "3c055600-5593-4976-ade4-cb1e7a1ce4b1",
 			"name": "Search - \"isAslProvided\" is blank",
 			"event": [
 				{
@@ -14249,7 +14249,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cd151ae3-16b1-4f3b-b557-d77cca11bf08",
+			"_postman_id": "c1062f5f-8fd3-4846-9321-c3e2e985b893",
 			"name": "Search - \"isBrailleRequired\" is \"true\"",
 			"event": [
 				{
@@ -14317,7 +14317,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2a2061a4-0cac-4812-af3e-7f20bcb22f6b",
+			"_postman_id": "d77d1bb0-3d56-48c1-b272-31f198891593",
 			"name": "Search - \"isBrailleRequired\" is \"false\"",
 			"event": [
 				{
@@ -14388,7 +14388,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "070eff35-0527-425c-bad3-c423f0bae514",
+			"_postman_id": "aa0bae8e-cda0-4fca-9a13-d13c1cf61a66",
 			"name": "Search - \"isBrailleRequired\" is blank",
 			"event": [
 				{
@@ -14457,7 +14457,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bc3a20ed-7a49-4ed1-ab79-dd0c29cb40fa",
+			"_postman_id": "8205d549-d546-407a-aff8-f6b18752dbe3",
 			"name": "Search - \"isBrailleProvided\" is \"true\"",
 			"event": [
 				{
@@ -14526,7 +14526,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "394a8793-69fc-44a8-8197-fd8ff48b4604",
+			"_postman_id": "98c0d38d-bb03-4b9e-9a69-c194535947e5",
 			"name": "Search - \"isBrailleProvided\" is \"false\"",
 			"event": [
 				{
@@ -14595,7 +14595,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b8a58532-30ec-44e8-8685-1e65527a9c26",
+			"_postman_id": "f9d2b0e2-8b8b-4506-957f-692d2ac85800",
 			"name": "Search - \"isBrailleProvided\" is blank",
 			"event": [
 				{
@@ -14664,7 +14664,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7159bff1-7a69-4c09-bd70-64dcb249154b",
+			"_postman_id": "140b74e2-2ddc-40ad-99b9-dd9484597fb0",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"true\"",
 			"event": [
 				{
@@ -14735,7 +14735,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9a2fd12f-42ed-405a-b20e-c03007988acc",
+			"_postman_id": "8b602204-1dd2-4c4f-a598-2b99a01d3738",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"false\"",
 			"event": [
 				{
@@ -14806,7 +14806,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "16a8b181-33e0-4be3-9eea-dd99d90359fc",
+			"_postman_id": "38dfa1cb-96eb-404e-b5eb-43902ac540d2",
 			"name": "Search - \"isClosedCaptioningRequired\" is blank",
 			"event": [
 				{
@@ -14875,7 +14875,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9b3bc1ba-be94-40c6-98cd-a8f223ec4077",
+			"_postman_id": "69704511-94d4-48d0-8698-a38231095a41",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"true\"",
 			"event": [
 				{
@@ -14946,7 +14946,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "166a27c9-51f3-4024-9104-13546cb8c980",
+			"_postman_id": "bf6480b1-bc0e-47f8-a74e-a41edeefc86c",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"false\"",
 			"event": [
 				{
@@ -15015,7 +15015,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "966af11b-d3bc-4467-81d4-44bcc1aff8ab",
+			"_postman_id": "4af85bd3-80ad-4833-868b-58c0ed8f3d08",
 			"name": "Search - \"isClosedCaptioningProvided\" is blank",
 			"event": [
 				{
@@ -15084,7 +15084,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "197598a8-f0a0-4c1b-8a28-3138e431a7be",
+			"_postman_id": "d095c877-148f-4e61-8eed-2a5251776ba4",
 			"name": "Search - \"isTranslationRequired\" is \"true\"",
 			"event": [
 				{
@@ -15155,7 +15155,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "af87a476-5502-4ded-a950-c8164356495b",
+			"_postman_id": "18cbf9a6-ec3d-4342-91cb-ac129a7fc6fe",
 			"name": "Search - \"isTranslationRequired\" is \"false\"",
 			"event": [
 				{
@@ -15232,7 +15232,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ac538b1a-5d8f-4bba-ae49-f5cfda136591",
+			"_postman_id": "25140139-ae70-4cdf-8d87-fed5b9980760",
 			"name": "Search - \"isTranslationRequired\" is blank",
 			"event": [
 				{
@@ -15303,7 +15303,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5aa7d58e-f976-409d-9267-8494405770ad",
+			"_postman_id": "01bfa5f3-ea4d-44c2-9ffc-c3c0f3d112da",
 			"name": "Search - \"isTranslationProvided\" is \"true\"",
 			"event": [
 				{
@@ -15378,7 +15378,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8a6e324b-976e-4921-9a5d-917a16196d14",
+			"_postman_id": "b1ca2275-477c-40da-ad5a-b91552480908",
 			"name": "Search - \"isTranslationProvided\" is \"false\"",
 			"event": [
 				{
@@ -15445,7 +15445,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "465d49b4-732f-437d-bdbe-b0cf34149d77",
+			"_postman_id": "5cc1aef5-afc6-4ad7-835b-811f89ec0f8d",
 			"name": "Search - \"isTranslationProvided\" is blank",
 			"event": [
 				{
@@ -15512,7 +15512,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a98abddb-7445-49c5-bcd3-b0ffc5c37741",
+			"_postman_id": "92cfdae3-d635-48c9-b98f-e982b1bc316d",
 			"name": "Search by Targets A, B, C, D",
 			"event": [
 				{
@@ -15619,7 +15619,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "02eb5092-81fd-43e1-b476-0febff03575a",
+			"_postman_id": "e76e4f79-3968-4f03-8bfa-78ade1da40c8",
 			"name": "Search by Targets J, L, M, F",
 			"event": [
 				{
@@ -15725,7 +15725,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f6761f94-1357-42aa-a732-87eba9bc48de",
+			"_postman_id": "8c59b96b-a998-4c37-bf7a-9b73e40c6d7b",
 			"name": "Search by Claims",
 			"event": [
 				{
@@ -15832,7 +15832,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "72f9524f-af32-4dfa-8f3e-8b3d8359baf6",
+			"_postman_id": "2e775a5a-466f-4ede-9ac9-3d5146591e8e",
 			"name": "Search writingPurpose = Narrative",
 			"event": [
 				{
@@ -15900,7 +15900,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b754314b-9c5e-4606-87de-65661e694394",
+			"_postman_id": "c6727036-c709-47d0-984c-ce02f0df11ed",
 			"name": "Search writingPurpose all",
 			"event": [
 				{
@@ -15969,7 +15969,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b58a9bca-b538-4291-beda-1fef1ae91a59",
+			"_postman_id": "3c4a5ad2-8add-4d74-ad86-bc82ecf32b9b",
 			"name": "Search writingPurpose blank",
 			"event": [
 				{
@@ -16038,7 +16038,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "eb5267c3-8c28-4a67-9b57-ba56a51c3a21",
+			"_postman_id": "e4881748-3329-4f9e-84ac-8793ef059433",
 			"name": "Search formType Operational",
 			"event": [
 				{
@@ -16097,7 +16097,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e8cf94da-6c3a-463f-a7ce-92708cfa2d82",
+			"_postman_id": "831e3c07-692c-44e4-a018-50bea9bb3414",
 			"name": "Search performanceTask = No",
 			"event": [
 				{
@@ -16165,7 +16165,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f3f8150f-3f4a-477e-98b2-e4b38aa1304b",
+			"_postman_id": "f08084bf-ef52-449b-8f79-1f08a66d0b00",
 			"name": "Search performanceTask = Yes",
 			"event": [
 				{
@@ -16233,7 +16233,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "78c14874-2ec0-4740-a35f-29dd1855cb10",
+			"_postman_id": "2a9ea4bf-37dd-40a0-b790-d659f398aafd",
 			"name": "Search performanceTask blank",
 			"event": [
 				{
@@ -16301,145 +16301,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "05dfc279-b1d6-4309-9793-f6a85a5642a6",
-			"name": "Search - \"isVisualTTSProvided\" is \"true\"",
-			"event": [
-				{
-					"listen": "test",
-					"script": {
-						"id": "7fa635a1-afdf-4706-82bc-93b264fd7059",
-						"type": "text/javascript",
-						"exec": [
-							"var resultsArray = pm.response.json().results;",
-							"var testTitle = \"\";",
-							"",
-							"resultsArray.forEach(function(result) {  ",
-							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSProvided = true\";",
-							"    pm.test(testTitle,function(){",
-							"        pm.expect(result.isVisualTTSProvided).to.eql(\"true\");",
-							"    ",
-							"    });",
-							"});",
-							"",
-							""
-						]
-					}
-				}
-			],
-			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "{{access_token}}",
-							"type": "string"
-						}
-					]
-				},
-				"method": "POST",
-				"header": [
-					{
-						"key": "Content-Type",
-						"value": "application/json"
-					},
-					{
-						"key": "Authorization",
-						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
-					}
-				],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
-				},
-				"url": {
-					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
-					"protocol": "http",
-					"host": [
-						"iss-awsqa",
-						"sbtds",
-						"org"
-					],
-					"path": [
-						"v1",
-						"items",
-						"search"
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"_postman_id": "14cd4006-435f-4f2e-8a62-5a173ba5cbd7",
-			"name": "Search - \"isVisualTTSProvided\" is \"false\"",
-			"event": [
-				{
-					"listen": "test",
-					"script": {
-						"id": "3a4df55f-f3c4-4101-a591-4dfa0d134b26",
-						"type": "text/javascript",
-						"exec": [
-							"var resultsArray = pm.response.json().results;",
-							"var testTitle = \"\";",
-							"",
-							"resultsArray.forEach(function(result) {  ",
-							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSProvided = false\";",
-							"    pm.test(testTitle,function(){",
-							"        pm.expect(result.isVisualTTSProvided).to.eql(\"false\");",
-							"    ",
-							"    });",
-							"});",
-							"",
-							""
-						]
-					}
-				}
-			],
-			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "{{access_token}}",
-							"type": "string"
-						}
-					]
-				},
-				"method": "POST",
-				"header": [
-					{
-						"key": "Content-Type",
-						"value": "application/json"
-					},
-					{
-						"key": "Authorization",
-						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
-					}
-				],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
-				},
-				"url": {
-					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
-					"protocol": "http",
-					"host": [
-						"iss-awsqa",
-						"sbtds",
-						"org"
-					],
-					"path": [
-						"v1",
-						"items",
-						"search"
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"_postman_id": "2b527d97-7757-443d-b5c7-532e83746147",
+			"_postman_id": "1f9de241-f93c-4620-889b-9198a2b7a96b",
 			"name": "Search - \"isSightTTSProvided\" is \"true\"",
 			"event": [
 				{
@@ -16508,7 +16370,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6a9bd44f-0147-4e83-ac84-c0147342bd2b",
+			"_postman_id": "728997ca-9004-4c4c-872a-b2bfba0e31c9",
 			"name": "Search - \"isSightTTSProvided\" is \"false\"",
 			"event": [
 				{
@@ -16577,7 +16439,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "703354e1-0399-4dca-a6e5-41ac839d4310",
+			"_postman_id": "c856bf80-cf74-4901-ac72-e7f046eaf04b",
 			"name": "Search - \"isVisualTTSRequired\" is \"true\"",
 			"event": [
 				{
@@ -16646,7 +16508,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "fb777cea-0143-4cbb-b1d0-bc43a863b6b1",
+			"_postman_id": "1521d836-7749-4147-8d60-cff232d79007",
 			"name": "Search - \"isVisualTTSRequired\" is \"false\"",
 			"event": [
 				{
@@ -16715,7 +16577,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "05a45853-4e00-455d-9ed3-9bd27f7477ef",
+			"_postman_id": "f30bfaae-f440-4638-8ba3-2479ebeb4564",
 			"name": "Search - calculatedExposuresCount blank",
 			"event": [
 				{
@@ -16783,7 +16645,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1e9e164d-e79c-41e1-b781-d180e5add4dc",
+			"_postman_id": "0ea0e094-9921-47d6-8652-c761f74f9875",
 			"name": "Search - calculatedFormCount blank",
 			"event": [
 				{
@@ -16851,7 +16713,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "427e4a46-fa8d-4913-8fd1-de2282330749",
+			"_postman_id": "43c9bc89-2580-488f-b0ec-0c6ef8a4da41",
 			"name": "Search - itemDifficultyQuintile blank",
 			"event": [
 				{
@@ -16919,7 +16781,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "137366e5-8438-40b3-ae56-a1852967bbd4",
+			"_postman_id": "5a8b6327-7904-439e-8113-46696ba98bdf",
 			"name": "GetSingleItem 205320",
 			"event": [
 				{
@@ -16993,7 +16855,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f9f34e0d-1996-42e4-98e8-42547091eeca",
+			"_postman_id": "b975c87c-a8ab-4f02-a56a-e123abbe89ef",
 			"name": "GetSingleItem 205857",
 			"event": [
 				{
@@ -17049,7 +16911,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4714b23d-bb27-4f52-ad64-fbe00f1e9571",
+			"_postman_id": "f98187c2-22be-4bfe-ab3d-10c4d217361c",
 			"name": "GetSingleItem 205323",
 			"event": [
 				{
@@ -17130,7 +16992,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7d77fa8c-a612-495e-ab27-316246d13ba7",
+			"_postman_id": "08f277db-ec53-4d2a-b85f-b69135ed3059",
 			"name": "GetMultipleItems 205320,205315, 205323",
 			"event": [
 				{
@@ -17194,7 +17056,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bf4063f2-146d-43ca-bf05-cc5d9ff57428",
+			"_postman_id": "bf5998f4-29c8-47cf-a8a1-6af3327254c0",
 			"name": "GeneralSearch- formAssessmentType = Summative",
 			"event": [
 				{
@@ -17258,7 +17120,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5cb4d92c-035a-45c1-a579-4a67c1cc331d",
+			"_postman_id": "b9ab8a64-8365-456b-af41-c5108487eb69",
 			"name": "GeneralSearch- formAssessmentType = Interim",
 			"event": [
 				{
@@ -17322,7 +17184,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "65e97bb1-b2b4-45ce-b919-a7b92fbc8d99",
+			"_postman_id": "e716f16e-26f1-4845-9d39-283a87d83a7b",
 			"name": "GeneralSearch- formAssessmentType = Practice",
 			"event": [
 				{
@@ -17386,7 +17248,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "855ab55a-956b-4813-be9a-96d672984d34",
+			"_postman_id": "1064f620-312b-48d2-9405-68dc616c8c06",
 			"name": "GeneralSearch- formType FieldTest",
 			"event": [
 				{
@@ -17450,7 +17312,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "73c751af-9d49-4961-ac9e-e6af0ea62099",
+			"_postman_id": "da8eed11-3e4b-4c50-98c8-315c6d26db08",
 			"name": "GeneralSearch- formType Operational",
 			"event": [
 				{
@@ -17514,7 +17376,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "291b3d4f-2794-4e47-a86a-66310245b9c9",
+			"_postman_id": "1de73a55-20fc-4a49-8178-c3a5534c88a6",
 			"name": "Search - TestCategory - Summative, Practice, or Interim",
 			"event": [
 				{
@@ -17593,7 +17455,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ef150861-2a0a-409a-85b9-e1a907122a0d",
+			"_postman_id": "62149846-34e4-4838-ba97-3878a830ac29",
 			"name": "Search - TestCategory includeBlanks",
 			"event": [
 				{
@@ -17657,24 +17519,16 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3ee57bbc-90fc-4f56-9f7c-e80b590601a2",
-			"name": "GeneralSearch-EnglishContentLastUpdated-From-and-To",
+			"_postman_id": "f6d95baf-4ee1-49f9-bc4e-fef7571e4b96",
+			"name": "GeneralSearch-EnglishContentLastUpdated From 7/15/18 - 8/1/18",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"id": "f4b2cc9f-7350-4592-9db3-a7b5eae3f6a2",
 						"type": "text/javascript",
 						"exec": [
-							"/*",
-							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
-							"});",
 							"",
-							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
-							"});",
-							"*/",
 							"",
 							""
 						]
@@ -17715,7 +17569,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-23T00:00:00Z\",\n\t\t\t\"to\": \"2018-07-23T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 20,\n\t\t\"pageNumber\": 0\n\t}\n}"
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-15T00:00:00Z\",\n\t\t\t\"to\": \"2018-08-01T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 20,\n\t\t\"pageNumber\": 0\n\t}\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -17735,24 +17589,16 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5f38168b-53d7-4281-a304-dc37cbbec9d4",
-			"name": "GeneralSearch-EnglishContentLastUpdated-From",
+			"_postman_id": "a64247ac-1f08-4810-859b-ed9c55ff6f4f",
+			"name": "GeneralSearch-EnglishContentLastUpdated-From 7/31/18",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"id": "439a158e-870a-498d-92b8-2328635d26fd",
 						"type": "text/javascript",
 						"exec": [
-							"/*",
-							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
-							"});",
 							"",
-							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
-							"});",
-							"*/",
 							"",
 							""
 						]
@@ -17793,7 +17639,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-24T00:00:00Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-31T00:00:00Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -17813,24 +17659,16 @@
 			"response": []
 		},
 		{
-			"_postman_id": "113227eb-d738-4251-9672-4bf5cef94058",
+			"_postman_id": "ddf24b92-5b3b-47f4-8f2b-79df07a337d9",
 			"name": "GeneralSearch-EnglishContentLastUpdated-To",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"id": "1b700840-71e0-4248-8855-732a6da3c816",
 						"type": "text/javascript",
 						"exec": [
-							"/*",
-							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
-							"});",
 							"",
-							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
-							"});",
-							"*/",
 							"",
 							""
 						]
@@ -17871,7 +17709,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"to\": \"2018-07-23T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"englishContentLastUpdatedDate\",\n\t\t\t\"to\": \"2018-07-23T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"desc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 50,\n\t\t\"pageNumber\": 0\n\t}\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -17891,24 +17729,15 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bbf4e641-db64-4b49-93dc-62dcfb5c9d6f",
+			"_postman_id": "3375406a-0cab-45a0-a09e-48022aaaf26e",
 			"name": "GeneralSearch-EnglishContentLastUpdated-To-sort-by-eng-lang-update-date",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"id": "8d419ca8-bedf-4a75-8ae7-5c6a76b01ff1",
 						"type": "text/javascript",
 						"exec": [
-							"/*",
-							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
-							"});",
-							"",
-							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
-							"});",
-							"*/",
 							"",
 							""
 						]
@@ -17969,24 +17798,15 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b0aa07db-e719-4e13-8a37-e4b1672a978f",
+			"_postman_id": "6cd494f0-3adc-4687-b9de-35e4fd89f1f4",
 			"name": "GeneralSearch-EnglishContentLastUpdated-From-sort-by-eng-lang-update-asc",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "a264af9a-de79-4a6b-a6b0-5e4310367408",
+						"id": "4abbc4de-9af1-4a2c-a48e-f7e68171dccf",
 						"type": "text/javascript",
 						"exec": [
-							"/*",
-							"pm.test(\"Should find isBeingCreated 'true'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).to.eql('true');",
-							"});",
-							"",
-							"pm.test(\"Should NOT find isBeingCreated 'false'\", function () {",
-							"    pm.expect(pm.response.json().results[0].isBeingCreated).not.to.eql(false);",
-							"});",
-							"*/",
 							"",
 							""
 						]
@@ -18047,16 +17867,25 @@
 			"response": []
 		},
 		{
-			"_postman_id": "24f93e54-ae43-4065-b642-d52c774db3fc",
+			"_postman_id": "f173d8fb-9ec9-44e7-a874-ff236ce21dea",
 			"name": "General Search Scoring Engine - HandScored",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"id": "08a9ba9d-4627-4c3a-a5f7-fed22e722634",
 						"type": "text/javascript",
 						"exec": [
-							""
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has scoringEngine = handScored\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.scoringEngine).to.eql(\"HandScored\");",
+							"    ",
+							"    });",
+							"});"
 						]
 					}
 				}
@@ -18094,7 +17923,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"HandScored\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18102,7 +17931,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18112,16 +17940,25 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cb5d77a9-74b2-4e0d-93e3-c58b52f33269",
+			"_postman_id": "87e7f6a0-69fb-43e1-bcc3-68f9cad0c25b",
 			"name": "General Search Scoring Engine - AutomaticWithRubric",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"id": "4bca2ecc-73d4-4d9c-b309-c34681e7d82b",
 						"type": "text/javascript",
 						"exec": [
-							""
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has scoringEngine = AutomaticWithRubric\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.scoringEngine).to.eql(\"AutomaticWithRubric\");",
+							"    ",
+							"    });",
+							"});"
 						]
 					}
 				}
@@ -18159,7 +17996,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"AutomaticWithRubric\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18167,7 +18004,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18177,81 +18013,25 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bfe63c7b-def7-4bd0-b9e0-361a130ddd96",
-			"name": "General Search Scoring Engine - Automatic With Machine Rubric",
-			"event": [
-				{
-					"listen": "test",
-					"script": {
-						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
-						"type": "text/javascript",
-						"exec": [
-							""
-						]
-					}
-				}
-			],
-			"request": {
-				"auth": {
-					"type": "oauth2",
-					"oauth2": [
-						{
-							"key": "accessToken",
-							"value": "{{access_token}}",
-							"type": "string"
-						},
-						{
-							"key": "tokenType",
-							"value": "Bearer",
-							"type": "string"
-						},
-						{
-							"key": "addTokenTo",
-							"value": "header",
-							"type": "string"
-						}
-					]
-				},
-				"method": "POST",
-				"header": [
-					{
-						"key": "Content-Type",
-						"value": "application/json"
-					}
-				],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"Automatic with Machine Rubric\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
-				},
-				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
-					"protocol": "http",
-					"host": [
-						"iss-awsqa",
-						"sbtds",
-						"org"
-					],
-					"path": [
-						"",
-						"v1",
-						"items",
-						"search"
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"_postman_id": "608b7261-e554-448d-a3ff-d6429c0dae82",
+			"_postman_id": "1de598c1-7121-4369-87bc-c29ba751aa60",
 			"name": "General Search Scoring Engine - AutomaticWithKey",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"id": "f08e9d6c-6853-41b4-8295-97ce5a9a4eb4",
 						"type": "text/javascript",
 						"exec": [
-							""
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has scoringEngine = AutomaticWithKey\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.scoringEngine).to.eql(\"AutomaticWithKey\");",
+							"    ",
+							"    });",
+							"});"
 						]
 					}
 				}
@@ -18289,7 +18069,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"AutomaticWithKey\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18297,7 +18077,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18307,16 +18086,25 @@
 			"response": []
 		},
 		{
-			"_postman_id": "12eac40e-931a-45c1-87cc-5a6ed030e66f",
+			"_postman_id": "62ff0387-8791-4c5a-99cb-014759e664f5",
 			"name": "General Search Scoring Engine - AutomaticWithKeys",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "aeebd604-d342-4f56-b105-82abae1abae9",
+						"id": "dd2d794e-68fe-4da6-92c1-97985dd896c0",
 						"type": "text/javascript",
 						"exec": [
-							""
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has scoringEngine = AutomaticWithKeys\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.scoringEngine).to.eql(\"AutomaticWithKeys\");",
+							"    ",
+							"    });",
+							"});"
 						]
 					}
 				}
@@ -18354,7 +18142,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"AutomaticWithKeys\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18362,7 +18150,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18372,13 +18159,13 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6da010a1-ee20-4c85-8222-0ace097018f5",
+			"_postman_id": "d2098f27-9807-4daf-b1a3-43d298f0ae21",
 			"name": "General Search Scoring Engine Blanks",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "3dff5378-73d3-4cd9-98d4-e8078ea8a7cd",
+						"id": "5bfbb31b-ab7f-4613-90c9-d3b8969c75df",
 						"type": "text/javascript",
 						"exec": [
 							""
@@ -18419,7 +18206,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"scoringEngine\",\n            \"values\": [\"HandScored\"],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18427,7 +18214,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18437,7 +18223,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6dd26e32-5ef6-43d2-bfbe-b0b77559a167",
+			"_postman_id": "f6182974-3715-468f-ba07-1ba9d12b8ced",
 			"name": "General Search Content Domain",
 			"event": [
 				{
@@ -18484,7 +18270,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryContentDomain\",\n            \"values\": [\"QA3\"]\n        },\n        {\n            \"property\": \"secondaryContentDomain\",\n            \"values\": [\"QA3\"]\n        },\n                {\n            \"property\": \"tertiaryContentDomain\",\n            \"values\": [\"QA3\"]\n        },\n        {\n            \"property\": \"quaternaryContentDomain\",\n            \"values\": [\"QA3\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18492,7 +18278,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18502,7 +18287,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ef7f510a-9aa2-42e4-bf20-d223d87433e5",
+			"_postman_id": "bf56c639-f7a6-42d9-a9e5-4f93bc77bfb3",
 			"name": "General Search Content Domain Blanks",
 			"event": [
 				{
@@ -18549,7 +18334,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"secondaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n                {\n            \"property\": \"tertiaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"quaternaryContentDomain\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 20,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18557,7 +18342,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18567,7 +18351,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cdded496-800a-4090-b73f-9a48f24c3d6f",
+			"_postman_id": "da5259ef-95ec-4f64-8328-1e69aa59913b",
 			"name": "General Search Common Core Standard",
 			"event": [
 				{
@@ -18614,7 +18398,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryCommonCoreStandard\",\n            \"values\": [\"pccs qa\"]\n        },\n        {\n            \"property\": \"secondaryCommonCoreStandard\",\n            \"values\": [\"sccs qa\"]\n        },\n                {\n            \"property\": \"tertiaryCommonCoreStandard\",\n            \"values\": [\"tccs qa\"]\n        },\n        {\n            \"property\": \"quaternaryCommonCoreStandard\",\n            \"values\": [\"qccs qa\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18622,7 +18406,6 @@
 						"org"
 					],
 					"path": [
-						"",
 						"v1",
 						"items",
 						"search"
@@ -18632,7 +18415,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "fddee1e0-f316-4172-ae4f-02ab834d06c9",
+			"_postman_id": "7f1f8f79-bbdc-4404-97ed-a025c6486a0e",
 			"name": "General Search Common Core Standard Blanks",
 			"event": [
 				{
@@ -18679,7 +18462,7 @@
 					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"primaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"secondaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n                {\n            \"property\": \"tertiaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        },\n        {\n            \"property\": \"quaternaryCommonCoreStandard\",\n            \"values\": [],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 80,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
-					"raw": "http://iss-awsqa.sbtds.org//v1/items/search",
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
 					"protocol": "http",
 					"host": [
 						"iss-awsqa",
@@ -18687,7 +18470,1205 @@
 						"org"
 					],
 					"path": [
-						"",
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "63f34cbf-d4b4-41c3-b570-3d9ec4fb0cf2",
+			"name": "Allow Calculator - yes",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c6f818de-15f3-467a-8364-ca175f9908fb",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has allowCalculator = Yes\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.allowCalculator).to.eql(\"Yes\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"allowCalculator\",\n            \"values\": [\"Yes\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": [
+				{
+					"id": "c49f8fcb-091a-4cca-afd6-24bdc2152bdf",
+					"name": "GeneralSearch-BeingCreated=false",
+					"originalRequest": {
+						"auth": {
+							"type": "oauth2",
+							"oauth2": [
+								{
+									"key": "accessToken",
+									"value": "{{access_token}}",
+									"type": "string"
+								},
+								{
+									"key": "tokenType",
+									"value": "Bearer",
+									"type": "string"
+								},
+								{
+									"key": "addTokenTo",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"allowCalculator\",\n            \"values\": [\"Yes\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+						},
+						"url": {
+							"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+							"protocol": "http",
+							"host": [
+								"iss-awsqa",
+								"sbtds",
+								"org"
+							],
+							"path": [
+								"v1",
+								"items",
+								"search"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache, no-store, max-age=0, must-revalidate",
+							"name": "Cache-Control",
+							"description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive",
+							"name": "Connection",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip",
+							"name": "Content-Encoding",
+							"description": "The type of encoding used on the data."
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json;charset=UTF-8",
+							"name": "Content-Type",
+							"description": "The mime type of this content"
+						},
+						{
+							"key": "Date",
+							"value": "Tue, 17 Apr 2018 19:06:30 GMT",
+							"name": "Date",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"key": "Expires",
+							"value": "0",
+							"name": "Expires",
+							"description": "Gives the date/time after which the response is considered stale"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache",
+							"name": "Pragma",
+							"description": "Implementation-specific headers that may have various effects anywhere along the request-response chain."
+						},
+						{
+							"key": "Server",
+							"value": "nginx/1.13.8",
+							"name": "Server",
+							"description": "A name for the server"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept-Encoding",
+							"name": "Vary",
+							"description": "Tells downstream proxies how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one from the origin server."
+						},
+						{
+							"key": "X-Application-Context",
+							"value": "ap-imrt-iss",
+							"name": "X-Application-Context",
+							"description": "Custom header"
+						},
+						{
+							"key": "X-Content-Type-Options",
+							"value": "nosniff",
+							"name": "X-Content-Type-Options",
+							"description": "The only defined value, \"nosniff\", prevents Internet Explorer from MIME-sniffing a response away from the declared content-type"
+						},
+						{
+							"key": "X-Frame-Options",
+							"value": "DENY",
+							"name": "X-Frame-Options",
+							"description": "Clickjacking protection: \"deny\" - no rendering within a frame, \"sameorigin\" - no rendering if origin mismatch"
+						},
+						{
+							"key": "X-XSS-Protection",
+							"value": "1; mode=block",
+							"name": "X-XSS-Protection",
+							"description": "Cross-site scripting (XSS) filter"
+						},
+						{
+							"key": "transfer-encoding",
+							"value": "chunked",
+							"name": "transfer-encoding",
+							"description": "The form of encoding used to safely transfer the entity to the user. Currently defined methods are: chunked, compress, deflate, gzip, identity."
+						}
+					],
+					"cookie": [],
+					"body": "{\"results\":[{\"id\":\"214\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:25:08Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3476\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2065\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2064\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:19Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2063\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:00Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2061\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:42Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2055\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205262\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-16T18:10:37Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205260\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Hal Jordan\",\"createdAt\":\"2018-04-16T17:52:59Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205255\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-16T15:04:13Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205253\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T20:58:02Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205252\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"wer\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-13T19:47:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205251\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"InitialReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-13T19:15:32Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205250\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-13T14:26:57Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205249\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T01:38:52Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"ddd\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"C\",\"commonCoreStandard\":\"\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205245\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-12T21:28:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205244\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Alex Ponce\",\"createdAt\":\"2018-04-12T21:06:33Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205243\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T20:28:14Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205242\",\"subject\":\"ELA\",\"grade\":\"8\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T19:11:50Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205240\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:21:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205239\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:13:30Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205238\",\"subject\":\"Math\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-12T16:36:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205236\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-11T23:35:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205234\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-11T18:25:35Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205231\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-10T21:57:06Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"PAT\",\"commonCoreStandard\":\"PCCS\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205228\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Johnson\",\"createdAt\":\"2018-04-09T21:04:43Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205220\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205219\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:48:46Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205218\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:10Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205217\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:44:26Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205216\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:36:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205212\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-03T18:37:05Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205211\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:35:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205210\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:19:38Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205209\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-04-03T15:20:34Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205203\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-31T18:04:28Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205202\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-30T20:46:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205190\",\"subject\":\"Math\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T22:04:30Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"asdasd\",\"target\":\"PAT123123\",\"commonCoreStandard\":\"asdasd\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"213213\",\"target\":\"D\",\"commonCoreStandard\":\"234234\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"wewe3\",\"target\":\"K\",\"commonCoreStandard\":\"werwer\",\"type\":\"TERTIARY\"},{\"claim\":\"4\",\"contentDomain\":\"wer\",\"target\":\"N\",\"commonCoreStandard\":\"werwer\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"stimulusId\":\"205255\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205188\",\"subject\":\"ELA\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:57:27Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"ReadingInformation\",\"target\":\"4\",\"commonCoreStandard\":\"asd\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205187\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:39:51Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205181\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-03-27T22:20:39Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205180\",\"subject\":\"Math\",\"grade\":\"3\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-27T19:50:47Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"PCD 328\",\"target\":\"PAT328\",\"commonCoreStandard\":\"PCCS 328\",\"type\":\"PRIMARY\"},{\"claim\":\"1\",\"contentDomain\":\"SCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"PCCS QA2 328\",\"type\":\"SECONDARY\"},{\"claim\":\"1\",\"contentDomain\":\"TCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"TCCS 328\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"QCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"QCCS 328\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205177\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-27T16:54:52Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205171\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-26T20:12:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205170\",\"subject\":\"ELA\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T14:03:04.966Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"QA PAT1\",\"commonCoreStandard\":\"QA PCCS1\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205169\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:27:35.150Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205168\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:12:22.913Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205167\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:18:47.195Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205166\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T01:55:45.534Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205165\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-24T16:57:59.562Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205162\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T18:58:58.752Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"domain\",\"target\":\"target\",\"commonCoreStandard\":\"standard\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205159\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T07:45:41.869Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205151\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T20:14:45.434Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205150\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:13:26.587Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205149\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:09:24.463Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205143\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-19T20:23:07.637Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1841\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1769\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1768\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:36Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1692\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:50Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3709\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1472\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:36Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3691\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1080\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1079\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:08Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1078\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1076\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:40Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1075\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:28Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1074\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1073\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1072\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:42Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"}],\"last\":true,\"first\":true,\"totalPages\":1,\"total\":68}"
+				}
+			]
+		},
+		{
+			"_postman_id": "56226dad-5d15-46b9-b3b4-2c633e550be0",
+			"name": "Allow Calculator - no",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "7824e55b-9fbe-4d49-b46e-564a4ef5269f",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has allowCalculator = No\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.allowCalculator).to.eql(\"No\");",
+							"    ",
+							"    });",
+							"});",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"allowCalculator\",\n            \"values\": [\"No\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 20,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": [
+				{
+					"id": "892856ed-71d6-4a58-982e-50d1502e9d14",
+					"name": "GeneralSearch-BeingCreated=false",
+					"originalRequest": {
+						"auth": {
+							"type": "oauth2",
+							"oauth2": [
+								{
+									"key": "accessToken",
+									"value": "{{access_token}}",
+									"type": "string"
+								},
+								{
+									"key": "tokenType",
+									"value": "Bearer",
+									"type": "string"
+								},
+								{
+									"key": "addTokenTo",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"allowCalculator\",\n            \"values\": [\"No\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 20,\n        \"pageNumber\": 0\n    }\n}"
+						},
+						"url": {
+							"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+							"protocol": "http",
+							"host": [
+								"iss-awsqa",
+								"sbtds",
+								"org"
+							],
+							"path": [
+								"v1",
+								"items",
+								"search"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache, no-store, max-age=0, must-revalidate",
+							"name": "Cache-Control",
+							"description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive",
+							"name": "Connection",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip",
+							"name": "Content-Encoding",
+							"description": "The type of encoding used on the data."
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json;charset=UTF-8",
+							"name": "Content-Type",
+							"description": "The mime type of this content"
+						},
+						{
+							"key": "Date",
+							"value": "Tue, 17 Apr 2018 19:06:30 GMT",
+							"name": "Date",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"key": "Expires",
+							"value": "0",
+							"name": "Expires",
+							"description": "Gives the date/time after which the response is considered stale"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache",
+							"name": "Pragma",
+							"description": "Implementation-specific headers that may have various effects anywhere along the request-response chain."
+						},
+						{
+							"key": "Server",
+							"value": "nginx/1.13.8",
+							"name": "Server",
+							"description": "A name for the server"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept-Encoding",
+							"name": "Vary",
+							"description": "Tells downstream proxies how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one from the origin server."
+						},
+						{
+							"key": "X-Application-Context",
+							"value": "ap-imrt-iss",
+							"name": "X-Application-Context",
+							"description": "Custom header"
+						},
+						{
+							"key": "X-Content-Type-Options",
+							"value": "nosniff",
+							"name": "X-Content-Type-Options",
+							"description": "The only defined value, \"nosniff\", prevents Internet Explorer from MIME-sniffing a response away from the declared content-type"
+						},
+						{
+							"key": "X-Frame-Options",
+							"value": "DENY",
+							"name": "X-Frame-Options",
+							"description": "Clickjacking protection: \"deny\" - no rendering within a frame, \"sameorigin\" - no rendering if origin mismatch"
+						},
+						{
+							"key": "X-XSS-Protection",
+							"value": "1; mode=block",
+							"name": "X-XSS-Protection",
+							"description": "Cross-site scripting (XSS) filter"
+						},
+						{
+							"key": "transfer-encoding",
+							"value": "chunked",
+							"name": "transfer-encoding",
+							"description": "The form of encoding used to safely transfer the entity to the user. Currently defined methods are: chunked, compress, deflate, gzip, identity."
+						}
+					],
+					"cookie": [],
+					"body": "{\"results\":[{\"id\":\"214\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:25:08Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3476\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2065\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2064\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:19Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2063\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:00Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2061\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:42Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2055\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205262\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-16T18:10:37Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205260\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Hal Jordan\",\"createdAt\":\"2018-04-16T17:52:59Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205255\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-16T15:04:13Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205253\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T20:58:02Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205252\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"wer\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-13T19:47:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205251\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"InitialReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-13T19:15:32Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205250\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-13T14:26:57Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205249\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T01:38:52Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"ddd\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"C\",\"commonCoreStandard\":\"\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205245\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-12T21:28:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205244\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Alex Ponce\",\"createdAt\":\"2018-04-12T21:06:33Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205243\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T20:28:14Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205242\",\"subject\":\"ELA\",\"grade\":\"8\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T19:11:50Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205240\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:21:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205239\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:13:30Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205238\",\"subject\":\"Math\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-12T16:36:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205236\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-11T23:35:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205234\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-11T18:25:35Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205231\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-10T21:57:06Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"PAT\",\"commonCoreStandard\":\"PCCS\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205228\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Johnson\",\"createdAt\":\"2018-04-09T21:04:43Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205220\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205219\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:48:46Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205218\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:10Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205217\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:44:26Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205216\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:36:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205212\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-03T18:37:05Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205211\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:35:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205210\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:19:38Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205209\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-04-03T15:20:34Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205203\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-31T18:04:28Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205202\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-30T20:46:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205190\",\"subject\":\"Math\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T22:04:30Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"asdasd\",\"target\":\"PAT123123\",\"commonCoreStandard\":\"asdasd\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"213213\",\"target\":\"D\",\"commonCoreStandard\":\"234234\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"wewe3\",\"target\":\"K\",\"commonCoreStandard\":\"werwer\",\"type\":\"TERTIARY\"},{\"claim\":\"4\",\"contentDomain\":\"wer\",\"target\":\"N\",\"commonCoreStandard\":\"werwer\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"stimulusId\":\"205255\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205188\",\"subject\":\"ELA\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:57:27Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"ReadingInformation\",\"target\":\"4\",\"commonCoreStandard\":\"asd\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205187\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:39:51Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205181\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-03-27T22:20:39Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205180\",\"subject\":\"Math\",\"grade\":\"3\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-27T19:50:47Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"PCD 328\",\"target\":\"PAT328\",\"commonCoreStandard\":\"PCCS 328\",\"type\":\"PRIMARY\"},{\"claim\":\"1\",\"contentDomain\":\"SCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"PCCS QA2 328\",\"type\":\"SECONDARY\"},{\"claim\":\"1\",\"contentDomain\":\"TCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"TCCS 328\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"QCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"QCCS 328\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205177\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-27T16:54:52Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205171\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-26T20:12:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205170\",\"subject\":\"ELA\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T14:03:04.966Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"QA PAT1\",\"commonCoreStandard\":\"QA PCCS1\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205169\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:27:35.150Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205168\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:12:22.913Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205167\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:18:47.195Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205166\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T01:55:45.534Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205165\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-24T16:57:59.562Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205162\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T18:58:58.752Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"domain\",\"target\":\"target\",\"commonCoreStandard\":\"standard\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205159\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T07:45:41.869Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205151\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T20:14:45.434Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205150\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:13:26.587Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205149\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:09:24.463Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205143\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-19T20:23:07.637Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1841\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1769\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1768\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:36Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1692\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:50Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3709\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1472\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:36Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3691\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1080\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1079\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:08Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1078\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1076\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:40Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1075\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:28Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1074\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1073\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1072\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:42Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"}],\"last\":true,\"first\":true,\"totalPages\":1,\"total\":68}"
+				}
+			]
+		},
+		{
+			"_postman_id": "4852aa4c-f525-47ed-b5e4-829f2cddded2",
+			"name": "Allow Calculator - neutral, includeBlanks",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "66920a6e-5486-4f7a-b1bb-65194c15afa5",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has allowCalculator = neutral or blank\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.allowCalculator).to.be.oneOf(['Neutral','']);",
+							"    ",
+							"    });",
+							"});",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"allowCalculator\",\n            \"values\": [\"Neutral\"],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"allowCalculator\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": [
+				{
+					"id": "0f6af28c-fecc-4a16-81cd-6b0e8b425a7e",
+					"name": "GeneralSearch-BeingCreated=false",
+					"originalRequest": {
+						"auth": {
+							"type": "oauth2",
+							"oauth2": [
+								{
+									"key": "accessToken",
+									"value": "{{access_token}}",
+									"type": "string"
+								},
+								{
+									"key": "tokenType",
+									"value": "Bearer",
+									"type": "string"
+								},
+								{
+									"key": "addTokenTo",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"filters\": [\n        {\n            \"property\": \"allowCalculator\",\n            \"values\": [\"Neutral\"],\n            \"includeBlanks\" : true\n        }\n    ],\n    \"sort\": {\n        \"property\": \"allowCalculator\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+						},
+						"url": {
+							"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+							"protocol": "http",
+							"host": [
+								"iss-awsqa",
+								"sbtds",
+								"org"
+							],
+							"path": [
+								"v1",
+								"items",
+								"search"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache, no-store, max-age=0, must-revalidate",
+							"name": "Cache-Control",
+							"description": "Tells all caching mechanisms from server to client whether they may cache this object. It is measured in seconds"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive",
+							"name": "Connection",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"key": "Content-Encoding",
+							"value": "gzip",
+							"name": "Content-Encoding",
+							"description": "The type of encoding used on the data."
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json;charset=UTF-8",
+							"name": "Content-Type",
+							"description": "The mime type of this content"
+						},
+						{
+							"key": "Date",
+							"value": "Tue, 17 Apr 2018 19:06:30 GMT",
+							"name": "Date",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"key": "Expires",
+							"value": "0",
+							"name": "Expires",
+							"description": "Gives the date/time after which the response is considered stale"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache",
+							"name": "Pragma",
+							"description": "Implementation-specific headers that may have various effects anywhere along the request-response chain."
+						},
+						{
+							"key": "Server",
+							"value": "nginx/1.13.8",
+							"name": "Server",
+							"description": "A name for the server"
+						},
+						{
+							"key": "Vary",
+							"value": "Accept-Encoding",
+							"name": "Vary",
+							"description": "Tells downstream proxies how to match future request headers to decide whether the cached response can be used rather than requesting a fresh one from the origin server."
+						},
+						{
+							"key": "X-Application-Context",
+							"value": "ap-imrt-iss",
+							"name": "X-Application-Context",
+							"description": "Custom header"
+						},
+						{
+							"key": "X-Content-Type-Options",
+							"value": "nosniff",
+							"name": "X-Content-Type-Options",
+							"description": "The only defined value, \"nosniff\", prevents Internet Explorer from MIME-sniffing a response away from the declared content-type"
+						},
+						{
+							"key": "X-Frame-Options",
+							"value": "DENY",
+							"name": "X-Frame-Options",
+							"description": "Clickjacking protection: \"deny\" - no rendering within a frame, \"sameorigin\" - no rendering if origin mismatch"
+						},
+						{
+							"key": "X-XSS-Protection",
+							"value": "1; mode=block",
+							"name": "X-XSS-Protection",
+							"description": "Cross-site scripting (XSS) filter"
+						},
+						{
+							"key": "transfer-encoding",
+							"value": "chunked",
+							"name": "transfer-encoding",
+							"description": "The form of encoding used to safely transfer the entity to the user. Currently defined methods are: chunked, compress, deflate, gzip, identity."
+						}
+					],
+					"cookie": [],
+					"body": "{\"results\":[{\"id\":\"214\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:25:08Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3476\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2065\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2064\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:19Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2063\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:24:00Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2061\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:42Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3720\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"2055\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205262\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-16T18:10:37Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205260\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Hal Jordan\",\"createdAt\":\"2018-04-16T17:52:59Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205255\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-16T15:04:13Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205253\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T20:58:02Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205252\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"wer\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-13T19:47:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205251\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"InitialReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-13T19:15:32Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205250\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"2\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-13T14:26:57Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205249\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-13T01:38:52Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"ddd\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"C\",\"commonCoreStandard\":\"\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205245\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-12T21:28:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205244\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Alex Ponce\",\"createdAt\":\"2018-04-12T21:06:33Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205243\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T20:28:14Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205242\",\"subject\":\"ELA\",\"grade\":\"8\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-12T19:11:50Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205240\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:21:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205239\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-12T17:13:30Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205238\",\"subject\":\"Math\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-04-12T16:36:56Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205236\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Sue Wilson\",\"createdAt\":\"2018-04-11T23:35:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205234\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-11T18:25:35Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205231\",\"subject\":\"ELA\",\"grade\":\"11\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ms\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-04-10T21:57:06Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"ReadingInformation\",\"target\":\"PAT\",\"commonCoreStandard\":\"PCCS\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"stimulusId\":\"205237\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205228\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Johnson\",\"createdAt\":\"2018-04-09T21:04:43Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205220\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205219\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:48:46Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205218\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:58:10Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205217\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:44:26Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205216\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-04T18:36:23Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205212\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Greg Stoike\",\"createdAt\":\"2018-04-03T18:37:05Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205211\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:35:44Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205210\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Tess A\",\"createdAt\":\"2018-04-03T17:19:38Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205209\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"MultimediaUpload\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-04-03T15:20:34Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205203\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-31T18:04:28Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205202\",\"subject\":\"ELA\",\"grade\":\"3\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-30T20:46:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205190\",\"subject\":\"Math\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T22:04:30Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"asdasd\",\"target\":\"PAT123123\",\"commonCoreStandard\":\"asdasd\",\"type\":\"PRIMARY\"},{\"claim\":\"2\",\"contentDomain\":\"213213\",\"target\":\"D\",\"commonCoreStandard\":\"234234\",\"type\":\"SECONDARY\"},{\"claim\":\"3\",\"contentDomain\":\"wewe3\",\"target\":\"K\",\"commonCoreStandard\":\"werwer\",\"type\":\"TERTIARY\"},{\"claim\":\"4\",\"contentDomain\":\"wer\",\"target\":\"N\",\"commonCoreStandard\":\"werwer\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"stimulusId\":\"205255\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205188\",\"subject\":\"ELA\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"4\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:57:27Z\",\"standardIds\":[{\"claim\":\"4\",\"contentDomain\":\"ReadingInformation\",\"target\":\"4\",\"commonCoreStandard\":\"asd\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205187\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-28T21:39:51Z\",\"standardIds\":[{\"claim\":\"\",\"contentDomain\":\"ReadingInformation\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205181\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"TESS A\",\"createdAt\":\"2018-03-27T22:20:39Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205180\",\"subject\":\"Math\",\"grade\":\"3\",\"workflowStatus\":\"ContentReview\",\"itemType\":\"ebsr\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"Jeff Melin\",\"createdAt\":\"2018-03-27T19:50:47Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"PCD 328\",\"target\":\"PAT328\",\"commonCoreStandard\":\"PCCS 328\",\"type\":\"PRIMARY\"},{\"claim\":\"1\",\"contentDomain\":\"SCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"PCCS QA2 328\",\"type\":\"SECONDARY\"},{\"claim\":\"1\",\"contentDomain\":\"TCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"TCCS 328\",\"type\":\"TERTIARY\"},{\"claim\":\"1\",\"contentDomain\":\"QCD 328\",\"target\":\"A\",\"commonCoreStandard\":\"QCCS 328\",\"type\":\"QUATERNARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205177\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-27T16:54:52Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205171\",\"subject\":\"Math\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Todd Miller\",\"createdAt\":\"2018-03-26T20:12:16Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205170\",\"subject\":\"ELA\",\"grade\":\"7\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"1\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T14:03:04.966Z\",\"standardIds\":[{\"claim\":\"1\",\"contentDomain\":\"ReadingLiterature\",\"target\":\"QA PAT1\",\"commonCoreStandard\":\"QA PCCS1\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205169\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:27:35.150Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205168\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"stim\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:12:22.913Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205167\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"gi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T02:18:47.195Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205166\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-26T01:55:45.534Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205165\",\"subject\":\"ELA\",\"grade\":\"5\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-24T16:57:59.562Z\",\"standardIds\":[{\"claim\":\"3\",\"contentDomain\":\"\",\"target\":\"\",\"commonCoreStandard\":\"\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205162\",\"subject\":\"Math\",\"grade\":\"4\",\"workflowStatus\":\"Draft\",\"itemType\":\"mc\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T18:58:58.752Z\",\"standardIds\":[{\"claim\":\"2\",\"contentDomain\":\"domain\",\"target\":\"target\",\"commonCoreStandard\":\"standard\",\"type\":\"PRIMARY\"}],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205159\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-23T07:45:41.869Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205151\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T20:14:45.434Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205150\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"mi\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:13:26.587Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205149\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"ti\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-20T17:09:24.463Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"205143\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"eq\",\"depthOfKnowledge\":\"\",\"createdBy\":\"tbd author\",\"createdAt\":\"2018-03-19T20:23:07.637Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1841\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:23:05Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1769\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:51Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1768\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:36Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1692\",\"subject\":\"ELA\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:50Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3709\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1472\",\"subject\":\"MATH\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"sa\",\"depthOfKnowledge\":\"3\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:22:36Z\",\"standardIds\":[],\"itemDetail\":null,\"stimulusId\":\"3691\",\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1080\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:21Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1079\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:19:08Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1078\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1076\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:40Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1075\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:28Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1074\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"Draft\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:18:09Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1073\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:55Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"},{\"id\":\"1072\",\"subject\":\"\",\"grade\":\"\",\"workflowStatus\":\"ParkingLot\",\"itemType\":\"tut\",\"depthOfKnowledge\":\"\",\"createdBy\":\"Item Import\",\"createdAt\":\"2018-04-11T23:17:42Z\",\"standardIds\":[],\"itemDetail\":null,\"beingCreated\":false,\"organizationTypeId\":\"\",\"organizationName\":\"\"}],\"last\":true,\"first\":true,\"totalPages\":1,\"total\":68}"
+				}
+			]
+		},
+		{
+			"_postman_id": "83e16100-487b-45b4-9ee4-ea6eff208616",
+			"name": "Search updateDate - 7/31-8/1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "bd551508-1b65-4258-a0e5-dd6b16a2f5cf",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n\t      \"property\": \"updateDate\",\n\t      \"from\": \"2018-07-31T00:00:00Z\",\n\t      \"to\": \"2018-08-01T23:59:59Z\"\n        }\n    ],\n    \"sort\": {\n        \"property\": \"updateDate\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "b8202aa5-b7e8-4152-8155-39df3db80fff",
+			"name": "GeneralSearch-SpanishContentLastUpdated From 7/21 to 8/1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "f876c203-15c1-49d4-9c25-e15280ab7a80",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"spanishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-21T00:00:00Z\",\n\t\t\t\"to\": \"2018-08-01T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 20,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "974f9513-ef82-433b-a572-5dae53152fdb",
+			"name": "GeneralSearch-SpanishContentLastUpdated From 7/30/18",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "cf91af53-8eb9-4991-9a31-d0c788a0d364",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"spanishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-30T00:00:00Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 20,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "a1b8ed74-7692-4724-ad9e-a678d79c0761",
+			"name": "GeneralSearch-SpanishContentLastUpdated-To 5/27/2018",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "ce7d1663-4b5f-44d7-8afb-1322fa77d3c2",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"spanishContentLastUpdatedDate\",\n\t\t\t\"to\": \"2018-05-27T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"id\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 10,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "55cec166-e55a-41ec-a1d0-16deacd1a0ed",
+			"name": "GeneralSearch-SpanishContentLastUpdated-From 7/30/2018-sort-by-esp-lang-update-asc",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "dccf7c90-b88b-40ab-bfff-63b6db2852eb",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"spanishContentLastUpdatedDate\",\n\t\t\t\"from\": \"2018-07-30T00:00:00Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"spanishContentLastUpdatedDate\",\n\t\t\"direction\": \"asc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 20,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "df761529-d738-43ff-a87c-c6d9939b73b3",
+			"name": "GeneralSearch-SpanishContentLastUpdated-To 6/27/2018 sort-by-esp-lang-update-date desc",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "13903a79-4e3a-401f-a8a1-e64e3b85a854",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "",
+						"value": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"filters\": [\n\t\t{\n\t\t\t\"property\": \"spanishContentLastUpdatedDate\",\n\t\t\t\"to\": \"2018-06-27T23:59:59Z\"\n\t\t}\n\t],\n\t\"sort\": {\n\t\t\"property\": \"spanishContentLastUpdatedDate\",\n\t\t\"direction\": \"desc\"\n\t},\n\t\"page\": {\n\t\t\"pageSize\": 20,\n\t\t\"pageNumber\": 0\n\t}\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "e90df742-5fd3-4202-8c60-af00cbea3037",
+			"name": "Search - \"isVisualTTSProvided\" is \"true\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "e3c21345-37d9-4770-9fbd-e0f649f045b8",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSProvided = true\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isVisualTTSProvided).to.eql(\"true\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "0be40248-6f6c-410b-80c3-e2f5461a12c0",
+			"name": "Search - \"isVisualTTSProvided\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3a4df55f-f3c4-4101-a591-4dfa0d134b26",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isVisualTTSProvided = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isVisualTTSProvided).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer e9023d4f-3888-4994-a827-ad9d87c69de9"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
 						"v1",
 						"items",
 						"search"
