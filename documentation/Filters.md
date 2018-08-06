@@ -130,6 +130,9 @@ Values supported can be found within the Item Data Dictionary.  These values mat
 | isBeingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  |
 | isVisualTTSProvided | `true` means the item's Text-to-Speech visual content has been provided |
 | isSightTTSProvided | `true` means the item's Text-to-Speech sight-related content has been provided |
+| isAslUploadedPriorToLastContentUpdate | `true` means at least one of the item's ASL attachments were uploaded prior to the English Content Last Updated date |
+| isBrailleUploadedPriorToLastContentUpdate | `true` means at least one of the item's Braille attachments were uploaded prior to the English Content Last Updated date |
+| isClosedCaptioningUploadedPriorToLastContentUpdate | `true` means at least one of the item's closed-captioning attachments were uploaded prior to the English Content Last Updated date |
 
 **Example Usage**
 
