@@ -50,9 +50,17 @@ Supported properties
 | workflowStatus | Breaks down the items' counts by workflow status |
 | primaryClaim | Breaks down the items' counts by primary claim |
 | primaryTarget | Breaks down the items' counts by primary target |
+| primaryContentDomain | Breaks down the items' counts by primary content domain|
+| primaryCommonCoreStandard | Breaks down the items' counts by primary Common Core Standard |
+| secondaryContentDomain | Breaks down the items' counts by primary content domain|
+| secondaryCommonCoreStandard | Breaks down the items' counts by secondary Common Core Standard |
+| tertiaryContentDomain | Breaks down the items' counts by tertiary content domain|
+| tertiaryCommonCoreStandard | Breaks down the items' counts by tertiary Common Core Standard |
+| quaternaryContentDomain | Breaks down the items' counts by quaternary content domain|
+| quaternaryCommonCoreStandard | Breaks down the items' counts by quaternary Common Core Standard |
 | itemAuthor | Breaks down the items' counts by item author |
 | depthOfKnowledge | Breaks down the items' counts by depth of knowledge |
-| itemDifficultyQuintile | Breaks down the items' counts by item difficulyt quintile 
+
 
 #### Request Body
 ```json
