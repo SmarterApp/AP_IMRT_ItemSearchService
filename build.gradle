@@ -41,6 +41,7 @@ configurations {
 }
 
 dependencies {
+    compileOnly 'com.google.code.findbugs:annotations:3.0.1'
     compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'org.springframework.boot:spring-boot-starter-actuator'
     compile 'org.springframework.cloud:spring-cloud-starter-config'
@@ -110,6 +111,8 @@ tasks.withType(FindBugs) {
 
 findbugs {
     excludeFilter = file("$rootProject.projectDir/config/findbugs/excludeFilter.xml")
+    ignoreFailures = true
+    reportLevel = "medium"
 }
 
 /**
