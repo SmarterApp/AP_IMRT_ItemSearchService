@@ -110,6 +110,8 @@ tasks.withType(FindBugs) {
 
 findbugs {
     excludeFilter = file("$rootProject.projectDir/config/findbugs/excludeFilter.xml")
+    ignoreFailures = true
+    reportLevel = "medium"
 }
 
 /**
