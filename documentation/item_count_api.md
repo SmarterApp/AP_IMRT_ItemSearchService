@@ -50,7 +50,7 @@ Supported properties
 | workflowStatus | Breaks down the items' counts by workflow status |
 | primaryClaim | Breaks down the items' counts by primary claim |
 | primaryTarget | Breaks down the items' counts by primary target |
-`| primaryContentDomain | Breaks down the items' counts by primary content domain|
+| primaryContentDomain | Breaks down the items' counts by primary content domain|
 | primaryCommonCoreStandard | Breaks down the items' counts by primary Common Core Standard |
 | secondaryContentDomain | Breaks down the items' counts by primary content domain|
 | secondaryCommonCoreStandard | Breaks down the items' counts by secondary Common Core Standard |
