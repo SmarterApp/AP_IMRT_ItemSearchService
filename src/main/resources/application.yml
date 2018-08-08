@@ -15,7 +15,7 @@ spring:
 
 logging:
   level:
-    org.opentestsystem: INFO
+    org.opentestsystem: DEBUG
 
 openam:
     checkTokenEndpointUrl: https://sso-deployment.sbtds.org/auth/oauth2/tokeninfo
