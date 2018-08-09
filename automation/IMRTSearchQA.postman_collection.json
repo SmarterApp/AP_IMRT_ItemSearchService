@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"_postman_id": "72a60e96-6583-4697-9aea-269525e48aab",
+			"_postman_id": "325183a8-4b65-4d74-b232-f39cdda77798",
 			"name": "OpenAM OAuth (password) Token",
 			"event": [
 				{
@@ -85,7 +85,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8b606bae-200f-467f-91fa-965c8851d5b5",
+			"_postman_id": "36bee7de-89c2-498a-84dd-365fcbfda7ee",
 			"name": "GeneralSearch-BeingCreated=true",
 			"event": [
 				{
@@ -157,7 +157,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3cbbce00-1e54-48b3-b847-1a3c95257a4c",
+			"_postman_id": "ed89dd2f-b36b-4e38-881f-a1926b39bfcf",
 			"name": "GeneralSearch- sort id",
 			"event": [
 				{
@@ -223,7 +223,7 @@
 			},
 			"response": [
 				{
-					"id": "c66f49a1-7f31-4afa-85ed-cd4a803d9e45",
+					"id": "2ed53b60-d6c1-4bdb-8954-f6d900a3cccf",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -348,7 +348,7 @@
 			]
 		},
 		{
-			"_postman_id": "ce07f99a-a8ce-4c6a-927f-b468e5a76eef",
+			"_postman_id": "7555834c-2ac4-4596-bc8c-d6af4441a018",
 			"name": "GeneralSearch- sort id - pageNumber 2",
 			"event": [
 				{
@@ -413,7 +413,7 @@
 			},
 			"response": [
 				{
-					"id": "06808f88-a7bd-45a2-aa9b-d01b1d907d06",
+					"id": "2d1a0b71-0f14-444b-9fcf-b13a5cf45fc8",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -538,7 +538,7 @@
 			]
 		},
 		{
-			"_postman_id": "a0b54b0a-3d22-4d2e-b7a6-5ec09993ffc1",
+			"_postman_id": "42fed1a4-17d1-4050-9f9a-29b1881dc76c",
 			"name": "GeneralSearch- sort intendedGrade",
 			"event": [
 				{
@@ -605,7 +605,7 @@
 			},
 			"response": [
 				{
-					"id": "8ab09d10-f29e-4494-811c-2e8bef1383d3",
+					"id": "83873585-2265-4a6b-88f5-d8f7cbf4ad0d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -730,7 +730,7 @@
 			]
 		},
 		{
-			"_postman_id": "8ff08a14-823e-4f95-a87a-94e176cf43f2",
+			"_postman_id": "24adb9e9-c2df-4a07-aa3b-436f86580954",
 			"name": "GeneralSearch- sort intendedGrade - pageNumber 5",
 			"event": [
 				{
@@ -797,7 +797,7 @@
 			},
 			"response": [
 				{
-					"id": "27560e6c-a09a-4758-863f-b89bafdd0d88",
+					"id": "9a9ec9c8-12da-4ec2-9fd8-ced24a9ac058",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -922,7 +922,7 @@
 			]
 		},
 		{
-			"_postman_id": "4fa5fd02-6a28-4c0e-a55b-99dd82f0e01d",
+			"_postman_id": "a9716916-e433-439f-9dfd-560bee7ba11d",
 			"name": "GeneralSearch- sort stimulusId",
 			"event": [
 				{
@@ -993,7 +993,7 @@
 			},
 			"response": [
 				{
-					"id": "3f484fdf-295c-462d-82af-4efad092aef9",
+					"id": "95ad1c69-f7c4-4cd7-a7ac-de943dba7e16",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1118,7 +1118,7 @@
 			]
 		},
 		{
-			"_postman_id": "ecdb7bb7-2fb3-4d0d-a82a-f6df60402646",
+			"_postman_id": "96ec2e9c-616d-4ed1-8356-9c1affa39871",
 			"name": "GeneralSearch-sort depthOfKnowledge",
 			"event": [
 				{
@@ -1182,7 +1182,7 @@
 			},
 			"response": [
 				{
-					"id": "643f271e-db9e-4e08-b1d2-4807d0480f6e",
+					"id": "4a1eaccc-06da-4f62-becf-f301383004de",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1307,7 +1307,7 @@
 			]
 		},
 		{
-			"_postman_id": "a08130c5-dc38-4fdf-8874-f7518b91c31a",
+			"_postman_id": "98c5b9ae-fd6c-48a6-99e6-a611ff9c3669",
 			"name": "GeneralSearch-sort workflowStatus",
 			"event": [
 				{
@@ -1371,7 +1371,7 @@
 			},
 			"response": [
 				{
-					"id": "93fa87ad-5e98-406c-bb50-f1c93d7a59e5",
+					"id": "c90668fd-8e23-40c4-9e84-e157cff0512f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1496,7 +1496,7 @@
 			]
 		},
 		{
-			"_postman_id": "0a34d56b-4da0-476d-b3d1-4675f2e9807c",
+			"_postman_id": "93b2c6f2-03d6-4280-afd2-358d7f1610f2",
 			"name": "GeneralSearch-sort workflowStatusUpdatedDate",
 			"event": [
 				{
@@ -1560,7 +1560,7 @@
 			},
 			"response": [
 				{
-					"id": "41ec47aa-8b65-43e3-aedd-fc646aab3419",
+					"id": "ce04100d-bcdb-4aa5-9e02-3a282328419a",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1685,7 +1685,7 @@
 			]
 		},
 		{
-			"_postman_id": "386f1034-b695-44c7-abcd-8738b9fb0d55",
+			"_postman_id": "5dae9210-cc36-4d48-905a-ebfb6b607db0",
 			"name": "GeneralSearch-sort type",
 			"event": [
 				{
@@ -1749,7 +1749,7 @@
 			},
 			"response": [
 				{
-					"id": "cc73b409-9603-4c77-a523-1c458f7105ff",
+					"id": "cf0f0dc9-92d0-4e7a-8f5e-ccd1dbed0c5c",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1874,7 +1874,7 @@
 			]
 		},
 		{
-			"_postman_id": "25573b12-dd4d-4ba2-815d-f3b8cbef4346",
+			"_postman_id": "b7a4311f-c6d3-4601-b769-b1c809d7b690",
 			"name": "GeneralSearch-sort subject",
 			"event": [
 				{
@@ -1938,7 +1938,7 @@
 			},
 			"response": [
 				{
-					"id": "4b226c4c-d43e-42c6-844e-d2ead6104ad8",
+					"id": "fcf6a9cb-e0f6-4440-b5d3-8a238fdab183",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2063,7 +2063,7 @@
 			]
 		},
 		{
-			"_postman_id": "5f4fd99f-8aea-484f-a05f-fe7152f72d98",
+			"_postman_id": "10ccfedc-4a41-477e-86e6-27ad093d902d",
 			"name": "GeneralSearch-sort organizationTypeId",
 			"event": [
 				{
@@ -2127,7 +2127,7 @@
 			},
 			"response": [
 				{
-					"id": "e353fc91-f53b-431b-8d4a-d733c48ba942",
+					"id": "a40e6c88-e721-4f2e-adab-2f1aa0a3a9bf",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2252,7 +2252,7 @@
 			]
 		},
 		{
-			"_postman_id": "7f13f234-24b4-4603-94cd-e71dfa4f1642",
+			"_postman_id": "6f756cd4-8e62-4ee5-afa5-a34c35259853",
 			"name": "GeneralSearch-sort organizationName",
 			"event": [
 				{
@@ -2316,7 +2316,7 @@
 			},
 			"response": [
 				{
-					"id": "0fd4cacd-2667-419d-978a-50a52a73b879",
+					"id": "bccc5720-6e14-436f-8b9c-4cd56e0a08a0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2441,7 +2441,7 @@
 			]
 		},
 		{
-			"_postman_id": "9d582a7f-4584-46af-b732-c7763de095ce",
+			"_postman_id": "621c74be-c153-4905-a352-0697ba9f2e77",
 			"name": "GeneralSearch-sort createdBy",
 			"event": [
 				{
@@ -2505,7 +2505,7 @@
 			},
 			"response": [
 				{
-					"id": "145fab93-fd0e-491d-b19c-8f6b04335d84",
+					"id": "de5f032f-286e-4f4d-83ad-04fa17a8bad9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2630,7 +2630,7 @@
 			]
 		},
 		{
-			"_postman_id": "3e574923-1e13-41e0-80e6-16306db526f4",
+			"_postman_id": "6addecdc-cd27-48ca-bc4a-31e600758d0b",
 			"name": "GeneralSearch-sort primaryClaim",
 			"event": [
 				{
@@ -2694,7 +2694,7 @@
 			},
 			"response": [
 				{
-					"id": "de8b9a3b-4f24-4fe7-bd60-afd5f2242c46",
+					"id": "ebda4c3d-a579-44ae-b857-4af6bf43858f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2819,7 +2819,7 @@
 			]
 		},
 		{
-			"_postman_id": "bdee386c-822d-4ec3-bd38-9a725aa69cad",
+			"_postman_id": "5fcbdcce-a84b-48a1-b727-37dbb9392534",
 			"name": "GeneralSearch-sort secondaryClaim",
 			"event": [
 				{
@@ -2883,7 +2883,7 @@
 			},
 			"response": [
 				{
-					"id": "86fca7de-2abe-4384-9d2c-a520395d04af",
+					"id": "f1b21142-373e-439c-894a-f73f7c8551c4",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3008,7 +3008,7 @@
 			]
 		},
 		{
-			"_postman_id": "57313925-08c1-4cdf-9b3d-27de9d380e5d",
+			"_postman_id": "992e9dcd-d9a2-4834-b7ce-e5dc2d50ea6c",
 			"name": "GeneralSearch-sort tertiaryClaim",
 			"event": [
 				{
@@ -3072,7 +3072,7 @@
 			},
 			"response": [
 				{
-					"id": "edfb6df0-d254-4086-99fd-1c0f694ae3be",
+					"id": "cc45c317-02ba-418c-a894-4b22fe3fdfb8",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3197,7 +3197,7 @@
 			]
 		},
 		{
-			"_postman_id": "445b2c6e-16b1-4044-bb49-f3c10c597238",
+			"_postman_id": "67f8a600-af63-44eb-b605-3ca7b52cfb4d",
 			"name": "GeneralSearch-sort quaternaryClaim",
 			"event": [
 				{
@@ -3261,7 +3261,7 @@
 			},
 			"response": [
 				{
-					"id": "7b396c11-af21-4f1c-b465-52f91c79648f",
+					"id": "b4fabd95-606b-4b6b-bf7b-7a0ab0a496b3",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3386,7 +3386,7 @@
 			]
 		},
 		{
-			"_postman_id": "7b6f5f17-9784-410e-8f55-813fa2bbc51b",
+			"_postman_id": "027018ca-8e94-430f-b3c1-49b1c5ba6439",
 			"name": "GeneralSearch-sort primaryTarget",
 			"event": [
 				{
@@ -3450,7 +3450,7 @@
 			},
 			"response": [
 				{
-					"id": "4cd381a0-84df-44db-a63e-bc9e58fdfe27",
+					"id": "ce8b7f8e-57af-4dde-b850-4a4d7d93623b",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3575,7 +3575,7 @@
 			]
 		},
 		{
-			"_postman_id": "25cceb03-64c7-4786-b42c-420d6c4b2836",
+			"_postman_id": "12f9da49-9b50-410c-ae38-f556f80fc019",
 			"name": "GeneralSearch-sort secondaryTarget",
 			"event": [
 				{
@@ -3639,7 +3639,7 @@
 			},
 			"response": [
 				{
-					"id": "60231e21-51bd-43e4-99e3-753ba1ee7467",
+					"id": "1ba3970d-2e6a-4107-8b58-928189b5bb50",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3764,7 +3764,7 @@
 			]
 		},
 		{
-			"_postman_id": "f566517b-2115-4f42-91ea-a6a2f5c9c37c",
+			"_postman_id": "b9dad28c-781e-4883-a2da-47d6ac2d385c",
 			"name": "GeneralSearch-sort tertiaryTarget",
 			"event": [
 				{
@@ -3828,7 +3828,7 @@
 			},
 			"response": [
 				{
-					"id": "fc87c03a-21d8-4f8b-a3ab-3189a8cbca80",
+					"id": "953a500f-5b5d-4c58-985a-19a87d95262f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3953,7 +3953,7 @@
 			]
 		},
 		{
-			"_postman_id": "12e87930-bbf8-45f8-97a6-082f8be8d876",
+			"_postman_id": "b8db3595-81e3-4447-9f2b-911ab54b90db",
 			"name": "GeneralSearch-sort quaternaryTarget",
 			"event": [
 				{
@@ -4017,7 +4017,7 @@
 			},
 			"response": [
 				{
-					"id": "3eac825d-5899-4f45-9961-53b44a5cc858",
+					"id": "a26c5994-4084-42f7-af00-cb5ce65cdef4",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4142,7 +4142,7 @@
 			]
 		},
 		{
-			"_postman_id": "9ad45e54-bd30-48a1-8e4d-34ccaf74df5f",
+			"_postman_id": "579cc412-c0e2-48ce-90a4-a9a6ec9e584f",
 			"name": "GeneralSearch-sort contentTaskModel",
 			"event": [
 				{
@@ -4206,7 +4206,7 @@
 			},
 			"response": [
 				{
-					"id": "3beb86dd-5f55-4c24-8136-1911c6b66da3",
+					"id": "ea510e40-648a-4929-9f0b-ae180ec14294",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4331,7 +4331,7 @@
 			]
 		},
 		{
-			"_postman_id": "8f2aef10-b3ec-4001-a063-ca52a96cdbdd",
+			"_postman_id": "e568e1ce-9ec6-4600-9724-5be0b9fa696d",
 			"name": "GeneralSearch-sort writingPurpose",
 			"event": [
 				{
@@ -4395,7 +4395,7 @@
 			},
 			"response": [
 				{
-					"id": "00f82a58-8d5d-4301-a7d3-2ad7c06bd4fd",
+					"id": "7885d5f0-4049-4eaa-af08-6a55640d1630",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4520,7 +4520,7 @@
 			]
 		},
 		{
-			"_postman_id": "89deb342-f1b3-4445-8257-bc80e1987a64",
+			"_postman_id": "44697ccf-471d-4ba2-8b25-7f177cf089ef",
 			"name": "GeneralSearch-sort performanceTask",
 			"event": [
 				{
@@ -4584,7 +4584,7 @@
 			},
 			"response": [
 				{
-					"id": "707fe087-bd6c-42e1-a8e3-8d3c710d0825",
+					"id": "d7053e3d-9006-44a3-b9d2-c2764c1b61f4",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4709,7 +4709,7 @@
 			]
 		},
 		{
-			"_postman_id": "833bf648-26c5-4268-ad41-402297172374",
+			"_postman_id": "6d6e975d-b916-4efb-a70b-1c122da53110",
 			"name": "GeneralSearch-sort isAslProvided",
 			"event": [
 				{
@@ -4773,7 +4773,7 @@
 			},
 			"response": [
 				{
-					"id": "b7fe5dd0-ac52-4935-896c-cca68e0c66df",
+					"id": "eef42a42-f1b0-4567-ad11-fc471887f1ec",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4898,7 +4898,7 @@
 			]
 		},
 		{
-			"_postman_id": "6b69c791-a0c6-4b8e-bb28-e7b7862d801a",
+			"_postman_id": "d522be22-e446-4741-ab49-36ee3cf45e73",
 			"name": "GeneralSearch-sort isAslRequired",
 			"event": [
 				{
@@ -4962,7 +4962,7 @@
 			},
 			"response": [
 				{
-					"id": "97a07148-4e24-4905-aa47-1babb9981503",
+					"id": "621f8310-5035-4c57-b8de-1fdcc42c51c9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5087,7 +5087,7 @@
 			]
 		},
 		{
-			"_postman_id": "78585d0a-a5d3-4076-a309-291abed46091",
+			"_postman_id": "59ab4f44-0d7c-4509-b60d-a9bb77930539",
 			"name": "GeneralSearch-sort isBrailleProvided",
 			"event": [
 				{
@@ -5151,7 +5151,7 @@
 			},
 			"response": [
 				{
-					"id": "d59cac5d-db6b-420a-ae48-ee46d49206c0",
+					"id": "da79b031-dfd3-425f-abe4-21948ceecb1d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5276,7 +5276,7 @@
 			]
 		},
 		{
-			"_postman_id": "78847721-82f6-4132-8fbc-c2c1426347ba",
+			"_postman_id": "b182f3c9-a234-4324-a25c-630a5bd4bd9b",
 			"name": "GeneralSearch-sort isBrailleRequired",
 			"event": [
 				{
@@ -5340,7 +5340,7 @@
 			},
 			"response": [
 				{
-					"id": "9cc465f1-8c76-4f3c-8615-4cd776262ba0",
+					"id": "08692c64-d940-4c4f-ae9b-9478a35edcf8",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5465,7 +5465,7 @@
 			]
 		},
 		{
-			"_postman_id": "14f9a8a9-a326-4e0c-a3ae-5f0c7023760e",
+			"_postman_id": "8dfc40df-62a3-4e3a-9929-9ea5bcf4d3da",
 			"name": "GeneralSearch-sort isClosedCaptioningProvided",
 			"event": [
 				{
@@ -5529,7 +5529,7 @@
 			},
 			"response": [
 				{
-					"id": "4ff66428-7c17-42b6-9f2b-de0d3138dbb3",
+					"id": "282db891-c0f2-4c42-8810-5d0f212eb38a",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5654,7 +5654,7 @@
 			]
 		},
 		{
-			"_postman_id": "a4dedce2-8dc7-4b7a-abfc-ca8cb52213fc",
+			"_postman_id": "59aef7ff-ec9c-4aab-9e08-a110f5c771a7",
 			"name": "GeneralSearch-sort isClosedCaptioningRequired",
 			"event": [
 				{
@@ -5718,7 +5718,7 @@
 			},
 			"response": [
 				{
-					"id": "9eb3177a-4645-411e-a83a-fe263ecefca5",
+					"id": "b90931b7-1092-4e23-88ad-2a55d255157b",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5843,7 +5843,7 @@
 			]
 		},
 		{
-			"_postman_id": "a37f06e5-63a5-4db7-86ad-c5ece3aafe78",
+			"_postman_id": "82ef3d83-6086-4b6a-82e3-9b7cc790db26",
 			"name": "GeneralSearch-sort isTranslationProvided",
 			"event": [
 				{
@@ -5907,7 +5907,7 @@
 			},
 			"response": [
 				{
-					"id": "75b59844-1bfc-44cf-a0b2-bcd718354b6d",
+					"id": "289e12d0-26e6-4dd3-a2ea-62f696a55701",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6032,7 +6032,7 @@
 			]
 		},
 		{
-			"_postman_id": "24f82fe2-a79b-4cd9-bc39-f0a83baa8ae6",
+			"_postman_id": "cb47ff0d-ad66-4531-be4c-1dfd71ffb12e",
 			"name": "GeneralSearch-sort isTranslationRequired",
 			"event": [
 				{
@@ -6096,7 +6096,7 @@
 			},
 			"response": [
 				{
-					"id": "4a6b2ed3-9822-4765-835d-cae0aa0dd591",
+					"id": "a656f9f7-ece2-45ee-9956-4b196c38436c",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6221,7 +6221,7 @@
 			]
 		},
 		{
-			"_postman_id": "36344870-2e57-4025-80b2-c516c97ae4a8",
+			"_postman_id": "24df0629-8846-4e7e-ab00-51a6759b351a",
 			"name": "Search - sort by \"isVisualTTSProvided\" ascending",
 			"event": [
 				{
@@ -6279,7 +6279,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "683bc61f-1465-4c50-a2b5-69c5cde0420e",
+			"_postman_id": "9c4e8a64-a0af-4fdb-aadd-3efa12fddfcc",
 			"name": "Search - sort by \"isVisualTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6337,7 +6337,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0b97370d-c47c-4535-9c55-06943573a034",
+			"_postman_id": "f62a438b-12f2-4ed6-a2de-6ccfa3e0fc8d",
 			"name": "Search - sort by \"isVisualTTSRequired\" descending",
 			"event": [
 				{
@@ -6395,7 +6395,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cabe894d-d4f2-415b-80ec-54093c2d4a06",
+			"_postman_id": "c2e61b12-b7a1-4c04-a2e0-90a4133d3d14",
 			"name": "Search - sort by \"isVisualTTSRequired\" ids 205869 205858 ascending",
 			"event": [
 				{
@@ -6453,7 +6453,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d1b82715-d2d6-4ad9-beec-52f8fa38e9de",
+			"_postman_id": "7b2bc80c-202d-47dd-b64d-2d0244066168",
 			"name": "Search - sort by \"isSightTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6511,7 +6511,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "85b9bdc0-fc43-4c38-91e6-d4053a57c2dd",
+			"_postman_id": "b387fc7f-944f-406d-bc96-3e0d701d82c3",
 			"name": "Search - sort by \"isSightTTSProvided\" ascending",
 			"event": [
 				{
@@ -6569,7 +6569,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "502e79b4-97c7-4ec8-b16d-a0d9fe9b95d7",
+			"_postman_id": "e02888fd-87ab-4aec-9121-84572b26e345",
 			"name": "GeneralSearch- id 205315 sa",
 			"event": [
 				{
@@ -6656,37 +6656,37 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9499e123-3258-45eb-a79a-9fd9ae5e0002",
-			"name": "GeneralSearch- id 205315 sa Copy",
+			"_postman_id": "81e2868b-a3e9-46f9-bc59-a9c137fb88a7",
+			"name": "GeneralSearch- id 207058 - math eq all filters",
 			"event": [
 				{
 					"listen": "test",
 					"script": {
-						"id": "4c337534-ee3e-435a-a023-82a27ee4c18b",
+						"id": "b013d149-828b-40d4-bde8-6f174f95e062",
 						"type": "text/javascript",
 						"exec": [
-							"pm.test(\"Should find id 205315\", function () {",
-							"    pm.expect(pm.response.json().results[0].id).to.eql(\"205315\");",
+							"pm.test(\"Should find id 207058\", function () {",
+							"    pm.expect(pm.response.json().results[0].id).to.eql(\"207058\");",
 							"});",
 							"",
-							"pm.test(\"Should find type 'sa'\", function () {",
-							"    pm.expect(pm.response.json().results[0].type).to.eql(\"sa\");",
+							"pm.test(\"Should find type 'eq'\", function () {",
+							"    pm.expect(pm.response.json().results[0].type).to.eql(\"eq\");",
 							"});",
 							"",
 							"pm.test(\"Should find stimulusId 205237\", function () {",
-							"    pm.expect(pm.response.json().results[0].stimulusId).to.eql(\"205237\");",
+							"    pm.expect(pm.response.json().results[0].stimulusId).to.eql(\"206267\");",
 							"});",
 							"",
 							"pm.test(\"Should find intendedGrade 5\", function () {",
-							"    pm.expect(pm.response.json().results[0].intendedGrade).to.eql(\"5\");",
+							"    pm.expect(pm.response.json().results[0].intendedGrade).to.eql(\"7\");",
 							"});",
 							"",
-							"pm.test(\"Should find createDate 2018-04-20T18:58:38Z\", function () {",
-							"    pm.expect(pm.response.json().results[0].createDate).to.eql(\"2018-04-20T18:58:38Z\");",
+							"pm.test(\"Should find createDate 2018-08-08T14:16:42Z\", function () {",
+							"    pm.expect(pm.response.json().results[0].createDate).to.eql(\"2018-08-08T14:16:42Z\");",
 							"});",
 							"",
-							"pm.test(\"Should find workflowStatusUpdatedDate 2018-04-20T18:58:38Z\", function () {",
-							"    pm.expect(pm.response.json().results[0].workflowStatusUpdatedDate).to.eql(\"2018-04-20T18:58:38Z\");",
+							"pm.test(\"Should find workflowStatusUpdatedDate 2018-08-08T14:16:42Z\", function () {",
+							"    pm.expect(pm.response.json().results[0].workflowStatusUpdatedDate).to.eql(\"2018-08-08T14:16:42Z\");",
 							"});",
 							""
 						]
@@ -6723,7 +6723,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"205315\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"207058\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -6743,7 +6743,176 @@
 			"response": []
 		},
 		{
-			"_postman_id": "fe9cdf1c-7196-48d2-bd37-df27aba043cd",
+			"_postman_id": "26a1f28d-1f2d-4693-8710-4de79962702f",
+			"name": "GeneralSearch- id 207059 -ELA sa all filters",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c85100bf-99e4-40bd-8a64-ac94c7fee1c2",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should find id 207059\", function () {",
+							"    pm.expect(pm.response.json().results[0].id).to.eql(\"207059\");",
+							"});",
+							"",
+							"pm.test(\"Should find type 'sa'\", function () {",
+							"    pm.expect(pm.response.json().results[0].type).to.eql(\"sa\");",
+							"});",
+							"",
+							"pm.test(\"Should find stimulusId 207047\", function () {",
+							"    pm.expect(pm.response.json().results[0].stimulusId).to.eql(\"207047\");",
+							"});",
+							"",
+							"pm.test(\"Should find intendedGrade 11\", function () {",
+							"    pm.expect(pm.response.json().results[0].intendedGrade).to.eql(\"11\");",
+							"});",
+							"",
+							"pm.test(\"Should find createDate 2018-08-08T16:19:09Z\", function () {",
+							"    pm.expect(pm.response.json().results[0].createDate).to.eql(\"2018-08-08T16:19:09Z\");",
+							"});",
+							"",
+							"pm.test(\"Should find workflowStatusUpdatedDate 2018-08-08T16:19:09Z\", function () {",
+							"    pm.expect(pm.response.json().results[0].workflowStatusUpdatedDate).to.eql(\"2018-08-08T16:19:09Z\");",
+							"});",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"207059\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "2d113aed-e5fb-4846-9e2d-d2ce93e9e299",
+			"name": "GeneralSearch- id 205987 - Tess many filters",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d98ac639-f3ce-4f4a-8338-0e9f04172792",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should find id 205315\", function () {",
+							"    pm.expect(pm.response.json().results[0].id).to.eql(\"205987\");",
+							"});",
+							"",
+							"pm.test(\"Should find type 'sa'\", function () {",
+							"    pm.expect(pm.response.json().results[0].type).to.eql(\"mc\");",
+							"});",
+							"",
+							"",
+							"pm.test(\"Should find intendedGrade 5\", function () {",
+							"    pm.expect(pm.response.json().results[0].intendedGrade).to.eql(\"6\");",
+							"});",
+							"",
+							"pm.test(\"Should find createDate 2018-04-20T18:58:38Z\", function () {",
+							"    pm.expect(pm.response.json().results[0].createDate).to.eql(\"2018-06-27T21:28:06Z\");",
+							"});",
+							"",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"205987\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "fc915fec-f414-4d1b-8fc0-97ba56fd06cb",
 			"name": "GeneralSearch- id 206143",
 			"event": [
 				{
@@ -6807,7 +6976,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e8a2881c-05df-41d4-bdf0-2f67f4278ce8",
+			"_postman_id": "53c5a2e7-0f4b-4b1c-ae1f-133418c7868b",
 			"name": "GeneralSearch- id 205320",
 			"event": [
 				{
@@ -6894,7 +7063,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "217f3028-fb44-4277-a141-3cd5b150ddf0",
+			"_postman_id": "60c95087-2543-42ea-85b6-dae306778a4b",
 			"name": "GeneralSearch- id 205767",
 			"event": [
 				{
@@ -6978,7 +7147,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7ab7bda8-ef81-4087-8a63-260e3b151eba",
+			"_postman_id": "c0ab25ef-328c-4111-99e3-8b1f0db7cb4a",
 			"name": "GeneralSearch- id 206194  - testCategory Summative",
 			"event": [
 				{
@@ -7053,7 +7222,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a5fb937f-e9ee-4f9b-b4a8-b9bce3a570f1",
+			"_postman_id": "c8a94dee-4538-4595-baf6-b1358b688e81",
 			"name": "GeneralSearch- id 205315 sa, createDate 2018-04-20T18:56:44Z",
 			"event": [
 				{
@@ -7123,7 +7292,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c05c7e74-1882-4125-99e8-bf87497e89f7",
+			"_postman_id": "9eead0a3-9450-443d-a2b5-3028d7494bc5",
 			"name": "GeneralSearch- id 205315 sa, workflowStatusUpdatedDate 2018-04-20T18:58:38Z",
 			"event": [
 				{
@@ -7193,7 +7362,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "65b985ef-840f-4f9a-bf18-d541953ed172",
+			"_postman_id": "6418288d-8143-416c-bd6b-6a1bac583cfd",
 			"name": "GeneralSearch- id 205363 - All Use Case 2 except daysInWorkflowStatus",
 			"event": [
 				{
@@ -7311,7 +7480,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "97268ba7-f734-4a11-a5de-02ca45b2c780",
+			"_postman_id": "59d19609-3476-490e-99b0-0a2afbab055c",
 			"name": "GeneralSearch- id 205326 eq",
 			"event": [
 				{
@@ -7390,7 +7559,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "313cb39c-ed77-4c14-96b9-a7a4758aaebf",
+			"_postman_id": "3f0c9829-eed9-4559-9ef2-0acbe743e382",
 			"name": "GeneralSearch- id 205327 stim Math",
 			"event": [
 				{
@@ -7465,7 +7634,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "fe9e5f74-74da-4b40-9fe0-0e670cf419a1",
+			"_postman_id": "e6ff7aba-175f-4950-b57f-2b106ddb120a",
 			"name": "GeneralSearch- id 205328 stim ELA",
 			"event": [
 				{
@@ -7539,7 +7708,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e7555084-70fa-4c5e-aecf-f31791f0c879",
+			"_postman_id": "b573aaca-7500-417b-a4d6-9e81f6d2de60",
 			"name": "GeneralSearch- id 205330 GI",
 			"event": [
 				{
@@ -7623,7 +7792,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "20bcd806-3c8c-40aa-8d7f-4e110be17d45",
+			"_postman_id": "253a69bb-ac4e-4537-88d5-937d7b10bc58",
 			"name": "GeneralSearch- id 205331 HTQO",
 			"event": [
 				{
@@ -7699,7 +7868,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "580bd01c-0913-4fce-9d07-d100360e5671",
+			"_postman_id": "4e03f95c-5cdf-400f-912e-9864a5895460",
 			"name": "GeneralSearch- id 205332 htqs",
 			"event": [
 				{
@@ -7773,7 +7942,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a21517a4-3d5f-47f3-b240-98080689a00c",
+			"_postman_id": "e206e681-ebc1-4cbb-9ae4-b9380b7449da",
 			"name": "GeneralSearch- id 205334 MI",
 			"event": [
 				{
@@ -7847,7 +8016,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8072d5f9-791d-497b-bed5-9ba00abd0f71",
+			"_postman_id": "6209e857-ddf9-4363-8338-cbd1b945b216",
 			"name": "GeneralSearch- id 205335 mc",
 			"event": [
 				{
@@ -7926,7 +8095,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "85b29153-3492-4032-88ae-c0ed10e3b5ae",
+			"_postman_id": "128a46c7-5ed3-4d3b-bd7b-de3a9f83de35",
 			"name": "GeneralSearch- id 205336 ms",
 			"event": [
 				{
@@ -8005,7 +8174,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a4d09bd4-c2f2-4b95-b2d1-be56a85820a4",
+			"_postman_id": "8eacae40-1bef-424f-8e03-90cee4780a65",
 			"name": "GeneralSearch- id 205337 sa",
 			"event": [
 				{
@@ -8083,7 +8252,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a807ca17-3886-42e3-aec1-bdf6740081fd",
+			"_postman_id": "9d3cf7f4-8d4d-44e3-bc0a-8edbccf7125f",
 			"name": "GeneralSearch- id 205338 ti",
 			"event": [
 				{
@@ -8161,7 +8330,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e67bc0ba-d229-4eb9-ae78-bc7e63cd5092",
+			"_postman_id": "311803f1-b1ac-460b-9a92-b24410738d32",
 			"name": "GeneralSearch- id 205339 wer",
 			"event": [
 				{
@@ -8235,7 +8404,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f5cf6849-54d4-4f56-82a8-ca8c0f428c8a",
+			"_postman_id": "2198fc5c-28be-4aa4-b30f-6ee6d92f9e25",
 			"name": "GeneralSearch- id 205333 tut",
 			"event": [
 				{
@@ -8309,7 +8478,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cc7afd65-e1e9-4e2b-8b06-59a318f3e018",
+			"_postman_id": "140fe172-f2d6-451b-9f2c-f8efefeaa0de",
 			"name": "GeneralSearch- id blank",
 			"event": [
 				{
@@ -8382,79 +8551,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "dfdae948-5820-44c8-bff6-98165d407dd9",
-			"name": "GeneralSearch- id 206006 asl and braille attachments",
-			"event": [
-				{
-					"listen": "test",
-					"script": {
-						"id": "2356a3bd-7254-4c98-b9d5-ae5857840f89",
-						"type": "text/javascript",
-						"exec": [
-							"pm.test(\"Should find Asl attachment\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"PaSsaGe_206006_ASL_STEM.MP4\");",
-							"});",
-							"",
-							"",
-							"",
-							"pm.test(\"Should find Braille attachment\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"item_206006_enu_ecn_transcript.prn\");",
-							"});"
-						]
-					}
-				}
-			],
-			"request": {
-				"auth": {
-					"type": "oauth2",
-					"oauth2": [
-						{
-							"key": "accessToken",
-							"value": "{{access_token}}",
-							"type": "string"
-						},
-						{
-							"key": "tokenType",
-							"value": "Bearer",
-							"type": "string"
-						},
-						{
-							"key": "addTokenTo",
-							"value": "header",
-							"type": "string"
-						}
-					]
-				},
-				"method": "POST",
-				"header": [
-					{
-						"key": "Content-Type",
-						"value": "application/json"
-					}
-				],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"id\",\n            \"values\":[\"206006\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 1,\n        \"pageNumber\": 0\n    }\n}"
-				},
-				"url": {
-					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
-					"protocol": "http",
-					"host": [
-						"iss-awsqa",
-						"sbtds",
-						"org"
-					],
-					"path": [
-						"v1",
-						"items",
-						"search"
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"_postman_id": "bd546fe2-1a73-4640-b38f-d6d4a82cfa98",
+			"_postman_id": "20de64e0-d0c4-4fb4-a452-7f2d99a40481",
 			"name": "GeneralSearch- workflowStatusUpdatedDate contains 4/13/18",
 			"event": [
 				{
@@ -8527,7 +8624,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5980932d-e633-45c1-be21-47f2605564ca",
+			"_postman_id": "70b03a1a-720b-4c23-b760-e6334df2edbe",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range: 5/18-6/7",
 			"event": [
 				{
@@ -8591,7 +8688,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "521591be-4cfb-4650-bb7f-da52d7f5c69e",
+			"_postman_id": "d2ae514c-d9e7-4dd9-9f40-9dbc556ca0cd",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without 'to' date",
 			"event": [
 				{
@@ -8655,7 +8752,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "34066764-2e6a-4d5e-88e3-010c795afd32",
+			"_postman_id": "9b520352-cd64-41a3-b9cd-198f41120423",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without \"from\" date",
 			"event": [
 				{
@@ -8719,7 +8816,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e3b2840a-49ac-411a-a901-11e31eeb28cc",
+			"_postman_id": "af38d321-3a42-4616-a84c-e3a2c6a8ee9e",
 			"name": "GeneralSearch- intendedGrade = 3",
 			"event": [
 				{
@@ -8792,7 +8889,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2184c874-9978-452a-8015-eed65ad8a67f",
+			"_postman_id": "97e68b02-2026-4ff4-8a96-8492e53b9738",
 			"name": "GeneralSearch- intendedGrade blank",
 			"event": [
 				{
@@ -8865,7 +8962,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "85782758-4006-4651-8102-e6406984f941",
+			"_postman_id": "46f0ca72-290f-4434-9dd2-cd97e11ea5a6",
 			"name": "GeneralSearch-daysInWorkflowStatus = 0",
 			"event": [
 				{
@@ -8939,7 +9036,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ff36ecdd-a48b-49c1-9701-fe107b491491",
+			"_postman_id": "5f09692f-76bb-4628-a947-13aa27aac866",
 			"name": "GeneralSearch-daysInWorkflowStatus = 7",
 			"event": [
 				{
@@ -9014,7 +9111,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "70d58be6-8ceb-4c98-b47d-bca727d40591",
+			"_postman_id": "50fa64c6-bd6e-4447-b405-0512017545fd",
 			"name": "GeneralSearch-daysInWorkflowStatus = 1-7",
 			"event": [
 				{
@@ -9087,7 +9184,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "89aeabe6-ce9e-478a-af4f-cb4a068d17d2",
+			"_postman_id": "7be94e0e-af9b-424a-a2a7-3a7c3a13c8f7",
 			"name": "GeneralSearch-daysInWorkflowStatus = 14-60",
 			"event": [
 				{
@@ -9151,7 +9248,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f8feebdd-8d63-4d8d-bdb3-83b2a19df488",
+			"_postman_id": "e1515f1a-5587-478a-8c10-41f0e7a52d0a",
 			"name": "GeneralSearch-daysInWorkflowStatus = 60-120",
 			"event": [
 				{
@@ -9215,7 +9312,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f1030b29-8deb-4d6e-9721-caf7ab49329f",
+			"_postman_id": "a780ac1c-20c6-4bf3-999f-3469f6a140b2",
 			"name": "GeneralSearch-stimulusId 205237",
 			"event": [
 				{
@@ -9288,7 +9385,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "352d2678-e097-4e5d-b17d-f2909daf07c8",
+			"_postman_id": "b01b70fb-4af0-41be-9272-f9e6dd9fbdfb",
 			"name": "GeneralSearch-stimulusId 205328",
 			"event": [
 				{
@@ -9361,7 +9458,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9fc06989-fb7e-49a3-ab5b-9c5954210a8b",
+			"_postman_id": "24b434aa-aa1c-4c4c-9b5b-46e62e7193bb",
 			"name": "GeneralSearch-stimulusId blank",
 			"event": [
 				{
@@ -9434,7 +9531,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8db978f4-0cb2-43c7-b496-8972af76ca0d",
+			"_postman_id": "ed09ba78-d3d3-436b-90cf-3d8e3a0ed65d",
 			"name": "GeneralSearch-depthOfKnowledge=3",
 			"event": [
 				{
@@ -9507,7 +9604,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ab6e2210-4b12-4aaa-918b-7f37e77f4a4c",
+			"_postman_id": "ef23eed9-5e82-4deb-a2ff-583565aa1dcf",
 			"name": "GeneralSearch-depthOfKnowledge blank",
 			"event": [
 				{
@@ -9580,7 +9677,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0fb09197-b156-481a-84d0-1057e31822de",
+			"_postman_id": "326726ab-5023-4c93-aed8-a03f602899a8",
 			"name": "GeneralSearch-WorkflowStatus=Draft",
 			"event": [
 				{
@@ -9665,7 +9762,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6f971761-9533-4573-b5f2-5fa8b6bce229",
+			"_postman_id": "df26039b-dcc7-4c9a-835d-c619e079b7d1",
 			"name": "GeneralSearch-WorkflowStatus blank",
 			"event": [
 				{
@@ -9740,7 +9837,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9c176e92-a621-4ad0-98cd-f928b2ee5f04",
+			"_postman_id": "91fdb460-3a4b-46cd-a066-573301d66324",
 			"name": "GeneralSearch-WorkflowStatus: Draft, Subject:ELA",
 			"event": [
 				{
@@ -9814,7 +9911,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c1596cc0-f408-43d3-bd04-3794b3f67460",
+			"_postman_id": "f6680765-7900-4046-ad7b-87cfe8bdcd18",
 			"name": "GeneralSearch-WorkflowStatus=Draft, Subject=ELA, intendedGrade=3",
 			"event": [
 				{
@@ -9892,7 +9989,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f217a1c6-8d94-4129-b2c8-2a46f2e955a9",
+			"_postman_id": "a3cb739a-f5c9-4d2b-9ee1-35f5bb06c6ca",
 			"name": "GeneralSearch-workflowStatus=draft, intendedGrade = 7, primaryClaim = 3, stimulusId = 205255",
 			"event": [
 				{
@@ -9966,7 +10063,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1233d485-c59d-4046-8b65-612d743cd88e",
+			"_postman_id": "4b8f4930-87a7-4487-bd74-2a831cc83278",
 			"name": "GeneralSearch-WorkflowStatus: Draft, daysRange: 2-4",
 			"event": [
 				{
@@ -10041,7 +10138,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "94672282-9b88-4a57-9736-d2e31048af41",
+			"_postman_id": "11e64b78-7068-4ce1-bc5f-b5f11d283340",
 			"name": "GeneralSearch- type = eq",
 			"event": [
 				{
@@ -10114,7 +10211,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4ecc8a74-ff9f-43bf-b01c-2c0f4e61330e",
+			"_postman_id": "602af134-89b8-4484-aa80-e26142b46796",
 			"name": "GeneralSearch- type = blank",
 			"event": [
 				{
@@ -10187,7 +10284,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "35ead9a5-17ed-44b6-9611-5d821f608329",
+			"_postman_id": "ee43ff6b-e23b-4cf0-ae2b-9c8b3bb37dde",
 			"name": "GeneralSearch- type = sa, eq",
 			"event": [
 				{
@@ -10262,7 +10359,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d1ac48ae-384a-4ac6-b113-20777796ab96",
+			"_postman_id": "5ce2c6be-5c1d-4394-a413-999374d03d0f",
 			"name": "GeneralSearch-Subject=Math",
 			"event": [
 				{
@@ -10336,7 +10433,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2fb4cc25-a12b-4a7d-87e4-f94d3cdd1d8f",
+			"_postman_id": "e4a4af58-7df3-44e0-a8f7-3a1a4e4f229b",
 			"name": "GeneralSearch-Subject=ELA",
 			"event": [
 				{
@@ -10409,7 +10506,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "55595ab7-2ce1-48f2-8692-e3e78768f3e3",
+			"_postman_id": "ddff4eb4-ca33-4c59-9bbd-6cc7f7fbfd1a",
 			"name": "GeneralSearch-Subject=blank",
 			"event": [
 				{
@@ -10482,7 +10579,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e889887d-2260-4539-af86-43c62b786b8d",
+			"_postman_id": "1c3fafda-418d-465d-93f8-480ea4bf36a0",
 			"name": "GeneralSearch- created by Jeff Melin",
 			"event": [
 				{
@@ -10555,7 +10652,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2f523a4d-57d5-4c62-b214-e010b8b168ac",
+			"_postman_id": "ce20c93d-40e8-4867-85da-02db1c984260",
 			"name": "GeneralSearch- itemAuthor JMQA",
 			"event": [
 				{
@@ -10628,7 +10725,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3621bc6c-ef6b-4526-a964-25b2bbe2008c",
+			"_postman_id": "34ce73d4-908f-4e44-ad46-a8720b4bdc38",
 			"name": "GeneralSearch- itemAuthor blank",
 			"event": [
 				{
@@ -10701,7 +10798,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f1e1ebcb-1fad-462b-acd4-6236675e0548",
+			"_postman_id": "e880f56c-a1d6-4414-b9b1-48f00e5f0d37",
 			"name": "GeneralSearch-organizationTypeId = vendor, smarterBalanced",
 			"event": [
 				{
@@ -10775,7 +10872,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1138fed3-364e-4720-85cd-583050b23147",
+			"_postman_id": "3c5d057f-108e-497c-a076-92117d1dee9c",
 			"name": "GeneralSearch-primaryClaim = 2",
 			"event": [
 				{
@@ -10849,7 +10946,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4cb0f4f4-b21f-442e-bfb7-6f03d183421d",
+			"_postman_id": "e5c1ea9e-ecc1-4d7b-8dfb-7d4e2aa1ebcf",
 			"name": "GeneralSearch-primaryClaim = blank",
 			"event": [
 				{
@@ -10923,7 +11020,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1fa07162-dda0-48f9-bec3-cde3246e95ee",
+			"_postman_id": "9313638f-d25a-4cd3-b17e-5818c4bfd77d",
 			"name": "GeneralSearch-secondaryClaim = 1",
 			"event": [
 				{
@@ -10997,7 +11094,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8e6f1a97-56a1-4fbd-a91a-9437d8ddd5a2",
+			"_postman_id": "0149a907-e7a6-4c52-9582-f759cdb15765",
 			"name": "GeneralSearch-secondaryClaim blank",
 			"event": [
 				{
@@ -11071,7 +11168,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bdbc70e3-1bc0-49b1-8e84-5ee9eb0cc20b",
+			"_postman_id": "827e9892-cefd-46fb-9e84-340030f3581e",
 			"name": "GeneralSearch-tertiaryClaim = 4",
 			"event": [
 				{
@@ -11145,7 +11242,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c5dc7077-e2ff-414d-9eae-30c2dad27ac6",
+			"_postman_id": "544b11c1-1534-4f71-b081-b2bbbd91eb5c",
 			"name": "GeneralSearch-tertiaryClaim blank",
 			"event": [
 				{
@@ -11219,7 +11316,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2caeb507-aa9e-441a-a95d-f86559301e9d",
+			"_postman_id": "85e152cf-e3d1-45fd-b564-7978d4810693",
 			"name": "GeneralSearch-quaternaryClaim = 3",
 			"event": [
 				{
@@ -11293,7 +11390,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5ec41666-e984-4b20-a400-9982d6c2e2ce",
+			"_postman_id": "47414138-3df1-4326-b309-293320dd37a5",
 			"name": "GeneralSearch-quaternaryClaim blank",
 			"event": [
 				{
@@ -11367,7 +11464,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f978bdd2-6086-4d1b-90c4-a2342cdca039",
+			"_postman_id": "db31b53a-1c63-4664-91aa-a932ef526b84",
 			"name": "GeneralSearch-primaryTarget = QA PAT1",
 			"event": [
 				{
@@ -11440,7 +11537,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "13832d32-ce61-4e43-a59a-f550eae15310",
+			"_postman_id": "60bd202f-931a-4e9b-9500-e8cc8832a826",
 			"name": "GeneralSearch-primaryTarget = blank",
 			"event": [
 				{
@@ -11513,7 +11610,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d8594983-00d1-4f15-a489-7687ea2f9779",
+			"_postman_id": "c06dcb18-61c9-4150-8321-80305a20299c",
 			"name": "GeneralSearch-secondaryTarget = L",
 			"event": [
 				{
@@ -11586,7 +11683,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2350f410-fe29-4a03-836e-2fb95197a8cc",
+			"_postman_id": "585b9b63-ccfd-45ac-8f5b-635f4416acf6",
 			"name": "GeneralSearch-secondaryTarget blank",
 			"event": [
 				{
@@ -11659,7 +11756,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8a7a6b3b-f859-413b-91d5-68a6e0255f0d",
+			"_postman_id": "b05123b5-c4d3-4611-abbe-37958a515bdc",
 			"name": "GeneralSearch-tertiaryTarget = M",
 			"event": [
 				{
@@ -11732,7 +11829,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e5091cb1-bb62-42e4-a3b4-019e3e90b755",
+			"_postman_id": "491f4db0-1ecf-4e09-b827-5e9202316987",
 			"name": "GeneralSearch-tertiaryTarget blank",
 			"event": [
 				{
@@ -11805,7 +11902,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "53469099-cafa-4c11-8e29-4d91d4afad11",
+			"_postman_id": "aa6d8c48-2d55-45d0-95a0-a25b05ca9962",
 			"name": "GeneralSearch-quaternaryTarget = A",
 			"event": [
 				{
@@ -11878,7 +11975,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d9e733c1-a3de-4254-8e55-53bf80717c1c",
+			"_postman_id": "48b9586c-f0ce-4c6c-8e03-75bb27a6c5cd",
 			"name": "GeneralSearch-quaternaryTarget blank",
 			"event": [
 				{
@@ -11951,7 +12048,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b2f19b52-a509-44c7-95c8-7860a307328c",
+			"_postman_id": "7649f251-12c3-41ac-8387-d9f197e1e044",
 			"name": "GeneralSearch-contentTaskModel contains 'odel'",
 			"event": [
 				{
@@ -12029,7 +12126,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9dc0a1b2-dd25-4a89-80ca-c6dd38c99cbb",
+			"_postman_id": "17a5d8d3-9f9d-4315-9ede-c577a77cbc60",
 			"name": "GeneralSearch-contentTaskModel contains blank",
 			"event": [
 				{
@@ -12105,7 +12202,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "493ace4a-8cdd-40f4-bd83-2d120acb33f5",
+			"_postman_id": "10eeeee2-5fdb-476c-a3f0-41c1eebd061d",
 			"name": "GeneralSearch-primaryTarget = PAT, QA PAT1",
 			"event": [
 				{
@@ -12178,7 +12275,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "753e4211-9661-4db8-9fc6-7e84461e4e64",
+			"_postman_id": "ae4f1977-4104-41f8-ad57-db65430df6fc",
 			"name": "GeneralSearch-organizationName = QA",
 			"event": [
 				{
@@ -12253,7 +12350,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "56e15d60-6cc2-4a6c-ad75-86ac8d3ce569",
+			"_postman_id": "ddb2f31f-42be-450f-b425-a9ed97187c22",
 			"name": "GeneralSearch-organizationName contain Q",
 			"event": [
 				{
@@ -12326,7 +12423,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "620da849-2815-46ec-b2de-9f158071be2c",
+			"_postman_id": "c3904f33-c248-427d-a3da-780d9384bed5",
 			"name": "GeneralSearch-organizationName contains sb, A, h",
 			"event": [
 				{
@@ -12390,7 +12487,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c6646a7d-afb1-43ce-90e4-f47822d74535",
+			"_postman_id": "8acee7db-af20-49f6-844b-e0d55d84e862",
 			"name": "GeneralSearch-organizationName blank",
 			"event": [
 				{
@@ -12454,7 +12551,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c4dd2640-b99c-4763-9648-2c2e1724280d",
+			"_postman_id": "520a42a5-a142-41c2-b79b-742ef9eb38b2",
 			"name": "GeneralSearch-organizationTypeId matches smarterBalanced",
 			"event": [
 				{
@@ -12527,7 +12624,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "90b8e50a-c74b-4091-a2fb-8cbc7fc8b9b2",
+			"_postman_id": "a2ecc6e0-4b61-47bc-864d-bd61664aa441",
 			"name": "GeneralSearch-organizationTypeId blank",
 			"event": [
 				{
@@ -12600,7 +12697,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6f12d270-c48f-4fcb-83f7-50be8279b126",
+			"_postman_id": "900b2213-256d-483a-a448-5701847da131",
 			"name": "GeneralSearch-Item Count groupBy intendedGrade for subject ELA",
 			"event": [
 				{
@@ -12688,7 +12785,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "58a5efb5-78bd-400c-9592-b83077e08cb3",
+			"_postman_id": "5bc9749c-d000-4792-95c5-62cd3498c2c4",
 			"name": "GeneralSearch-Item Count groupBy subject",
 			"event": [
 				{
@@ -12762,7 +12859,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a7e07f60-6e77-4052-b41f-7d448b504016",
+			"_postman_id": "292f0465-3a24-409f-b351-05f43dfc75b6",
 			"name": "GeneralSearch-Item Count groupBy depthOfKnowledge",
 			"event": [
 				{
@@ -12840,7 +12937,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1fbd7772-c9a4-4f91-9c3c-05c1892a269d",
+			"_postman_id": "44503292-1345-4a7a-aa35-da99057fc972",
 			"name": "GeneralSearch-Item Count groupBy primaryClaim",
 			"event": [
 				{
@@ -12906,7 +13003,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c983fd87-fec0-4ee2-a04f-6a6701e0580f",
+			"_postman_id": "6f8a8580-c623-4257-9d4c-26e10d77e57a",
 			"name": "GeneralSearch-Item Count groupBy secondaryClaim",
 			"event": [
 				{
@@ -12972,7 +13069,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "52adb419-670b-4222-bf2a-b9f1098ef2ad",
+			"_postman_id": "84d468c4-a44f-4548-9b24-9a57be31d279",
 			"name": "GeneralSearch-Item Count groupBy tertiaryClaim",
 			"event": [
 				{
@@ -13038,7 +13135,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "055d9f23-d2ac-4a63-acc2-03a7375c7151",
+			"_postman_id": "53b999c3-41d2-41fd-b630-a44dea244e83",
 			"name": "GeneralSearch-Item Count groupBy quaternaryClaim",
 			"event": [
 				{
@@ -13104,7 +13201,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2e220f4a-95f2-40d2-9b7a-7b7b821ebddb",
+			"_postman_id": "b0c1293d-696b-45ac-a444-23a1fd09a6cd",
 			"name": "GeneralSearch-Item Count groupBy primaryTarget",
 			"event": [
 				{
@@ -13172,7 +13269,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a090c2c3-ea90-43b8-89e6-ebb2947eafb2",
+			"_postman_id": "62c069b6-65b4-4d0a-9f51-f6e72831780a",
 			"name": "GeneralSearch-Item Count groupBy secondaryTarget",
 			"event": [
 				{
@@ -13238,7 +13335,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "93a07762-42fe-40c9-93ab-c1a4b55ae003",
+			"_postman_id": "c9117dc3-ad9e-43d7-a728-0f872158d40d",
 			"name": "GeneralSearch-Item Count groupBy tertiaryTarget",
 			"event": [
 				{
@@ -13304,7 +13401,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "930c420d-d39c-428c-ac11-069eadcd6b73",
+			"_postman_id": "e1a78910-c5ef-4904-b933-efae8ea42e24",
 			"name": "GeneralSearch-Item Count groupBy quaternaryTarget",
 			"event": [
 				{
@@ -13370,7 +13467,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1d403373-5e1c-4a82-8926-641255a18530",
+			"_postman_id": "401d7df2-d24f-4c29-9306-6467581fd776",
 			"name": "GeneralSearch-Item Count groupBy organizationName",
 			"event": [
 				{
@@ -13436,7 +13533,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "68f4c660-0b25-4b2b-a08c-d987011d9611",
+			"_postman_id": "44492387-ba5c-441c-9581-0b402e604cc5",
 			"name": "GeneralSearch-Item Count groupBy organizationTypeId",
 			"event": [
 				{
@@ -13502,7 +13599,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8d5fb2c8-dcab-4e3d-872e-6c386e54beac",
+			"_postman_id": "ed820b81-f66a-4ea5-8b0f-07b055c75374",
 			"name": "GeneralSearch-Item Count groupBy workflowStatus",
 			"event": [
 				{
@@ -13580,7 +13677,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "69721485-8301-478e-9aa5-15e9b3a4668a",
+			"_postman_id": "de8d6678-eb2d-4d68-a830-ffa9a3c1be78",
 			"name": "GeneralSearch -Item Count groupBy itemDiffficultyQuintile",
 			"request": {
 				"auth": {
@@ -13630,7 +13727,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0e0f2f77-a9de-4a68-b747-4c39a8c4ca4b",
+			"_postman_id": "bc90158d-c72a-4e73-a68f-4b7f43d0d7e9",
 			"name": "Item Count - groupBy testCategory",
 			"request": {
 				"auth": {
@@ -13690,7 +13787,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "aba3dbcf-f811-4533-bc0d-9705c130dfbc",
+			"_postman_id": "8f29dfff-8048-4427-9e8d-db88ad84282b",
 			"name": "Search By Item Difficulty Quintile",
 			"request": {
 				"auth": {
@@ -13737,7 +13834,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1fed3ae3-3122-422f-93a8-c5420afe6de6",
+			"_postman_id": "7c0d72fe-6112-4c78-ba89-5dc8246ff438",
 			"name": "Search By Calculated Exposures Count",
 			"request": {
 				"auth": {
@@ -13784,7 +13881,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1ba31504-9254-4272-ad17-3f18855f9fe7",
+			"_postman_id": "05be676a-4c15-4a5f-ad5e-72a635764b74",
 			"name": "Search By Calculated Form Count",
 			"request": {
 				"auth": {
@@ -13831,7 +13928,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1b0e85fa-2421-45ad-aaa3-3e0006b05474",
+			"_postman_id": "feb304a8-f5bd-401b-9c22-395fdfcbd597",
 			"name": "Search - \"isAslRequired\" is \"true\"",
 			"event": [
 				{
@@ -13902,7 +13999,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "86a3941c-7457-4dea-b812-b6a7c7e24864",
+			"_postman_id": "39707a29-fb51-4ccf-acb8-09e97ae0a06e",
 			"name": "Search - \"isAslRequired\" is \"false\"",
 			"event": [
 				{
@@ -13973,7 +14070,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9981a54b-d6bb-4b82-81ee-a22c3c945dbd",
+			"_postman_id": "d472d5fb-836c-4338-a9df-414ac0dd5345",
 			"name": "Search - \"isAslRequired\" is blank",
 			"event": [
 				{
@@ -14040,7 +14137,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "334d340c-1052-4b26-816d-f3385179426c",
+			"_postman_id": "c51672c7-eb5a-42c0-8356-afc567d55f52",
 			"name": "Search - \"isAslProvided\" is \"true\"",
 			"event": [
 				{
@@ -14111,7 +14208,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ba2d1a05-2dd5-40c6-915a-ff7dfece0f23",
+			"_postman_id": "770682c6-c9d1-485b-9942-76af010c329a",
 			"name": "Search - \"isAslProvided\" is \"false\"",
 			"event": [
 				{
@@ -14180,7 +14277,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3c055600-5593-4976-ade4-cb1e7a1ce4b1",
+			"_postman_id": "3dc29459-5966-451a-9d0a-07c40612ef3e",
 			"name": "Search - \"isAslProvided\" is blank",
 			"event": [
 				{
@@ -14249,7 +14346,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c1062f5f-8fd3-4846-9321-c3e2e985b893",
+			"_postman_id": "3e842202-b49e-49cc-8474-2d901fdd3577",
 			"name": "Search - \"isBrailleRequired\" is \"true\"",
 			"event": [
 				{
@@ -14317,7 +14414,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d77d1bb0-3d56-48c1-b272-31f198891593",
+			"_postman_id": "89cd7845-fd14-45f8-a09a-2c977d052dab",
 			"name": "Search - \"isBrailleRequired\" is \"false\"",
 			"event": [
 				{
@@ -14388,7 +14485,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "aa0bae8e-cda0-4fca-9a13-d13c1cf61a66",
+			"_postman_id": "bc489405-95dd-489a-97a1-3b9cdb39262e",
 			"name": "Search - \"isBrailleRequired\" is blank",
 			"event": [
 				{
@@ -14457,7 +14554,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8205d549-d546-407a-aff8-f6b18752dbe3",
+			"_postman_id": "71463211-177e-426b-a447-a02756e425c8",
 			"name": "Search - \"isBrailleProvided\" is \"true\"",
 			"event": [
 				{
@@ -14526,7 +14623,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "98c0d38d-bb03-4b9e-9a69-c194535947e5",
+			"_postman_id": "8e03914f-64bb-47d0-b57a-b451484a3e38",
 			"name": "Search - \"isBrailleProvided\" is \"false\"",
 			"event": [
 				{
@@ -14595,7 +14692,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f9d2b0e2-8b8b-4506-957f-692d2ac85800",
+			"_postman_id": "ec4dd30a-cbbd-4a92-a8bc-8189faef6a93",
 			"name": "Search - \"isBrailleProvided\" is blank",
 			"event": [
 				{
@@ -14664,7 +14761,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "140b74e2-2ddc-40ad-99b9-dd9484597fb0",
+			"_postman_id": "561e4caf-ac1a-4e11-9512-4573aa42ddc5",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"true\"",
 			"event": [
 				{
@@ -14735,7 +14832,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8b602204-1dd2-4c4f-a598-2b99a01d3738",
+			"_postman_id": "1888f983-8314-475a-ae00-730be56a8c06",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"false\"",
 			"event": [
 				{
@@ -14806,7 +14903,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "38dfa1cb-96eb-404e-b5eb-43902ac540d2",
+			"_postman_id": "9db6087e-5832-45eb-aa8b-eba9f59b2c35",
 			"name": "Search - \"isClosedCaptioningRequired\" is blank",
 			"event": [
 				{
@@ -14875,7 +14972,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "69704511-94d4-48d0-8698-a38231095a41",
+			"_postman_id": "5b783a30-1927-429f-bf92-040a61584a9d",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"true\"",
 			"event": [
 				{
@@ -14946,7 +15043,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bf6480b1-bc0e-47f8-a74e-a41edeefc86c",
+			"_postman_id": "7007f8f4-1e85-489b-b16a-e8b9a402c0bf",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"false\"",
 			"event": [
 				{
@@ -15015,7 +15112,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4af85bd3-80ad-4833-868b-58c0ed8f3d08",
+			"_postman_id": "7eedad7d-9985-422a-83d9-14423d5beaee",
 			"name": "Search - \"isClosedCaptioningProvided\" is blank",
 			"event": [
 				{
@@ -15084,7 +15181,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d095c877-148f-4e61-8eed-2a5251776ba4",
+			"_postman_id": "7ba8f2b0-efe7-4b21-ae28-29d067b02675",
 			"name": "Search - \"isTranslationRequired\" is \"true\"",
 			"event": [
 				{
@@ -15155,7 +15252,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "18cbf9a6-ec3d-4342-91cb-ac129a7fc6fe",
+			"_postman_id": "13376b00-06f4-4c8d-a749-99c37b9de925",
 			"name": "Search - \"isTranslationRequired\" is \"false\"",
 			"event": [
 				{
@@ -15232,7 +15329,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "25140139-ae70-4cdf-8d87-fed5b9980760",
+			"_postman_id": "f21d15a3-d356-43e5-98f2-9fea879a93d2",
 			"name": "Search - \"isTranslationRequired\" is blank",
 			"event": [
 				{
@@ -15303,7 +15400,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "01bfa5f3-ea4d-44c2-9ffc-c3c0f3d112da",
+			"_postman_id": "2d2b8706-664f-4246-b860-71aab61b4976",
 			"name": "Search - \"isTranslationProvided\" is \"true\"",
 			"event": [
 				{
@@ -15378,7 +15475,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b1ca2275-477c-40da-ad5a-b91552480908",
+			"_postman_id": "33d45210-2ba2-41c7-bae8-e963357e2168",
 			"name": "Search - \"isTranslationProvided\" is \"false\"",
 			"event": [
 				{
@@ -15445,7 +15542,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5cc1aef5-afc6-4ad7-835b-811f89ec0f8d",
+			"_postman_id": "14af73b6-cc95-4bf3-ae9f-73676add038b",
 			"name": "Search - \"isTranslationProvided\" is blank",
 			"event": [
 				{
@@ -15512,7 +15609,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "92cfdae3-d635-48c9-b98f-e982b1bc316d",
+			"_postman_id": "72f1e14b-9312-4a84-ae9a-d5d1516d2d7f",
 			"name": "Search by Targets A, B, C, D",
 			"event": [
 				{
@@ -15619,7 +15716,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e76e4f79-3968-4f03-8bfa-78ade1da40c8",
+			"_postman_id": "4f7e9798-f1a5-44d5-b18d-c05f029e8eca",
 			"name": "Search by Targets J, L, M, F",
 			"event": [
 				{
@@ -15725,7 +15822,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8c59b96b-a998-4c37-bf7a-9b73e40c6d7b",
+			"_postman_id": "09c8c342-0d0b-407b-9ffa-71a66f15cba5",
 			"name": "Search by Claims",
 			"event": [
 				{
@@ -15832,7 +15929,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2e775a5a-466f-4ede-9ac9-3d5146591e8e",
+			"_postman_id": "76d399a9-20d6-4602-b1f4-e8b9f123dfea",
 			"name": "Search writingPurpose = Narrative",
 			"event": [
 				{
@@ -15900,7 +15997,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c6727036-c709-47d0-984c-ce02f0df11ed",
+			"_postman_id": "dcb3689e-b84b-42b2-aea5-f0201da3d171",
 			"name": "Search writingPurpose all",
 			"event": [
 				{
@@ -15969,7 +16066,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3c4a5ad2-8add-4d74-ad86-bc82ecf32b9b",
+			"_postman_id": "18aace7f-f1ef-4096-8a62-c79f42bdc6d7",
 			"name": "Search writingPurpose blank",
 			"event": [
 				{
@@ -16038,7 +16135,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e4881748-3329-4f9e-84ac-8793ef059433",
+			"_postman_id": "cc32cdbb-63ea-4c48-be0f-5caa81c7947a",
 			"name": "Search formType Operational",
 			"event": [
 				{
@@ -16097,7 +16194,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "831e3c07-692c-44e4-a018-50bea9bb3414",
+			"_postman_id": "4b224f98-ec36-4765-8f77-74ccdc742e92",
 			"name": "Search performanceTask = No",
 			"event": [
 				{
@@ -16165,7 +16262,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f08084bf-ef52-449b-8f79-1f08a66d0b00",
+			"_postman_id": "98d8886b-118a-42a9-928a-81afe1a39158",
 			"name": "Search performanceTask = Yes",
 			"event": [
 				{
@@ -16233,7 +16330,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2a9ea4bf-37dd-40a0-b790-d659f398aafd",
+			"_postman_id": "ad6ea9cf-20c4-4aa6-8573-7291082367f9",
 			"name": "Search performanceTask blank",
 			"event": [
 				{
@@ -16301,7 +16398,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1f9de241-f93c-4620-889b-9198a2b7a96b",
+			"_postman_id": "6e95c7df-a213-47ae-b248-665cb282cd1a",
 			"name": "Search - \"isSightTTSProvided\" is \"true\"",
 			"event": [
 				{
@@ -16370,7 +16467,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "728997ca-9004-4c4c-872a-b2bfba0e31c9",
+			"_postman_id": "80449f23-be56-4bce-8d84-903278863c4c",
 			"name": "Search - \"isSightTTSProvided\" is \"false\"",
 			"event": [
 				{
@@ -16439,7 +16536,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c856bf80-cf74-4901-ac72-e7f046eaf04b",
+			"_postman_id": "4b822954-7958-4278-9928-31d0ab854627",
 			"name": "Search - \"isVisualTTSRequired\" is \"true\"",
 			"event": [
 				{
@@ -16508,7 +16605,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1521d836-7749-4147-8d60-cff232d79007",
+			"_postman_id": "3f61cc48-a615-4e8c-8363-b1b90eb12a0e",
 			"name": "Search - \"isVisualTTSRequired\" is \"false\"",
 			"event": [
 				{
@@ -16577,7 +16674,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f30bfaae-f440-4638-8ba3-2479ebeb4564",
+			"_postman_id": "c8ec9933-874b-4caf-89c5-7a4d6c792c4d",
 			"name": "Search - calculatedExposuresCount blank",
 			"event": [
 				{
@@ -16645,7 +16742,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0ea0e094-9921-47d6-8652-c761f74f9875",
+			"_postman_id": "2b3602a4-7140-4786-a2d5-fc538cf6d1a6",
 			"name": "Search - calculatedFormCount blank",
 			"event": [
 				{
@@ -16713,7 +16810,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "43c9bc89-2580-488f-b0ec-0c6ef8a4da41",
+			"_postman_id": "68febdd1-876a-4e64-bd9b-daad8d76d513",
 			"name": "Search - itemDifficultyQuintile blank",
 			"event": [
 				{
@@ -16781,7 +16878,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5a8b6327-7904-439e-8113-46696ba98bdf",
+			"_postman_id": "e5eda9eb-5e96-4179-a01a-c993d2c9f44b",
 			"name": "GetSingleItem 205320",
 			"event": [
 				{
@@ -16855,7 +16952,134 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b975c87c-a8ab-4f02-a56a-e123abbe89ef",
+			"_postman_id": "83d86a43-6647-466f-bc8f-918b499946f8",
+			"name": "GetSingleItem 206006 - find specific Braille and ASL attachments",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "352936bd-c3a9-46b8-b4cc-468556611ebd",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should find Asl attachment\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"PaSsaGe_206006_ASL_STEM.MP4\");",
+							"});",
+							"",
+							"",
+							"",
+							"pm.test(\"Should find Braille attachment\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"item_206006_enu_ecn_transcript.prn\");",
+							"});",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/206006?includeDetails=true",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"206006"
+					],
+					"query": [
+						{
+							"key": "includeDetails",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "63b74329-cb55-45a7-bcd2-382b8ff71273",
+			"name": "GetSingleItem 205771 - find specific CC attachment",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "7ec2c976-39a0-4bd1-81f5-6d04a0471628",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should find Asl attachment\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"passage_205771_v2_2014_Audio1.vtt\");",
+							"});",
+							"",
+							"",
+							"",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/205771?includeDetails=true",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"205771"
+					],
+					"query": [
+						{
+							"key": "includeDetails",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "db995a98-4e36-4456-bb4c-e973ef4d4a7c",
 			"name": "GetSingleItem 205857",
 			"event": [
 				{
@@ -16911,7 +17135,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f98187c2-22be-4bfe-ab3d-10c4d217361c",
+			"_postman_id": "f536b8e7-793c-42a1-8b71-2c8d2e473de4",
 			"name": "GetSingleItem 205323",
 			"event": [
 				{
@@ -16992,7 +17216,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "08f277db-ec53-4d2a-b85f-b69135ed3059",
+			"_postman_id": "12d1dffb-f836-4379-b427-40d558af8934",
 			"name": "GetMultipleItems 205320,205315, 205323",
 			"event": [
 				{
@@ -17056,7 +17280,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bf5998f4-29c8-47cf-a8a1-6af3327254c0",
+			"_postman_id": "5113eec3-7994-431a-ae1d-cbb2fde549c9",
 			"name": "GeneralSearch- formAssessmentType = Summative",
 			"event": [
 				{
@@ -17120,7 +17344,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b9ab8a64-8365-456b-af41-c5108487eb69",
+			"_postman_id": "1e21274d-92cf-4ed3-bc3a-82c3d4791aea",
 			"name": "GeneralSearch- formAssessmentType = Interim",
 			"event": [
 				{
@@ -17184,7 +17408,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e716f16e-26f1-4845-9d39-283a87d83a7b",
+			"_postman_id": "c5092fc6-8fbc-4d6a-a4a3-faabbc8d8193",
 			"name": "GeneralSearch- formAssessmentType = Practice",
 			"event": [
 				{
@@ -17248,7 +17472,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1064f620-312b-48d2-9405-68dc616c8c06",
+			"_postman_id": "19d15fbd-6a3f-4c38-9226-88dd28e47171",
 			"name": "GeneralSearch- formType FieldTest",
 			"event": [
 				{
@@ -17312,7 +17536,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "da8eed11-3e4b-4c50-98c8-315c6d26db08",
+			"_postman_id": "f41d4946-41a5-4f43-854e-090211af8001",
 			"name": "GeneralSearch- formType Operational",
 			"event": [
 				{
@@ -17376,7 +17600,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1de73a55-20fc-4a49-8178-c3a5534c88a6",
+			"_postman_id": "7a2c999a-eaae-4323-9e7f-4767c1889f0e",
 			"name": "Search - TestCategory - Summative, Practice, or Interim",
 			"event": [
 				{
@@ -17455,7 +17679,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "62149846-34e4-4838-ba97-3878a830ac29",
+			"_postman_id": "63c1c784-ce07-4a3a-a9d6-8c38f1e26f75",
 			"name": "Search - TestCategory includeBlanks",
 			"event": [
 				{
@@ -17519,7 +17743,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f6d95baf-4ee1-49f9-bc4e-fef7571e4b96",
+			"_postman_id": "19eca1ad-7014-4b1d-bf48-186b4913c476",
 			"name": "GeneralSearch-EnglishContentLastUpdated From 7/15/18 - 8/1/18",
 			"event": [
 				{
@@ -17589,7 +17813,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a64247ac-1f08-4810-859b-ed9c55ff6f4f",
+			"_postman_id": "7dcc8899-d8e4-45cd-bb0f-71af1b579bcb",
 			"name": "GeneralSearch-EnglishContentLastUpdated-From 7/31/18",
 			"event": [
 				{
@@ -17659,7 +17883,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ddf24b92-5b3b-47f4-8f2b-79df07a337d9",
+			"_postman_id": "d3ad7b6d-e93d-4ecb-ad77-8e9608be3a30",
 			"name": "GeneralSearch-EnglishContentLastUpdated-To",
 			"event": [
 				{
@@ -17729,7 +17953,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3375406a-0cab-45a0-a09e-48022aaaf26e",
+			"_postman_id": "8e0fdf30-d78c-4311-b678-78a44821b013",
 			"name": "GeneralSearch-EnglishContentLastUpdated-To-sort-by-eng-lang-update-date",
 			"event": [
 				{
@@ -17798,7 +18022,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6cd494f0-3adc-4687-b9de-35e4fd89f1f4",
+			"_postman_id": "37fa286a-95ef-4ef5-b145-377eb9ca9d3f",
 			"name": "GeneralSearch-EnglishContentLastUpdated-From-sort-by-eng-lang-update-asc",
 			"event": [
 				{
@@ -17867,7 +18091,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f173d8fb-9ec9-44e7-a874-ff236ce21dea",
+			"_postman_id": "409c068e-36ef-4a53-add1-2f70a29f5c50",
 			"name": "General Search Scoring Engine - HandScored",
 			"event": [
 				{
@@ -17940,7 +18164,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "87e7f6a0-69fb-43e1-bcc3-68f9cad0c25b",
+			"_postman_id": "9b719d58-69d0-4baf-9092-2a96c1c58cf3",
 			"name": "General Search Scoring Engine - AutomaticWithRubric",
 			"event": [
 				{
@@ -18013,7 +18237,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1de598c1-7121-4369-87bc-c29ba751aa60",
+			"_postman_id": "0c12d77a-148a-4759-82eb-dd9622dca9d7",
 			"name": "General Search Scoring Engine - AutomaticWithKey",
 			"event": [
 				{
@@ -18086,7 +18310,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "62ff0387-8791-4c5a-99cb-014759e664f5",
+			"_postman_id": "ee8ef6f0-c575-44f2-9692-97c6693d159f",
 			"name": "General Search Scoring Engine - AutomaticWithKeys",
 			"event": [
 				{
@@ -18159,7 +18383,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d2098f27-9807-4daf-b1a3-43d298f0ae21",
+			"_postman_id": "fc98b3af-a9e8-4272-b71e-541588a73db8",
 			"name": "General Search Scoring Engine Blanks",
 			"event": [
 				{
@@ -18223,7 +18447,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f6182974-3715-468f-ba07-1ba9d12b8ced",
+			"_postman_id": "df8bd24d-2589-412a-a7c7-299475c83507",
 			"name": "General Search Content Domain",
 			"event": [
 				{
@@ -18287,7 +18511,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bf56c639-f7a6-42d9-a9e5-4f93bc77bfb3",
+			"_postman_id": "14c1bf93-0074-4684-bef1-d3695285a1ff",
 			"name": "General Search Content Domain Blanks",
 			"event": [
 				{
@@ -18351,7 +18575,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "da5259ef-95ec-4f64-8328-1e69aa59913b",
+			"_postman_id": "a5ae8c2a-1cda-4918-9d38-92e8cd1750ad",
 			"name": "General Search Common Core Standard",
 			"event": [
 				{
@@ -18415,7 +18639,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7f1f8f79-bbdc-4404-97ed-a025c6486a0e",
+			"_postman_id": "22d32bf5-fe69-4ea7-ace3-082a5978cc9b",
 			"name": "General Search Common Core Standard Blanks",
 			"event": [
 				{
@@ -18479,7 +18703,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "63f34cbf-d4b4-41c3-b570-3d9ec4fb0cf2",
+			"_postman_id": "fdd1d081-0598-478c-9d2a-b41a19f1c54c",
 			"name": "Allow Calculator - yes",
 			"event": [
 				{
@@ -18552,7 +18776,7 @@
 			},
 			"response": [
 				{
-					"id": "c49f8fcb-091a-4cca-afd6-24bdc2152bdf",
+					"id": "d4fd128d-9392-4000-b1aa-2e5785c44aac",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"auth": {
@@ -18696,7 +18920,7 @@
 			]
 		},
 		{
-			"_postman_id": "56226dad-5d15-46b9-b3b4-2c633e550be0",
+			"_postman_id": "030a6e09-fb10-4c5a-9a6a-d225fb6c77da",
 			"name": "Allow Calculator - no",
 			"event": [
 				{
@@ -18769,7 +18993,7 @@
 			},
 			"response": [
 				{
-					"id": "892856ed-71d6-4a58-982e-50d1502e9d14",
+					"id": "a8d44572-ff67-472d-8818-7e00f1f50c89",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"auth": {
@@ -18913,7 +19137,7 @@
 			]
 		},
 		{
-			"_postman_id": "4852aa4c-f525-47ed-b5e4-829f2cddded2",
+			"_postman_id": "53461429-e416-489b-b17b-c48a11f20b7d",
 			"name": "Allow Calculator - neutral, includeBlanks",
 			"event": [
 				{
@@ -18986,7 +19210,7 @@
 			},
 			"response": [
 				{
-					"id": "0f6af28c-fecc-4a16-81cd-6b0e8b425a7e",
+					"id": "a50b9bc8-b720-4725-857e-e1f4c45f6d28",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"auth": {
@@ -19130,7 +19354,7 @@
 			]
 		},
 		{
-			"_postman_id": "83e16100-487b-45b4-9ee4-ea6eff208616",
+			"_postman_id": "d8aecce8-c4e1-443a-9f67-55862465c9bf",
 			"name": "Search updateDate - 7/31-8/1",
 			"event": [
 				{
@@ -19194,7 +19418,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b8202aa5-b7e8-4152-8155-39df3db80fff",
+			"_postman_id": "9e33e804-6286-4cbf-b993-99820fa5b023",
 			"name": "GeneralSearch-SpanishContentLastUpdated From 7/21 to 8/1",
 			"event": [
 				{
@@ -19264,7 +19488,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "974f9513-ef82-433b-a572-5dae53152fdb",
+			"_postman_id": "b285d3e3-8496-4ab6-affe-1fd30519015e",
 			"name": "GeneralSearch-SpanishContentLastUpdated From 7/30/18",
 			"event": [
 				{
@@ -19334,7 +19558,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a1b8ed74-7692-4724-ad9e-a678d79c0761",
+			"_postman_id": "a6a1d260-4af9-4d71-8be8-8a122b415362",
 			"name": "GeneralSearch-SpanishContentLastUpdated-To 5/27/2018",
 			"event": [
 				{
@@ -19403,7 +19627,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "55cec166-e55a-41ec-a1d0-16deacd1a0ed",
+			"_postman_id": "047d8184-494b-41b7-9a0a-fb6b09202ede",
 			"name": "GeneralSearch-SpanishContentLastUpdated-From 7/30/2018-sort-by-esp-lang-update-asc",
 			"event": [
 				{
@@ -19472,7 +19696,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "df761529-d738-43ff-a87c-c6d9939b73b3",
+			"_postman_id": "2fe77da9-45ba-4499-b309-190f9b0961d0",
 			"name": "GeneralSearch-SpanishContentLastUpdated-To 6/27/2018 sort-by-esp-lang-update-date desc",
 			"event": [
 				{
@@ -19540,7 +19764,409 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e90df742-5fd3-4202-8c60-af00cbea3037",
+			"_postman_id": "d2865f13-7bc7-4690-9593-daf64236ef34",
+			"name": "Search - \"isAslUploadedPriorToLastContentUpdate\" is \"true\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "41c6eac5-d182-41f4-a5d2-0b53dfa3bf37",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isAslUploadedPriorToLastContentUpdate = true\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isAslUploadedPriorToLastContentUpdate).to.eql(\"true\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 6f9113fe-fc2f-4568-b7ae-6e1753dd5796"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n     \n     \"property\": \"isAslUploadedPriorToLastContentUpdate\",\n      \"value\": true\n    }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "18d77bc8-5ac7-426c-a0bd-e1c8ed56c45b",
+			"name": "Search - \"isAslUploadedPriorToLastContentUpdate\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "740a665f-355a-4bfe-b1d6-50798925b06c",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isAslUploadedPriorToLastContentUpdate = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isAslUploadedPriorToLastContentUpdate).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 6f9113fe-fc2f-4568-b7ae-6e1753dd5796"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n     \n     \"property\": \"isAslUploadedPriorToLastContentUpdate\",\n      \"value\": false\n    }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "c965bea9-d8d2-45b0-a4a5-0d34abbb1a4a",
+			"name": "Search - \"isBrailleUploadedPriorToLastContentUpdate\" is \"true\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "9a36a552-6d78-4130-91a3-5d7163953f5f",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isBrailleUploadedPriorToLastContentUpdate = true\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isBrailleUploadedPriorToLastContentUpdate).to.eql(\"true\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 6d978ae5-a6ec-4693-92ce-1a18f7b73e77"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n     \n     \"property\": \"isBrailleUploadedPriorToLastContentUpdate\",\n      \"value\": true\n    }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "0e2127bd-2f86-4083-8e0e-a31f1fdf6672",
+			"name": "Search - \"isBrailleUploadedPriorToLastContentUpdate\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2c922f21-89d8-4337-97a9-72de659ea6b9",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isBrailleUploadedPriorToLastContentUpdate = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isBrailleUploadedPriorToLastContentUpdate).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 6d978ae5-a6ec-4693-92ce-1a18f7b73e77"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n     \n     \"property\": \"isBrailleUploadedPriorToLastContentUpdate\",\n      \"value\": false\n    }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "7eb0e2fd-1036-4486-9577-7d888e720f83",
+			"name": "Search - \"isClosedCaptioningUploadedPriorToLastContentUpdate\" is \"true\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2bd3233b-d4f8-44f1-adfe-7ecde6e55603",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isClosedCaptioningUploadedPriorToLastContentUpdate = true\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isClosedCaptioningUploadedPriorToLastContentUpdate).to.eql(\"true\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 6d978ae5-a6ec-4693-92ce-1a18f7b73e77"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n     \n     \"property\": \"isClosedCaptioningUploadedPriorToLastContentUpdate\",\n      \"value\": true\n    }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 100,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "bbef026f-b4de-4fac-9d5a-ad6c639bf393",
+			"name": "Search - \"isClosedCaptioningUploadedPriorToLastContentUpdate\" is \"false\"",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "26fab782-8b91-4153-bbec-c8e1b56098ac",
+						"type": "text/javascript",
+						"exec": [
+							"var resultsArray = pm.response.json().results;",
+							"var testTitle = \"\";",
+							"",
+							"resultsArray.forEach(function(result) {  ",
+							"    testTitle = \"Item ID \" + result.id + \" has isClosedCaptioningUploadedPriorToLastContentUpdate = false\";",
+							"    pm.test(testTitle,function(){",
+							"        pm.expect(result.isClosedCaptioningUploadedPriorToLastContentUpdate).to.eql(\"false\");",
+							"    ",
+							"    });",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer 6d978ae5-a6ec-4693-92ce-1a18f7b73e77"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n     \n     \"property\": \"isClosedCaptioningUploadedPriorToLastContentUpdate\",\n      \"value\": false\n    }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "f2962b53-d332-4bf5-b684-d150cb60acde",
 			"name": "Search - \"isVisualTTSProvided\" is \"true\"",
 			"event": [
 				{
@@ -19589,7 +20215,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": true\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -19609,7 +20235,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0be40248-6f6c-410b-80c3-e2f5461a12c0",
+			"_postman_id": "944239d1-5121-4e28-95ec-0673822ec717",
 			"name": "Search - \"isVisualTTSProvided\" is \"false\"",
 			"event": [
 				{
@@ -19658,7 +20284,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 100,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isVisualTTSProvided\",\n      \"value\": false\n    }\n  ],\n  \"sort\": {\n    \"property\": \"id\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -19672,6 +20298,406 @@
 						"v1",
 						"items",
 						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "8d0fc543-23a3-4bce-9f06-a82ff838ec2a",
+			"name": "IAT-2052: count primary content domain",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"primaryContentDomain\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"primaryContentDomain\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "5ba4a103-8ca3-43d5-a7fd-61311e0e04c8",
+			"name": "IAT-2052: count secondary content domain",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"secondaryContentDomain\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"secondaryContentDomain\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "e7e68c44-cfee-41c5-8b1f-d3da4aa7ccc4",
+			"name": "IAT-2052: count tertiary content domain",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"tertiaryContentDomain\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"tertiaryContentDomain\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "eef170fe-be61-465d-bef7-182ef7dcbd6c",
+			"name": "IAT-2052: count quaternary content domain",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"quaternaryContentDomain\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"quaternaryContentDomain\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "fffc26f8-3ae8-4f5a-bdb7-881a69f7cb6b",
+			"name": "IAT-2107: count primary common core standard",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"primaryCommonCoreStandard\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"primaryCommonCoreStandard\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "20c36e7f-6d8d-4c84-b8b2-a02a7a9a24e2",
+			"name": "IAT-2107: count secondary common core standard",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"secondaryCommonCoreStandard\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"secondaryCommonCoreStandard\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "3ab1c8a4-54d8-4b43-a20a-5319b4651f55",
+			"name": "IAT-2107: count tertiary common core standard",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"tertiaryCommonCoreStandard\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"tertiaryCommonCoreStandard\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "e2ef8f88-7b69-4d58-a0ad-0fd6f3636ac7",
+			"name": "IAT-2107: count quaternary common core standard",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{access_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 6a2560ff-a1c6-4c0b-94e6-20beba7e59a1"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"filters\": [\n  \t{\n  \t\t\"property\": \"quaternaryCommonCoreStandard\",\n  \t\t\"values\": [\"MC\", \"\"]\n  \t}\n  ],\n  \"groupBy\": \"quaternaryCommonCoreStandard\"  \n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/count",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"count"
 					]
 				}
 			},
