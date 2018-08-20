@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"_postman_id": "b706d363-991f-4bd8-b94c-f877a9456198",
+			"_postman_id": "3b9e495c-8cf2-425c-81c0-5f6f6478fd37",
 			"name": "OpenAM OAuth (password) Token",
 			"event": [
 				{
@@ -85,7 +85,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "97aef25b-d0c0-401c-ae4d-c0e197c520cc",
+			"_postman_id": "7813a62e-8b6c-4055-a87a-cfaaec7c622b",
 			"name": "GeneralSearch-BeingCreated=true",
 			"event": [
 				{
@@ -157,7 +157,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ebf6b424-c618-47f2-8b78-f3852e787db2",
+			"_postman_id": "35c36e3e-4f17-4c3e-9c37-b0d8793a8e86",
 			"name": "GeneralSearch- sort id",
 			"event": [
 				{
@@ -223,7 +223,7 @@
 			},
 			"response": [
 				{
-					"id": "8c8ba10a-cef2-4193-81c1-6cbc942d4043",
+					"id": "790e9e2e-24fa-4f61-afb0-394570d75f71",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -348,7 +348,7 @@
 			]
 		},
 		{
-			"_postman_id": "e53a670c-c633-435f-b4f6-c241486d9d1a",
+			"_postman_id": "ba2e1869-a063-47a1-9e02-3af2a7c83d8c",
 			"name": "GeneralSearch- sort id - pageNumber 2",
 			"event": [
 				{
@@ -413,7 +413,7 @@
 			},
 			"response": [
 				{
-					"id": "3a412744-4f28-4490-adf0-8b3ea01ed9a0",
+					"id": "d4b8ead0-e85d-452f-88b2-6b6260052923",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -538,7 +538,7 @@
 			]
 		},
 		{
-			"_postman_id": "bca24571-fd63-49fa-97b5-20b2d9dec962",
+			"_postman_id": "db27d5e9-6835-4409-aed3-bc7d1d8652a9",
 			"name": "GeneralSearch- sort intendedGrade",
 			"event": [
 				{
@@ -605,7 +605,7 @@
 			},
 			"response": [
 				{
-					"id": "2500cea4-b37c-4626-8616-32f856847886",
+					"id": "94a860e6-3370-4a37-aaf7-65723499ec4d",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -730,7 +730,7 @@
 			]
 		},
 		{
-			"_postman_id": "8b827043-6313-437f-b346-311412e650a5",
+			"_postman_id": "57ec6a89-8b41-4397-bb62-08e3a2658554",
 			"name": "GeneralSearch- sort intendedGrade - pageNumber 5",
 			"event": [
 				{
@@ -797,7 +797,7 @@
 			},
 			"response": [
 				{
-					"id": "1608d500-d544-4e1a-9321-e44d995fb4bf",
+					"id": "688ddc3a-aabb-41e6-99e4-1b388fed2662",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -922,7 +922,7 @@
 			]
 		},
 		{
-			"_postman_id": "f2d87124-b48e-410b-82ff-d6eb488e6e75",
+			"_postman_id": "1b1265f0-76ef-49c2-ac18-34bb0aa7a01d",
 			"name": "GeneralSearch- sort stimulusId",
 			"event": [
 				{
@@ -993,7 +993,7 @@
 			},
 			"response": [
 				{
-					"id": "144f0721-6d2d-4e6d-a8e9-4c498d1be923",
+					"id": "34c7b942-7a76-47c0-b749-f5b9a77ea549",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1118,7 +1118,7 @@
 			]
 		},
 		{
-			"_postman_id": "1511ac76-5a64-4d4e-b0e4-8991332e1557",
+			"_postman_id": "8e01c451-3e58-4ad0-8d5c-5633835e4227",
 			"name": "GeneralSearch-sort depthOfKnowledge",
 			"event": [
 				{
@@ -1182,7 +1182,7 @@
 			},
 			"response": [
 				{
-					"id": "8a02c936-2ade-4bf1-a253-4c52ad181767",
+					"id": "2fe907bb-1087-4ffd-9701-59bc4cf989d9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1307,7 +1307,7 @@
 			]
 		},
 		{
-			"_postman_id": "233879b3-0052-4a79-b39c-7e73ad3aa17d",
+			"_postman_id": "ed317a7c-1ae0-465e-a891-306affe4b506",
 			"name": "GeneralSearch-sort workflowStatus",
 			"event": [
 				{
@@ -1371,7 +1371,7 @@
 			},
 			"response": [
 				{
-					"id": "efdfff95-d5c5-4c61-9201-5cf0a64f20d4",
+					"id": "a18c0a01-8aa4-4930-815f-98dd0dfe9435",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1496,7 +1496,7 @@
 			]
 		},
 		{
-			"_postman_id": "c6270cf9-d5ee-4c28-aafe-5da5f11e8b02",
+			"_postman_id": "31b1381d-4f9e-4b0e-94f2-7a2c2c3dda4f",
 			"name": "GeneralSearch-sort workflowStatusUpdatedDate",
 			"event": [
 				{
@@ -1560,7 +1560,7 @@
 			},
 			"response": [
 				{
-					"id": "e628b5ce-4694-4171-a051-538df9ac23a2",
+					"id": "f69f34e8-d015-44d2-aba4-15502fa71ed7",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1685,7 +1685,7 @@
 			]
 		},
 		{
-			"_postman_id": "4af632e2-1777-46e8-9a7b-ce6a7fe72ced",
+			"_postman_id": "896f7eae-d8f8-48e4-b9ef-45a0475b5b74",
 			"name": "GeneralSearch-sort type",
 			"event": [
 				{
@@ -1749,7 +1749,7 @@
 			},
 			"response": [
 				{
-					"id": "d2c4a74d-f4ae-4c4a-951b-cd55cafa56f3",
+					"id": "9100dcd2-5595-480d-90fd-dd39e8ccc6e4",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -1874,7 +1874,7 @@
 			]
 		},
 		{
-			"_postman_id": "b74039e8-3776-4cad-bc64-9099ccdf051f",
+			"_postman_id": "d66f27be-719f-4747-989b-e8e62a0e0dc0",
 			"name": "GeneralSearch-sort subject",
 			"event": [
 				{
@@ -1938,7 +1938,7 @@
 			},
 			"response": [
 				{
-					"id": "5bf184bd-c902-4f74-9b3e-ea295ea36379",
+					"id": "5847601c-fc02-43ab-af80-7f0df0820325",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2063,7 +2063,7 @@
 			]
 		},
 		{
-			"_postman_id": "0ef4cf5e-0602-4992-a19a-6bdb7910246d",
+			"_postman_id": "116de79a-abc7-40ea-bcd2-41006aa921d3",
 			"name": "GeneralSearch-sort organizationTypeId",
 			"event": [
 				{
@@ -2127,7 +2127,7 @@
 			},
 			"response": [
 				{
-					"id": "add651a8-30bb-4b35-b0c3-ec703131ab6d",
+					"id": "6dab758f-57e2-4651-8dca-fb8844f73b6f",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2252,7 +2252,7 @@
 			]
 		},
 		{
-			"_postman_id": "0cfb8614-ef46-48fc-8eac-bdb5074e9b4d",
+			"_postman_id": "4b1b661c-5cef-4c11-a309-e18dba7383e7",
 			"name": "GeneralSearch-sort organizationName",
 			"event": [
 				{
@@ -2316,7 +2316,7 @@
 			},
 			"response": [
 				{
-					"id": "0a0fd91e-fdb0-445a-aa18-5c8b69d5acc9",
+					"id": "0f12d775-e569-4b6f-96b8-5abe943e747e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2441,7 +2441,7 @@
 			]
 		},
 		{
-			"_postman_id": "ee66597a-293e-4531-a5f9-bb52340acaab",
+			"_postman_id": "7fe525cf-7680-4d5f-a653-93be773d9310",
 			"name": "GeneralSearch-sort createdBy",
 			"event": [
 				{
@@ -2505,7 +2505,7 @@
 			},
 			"response": [
 				{
-					"id": "05f2f05e-247b-4fe5-b39e-de51e83ad2d8",
+					"id": "a9aae48b-2415-493d-abe3-68d487a979e4",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2630,7 +2630,7 @@
 			]
 		},
 		{
-			"_postman_id": "8a4a59dc-4e4c-41d5-ada2-b0eb703cbd30",
+			"_postman_id": "cd5c27c8-6900-4c21-9057-6f646926ad02",
 			"name": "GeneralSearch-sort primaryClaim",
 			"event": [
 				{
@@ -2694,7 +2694,7 @@
 			},
 			"response": [
 				{
-					"id": "7c39887f-efd5-4800-bcae-a3278cbe0152",
+					"id": "c3bda17e-9bd1-498a-8158-3a685a07779e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -2819,7 +2819,7 @@
 			]
 		},
 		{
-			"_postman_id": "9fefcb11-b437-4f62-8a19-95889d8f4743",
+			"_postman_id": "aefd423a-cfcc-4482-b4cf-c2b703523bfe",
 			"name": "GeneralSearch-sort secondaryClaim",
 			"event": [
 				{
@@ -2883,7 +2883,7 @@
 			},
 			"response": [
 				{
-					"id": "87cad637-0709-4199-9b33-4ef4de351ff6",
+					"id": "f4f4b376-71ef-4e78-ac80-87cfb04e6d89",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3008,7 +3008,7 @@
 			]
 		},
 		{
-			"_postman_id": "112d2a33-45bd-4b73-a0fc-b3a53e1744ea",
+			"_postman_id": "d1213900-6f6d-4537-9b09-632c18ea7f6e",
 			"name": "GeneralSearch-sort tertiaryClaim",
 			"event": [
 				{
@@ -3072,7 +3072,7 @@
 			},
 			"response": [
 				{
-					"id": "c4c89718-3d97-476d-ac1b-a5b84024e3f6",
+					"id": "66546b33-2583-4b1f-8cb4-0970a66960e0",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3197,7 +3197,7 @@
 			]
 		},
 		{
-			"_postman_id": "59cfe408-1c43-41a0-8f62-18125b9b6807",
+			"_postman_id": "a6b93122-818b-44a3-938b-bdc1f43ea51f",
 			"name": "GeneralSearch-sort quaternaryClaim",
 			"event": [
 				{
@@ -3261,7 +3261,7 @@
 			},
 			"response": [
 				{
-					"id": "c74ac018-8b3a-4a0c-a330-ff42f0d08620",
+					"id": "c34ce991-7e4f-471d-805f-aa44300ac660",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3386,7 +3386,7 @@
 			]
 		},
 		{
-			"_postman_id": "901924a5-09e0-4c07-aa3a-f00c44c65b5e",
+			"_postman_id": "3cfa2001-f542-4d51-adc5-59c8b1a92e46",
 			"name": "GeneralSearch-sort primaryTarget",
 			"event": [
 				{
@@ -3450,7 +3450,7 @@
 			},
 			"response": [
 				{
-					"id": "b8653adc-0a80-49aa-8dcf-383acdf4350d",
+					"id": "273c4f25-8c93-461e-bd42-8c1aabcb20fa",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3575,7 +3575,7 @@
 			]
 		},
 		{
-			"_postman_id": "33f794cb-6399-43bd-8c3b-ba3d6ed09ebf",
+			"_postman_id": "d3395510-ffb3-4d4b-9f1e-9b9527f48e97",
 			"name": "GeneralSearch-sort secondaryTarget",
 			"event": [
 				{
@@ -3639,7 +3639,7 @@
 			},
 			"response": [
 				{
-					"id": "78781abf-ec69-45ad-9d5c-6ca310435892",
+					"id": "8094566a-1622-43ce-8cf3-c507461f2241",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3764,7 +3764,7 @@
 			]
 		},
 		{
-			"_postman_id": "4cadf456-049a-45d9-920e-c1f7af088ba2",
+			"_postman_id": "1977b912-8a83-419d-8574-6fbcb1e86441",
 			"name": "GeneralSearch-sort tertiaryTarget",
 			"event": [
 				{
@@ -3828,7 +3828,7 @@
 			},
 			"response": [
 				{
-					"id": "eedf6aca-948e-4726-8dc6-e3b5df3f31d5",
+					"id": "4e09f27f-ca1c-47b6-9cc9-8fa326e95c4a",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -3953,7 +3953,7 @@
 			]
 		},
 		{
-			"_postman_id": "9b4f8a80-6280-4847-9278-b36f063a1c8f",
+			"_postman_id": "732b33b3-669f-4bc1-be5b-b3aef8322e4d",
 			"name": "GeneralSearch-sort quaternaryTarget",
 			"event": [
 				{
@@ -4017,7 +4017,7 @@
 			},
 			"response": [
 				{
-					"id": "642b5de6-92be-40ed-a7a4-7bfe933b0bb4",
+					"id": "e3005e01-1a73-45b6-9bdd-ee6bd8e154ce",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4142,7 +4142,7 @@
 			]
 		},
 		{
-			"_postman_id": "74dc94ea-b08d-4b62-9c18-564d6f4a71d0",
+			"_postman_id": "4ffdd5c1-1ac1-47bd-a5d8-64664fbcefe1",
 			"name": "GeneralSearch-sort contentTaskModel",
 			"event": [
 				{
@@ -4206,7 +4206,7 @@
 			},
 			"response": [
 				{
-					"id": "d58aa613-db19-4136-a8b5-1a256dc315d4",
+					"id": "241956ae-8598-44e4-ad94-b24cb01c2492",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4331,7 +4331,7 @@
 			]
 		},
 		{
-			"_postman_id": "5156137c-470d-44d7-9c2e-d6bcc077d7d0",
+			"_postman_id": "fb36e626-fd55-4cfc-be49-f7d60fa44e89",
 			"name": "GeneralSearch-sort writingPurpose",
 			"event": [
 				{
@@ -4395,7 +4395,7 @@
 			},
 			"response": [
 				{
-					"id": "39bbf4d8-db56-449d-87bd-1631bd99ec22",
+					"id": "7c24fb21-defa-4470-8af4-9e4006346c45",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4520,7 +4520,7 @@
 			]
 		},
 		{
-			"_postman_id": "a9bd5c90-e9cd-40a8-bc9a-31a36a1dd0a7",
+			"_postman_id": "39a10537-ab2b-4dc0-a27b-98f86e2a1e7f",
 			"name": "GeneralSearch-sort performanceTask",
 			"event": [
 				{
@@ -4584,7 +4584,7 @@
 			},
 			"response": [
 				{
-					"id": "0d2eb7df-7b25-494a-83ed-8f482bb0ba7b",
+					"id": "3fe178e4-7919-492c-8321-517e5c87d1c7",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4709,7 +4709,7 @@
 			]
 		},
 		{
-			"_postman_id": "29f6a42d-6070-48a1-9336-82fa84d95814",
+			"_postman_id": "14d99a89-a690-4fb2-bc9e-6ef40c93e3b3",
 			"name": "GeneralSearch-sort isAslProvided",
 			"event": [
 				{
@@ -4773,7 +4773,7 @@
 			},
 			"response": [
 				{
-					"id": "9eb44bd7-6a40-4532-9c4a-9de2bcae5d14",
+					"id": "a347b834-c5ed-4495-880e-ee52ea2db936",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -4898,7 +4898,7 @@
 			]
 		},
 		{
-			"_postman_id": "f81eff78-5433-448b-91a0-abbfc9821f61",
+			"_postman_id": "a92e60d3-0e9f-4e99-8b03-886d84de84ae",
 			"name": "GeneralSearch-sort isAslRequired",
 			"event": [
 				{
@@ -4962,7 +4962,7 @@
 			},
 			"response": [
 				{
-					"id": "c2ba1a63-2991-4209-8963-0712e49b7278",
+					"id": "036b4c62-dc77-434b-bb68-9e0155578d1e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5087,7 +5087,7 @@
 			]
 		},
 		{
-			"_postman_id": "a23e8867-7f40-4774-903c-f02d50e80a5d",
+			"_postman_id": "8a77a435-b618-4852-8e19-cd4a3546e927",
 			"name": "GeneralSearch-sort isBrailleProvided",
 			"event": [
 				{
@@ -5151,7 +5151,7 @@
 			},
 			"response": [
 				{
-					"id": "4efb2264-a3ee-4032-b923-967b1d588a15",
+					"id": "f142be6a-cc6b-4763-b904-4f79a4d7a6f2",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5276,7 +5276,7 @@
 			]
 		},
 		{
-			"_postman_id": "7ccbcc09-bce2-47c2-81c7-881d4aa8dba9",
+			"_postman_id": "3a41757f-6047-4950-b81f-9588bf35b1b9",
 			"name": "GeneralSearch-sort isBrailleRequired",
 			"event": [
 				{
@@ -5340,7 +5340,7 @@
 			},
 			"response": [
 				{
-					"id": "a2b89940-95e3-473e-9cf9-54dc209e24ad",
+					"id": "4bc76e91-826b-4dd2-9887-865c57526a40",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5465,7 +5465,7 @@
 			]
 		},
 		{
-			"_postman_id": "e5b7712b-7e0c-405c-94e7-4a498fcd42b3",
+			"_postman_id": "37ad2357-51ec-40d7-bab4-55b0382d5fae",
 			"name": "GeneralSearch-sort isClosedCaptioningProvided",
 			"event": [
 				{
@@ -5529,7 +5529,7 @@
 			},
 			"response": [
 				{
-					"id": "5a259308-bdf6-40b4-b694-bfc350b91810",
+					"id": "29ae2cb2-6fc5-4930-b75a-54d45214c815",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5654,7 +5654,7 @@
 			]
 		},
 		{
-			"_postman_id": "55f24b3a-1d77-4d6a-acce-8b83145c66ca",
+			"_postman_id": "14089964-8d4c-41a7-963c-3f683da6059d",
 			"name": "GeneralSearch-sort isClosedCaptioningRequired",
 			"event": [
 				{
@@ -5718,7 +5718,7 @@
 			},
 			"response": [
 				{
-					"id": "1c7613da-9c0a-4305-9874-a3d93b4e4db7",
+					"id": "b072a2d6-a86c-4e53-bfa1-cc39e2f3ffb2",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -5843,7 +5843,7 @@
 			]
 		},
 		{
-			"_postman_id": "fdda1222-028d-47da-a5a2-9c564a484674",
+			"_postman_id": "2b55621e-5000-4cb5-955e-32f0ec5c7f0b",
 			"name": "GeneralSearch-sort isTranslationProvided",
 			"event": [
 				{
@@ -5907,7 +5907,7 @@
 			},
 			"response": [
 				{
-					"id": "60e9afc1-e03f-44e8-b974-f954eda11d64",
+					"id": "59a50b9a-b1a3-4960-b409-ad531802304e",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6032,7 +6032,7 @@
 			]
 		},
 		{
-			"_postman_id": "6bceb5a4-74d6-4aed-94d1-d731cff8b9cc",
+			"_postman_id": "507350d8-6237-4a84-92c3-f35a0922ac0e",
 			"name": "GeneralSearch-sort isTranslationRequired",
 			"event": [
 				{
@@ -6096,7 +6096,7 @@
 			},
 			"response": [
 				{
-					"id": "a58181d9-a230-4265-832f-4f65fc9b58d9",
+					"id": "cb846d6a-2133-4adc-b731-03d7eb442fa8",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"method": "POST",
@@ -6221,7 +6221,7 @@
 			]
 		},
 		{
-			"_postman_id": "71ec9d4d-39cf-477b-9d65-3d747882958b",
+			"_postman_id": "c00f4de9-0bb8-49c5-a94c-270c86a8b7f6",
 			"name": "Search - sort by \"isVisualTTSProvided\" ascending",
 			"event": [
 				{
@@ -6279,7 +6279,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b6f4e29a-4d54-414d-a3ed-9caf17a71013",
+			"_postman_id": "fee61db2-b9d8-44b2-bcdf-750fe7f54138",
 			"name": "Search - sort by \"isVisualTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6337,7 +6337,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7262bef4-454d-4dd6-b033-8df7c57e6009",
+			"_postman_id": "5e960b5d-4eae-4d15-bc63-d85fdf1e1e95",
 			"name": "Search - sort by \"isVisualTTSRequired\" descending",
 			"event": [
 				{
@@ -6395,7 +6395,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7a5b8ec6-b7e0-4fb9-af32-902edbb762e8",
+			"_postman_id": "37054afc-f728-4e0b-9d7f-0ab6b6121041",
 			"name": "Search - sort by \"isVisualTTSRequired\" ids 205869 205858 ascending",
 			"event": [
 				{
@@ -6453,7 +6453,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ab590097-5de3-4ab5-a26b-a010fcc6ae1f",
+			"_postman_id": "e933b470-ccb4-4484-955f-3e448dd14c71",
 			"name": "Search - sort by \"isSightTTSProvided\" ids 205773, 205858 ascending",
 			"event": [
 				{
@@ -6511,7 +6511,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "51758a88-2562-4324-872d-2b8a3dc7c040",
+			"_postman_id": "6091a735-468f-4c06-93ab-29fb9fc6b0c5",
 			"name": "Search - sort by \"isSightTTSProvided\" ascending",
 			"event": [
 				{
@@ -6569,7 +6569,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9b861925-66e7-4860-bf49-2e382ccd8223",
+			"_postman_id": "a44b4106-9531-45cd-98d8-e0ffc0799cc8",
 			"name": "GeneralSearch- id 205315 sa",
 			"event": [
 				{
@@ -6656,7 +6656,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d0d1ffd6-14a8-47fc-8a42-359bf467437c",
+			"_postman_id": "3350fbcf-fded-46b7-83ec-bd71c333dbea",
 			"name": "GeneralSearch- id 207058 - math eq all filters",
 			"event": [
 				{
@@ -6743,7 +6743,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "551460a3-aef9-451a-a876-9a4639302ba9",
+			"_postman_id": "f469cb87-c157-4555-976b-81ab8b758df5",
 			"name": "GeneralSearch- id 207059 -ELA sa all filters",
 			"event": [
 				{
@@ -6830,7 +6830,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "502d43d4-5a4c-4ab7-9ba3-78ac90f332bb",
+			"_postman_id": "dc1d1cf7-a0ed-43c4-a324-e90e74e4d685",
 			"name": "GeneralSearch- id 205987 - Tess many filters",
 			"event": [
 				{
@@ -6912,7 +6912,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b67364c0-8ad7-4481-af2d-080d14c03bd3",
+			"_postman_id": "95d7c593-bab5-43c5-b2b7-a4be6dc2be72",
 			"name": "GeneralSearch- id 206143",
 			"event": [
 				{
@@ -6976,7 +6976,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3e3ec73c-f6ad-443f-a416-f2e30e3d7ff8",
+			"_postman_id": "8cb0ffd3-4742-4250-adef-69db5c523811",
 			"name": "GeneralSearch- id 205320",
 			"event": [
 				{
@@ -7063,7 +7063,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3c4a79d5-1ad7-4c95-88d7-c2ca11fe3f16",
+			"_postman_id": "28ad084c-4a70-497b-ade2-1fda8e87f5ee",
 			"name": "GeneralSearch- id 205767",
 			"event": [
 				{
@@ -7147,7 +7147,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "218bb5ce-5971-4a85-a5ec-fbaf4aafcc77",
+			"_postman_id": "6b4627ae-0bbd-401d-9701-e1a4347ae996",
 			"name": "GeneralSearch- id 206194  - testCategory Summative",
 			"event": [
 				{
@@ -7222,7 +7222,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7042dbd9-e608-495e-8844-0e87175976bd",
+			"_postman_id": "79324cf4-889a-4951-be79-482a3c23582e",
 			"name": "GeneralSearch- id 205315 sa, createDate 2018-04-20T18:56:44Z",
 			"event": [
 				{
@@ -7292,7 +7292,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "996dc359-ce1c-4cb5-8f0c-e66328ab7de4",
+			"_postman_id": "782ebe0a-3964-4e42-bff1-c3d9eed319b2",
 			"name": "GeneralSearch- id 205315 sa, workflowStatusUpdatedDate 2018-04-20T18:58:38Z",
 			"event": [
 				{
@@ -7362,7 +7362,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d8ef6b33-7e84-467c-93ee-cf4762e4d733",
+			"_postman_id": "164fbdaf-07be-45be-ba8e-e7d203ce9b44",
 			"name": "GeneralSearch- id 205363 - All Use Case 2 except daysInWorkflowStatus",
 			"event": [
 				{
@@ -7480,7 +7480,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6530dc33-b861-4cec-bd59-8dd553f7c188",
+			"_postman_id": "4350f0c6-1dcd-4175-bee9-5f909a98bdaa",
 			"name": "GeneralSearch- id 205326 eq",
 			"event": [
 				{
@@ -7559,7 +7559,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6fe4dced-2806-4931-81fc-452102ea38c1",
+			"_postman_id": "1856c709-a17a-4f6c-aafc-bbb13aef4bf4",
 			"name": "GeneralSearch- id 205327 stim Math",
 			"event": [
 				{
@@ -7634,7 +7634,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "752b0a02-142c-4f80-aa7e-888856f3ffda",
+			"_postman_id": "806ac525-348e-48ec-80ed-ea3a6d7aa094",
 			"name": "GeneralSearch- id 205328 stim ELA",
 			"event": [
 				{
@@ -7708,7 +7708,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "31f65cb6-328c-475e-acd5-ee022145e187",
+			"_postman_id": "d4ce30f0-6e02-4088-a1e0-58e445d2dbea",
 			"name": "GeneralSearch- id 205330 GI",
 			"event": [
 				{
@@ -7792,7 +7792,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9f3b3f94-15e7-41c6-8b99-4f0be57e27a0",
+			"_postman_id": "28294e45-a2d0-4959-ab8c-1b08ed1c909f",
 			"name": "GeneralSearch- id 205331 HTQO",
 			"event": [
 				{
@@ -7868,7 +7868,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "95bfa16a-762b-4ff7-8a62-69eb2147608e",
+			"_postman_id": "4d14c1bd-70a6-4b48-bb05-3779c7f8cad3",
 			"name": "GeneralSearch- id 205332 htqs",
 			"event": [
 				{
@@ -7942,7 +7942,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b9a299d3-7962-45bd-b91e-9c4cf243662a",
+			"_postman_id": "86f37fcd-111f-4ba4-84c2-5033d293de9e",
 			"name": "GeneralSearch- id 205334 MI",
 			"event": [
 				{
@@ -8016,7 +8016,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "93aa58b5-5672-4c06-b507-658f9b29da2e",
+			"_postman_id": "63a0c6a2-5a17-4619-aff5-48d5fd8283db",
 			"name": "GeneralSearch- id 205335 mc",
 			"event": [
 				{
@@ -8095,7 +8095,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2d3d705a-8579-4660-83c3-542317a0fd53",
+			"_postman_id": "bafc1da2-20e4-4f34-8f55-7b940b4419a1",
 			"name": "GeneralSearch- id 205336 ms",
 			"event": [
 				{
@@ -8174,7 +8174,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f5eb9a1f-db9a-4835-a887-924617127a24",
+			"_postman_id": "526094a7-cdc4-4673-b512-a137c597519d",
 			"name": "GeneralSearch- id 205337 sa",
 			"event": [
 				{
@@ -8252,7 +8252,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "70da472f-6d92-4205-b42c-d0ac07f91448",
+			"_postman_id": "f51e2258-51fb-4b9d-ad91-4a1e588a2d2f",
 			"name": "GeneralSearch- id 205338 ti",
 			"event": [
 				{
@@ -8330,7 +8330,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4f11664d-0e18-41f0-a38d-8f222ba91ddf",
+			"_postman_id": "f0261ce5-c31b-4572-9479-64c84ec583ab",
 			"name": "GeneralSearch- id 205339 wer",
 			"event": [
 				{
@@ -8404,7 +8404,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3b550bf0-5f7c-4f94-b488-39499d03fd3c",
+			"_postman_id": "953fabb1-8817-4e5e-b712-f583a9cf116d",
 			"name": "GeneralSearch- id 205333 tut",
 			"event": [
 				{
@@ -8478,7 +8478,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6d7543ed-bff1-4575-836d-0851daecd0b2",
+			"_postman_id": "4cf444bc-f50b-4783-9aae-3b9cb67e401d",
 			"name": "GeneralSearch- id blank",
 			"event": [
 				{
@@ -8551,7 +8551,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6d0f58ae-4424-47b4-ac8e-df60095cf30a",
+			"_postman_id": "9b536bde-3d38-4ede-8f55-026feba9cfc2",
 			"name": "GeneralSearch- workflowStatusUpdatedDate contains 4/13/18",
 			"event": [
 				{
@@ -8624,7 +8624,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ddd73a66-bc57-4020-a36c-8c6293b9fd22",
+			"_postman_id": "ec6b163d-6236-445c-8b1c-3a60a1a73d03",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range: 5/18-6/7",
 			"event": [
 				{
@@ -8688,7 +8688,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e73393c2-f138-46dc-b1c6-536ba61be818",
+			"_postman_id": "7a7be8d6-267f-4c02-96fe-dc7e89dffdcb",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without 'to' date",
 			"event": [
 				{
@@ -8752,7 +8752,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "918b7ff0-d4b6-426a-b3f8-ef81d5d15b07",
+			"_postman_id": "4a89e433-d552-40d9-b965-524b0143660d",
 			"name": "GeneralSearch- dateRange on workflowStatusUpdatedDate range without \"from\" date",
 			"event": [
 				{
@@ -8816,7 +8816,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7d7791fe-57c8-42c9-98ee-7bc7d1391564",
+			"_postman_id": "f642e30b-fccd-4044-96d1-d5d3c85de15a",
 			"name": "GeneralSearch- intendedGrade = 3",
 			"event": [
 				{
@@ -8889,7 +8889,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cb739067-3591-4ca5-ab7f-5d1377eaca51",
+			"_postman_id": "feb7704f-07b3-4fba-9eb1-af7623f7b82c",
 			"name": "GeneralSearch- intendedGrade blank",
 			"event": [
 				{
@@ -8962,7 +8962,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8ead4f87-71dd-4622-87d5-dbe6605a82ba",
+			"_postman_id": "fe9af1bc-75fb-4973-84d9-51c7a399032c",
 			"name": "GeneralSearch-daysInWorkflowStatus = 0",
 			"event": [
 				{
@@ -9036,7 +9036,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "760f845d-5368-4c6b-becc-0e39e36051ca",
+			"_postman_id": "b7f741ab-30e0-4d8c-931f-e0e01a29224f",
 			"name": "GeneralSearch-daysInWorkflowStatus = 7",
 			"event": [
 				{
@@ -9111,7 +9111,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8d5acb82-882a-433f-90ee-3fc1c6d577ad",
+			"_postman_id": "93dda6b4-bf1a-4cb9-8b0f-769147b99f84",
 			"name": "GeneralSearch-daysInWorkflowStatus = 1-7",
 			"event": [
 				{
@@ -9184,7 +9184,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "0ea51e6b-e91e-4b18-a350-f3e9c22605a8",
+			"_postman_id": "8f4664de-261d-435c-9e78-45b17f25f244",
 			"name": "GeneralSearch-daysInWorkflowStatus = 14-60",
 			"event": [
 				{
@@ -9248,7 +9248,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "21b6a740-ca66-41e9-be3e-104eb6201060",
+			"_postman_id": "ca5b9589-d3c5-4291-8793-c87ab283e2a9",
 			"name": "GeneralSearch-daysInWorkflowStatus = 60-120",
 			"event": [
 				{
@@ -9312,7 +9312,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "34e711db-98e1-4668-b102-c3a001cdaf56",
+			"_postman_id": "11109100-3f06-4543-a002-b9091207ca32",
 			"name": "GeneralSearch-stimulusId 205237",
 			"event": [
 				{
@@ -9385,7 +9385,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "aa1891a1-da4f-4fd3-b79d-64e0c8ba3c30",
+			"_postman_id": "781f7203-a18f-4f35-a982-b74f70fb9243",
 			"name": "GeneralSearch-stimulusId 205328",
 			"event": [
 				{
@@ -9458,7 +9458,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "28fb6b80-2ae7-470b-ae1a-98713b5cdcb4",
+			"_postman_id": "18500376-5160-4763-a59a-d7794f0265b5",
 			"name": "GeneralSearch-stimulusId blank",
 			"event": [
 				{
@@ -9531,7 +9531,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "38fa3ecd-0bf1-49f7-abdf-43845ff2ef71",
+			"_postman_id": "f143cdb0-6c8e-4024-80a7-ac1d442ab5d1",
 			"name": "GeneralSearch-depthOfKnowledge=3",
 			"event": [
 				{
@@ -9604,7 +9604,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "37548239-7880-439b-9ac7-403e3ff1746a",
+			"_postman_id": "a580eaad-11b3-4f76-88b2-e42ceba56e07",
 			"name": "GeneralSearch-depthOfKnowledge blank",
 			"event": [
 				{
@@ -9677,7 +9677,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "85f0994f-c794-4d3f-8c58-8eefe141e7e3",
+			"_postman_id": "97ec3a45-08a9-4ba1-b9f6-e436baa4d2be",
 			"name": "GeneralSearch-WorkflowStatus=Draft",
 			"event": [
 				{
@@ -9762,7 +9762,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ef8a5aae-b94d-4cbd-801f-b75659fff437",
+			"_postman_id": "6fb9c417-a130-4495-9347-685aeed1d185",
 			"name": "GeneralSearch-WorkflowStatus blank",
 			"event": [
 				{
@@ -9837,7 +9837,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "89eed71d-59e4-49b0-8acd-4dc8448f0486",
+			"_postman_id": "f2b97bcf-29e6-4570-aec4-b42b865f57de",
 			"name": "GeneralSearch-WorkflowStatus: Draft, Subject:ELA",
 			"event": [
 				{
@@ -9911,7 +9911,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e6004d13-dde8-4322-a7ca-245d60966532",
+			"_postman_id": "8ba67859-80e7-4eff-b2ed-9635ee443143",
 			"name": "GeneralSearch-WorkflowStatus=Draft, Subject=ELA, intendedGrade=3",
 			"event": [
 				{
@@ -9989,7 +9989,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4ed499fe-2362-4785-ad65-eae157d73b21",
+			"_postman_id": "0d3c2483-dd59-40e5-a505-4630a8978d2b",
 			"name": "GeneralSearch-workflowStatus=draft, intendedGrade = 7, primaryClaim = 3, stimulusId = 205255",
 			"event": [
 				{
@@ -10063,7 +10063,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e3b93ef0-4bd0-4dff-b278-d52366e81334",
+			"_postman_id": "36076a88-47f4-4ac8-beb0-526af0eb3914",
 			"name": "GeneralSearch-WorkflowStatus: Draft, daysRange: 2-4",
 			"event": [
 				{
@@ -10138,7 +10138,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "986a4804-74a1-45e1-a853-b61f8362eed1",
+			"_postman_id": "c2fa2e22-4416-4162-8f80-1ee756e2eb8f",
 			"name": "GeneralSearch- type = eq",
 			"event": [
 				{
@@ -10211,7 +10211,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ff7a71c2-d2a4-49e6-a880-79a8fd20cc15",
+			"_postman_id": "b8e89b2f-8da1-49f7-a597-7c7ca0586ec3",
 			"name": "GeneralSearch- type = blank",
 			"event": [
 				{
@@ -10284,7 +10284,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9881bba2-8922-4cb4-93ca-2da08afa99e0",
+			"_postman_id": "880edbea-f07e-48bc-bb0c-e4237c691e24",
 			"name": "GeneralSearch- type = sa, eq",
 			"event": [
 				{
@@ -10359,7 +10359,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c26a19f8-eec6-426d-8c41-69ae95197e77",
+			"_postman_id": "de6bc886-20ce-4ba5-8276-5f72de1967a9",
 			"name": "GeneralSearch-Subject=Math",
 			"event": [
 				{
@@ -10433,7 +10433,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ba99991c-244f-4140-9381-29a7f39e8398",
+			"_postman_id": "f914c9da-1576-4d20-995d-b822c7184d34",
 			"name": "GeneralSearch-Subject=ELA",
 			"event": [
 				{
@@ -10506,7 +10506,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9695651b-0efc-4243-93f3-146b3f6c9c3c",
+			"_postman_id": "31912177-d77e-4b91-b66d-6e0f6b564bcb",
 			"name": "GeneralSearch-Subject=blank",
 			"event": [
 				{
@@ -10579,7 +10579,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "33351e58-189a-4df5-8bca-4f7371eb8932",
+			"_postman_id": "6b9fc046-e1b1-46c9-8caa-30839a15c228",
 			"name": "GeneralSearch- created by Jeff Melin",
 			"event": [
 				{
@@ -10652,7 +10652,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7ae338a7-1587-46a2-8af5-95b4ebce5641",
+			"_postman_id": "8b5b64f7-d742-417e-8acb-c19816b793f2",
 			"name": "GeneralSearch- itemAuthor JMQA",
 			"event": [
 				{
@@ -10725,7 +10725,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "286dce9a-3148-4f2a-a48c-c4380f1b382c",
+			"_postman_id": "948883f2-e20a-4801-b17a-a4839ccc5742",
 			"name": "GeneralSearch- itemAuthor blank",
 			"event": [
 				{
@@ -10798,7 +10798,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1b51c3f1-f6d6-4b54-b2b9-acc6d50abe2d",
+			"_postman_id": "82b093cb-63bd-45d0-8cab-81b039e5c041",
 			"name": "GeneralSearch-organizationTypeId = vendor, smarterBalanced",
 			"event": [
 				{
@@ -10872,7 +10872,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c4667d67-facd-4c9a-8d4b-b05313ed0c4a",
+			"_postman_id": "0c83fee4-9299-400a-9fcc-5adbf56bb570",
 			"name": "GeneralSearch-primaryClaim = 2",
 			"event": [
 				{
@@ -10946,7 +10946,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b8724b9e-d866-4068-ac75-e9dc8c1b7cc4",
+			"_postman_id": "67b18b1b-2a50-4ce1-9e23-9733509f6a95",
 			"name": "GeneralSearch-primaryClaim = blank",
 			"event": [
 				{
@@ -11020,7 +11020,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "66e4bcfa-449e-4fb3-8265-fdb6dd75f509",
+			"_postman_id": "9216466c-350f-45a9-8509-4adf2058adea",
 			"name": "GeneralSearch-secondaryClaim = 1",
 			"event": [
 				{
@@ -11094,7 +11094,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ee455045-7108-42b7-8949-c1de2f7049af",
+			"_postman_id": "69bedbe7-cb06-4b78-a22c-71b0d500912a",
 			"name": "GeneralSearch-secondaryClaim blank",
 			"event": [
 				{
@@ -11168,7 +11168,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9e0c3700-5e15-44e4-ac04-3335244ee438",
+			"_postman_id": "c1174f1c-8492-48a7-a8e2-c1ce6ae603f9",
 			"name": "GeneralSearch-tertiaryClaim = 4",
 			"event": [
 				{
@@ -11242,7 +11242,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7cdc3c52-2582-46e3-9909-c18383e8852a",
+			"_postman_id": "81889d17-feba-4528-9930-2b176ebb1ac8",
 			"name": "GeneralSearch-tertiaryClaim blank",
 			"event": [
 				{
@@ -11316,7 +11316,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5fb345ad-3fed-4cbc-80ae-24eec74eedc8",
+			"_postman_id": "d156acc1-053a-437f-b0e4-c459a36f1cf7",
 			"name": "GeneralSearch-quaternaryClaim = 3",
 			"event": [
 				{
@@ -11390,7 +11390,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "543f2a61-194d-4e03-bbc3-ccf889f4e8bf",
+			"_postman_id": "b6fb984d-9589-4aba-9481-5b3b796c4c90",
 			"name": "GeneralSearch-quaternaryClaim blank",
 			"event": [
 				{
@@ -11464,7 +11464,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d99d4a6d-3f41-4a3a-b03d-bc5fcaf59da6",
+			"_postman_id": "c246d900-cf99-4903-99fe-7d31524f755f",
 			"name": "GeneralSearch-primaryTarget = QA PAT1",
 			"event": [
 				{
@@ -11537,7 +11537,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "271d8c5b-01c1-4dfa-ba20-46b092ecb6a9",
+			"_postman_id": "c34a6093-de7e-4bba-bb2f-4c3c2cea5170",
 			"name": "GeneralSearch-primaryTarget = blank",
 			"event": [
 				{
@@ -11610,7 +11610,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e34ac9ba-3706-47d8-8565-f7a06dd10428",
+			"_postman_id": "16169390-bef4-456f-9592-a1fa557c2b12",
 			"name": "GeneralSearch-secondaryTarget = L",
 			"event": [
 				{
@@ -11683,7 +11683,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8103c9c5-6a9c-469d-a384-c0c1590a90e4",
+			"_postman_id": "af175b08-03ed-4744-a8d3-2ca8c8ba0bb3",
 			"name": "GeneralSearch-secondaryTarget blank",
 			"event": [
 				{
@@ -11756,7 +11756,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d62ddee6-518f-4629-8d81-77df4a26b3fd",
+			"_postman_id": "e1560a7d-bda8-44f4-aa36-3c9f6047aa1e",
 			"name": "GeneralSearch-tertiaryTarget = M",
 			"event": [
 				{
@@ -11829,7 +11829,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4be58b3f-b26c-4452-bce2-1b44dfad73c8",
+			"_postman_id": "84b8f256-a58e-4e40-9f6d-6de753a258da",
 			"name": "GeneralSearch-tertiaryTarget blank",
 			"event": [
 				{
@@ -11902,7 +11902,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4da4f010-adcf-4525-9149-47bfcef33f47",
+			"_postman_id": "17ffdce1-a0ab-4d6e-8fe7-1b703d289062",
 			"name": "GeneralSearch-quaternaryTarget = A",
 			"event": [
 				{
@@ -11975,7 +11975,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4d1dabd9-919d-4856-ae86-f6207034f9a1",
+			"_postman_id": "d9c91c30-5a09-4abf-82a0-d73c06bd8137",
 			"name": "GeneralSearch-quaternaryTarget blank",
 			"event": [
 				{
@@ -12048,7 +12048,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "44ddf6b0-54b0-4dc1-8078-f66c168bf51e",
+			"_postman_id": "c758149c-ed65-4518-8a33-1eb64179d5e8",
 			"name": "GeneralSearch-contentTaskModel contains 'odel'",
 			"event": [
 				{
@@ -12126,7 +12126,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bca084cc-f2d2-429b-8907-5a4d36fd7146",
+			"_postman_id": "781a6674-4e18-4fdc-a3bd-26e32aeebc12",
 			"name": "GeneralSearch-contentTaskModel contains blank",
 			"event": [
 				{
@@ -12202,7 +12202,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2e973ca2-a365-4083-8191-a82a5abea57f",
+			"_postman_id": "0820eb8a-fe3f-4aa3-abf2-402ac39bf4c0",
 			"name": "GeneralSearch-primaryTarget = PAT, QA PAT1",
 			"event": [
 				{
@@ -12275,7 +12275,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "15fbd16d-1cac-465e-9762-62a9efe3bf73",
+			"_postman_id": "f3edc417-1130-4a53-b015-e23378d5742e",
 			"name": "GeneralSearch-organizationName = QA",
 			"event": [
 				{
@@ -12350,7 +12350,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "99d61911-7508-456f-aa4c-d7739ae064d7",
+			"_postman_id": "c7efae2e-9f2b-499a-b32c-a9abbd623c4f",
 			"name": "GeneralSearch-organizationName contain Q",
 			"event": [
 				{
@@ -12423,7 +12423,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d962ad01-7919-4d5a-84ec-77c642b2c35d",
+			"_postman_id": "12d5241e-00fc-40fa-83b4-7b015d42073b",
 			"name": "GeneralSearch-organizationName contains sb, A, h",
 			"event": [
 				{
@@ -12487,7 +12487,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6e50f6e7-58d1-44f3-b0ab-1197ba9fad89",
+			"_postman_id": "60ab2d95-ba73-4673-8f7d-da1399bd8a80",
 			"name": "GeneralSearch-organizationName blank",
 			"event": [
 				{
@@ -12551,7 +12551,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "98937691-6c74-4f76-9f23-42e535ab06b5",
+			"_postman_id": "3a9bcb96-60fc-45f3-8b59-b2de075469fe",
 			"name": "GeneralSearch-organizationTypeId matches smarterBalanced",
 			"event": [
 				{
@@ -12624,7 +12624,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ee43d6c7-999c-49d7-864d-0dde5b08f55f",
+			"_postman_id": "c0f13217-0cd9-49b9-b286-5b4f86aa267c",
 			"name": "GeneralSearch-organizationTypeId blank",
 			"event": [
 				{
@@ -12697,7 +12697,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3fc01ab9-3c69-4b1a-8896-21bf82f4aa21",
+			"_postman_id": "5b4cf6b5-44b8-4fb3-9c84-d38133d5a3ab",
 			"name": "GeneralSearch-Item Count groupBy intendedGrade for subject ELA",
 			"event": [
 				{
@@ -12785,7 +12785,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7c1f1eb9-b404-4cdb-98d0-f5b3740b356d",
+			"_postman_id": "e655b838-9d5e-4131-9af9-87c8a8fa57c5",
 			"name": "GeneralSearch-Item Count groupBy subject",
 			"event": [
 				{
@@ -12859,7 +12859,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d8add586-29eb-4141-8d30-30edb934b2b7",
+			"_postman_id": "b17ea6b7-d055-40c8-b05e-19e147c54079",
 			"name": "GeneralSearch-Item Count groupBy depthOfKnowledge",
 			"event": [
 				{
@@ -12937,7 +12937,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7edbc1c7-37de-4150-97a5-cfe58f9e9a7f",
+			"_postman_id": "53f35178-188c-479d-b612-40ce7c3bbcff",
 			"name": "GeneralSearch-Item Count groupBy primaryClaim",
 			"event": [
 				{
@@ -13003,7 +13003,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "dc055818-0fc1-413a-b81f-b97a3e8444f0",
+			"_postman_id": "e0771a3a-3e8d-49a5-8389-e5ac58b51695",
 			"name": "GeneralSearch-Item Count groupBy secondaryClaim",
 			"event": [
 				{
@@ -13069,7 +13069,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "99b4b35a-8e31-4bde-89c2-af141a4d96e9",
+			"_postman_id": "cd386e24-3574-4f66-b78f-e094189c8fe6",
 			"name": "GeneralSearch-Item Count groupBy tertiaryClaim",
 			"event": [
 				{
@@ -13135,7 +13135,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8abbffdd-8ce5-40ae-8b82-7776fdc8840d",
+			"_postman_id": "18577c3f-6a80-49b6-98ce-528b407d47c8",
 			"name": "GeneralSearch-Item Count groupBy quaternaryClaim",
 			"event": [
 				{
@@ -13201,7 +13201,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d6ea667c-6d4d-4dc9-8cac-3b27a89a7338",
+			"_postman_id": "ce039d35-5e48-43b6-b346-fbb49f96a307",
 			"name": "GeneralSearch-Item Count groupBy primaryTarget",
 			"event": [
 				{
@@ -13269,7 +13269,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1728bcf1-07ea-474a-ae3c-ad9db4adc28f",
+			"_postman_id": "37750787-b216-4760-bf06-d1c63ae90250",
 			"name": "GeneralSearch-Item Count groupBy secondaryTarget",
 			"event": [
 				{
@@ -13335,7 +13335,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b9d602ed-a78b-4d35-9694-067b828f8fb5",
+			"_postman_id": "eeacc6de-9ed9-4896-b405-6044ad492502",
 			"name": "GeneralSearch-Item Count groupBy tertiaryTarget",
 			"event": [
 				{
@@ -13401,7 +13401,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "17b38ce2-0ffa-4ce2-8cc2-babdcd75b26f",
+			"_postman_id": "31807276-6a72-4e9d-a785-c6289493c47a",
 			"name": "GeneralSearch-Item Count groupBy quaternaryTarget",
 			"event": [
 				{
@@ -13467,7 +13467,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "36cf15d9-67b7-4bd4-b6bd-608f52c7edaf",
+			"_postman_id": "543bc559-9193-48f8-86f4-208084a0b2a6",
 			"name": "GeneralSearch-Item Count groupBy organizationName",
 			"event": [
 				{
@@ -13533,7 +13533,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6230ea9d-92d7-492a-9e67-febc3fc125a6",
+			"_postman_id": "98e36deb-7cf7-448f-b4a4-f31699fc9c90",
 			"name": "GeneralSearch-Item Count groupBy organizationTypeId",
 			"event": [
 				{
@@ -13599,7 +13599,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "206ecf67-cd2a-4a31-9d74-40264a4563f6",
+			"_postman_id": "9ceb64fc-30d1-4a2b-9303-e1d4cf3fa6c5",
 			"name": "GeneralSearch-Item Count groupBy workflowStatus",
 			"event": [
 				{
@@ -13677,7 +13677,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "56e94641-7884-4f98-8693-14f0ac575d5a",
+			"_postman_id": "eff73084-1be0-46e5-85d5-1c266f39db34",
 			"name": "GeneralSearch -Item Count groupBy itemDiffficultyQuintile",
 			"request": {
 				"auth": {
@@ -13727,7 +13727,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "086a6203-6bf3-475f-a582-6ce60492ce98",
+			"_postman_id": "5c9c55b7-4dc5-470a-ab94-fdc960598902",
 			"name": "Item Count - groupBy testCategory",
 			"request": {
 				"auth": {
@@ -13787,7 +13787,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "95682dd9-a3ac-4278-b642-fa20e9b6c774",
+			"_postman_id": "92305195-15f5-44b1-a277-ec8cd83f4545",
 			"name": "Search By Item Difficulty Quintile",
 			"request": {
 				"auth": {
@@ -13834,7 +13834,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b248ca90-ef01-47df-879f-283f4b393915",
+			"_postman_id": "667e76b0-26eb-4bf2-b465-abe20d7cbde5",
 			"name": "Search By Calculated Exposures Count",
 			"request": {
 				"auth": {
@@ -13881,7 +13881,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b860356a-4dd0-49c1-83c8-ddfa9d59c83e",
+			"_postman_id": "130af85a-1e75-45a4-bdb1-9982976b8310",
 			"name": "Search By Calculated Form Count",
 			"request": {
 				"auth": {
@@ -13928,7 +13928,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "36c3dee1-b8c0-4fe9-94f5-e52642824fac",
+			"_postman_id": "a83173b9-854b-46e5-a1bd-4ac04e5c3f1b",
 			"name": "Search - \"isAslRequired\" is \"true\"",
 			"event": [
 				{
@@ -13999,7 +13999,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "493e84e7-7c93-4a9f-aa1b-6bdd38469277",
+			"_postman_id": "6b557562-7f58-4321-ada1-031ea9e74eb4",
 			"name": "Search - \"isAslRequired\" is \"false\"",
 			"event": [
 				{
@@ -14070,7 +14070,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ee96b638-c849-4bde-8d54-3df8cc61c8f7",
+			"_postman_id": "5f1c2afc-a85d-4f68-b3a3-1f30aa4fbb2a",
 			"name": "Search - \"isAslRequired\" is blank",
 			"event": [
 				{
@@ -14137,7 +14137,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "ffc6029c-39f1-4ab4-9337-87db4ce0e679",
+			"_postman_id": "fbb0db6e-8725-4923-9f63-91b83c024a14",
 			"name": "Search - \"isAslProvided\" is \"true\"",
 			"event": [
 				{
@@ -14208,7 +14208,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1a95aef1-687f-42c0-ba74-0cbdde1c5d3b",
+			"_postman_id": "855b921e-2cba-4894-9fb2-b29da86c6e82",
 			"name": "Search - \"isAslProvided\" is \"false\"",
 			"event": [
 				{
@@ -14277,7 +14277,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "d784cea1-f3f2-4525-abb5-b5bc0d64860e",
+			"_postman_id": "5e2b5fe9-7d72-4585-b932-4e1ae6ce08e4",
 			"name": "Search - \"isAslProvided\" is blank",
 			"event": [
 				{
@@ -14346,7 +14346,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "98693182-accc-4b50-9769-d9a8e67c9ab0",
+			"_postman_id": "2f3b129a-9a9b-495e-8b74-20f3b3e76fb3",
 			"name": "Search - \"isBrailleRequired\" is \"true\"",
 			"event": [
 				{
@@ -14414,7 +14414,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "dd0b0840-7d07-49c6-892e-ab8068754532",
+			"_postman_id": "8fea944a-1e66-44d8-b1ad-97b59ba875a5",
 			"name": "Search - \"isBrailleRequired\" is \"false\"",
 			"event": [
 				{
@@ -14485,7 +14485,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "cb6b3f61-5346-40b7-a9bf-47e8f98d5950",
+			"_postman_id": "f5b48bf2-ab35-4c49-8f32-e20f3a5cde02",
 			"name": "Search - \"isBrailleRequired\" is blank",
 			"event": [
 				{
@@ -14554,7 +14554,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "92486a7f-918e-4001-98d3-746cc598124e",
+			"_postman_id": "31d0a7a9-04ef-4e23-ac97-44bb3e01b20b",
 			"name": "Search - \"isBrailleProvided\" is \"true\"",
 			"event": [
 				{
@@ -14623,7 +14623,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5c4b3a32-4a5f-4800-ac22-47a448dba214",
+			"_postman_id": "bb0b5ba3-ebce-4ba3-b8d9-896ebec8c944",
 			"name": "Search - \"isBrailleProvided\" is \"false\"",
 			"event": [
 				{
@@ -14692,7 +14692,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "08402218-6ad4-4bf9-8fb4-1339ad3e0338",
+			"_postman_id": "810ff2ef-c8bc-478e-8cc6-ec1f8d8f0355",
 			"name": "Search - \"isBrailleProvided\" is blank",
 			"event": [
 				{
@@ -14761,7 +14761,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f411f8a7-8a54-49cd-9c15-d77c284b19f6",
+			"_postman_id": "96662c34-d027-434a-ad77-7565f6e6bfb1",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"true\"",
 			"event": [
 				{
@@ -14832,7 +14832,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7947697b-ad80-456b-94bd-6291ce7180a9",
+			"_postman_id": "4fb611cd-fd3c-410a-b697-d6d9cb052c72",
 			"name": "Search - \"isClosedCaptioningRequired\" is \"false\"",
 			"event": [
 				{
@@ -14903,7 +14903,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "069a6e47-4022-4154-b8c5-97700b7c35b5",
+			"_postman_id": "8995b7cc-30f8-4b1a-86c6-0a90f2693aa8",
 			"name": "Search - \"isClosedCaptioningRequired\" is blank",
 			"event": [
 				{
@@ -14972,7 +14972,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5f672470-7f22-44e2-bd26-625fb288e0f3",
+			"_postman_id": "670a3d8e-62ec-4867-931e-689d5a3ca028",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"true\"",
 			"event": [
 				{
@@ -15043,7 +15043,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c71b100c-cced-49b8-95d1-441acd47bef0",
+			"_postman_id": "cfb611aa-2c2a-487e-9b91-33638acc6476",
 			"name": "Search - \"isClosedCaptioningProvided\" is \"false\"",
 			"event": [
 				{
@@ -15112,7 +15112,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3a388315-e662-4a7a-8f02-b44ad3dc5749",
+			"_postman_id": "13b763d2-c163-42c4-86e8-3a17400f2c0b",
 			"name": "Search - \"isClosedCaptioningProvided\" is blank",
 			"event": [
 				{
@@ -15181,7 +15181,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "60be786b-e160-4e98-a175-64db8bb86ab0",
+			"_postman_id": "2e87a53a-439f-44bb-8bb7-1a753bcfa3ec",
 			"name": "Search - \"isTranslationRequired\" is \"true\"",
 			"event": [
 				{
@@ -15232,7 +15232,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isTranslationRequired\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 10,\n    \"pageNumber\": 0\n  }\n}"
+					"raw": "{\n  \"filters\": [\n    {\n     \n      \"property\": \"isTranslationRequired\",\n      \"values\": [\"true\"]\n    }\n  ],\n  \"sort\": {\n    \"property\": \"createDate\",\n    \"direction\": \"desc\"\n  },\n  \"page\": {\n    \"pageSize\": 50,\n    \"pageNumber\": 0\n  }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -15252,7 +15252,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "db60ba22-338b-478b-84cf-e8dc9c368342",
+			"_postman_id": "2051652b-070b-4abe-b486-42c48fb4b6b3",
 			"name": "Search - \"isTranslationRequired\" is \"false\"",
 			"event": [
 				{
@@ -15329,7 +15329,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8a84c672-3151-4d29-936d-6b88b09e6d87",
+			"_postman_id": "f7458408-d640-432d-aca3-e8362ef1a0a0",
 			"name": "Search - \"isTranslationRequired\" is blank",
 			"event": [
 				{
@@ -15400,7 +15400,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "eec9f75b-c819-4758-a5fa-73f9fbc77837",
+			"_postman_id": "b9e0c491-db4a-482e-bde3-5fabaf47c6c7",
 			"name": "Search - \"isTranslationProvided\" is \"true\"",
 			"event": [
 				{
@@ -15475,7 +15475,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "501d02da-de98-4d5b-95bf-6085b8002e7d",
+			"_postman_id": "496f3bd0-a0cf-45aa-9c5f-87b297211034",
 			"name": "Search - \"isTranslationProvided\" is \"false\"",
 			"event": [
 				{
@@ -15542,7 +15542,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "088d60a8-4b09-4f2e-adac-8869381e3193",
+			"_postman_id": "bc625f30-cd06-450f-b1f9-414e173c0a89",
 			"name": "Search - \"isTranslationProvided\" is blank",
 			"event": [
 				{
@@ -15609,7 +15609,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "17e78569-6a89-4cd7-b729-ccff4cdcc256",
+			"_postman_id": "85380dcd-4181-426c-83b1-9e0e9e1049a8",
 			"name": "Search by Targets A, B, C, D",
 			"event": [
 				{
@@ -15716,7 +15716,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1e1cfb3c-4ad1-40b2-b91b-7a7011ab2261",
+			"_postman_id": "a3c0eb8d-8c59-4940-97d5-a3555b9c87f8",
 			"name": "Search by Targets J, L, M, F",
 			"event": [
 				{
@@ -15822,7 +15822,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "30dfd3dc-51c7-43c3-97a2-b632d761225a",
+			"_postman_id": "7b6372f3-1445-476f-9aee-cf5088b9d471",
 			"name": "Search by Claims",
 			"event": [
 				{
@@ -15929,7 +15929,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c19297c2-79c5-4304-bbf9-59f1a7b8b4c9",
+			"_postman_id": "0ea13dd8-6661-462b-bc66-d8100af4c458",
 			"name": "Search writingPurpose = Narrative",
 			"event": [
 				{
@@ -15997,7 +15997,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "945e5661-4ade-4910-b130-bde0e1789eb6",
+			"_postman_id": "fcba5f39-ca04-44a3-993d-adff3618b4bd",
 			"name": "Search writingPurpose all",
 			"event": [
 				{
@@ -16066,7 +16066,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7a370273-edb1-4443-8d3e-97ae5ca0bee6",
+			"_postman_id": "1e9e4396-9a14-4cd1-9b18-dd3d5118daa7",
 			"name": "Search writingPurpose blank",
 			"event": [
 				{
@@ -16135,7 +16135,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c4317744-035f-4271-8310-819fa0677963",
+			"_postman_id": "99762f4b-6bd1-4c47-aace-ba5bc46a567f",
 			"name": "Search formType Operational",
 			"event": [
 				{
@@ -16194,7 +16194,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "33e014f9-9d1f-4f7d-95ea-e52b03431ca0",
+			"_postman_id": "904e4ff5-b430-41d1-9f03-2c43aab9a0af",
 			"name": "Search performanceTask = No",
 			"event": [
 				{
@@ -16262,7 +16262,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "efc38554-5feb-4791-9ed9-51cecfd61962",
+			"_postman_id": "d0336c1e-b4aa-493d-9181-5e03647b562c",
 			"name": "Search performanceTask = Yes",
 			"event": [
 				{
@@ -16330,7 +16330,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "75d689d0-568e-4622-b581-a81386fb97ad",
+			"_postman_id": "eb84970d-fe05-404b-9d2e-e56eed639a0a",
 			"name": "Search performanceTask blank",
 			"event": [
 				{
@@ -16398,7 +16398,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "95b71f8d-f06c-4cda-a298-c6b99a1cf095",
+			"_postman_id": "6daab154-e95c-424b-9680-cc2e7b2a9bf2",
 			"name": "Search - \"isSightTTSProvided\" is \"true\"",
 			"event": [
 				{
@@ -16467,7 +16467,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "91dfe7f9-05e1-4e51-bf50-2af15b0380c8",
+			"_postman_id": "b6d30f04-df13-45e1-960f-02b02a2801b7",
 			"name": "Search - \"isSightTTSProvided\" is \"false\"",
 			"event": [
 				{
@@ -16536,7 +16536,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "969d08ca-1b8a-47b9-91a9-7ebcf998b862",
+			"_postman_id": "e98019d9-2b5c-467b-a881-193b963969f7",
 			"name": "Search - \"isVisualTTSRequired\" is \"true\"",
 			"event": [
 				{
@@ -16605,7 +16605,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "579e6686-5663-48ed-a795-d2bb16cdfe05",
+			"_postman_id": "5d6c6833-0498-43ea-ad49-81c73d476285",
 			"name": "Search - \"isVisualTTSRequired\" is \"false\"",
 			"event": [
 				{
@@ -16674,7 +16674,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "206009d5-8e83-44ea-823a-01ed2a9f7fa6",
+			"_postman_id": "48427b81-46f8-444c-a384-9a7192e7727f",
 			"name": "Search - calculatedExposuresCount blank",
 			"event": [
 				{
@@ -16742,7 +16742,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "77844d86-2ce3-4cb6-9320-f5bd42a08bc7",
+			"_postman_id": "8184a671-b675-4dcc-b8f6-215eacb052c4",
 			"name": "Search - calculatedFormCount blank",
 			"event": [
 				{
@@ -16810,7 +16810,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "c52b322a-8908-450d-8599-29262c663501",
+			"_postman_id": "b9d1246f-c553-4f66-a7a7-4ac745c4ab69",
 			"name": "Search - itemDifficultyQuintile blank",
 			"event": [
 				{
@@ -16878,7 +16878,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a1799167-c0fe-481c-8d00-9b32e492c634",
+			"_postman_id": "53298cd7-5ab1-4d3f-8b75-c9c04993dac2",
 			"name": "GetSingleItem 205320",
 			"event": [
 				{
@@ -16952,7 +16952,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6df1e79f-0aed-4051-87fd-1c6e989be33a",
+			"_postman_id": "ea36e624-d966-4648-b0bd-efce361cb599",
 			"name": "GetSingleItem 206006 - find specific Braille and ASL attachments",
 			"event": [
 				{
@@ -17017,7 +17017,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5476c6e6-5069-4dff-ab96-2970140ae866",
+			"_postman_id": "3f8c6eec-eade-4f49-b76c-b39575f20fd5",
 			"name": "GetSingleItem 205771 - find specific CC attachment",
 			"event": [
 				{
@@ -17079,7 +17079,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8874eedd-72a1-4d79-8fb1-890501e5d116",
+			"_postman_id": "db87237e-5792-486a-95ad-85d71b85c451",
 			"name": "GetSingleItem 205857",
 			"event": [
 				{
@@ -17135,7 +17135,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "677bb780-45d4-4bb6-843b-34e4b1ec105f",
+			"_postman_id": "d5fa4af8-6653-4d56-a12e-776557da392e",
 			"name": "GetSingleItem 205323",
 			"event": [
 				{
@@ -17216,7 +17216,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "bce9ca14-1704-4917-9803-ae7c9ffb7c07",
+			"_postman_id": "2e03e083-cb3a-42db-b444-edd7e1312220",
 			"name": "GetSingleItem 207101",
 			"event": [
 				{
@@ -17302,7 +17302,154 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6faeffb3-908d-496e-89b5-9e46e80ada03",
+			"_postman_id": "9c2eff40-de5e-482b-961b-d55d55b9d4bc",
+			"name": "GetSingleItem 207155 find assessmentType summative paper/pencil",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c3cf485b-47b0-4339-8bd8-65105749de15",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should find summativePaperPencil\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"SummativePaperPencil\");",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/207155?includeDetails=true",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"207155"
+					],
+					"query": [
+						{
+							"key": "includeDetails",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "db10d287-36e8-449c-9d37-e09583d1457e",
+			"name": "GetSingleItem 207117 find Validation results section",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "891e3462-0c9a-4106-ba7d-37d1d6e084a9",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Should be created by JM\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData.createdBy).to.eql(\"Jeff Melin\");",
+							"});",
+							"",
+							"",
+							"pm.test(\"Id should be 207117\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData.id).to.eql(\"207117\");",
+							"});",
+							"",
+							"",
+							"",
+							"pm.test(\"Should find validationResults\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"validationResults\");",
+							"});"
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/207117?includeDetails=true",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"207117"
+					],
+					"query": [
+						{
+							"key": "includeDetails",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "c7295701-1ed9-428a-b3f1-2aa834beb34c",
 			"name": "GetMultipleItems 205320,205315, 205323",
 			"event": [
 				{
@@ -17366,7 +17513,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "439fc1c3-cfb7-442c-ada9-9b4a3047dca7",
+			"_postman_id": "5a1b0ab3-5a2d-423c-824a-a52adbeb276d",
 			"name": "GeneralSearch- formAssessmentType = Summative",
 			"event": [
 				{
@@ -17410,7 +17557,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"assessmentType\",\n            \"values\":[\"Summative\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"assessmentType\",\n            \"values\":[\"Summative\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"desc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
 				},
 				"url": {
 					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
@@ -17430,7 +17577,71 @@
 			"response": []
 		},
 		{
-			"_postman_id": "df34a7c4-bea6-4da2-8ef4-f3b96658b895",
+			"_postman_id": "f642cf29-554f-4f04-ac4a-76046481b78e",
+			"name": "GeneralSearch- formAssessmentType = SummativePaperPencil",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "7e528f8f-2c42-4f99-a58f-46fc55c35f6c",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "oauth2",
+					"oauth2": [
+						{
+							"key": "accessToken",
+							"value": "{{access_token}}",
+							"type": "string"
+						},
+						{
+							"key": "tokenType",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"filters\": [\n        {\n            \n            \"property\": \"assessmentType\",\n            \"values\":[\"SummativePaperPencil\"]\n        }\n    ],\n    \"sort\": {\n        \"property\": \"id\",\n        \"direction\": \"asc\"\n    },\n    \"page\": {\n        \"pageSize\": 50,\n        \"pageNumber\": 0\n    }\n}"
+				},
+				"url": {
+					"raw": "http://iss-awsqa.sbtds.org/v1/items/search",
+					"protocol": "http",
+					"host": [
+						"iss-awsqa",
+						"sbtds",
+						"org"
+					],
+					"path": [
+						"v1",
+						"items",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"_postman_id": "de7ab3e5-cffd-4da5-9bb7-9aec63ff28b8",
 			"name": "GeneralSearch- formAssessmentType = Interim",
 			"event": [
 				{
@@ -17494,7 +17705,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a7248be2-45e6-437c-b012-e4cbd4331160",
+			"_postman_id": "eb6bfcf8-81fa-4919-9ff1-9f4ded3feacf",
 			"name": "GeneralSearch- formAssessmentType = Practice",
 			"event": [
 				{
@@ -17558,7 +17769,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a7bf5ae8-02ea-4cae-a186-b74d3cb55e99",
+			"_postman_id": "3435f53a-efbb-44dc-851c-2f984f163c56",
 			"name": "GeneralSearch- formType FieldTest",
 			"event": [
 				{
@@ -17622,7 +17833,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "2090f9e4-7295-4567-80ef-f779e63c4432",
+			"_postman_id": "5946eac0-8b71-4709-9570-4d7480cafa94",
 			"name": "GeneralSearch- formType Operational",
 			"event": [
 				{
@@ -17686,7 +17897,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "43a0d9a5-5183-47ba-8c03-3a9de8835761",
+			"_postman_id": "00343928-d72f-44dd-ae4b-3a56b093b077",
 			"name": "Search - TestCategory - Summative, Practice, or Interim",
 			"event": [
 				{
@@ -17765,7 +17976,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "a898cd9a-389c-4fb5-b1f4-289660d30632",
+			"_postman_id": "c7305b66-dbed-4aab-b9d2-fa33b6223638",
 			"name": "Search - TestCategory includeBlanks",
 			"event": [
 				{
@@ -17829,7 +18040,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "299f4e12-4e50-41e5-a9c1-219350838cca",
+			"_postman_id": "86813b73-575b-4faf-a5d9-cb69dda4a0ee",
 			"name": "GeneralSearch-EnglishContentLastUpdated From 7/15/18 - 8/1/18",
 			"event": [
 				{
@@ -17899,7 +18110,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9c5b5aad-6e88-4b3a-9f2b-c9908e68e1e7",
+			"_postman_id": "152e460a-384c-4a98-99bc-3151130f703b",
 			"name": "GeneralSearch-EnglishContentLastUpdated-From 7/31/18",
 			"event": [
 				{
@@ -17969,7 +18180,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f9f1ac11-5ba6-4090-940b-f929760364f5",
+			"_postman_id": "8b59e0b8-e0cd-4ae1-bf52-e2debfd73d25",
 			"name": "GeneralSearch-EnglishContentLastUpdated-To",
 			"event": [
 				{
@@ -18039,7 +18250,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "7e46c9e5-ab54-4fa4-9226-d1f1d18d5169",
+			"_postman_id": "f71c9ae4-feaa-45ed-83fc-d0b48fc0963a",
 			"name": "GeneralSearch-EnglishContentLastUpdated-To-sort-by-eng-lang-update-date",
 			"event": [
 				{
@@ -18108,7 +18319,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "1688067a-c068-40bd-a52c-2123eceeea9c",
+			"_postman_id": "69b3cbc1-a6bd-4850-8842-a08ef4a4a217",
 			"name": "GeneralSearch-EnglishContentLastUpdated-From-sort-by-eng-lang-update-asc",
 			"event": [
 				{
@@ -18177,7 +18388,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f530f414-b27a-485e-a748-7b06516991f9",
+			"_postman_id": "39a8096c-3c28-4f5f-88ee-9cb640643c34",
 			"name": "General Search Scoring Engine - HandScored",
 			"event": [
 				{
@@ -18250,7 +18461,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "6c7b8ce9-d9e0-4c85-bcd5-974cf3d80dfe",
+			"_postman_id": "cf72d5ac-1ad5-4257-8e88-fb1789eabdfd",
 			"name": "General Search Scoring Engine - AutomaticWithRubric",
 			"event": [
 				{
@@ -18323,7 +18534,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b20228f9-daf5-4861-bb2a-4cf5e4edcd86",
+			"_postman_id": "2943c126-96c3-47c6-a9b8-b37fe5041b6a",
 			"name": "General Search Scoring Engine - AutomaticWithKey",
 			"event": [
 				{
@@ -18396,7 +18607,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f36e8ed1-a43a-42e5-a10f-a049054d9411",
+			"_postman_id": "01ca0cdf-063e-4f1e-8dfc-0a9a05e02221",
 			"name": "General Search Scoring Engine - AutomaticWithKeys",
 			"event": [
 				{
@@ -18469,7 +18680,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "80387834-31e7-4aca-9e23-94264f675c0f",
+			"_postman_id": "5bfae714-5e63-4a44-bedd-136cda2e02c1",
 			"name": "General Search Scoring Engine Blanks",
 			"event": [
 				{
@@ -18533,7 +18744,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "fe0ea7bd-7a0f-4b72-82b8-d534338ead48",
+			"_postman_id": "91152930-c3d5-47a9-a581-2d54fe416fcf",
 			"name": "General Search Content Domain",
 			"event": [
 				{
@@ -18597,7 +18808,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "725c34dd-e129-4028-8fb2-e404b39051be",
+			"_postman_id": "39b085fc-7329-439b-95fb-32baf066e3a8",
 			"name": "General Search Content Domain Blanks",
 			"event": [
 				{
@@ -18661,7 +18872,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f23b9519-c3be-4aa3-bca5-34d61c608432",
+			"_postman_id": "b4cb3559-2f00-4804-96db-324eca1ff056",
 			"name": "General Search Common Core Standard",
 			"event": [
 				{
@@ -18725,7 +18936,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8213fc44-0acf-48f0-9960-db925c6e1453",
+			"_postman_id": "e6de97b0-49db-48ef-87a0-fb704b6067e3",
 			"name": "General Search Common Core Standard Blanks",
 			"event": [
 				{
@@ -18789,7 +19000,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3f976be4-2c55-4a56-8c30-ec97ce9b6c72",
+			"_postman_id": "29adf720-a1fd-4e36-b3b3-746012553e2d",
 			"name": "Allow Calculator - yes",
 			"event": [
 				{
@@ -18862,7 +19073,7 @@
 			},
 			"response": [
 				{
-					"id": "855efb77-537a-4c93-8ff1-05c46bff3cd3",
+					"id": "c38bd916-7257-4d0f-9f1f-5a551a52b0b9",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"auth": {
@@ -19006,7 +19217,7 @@
 			]
 		},
 		{
-			"_postman_id": "e43999c3-ebff-4b1b-8a2f-04a0470068df",
+			"_postman_id": "02e0b452-eb86-4976-bb1a-73c025d50b30",
 			"name": "Allow Calculator - no",
 			"event": [
 				{
@@ -19079,7 +19290,7 @@
 			},
 			"response": [
 				{
-					"id": "67b6e5b7-c904-4942-b544-8e9b4f4d041e",
+					"id": "840ef426-1a9e-487a-9e17-587b1ba48285",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"auth": {
@@ -19223,7 +19434,7 @@
 			]
 		},
 		{
-			"_postman_id": "0f7ad275-a68c-42a2-9119-d3d732a5b5f8",
+			"_postman_id": "55c7fc9d-f632-4b42-ae78-d274caac66be",
 			"name": "Allow Calculator - neutral, includeBlanks",
 			"event": [
 				{
@@ -19296,7 +19507,7 @@
 			},
 			"response": [
 				{
-					"id": "dcd95771-f73f-42d6-a21f-37ba4d470eb2",
+					"id": "7f638614-5f72-4366-81dc-724b89edc1a5",
 					"name": "GeneralSearch-BeingCreated=false",
 					"originalRequest": {
 						"auth": {
@@ -19440,7 +19651,7 @@
 			]
 		},
 		{
-			"_postman_id": "3b41af6a-9384-435b-a845-e8054de634b8",
+			"_postman_id": "6a6e084f-a7ea-4a8c-91c6-5e2ad32c1ea9",
 			"name": "Search updateDate - 7/31-8/1",
 			"event": [
 				{
@@ -19504,7 +19715,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "96096151-adb3-4feb-90b7-e52194c05558",
+			"_postman_id": "cb9d1f31-1c83-45de-813b-7e5465252143",
 			"name": "GeneralSearch-SpanishContentLastUpdated From 7/21 to 8/1",
 			"event": [
 				{
@@ -19574,7 +19785,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "45ff9c4a-e4bd-4a2c-aba0-cece244614bc",
+			"_postman_id": "20e3a0de-1616-42e9-9a74-df6f2ffee5a8",
 			"name": "GeneralSearch-SpanishContentLastUpdated From 7/30/18",
 			"event": [
 				{
@@ -19644,7 +19855,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "9b507c1f-b3f6-4499-a47d-740716eb7fda",
+			"_postman_id": "cea86e9a-a959-4467-ac56-173f2a53ca71",
 			"name": "GeneralSearch-SpanishContentLastUpdated-To 5/27/2018",
 			"event": [
 				{
@@ -19713,7 +19924,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "3108fa77-a369-4515-86c1-d122061a9772",
+			"_postman_id": "b230f2fe-e435-4ce8-86e9-997563f5e3ee",
 			"name": "GeneralSearch-SpanishContentLastUpdated-From 7/30/2018-sort-by-esp-lang-update-asc",
 			"event": [
 				{
@@ -19782,7 +19993,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "923dc3ee-976a-4b3c-a646-c45c731ac238",
+			"_postman_id": "9288c04f-bc15-40b4-aae3-d17c189f6371",
 			"name": "GeneralSearch-SpanishContentLastUpdated-To 6/27/2018 sort-by-esp-lang-update-date desc",
 			"event": [
 				{
@@ -19850,7 +20061,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "b0f4a5bc-4bb3-4610-adf5-7b059c56ee44",
+			"_postman_id": "fc903205-35ff-4081-9398-81b06926969c",
 			"name": "Search - \"isAslUploadedPriorToLastContentUpdate\" is \"true\"",
 			"event": [
 				{
@@ -19917,7 +20128,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "893073e6-cfec-48a9-aa83-3e4f4950066f",
+			"_postman_id": "8f3bcd8b-855a-434a-b200-6ab576e594cd",
 			"name": "Search - \"isAslUploadedPriorToLastContentUpdate\" is \"false\"",
 			"event": [
 				{
@@ -19984,7 +20195,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "66948871-40c1-4514-9cab-5e2b04bd3eb0",
+			"_postman_id": "8927e71d-8394-4861-a90f-bda8549b07f7",
 			"name": "Search - \"isBrailleUploadedPriorToLastContentUpdate\" is \"true\"",
 			"event": [
 				{
@@ -20051,7 +20262,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "e7c202ba-29bc-4988-ae1d-31ba35bc1923",
+			"_postman_id": "bc887984-eb6e-4cbe-ad73-fd8139dc3676",
 			"name": "Search - \"isBrailleUploadedPriorToLastContentUpdate\" is \"false\"",
 			"event": [
 				{
@@ -20118,7 +20329,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "4dee3664-b58e-4b36-bbf9-724a12db8696",
+			"_postman_id": "6f2d0bd4-78e1-49fb-9725-5415d3b6c7ec",
 			"name": "Search - \"isClosedCaptioningUploadedPriorToLastContentUpdate\" is \"true\"",
 			"event": [
 				{
@@ -20185,7 +20396,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "fd860761-a88f-4420-8a3f-137f5c2c68f3",
+			"_postman_id": "45684e60-4047-45bc-9657-d841f298c2f9",
 			"name": "Search - \"isClosedCaptioningUploadedPriorToLastContentUpdate\" is \"false\"",
 			"event": [
 				{
@@ -20252,7 +20463,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "5a37265c-291f-4c39-8e4a-ecf551f5cf62",
+			"_postman_id": "83da5a4c-e130-465f-85b7-39a509bb327a",
 			"name": "Search - \"isVisualTTSProvided\" is \"true\"",
 			"event": [
 				{
@@ -20321,7 +20532,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "8f6f5d3d-4f2c-4ed8-a6e4-edd7227977b8",
+			"_postman_id": "301d050a-1a20-491a-93cb-4a6466ed8122",
 			"name": "Search - \"isVisualTTSProvided\" is \"false\"",
 			"event": [
 				{
@@ -20390,7 +20601,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "601b5ba1-f7f1-45be-a204-389f25fdcd42",
+			"_postman_id": "597d4216-9bf1-487f-8f5d-667c9d90eeae",
 			"name": "IAT-2052: count primary content domain",
 			"event": [
 				{
@@ -20454,7 +20665,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "443cfbb4-331d-4d4b-8b92-56df42bc6d3e",
+			"_postman_id": "c184b2cd-c8c5-49b3-ada9-8acd271ee285",
 			"name": "IAT-2052: count secondary content domain",
 			"event": [
 				{
@@ -20518,7 +20729,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "97259e04-2768-45dd-8d01-3722bdf8105e",
+			"_postman_id": "9a8f985b-315c-4740-837e-63f675dd766b",
 			"name": "IAT-2052: count tertiary content domain",
 			"event": [
 				{
@@ -20582,7 +20793,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "97323174-fad0-434e-981f-907223726096",
+			"_postman_id": "4824ce30-52fc-415b-bc09-66035e55b52f",
 			"name": "IAT-2052: count quaternary content domain",
 			"event": [
 				{
@@ -20646,7 +20857,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "f574da9b-3797-4298-9e18-0cd3a481a0b1",
+			"_postman_id": "fbb14610-1567-489d-b61b-44c254abf54e",
 			"name": "IAT-2107: count primary common core standard",
 			"event": [
 				{
@@ -20710,7 +20921,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "de455ef5-e319-4e53-ad3b-8b379d3da9ed",
+			"_postman_id": "af399594-4b2f-4657-8b79-eb8de7c8ff4a",
 			"name": "IAT-2107: count secondary common core standard",
 			"event": [
 				{
@@ -20774,7 +20985,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "98516f5e-277a-4359-8bd0-d1776b2f0971",
+			"_postman_id": "bea8d969-d411-4685-892a-b84610c15ae4",
 			"name": "IAT-2107: count tertiary common core standard",
 			"event": [
 				{
@@ -20838,7 +21049,7 @@
 			"response": []
 		},
 		{
-			"_postman_id": "eccb5495-f0ac-4bd8-9bd2-e03173a113d1",
+			"_postman_id": "51ce3bd6-da21-4b33-86c7-1b2cf959fd42",
 			"name": "IAT-2107: count quaternary common core standard",
 			"event": [
 				{
