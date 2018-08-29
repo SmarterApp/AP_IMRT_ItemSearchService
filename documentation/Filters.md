@@ -95,6 +95,10 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 | calculatedExposuresCount | All exposures across all forms |
 | itemDifficultyQuintile | The difficulty level of the item |
 | daysInWorkflowStatus | The number of days an item has been in the currently workflow status |
+| severeValidationResultCount | The number of validation results with a severity of `Severe` |
+| degradedValidationResultCount | The number of validation results with a severity of `Degraded` |
+| tolerableValidationResultCount | The number of validation results with a severity of `Tolerable` |
+| benignValidationResultCount | The number of validation results with a severity of `Benign` |
 
 **Example Usage**
 
