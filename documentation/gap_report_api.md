@@ -91,7 +91,9 @@ When a request to the Gap Report API fails (e.g. the request contains invalid fi
   * `code`:  The HTTP Status code
 
 ### Example Usage
-Shown below is an example `curl` call for fetching a Gap Report:
+Shown below is an example `curl` call for fetching a Gap Report.
+
+**NOTE:** The SSO token has been redacted from the example.  To run this request, the `[redacted]` should be replaced with a valid token obtained from the SSO server.
 
 ```bash
 curl -O -J -X POST \
