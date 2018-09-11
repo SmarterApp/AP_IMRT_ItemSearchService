@@ -54,8 +54,8 @@ dependencies {
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310'
     compile 'biz.paluch.logging:logstash-gelf:1.12.0'
-    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.62'
-    compile 'org.opentestsystem.ap:ap-common:0.4.20'
+    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.63'
+    compile 'org.opentestsystem.ap:ap-common:0.4.32'
     testCompile 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'org.assertj:assertj-core:3.9.1'
 }
@@ -120,6 +120,14 @@ findbugs {
  */
 task unitTest (type: Test) {
     exclude '**/*IntegrationTest.class'
+}
+
+task bootRunLocal(type: org.springframework.boot.gradle.run.BootRunTask) {
+    doFirst() {
+        main = project.mainClassName
+        classpath = sourceSets.main.runtimeClasspath
+        systemProperty "spring.profiles.active", "local-development"
+    }
 }
 
 /***************************
