@@ -25,7 +25,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | associatedItemCount | No | No | No | n/a | 
 | calculatedExposuresCount | Yes | Yes | No | Integer Range |
 | calculatedFormCount | Yes | Yes | No | Integer Range |
-| contentTaskModel | Yes | Yes | No | Match |
+| contentTaskModel | Yes | Yes | No | [Match](Filters.md#match-filter) |
 | createDate | Yes | Yes | No | Date Range |
 | createdBy | Yes | Yes | No | contains | 
 | daysInWorkflowStatus | Yes | Yes | No | IntegBooleaner Range |
@@ -77,3 +77,22 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | workflowStatus | Yes | Yes | Yes | Match |
 | workflowStatusUpdatedDate | Yes | Yes | No | Date Range |
 | writingPurpose | No | No | No | n/a |
+| TODO associatedItemCount | | | |
+| englishPassagesCount | | | |
+| spanishPassagesCount ||||
+| isContentChangedAfterOperational |
+| hasUnresolvedUpdateNeed | | | |
+| currentUpdateNeedCreatedDate | | | |
+| currentUpdateNeedInternalResolution | | | |
+| currentUpdateNeedInternalResolutionDate | | | |
+| currentUpdateNeedResolution ||||
+| currentUddateNeedResolutionDate | | | |
+| isEnglishGlosaryProvided | | | | 
+| isIllustratedGlossaryProvided | | | | 
+| isIllustratedGlossaryRequired | | | |
+| isTranslatedGlossaryProvided | | | |
+| isTranslatedGlossaryRequired | | | |
+| severeValidationResultCount | | | |
+| degradedValidationResultCount | | | |
+| tolerableValidationResultCount | | | |
+| benignValidationResultCount | | | |
