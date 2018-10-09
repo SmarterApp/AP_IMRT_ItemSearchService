@@ -8,4 +8,4 @@ Like the search API, the reporting endpoints implement OAauth2 Authentication ag
 
 ## Reports
 
-* [Gap Report](gap_report.md)
+* [Gap Report](gap-report.md)
