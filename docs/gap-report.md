@@ -7,7 +7,7 @@ This document describes how to work with the Gap Report: how to run it and how t
 ## Execution
 The Gap Report is executed by making a `POST` request to the Gap Report endpoint maintained within the Item Search Service.  The `POST` request can be made via any tool: `curl`, `wget` or [PostMan](https://www.getpostman.com/).
 
-For additional details on the capabilities of and working with the Gap Report API, refer to [the Gap Report API page](https://github.com/SmarterApp/AP_IMRT_ItemSearchService/blob/feature/IAT-2095-docs/documentation/gap_report_api.md).
+For additional details on the capabilities of and working with the Gap Report API, refer to [the Gap Report API page](gap_report_api.md).
 
 To run the Gap Report, take the following steps:
 * Get a bearer token from OpenAM:
@@ -35,7 +35,7 @@ To run the Gap Report, take the following steps:
 	}
 	```
 	
-* Compose a Gap Report request JSON payload.  Refer to [the Gap Report API page](https://github.com/SmarterApp/AP_IMRT_ItemSearchService/blob/develop/documentation/gap_report_api.md) for details on how ot compose a Gap Report request.
+* Compose a Gap Report request JSON payload.  Refer to [the Gap Report API page](gap_report_api.md) for details on how ot compose a Gap Report request.
 
 ## Working with the Gap Report Spreadsheet
 The Gap Report API returns an Excel spreadsheet with two worksheets:
