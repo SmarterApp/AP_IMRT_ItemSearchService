@@ -35,34 +35,10 @@ The table below lists the fields which must be within the
 
 The property name for this is "filters".  This is an array of `filter` JSON objects describing different filters to run.
 
-Available filters can be found [here](Filters.md)
-
-#### Group by Property
-
-Supported properties
-
-| Property | Description | 
-| -------- | ----------- |
-| subject | Breaks down item counts by items' subject |
-| intendedGrade | Breaks down item counts by items' grade | 
-| organizationTypeId | Breaks down the items' counts by organization type id |
-| organizationName | Breaks down the items' counts by organization name |
-| workflowStatus | Breaks down the items' counts by workflow status |
-| primaryClaim | Breaks down the items' counts by primary claim |
-| primaryTarget | Breaks down the items' counts by primary target |
-| primaryContentDomain | Breaks down the items' counts by primary content domain|
-| primaryCommonCoreStandard | Breaks down the items' counts by primary Common Core Standard |
-| secondaryContentDomain | Breaks down the items' counts by primary content domain|
-| secondaryCommonCoreStandard | Breaks down the items' counts by secondary Common Core Standard |
-| tertiaryContentDomain | Breaks down the items' counts by tertiary content domain|
-| tertiaryCommonCoreStandard | Breaks down the items' counts by tertiary Common Core Standard |
-| quaternaryContentDomain | Breaks down the items' counts by quaternary content domain|
-| quaternaryCommonCoreStandard | Breaks down the items' counts by quaternary Common Core Standard |
-| itemAuthor | Breaks down the items' counts by item author |
-| depthOfKnowledge | Breaks down the items' counts by depth of knowledge |
+Available filters can be found [here](Filters.md).  The fields that support count can be found on the [Search Fields page](imrt_search_fields.md).
 
 
-#### Request Body
+#### Request Body Example
 ```json
 {
 	"filters": [
