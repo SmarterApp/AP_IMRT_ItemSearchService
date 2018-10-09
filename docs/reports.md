@@ -1,4 +1,6 @@
 # Item Search Service Report API
+[Go Back](../README.md)
+
 In addition to providing an API for finding items in the item bank, the [Item Search Service](./AP_IMRT_ItemSearchService) provides reports with data the search API is not well-suited to provide.  A list of the available reports can be fownd below.
 
 ## Authentication
@@ -6,4 +8,4 @@ Like the search API, the reporting endpoints implement OAauth2 Authentication ag
 
 ## API Documentation
 
-* [Gap Report](./gap_report_api.md)
+* [Gap Report](gap_report_api.md)

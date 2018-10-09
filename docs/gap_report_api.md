@@ -1,6 +1,6 @@
 # Gap Report API
 
-[Go Back](../gap-report.md)
+[Go Back](gap-report.md)
 
 This page covers how to interact with the Gap Report API.
 

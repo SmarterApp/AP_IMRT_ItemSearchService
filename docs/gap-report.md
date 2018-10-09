@@ -1,6 +1,6 @@
 # Working with the Gap Report
 
-[Go Back](../README.md)
+[Go Back](reports.md)
 
 This document describes how to work with the Gap Report: how to run it and how to work with the spreadsheet after it has been downloaded/saved.
 
