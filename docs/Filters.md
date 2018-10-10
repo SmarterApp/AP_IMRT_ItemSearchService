@@ -2,6 +2,9 @@
 
 [Item Search API](Item_Search_Service_API.md)
 
+This page covers the available filters within the search system. The filterable fields can be found on the [Search Fields page](imrt_search_fields.md).  The table on the linked page lists each field and which filter it supports.
+
+
 ## Match Filter
 
 The **Match Filter** provides a facility for searching by a particular property and possible values.  A collection of values can be passed into this filter, making the filter act like an SQL `IN` clause.
@@ -15,42 +18,6 @@ This table describes the fields that comprise the match filter:
 | property | The property to run the match filter.  Supported properties listed below. | string | yes
 | values | The values to match against | array | yes
 | includeBlanks | `true` to include items where the property is not set | no
-
-**Properties supported**
-
-Values supported can be found within the Item Data Dictionary.  These values match exactly with what is stored within the item.json format unless stated otherwise.
-
-| Field| Description |
-| -----| -------|
-| id | The unique item id  |
-| intendedGrade | The grade for the item |
-| stimulusId | The associated stimulus id for an item  |
-| depthOfKnowledge | Filter by depth of knowledge values |
-| workflowStatus | Allows filtering by workflow statuses.   |
-| type | Filter by item types  |
-| subject | Filter by subject |
-| organizationTypeId | Filter by Organization Type.  Typical values are "member", "nonMember", "vendor", "smarterBalanced" |
-| primaryClaim | Filter by claim id | 
-| primaryTarget | filter by primary target |
-| secondaryClaim | Filter by secondary claim id | 
-| secondaryTarget | filter by secondary target |
-| tertiaryClaim | Filter by tertiary claim id | 
-| tertiaryTarget | filter by tertiary target |
-| quaternaryClaim | Filter by quaternary claim id | 
-| quaternaryTarget | filter by quaternary target |
-| contentTaskModel | filter by content task model |
-| isAslRequired | filter by ASL content requirement |
-| isAslProvided | filter by whether ASL content has been provided |
-| isBrailleRequired | filter by Braille content requirement |
-| isBrailleProvided | filter by whether Braille content has been provided |
-| isClosedCaptioningRequired | filter by closed-captioning content requirement |
-| isCloseCaptioningProvided | filter by whether closed-captioning has been provided |
-| isTranslationRequired | filter by Translation content requirement |
-| isTranslationProvided | filter by whether Translation content has been provided |
-| isVisualTTSRequired | filter by Text-to-Speech content requirement |
-| formType | filter by the form type on an item's forms |
-| assessmentType | filter by the asssessment type on an item's forms |
-| scoringEngine | filter by the item's scoring engine value |
 
 **Example Usage**
 
@@ -87,19 +54,6 @@ The **Integer Range Filter** allows for filtering items by a range of numbers.  
 
 **NOTE:** The `min` value must be smaller than the `max` value.  
 
-**Properties supported**
-
-| Field| Description |
-| -----| -------|
-| calculatedFormCount | Count of all forms associated with an item |
-| calculatedExposuresCount | All exposures across all forms |
-| itemDifficultyQuintile | The difficulty level of the item |
-| daysInWorkflowStatus | The number of days an item has been in the currently workflow status |
-| severeValidationResultCount | The number of validation results with a severity of `Severe` |
-| degradedValidationResultCount | The number of validation results with a severity of `Degraded` |
-| tolerableValidationResultCount | The number of validation results with a severity of `Tolerable` |
-| benignValidationResultCount | The number of validation results with a severity of `Benign` |
-
 **Example Usage**
 
 * Find all items with an calculated form count between 1 and 10:
@@ -124,19 +78,6 @@ This table describes the fields that comprise the match filter:
 | -------- | ----------- |---- | -------- |
 | property | The property to run the boolean filter.  Supported properties listed below. | string | yes
 | value | `true` or `false` | boolean | yes
-
-**Properties supported**
-
-Values supported can be found within the Item Data Dictionary.  These values match exactly with what is stored within the item.json format unless stated otherwise.
-
-| Field| Description |
-| -----| -------|
-| isBeingCreated | `true` means the item is in the process of being created but has not been added to the item bank.  |
-| isVisualTTSProvided | `true` means the item's Text-to-Speech visual content has been provided |
-| isSightTTSProvided | `true` means the item's Text-to-Speech sight-related content has been provided |
-| isAslUploadedPriorToLastContentUpdate | `true` means at least one of the item's ASL attachments were uploaded prior to the English Content Last Updated date |
-| isBrailleUploadedPriorToLastContentUpdate | `true` means at least one of the item's Braille attachments were uploaded prior to the English Content Last Updated date |
-| isClosedCaptioningUploadedPriorToLastContentUpdate | `true` means at least one of the item's closed-captioning attachments were uploaded prior to the English Content Last Updated date |
 
 **Example Usage**
 
@@ -164,22 +105,6 @@ _**Additional Notes**_
 | property | The property to run the number of days range filter.  Supported properties listed below. | string | yes
 | values | A collection of possible values to search for | array | yes |
 | includeBlanks | `true` to include items where the property is not set | no |
-
-**Properties supported**
-
-| Field| Description |
-| -----| -------|
-| organizationName  | The name of the organization assigned to an item |
-| itemAuthor  | The item author for the item.  This is the ItemAuthor field as defined in the IDD |
-| primaryCommonCoreStandard | The primary common core standard for the item |
-| primaryContentDomain | the primary content domain for the item |
-| secondaryCommonCoreStandard | The secondary common core standard for the item |
-| secondaryContentDomain | the secondary content domain for the item |
-| tertiaryCommonCoreStandard | The tertiary common core standard for the item |
-| tertiaryContentDomain | the tertiary content domain for the item |
-| quaternaryCommonCoreStandard | The quaternary common core standard for the item |
-| quaternaryContentDomain | the quaternary content domain for the item |
-| createdBy  | The Gitlab user that created the item |
 
 **Example Usage**
 
@@ -223,15 +148,6 @@ The **Date Range Filter** allows for filtering items by a range of dates.  In ef
 * If the `to` date is provided but the `from` date is not, the filter will effectively be `my_date <= toDate`
 * If the `to` date and `from` date are both provided, the filter will effectively be `my_date BETWEEN fromDate AND toDate`
 * If neither the `from` date nor `to` date are provided, the filter will be ignored
-
-**Properties supported**
-
-| Field| Description |
-| -----| -------|
-| workflowStatusUpdatedDate  | The date the current worfklow status was set |
-| createDate  | The date the item was created within gitlab |
-| englishContentLastUpdatedDate | The most recent date/time that English content for the item was changed |
-| spanishContentLastUpdatedDate | The most recent date/time that Spanish content for the item was changed |
 
 * Find all items whose workflow status was updated between 4/11/2018 12AM and 4/13/2018 11:59:59 PM
 
