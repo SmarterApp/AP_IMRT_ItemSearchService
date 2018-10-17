@@ -30,3 +30,8 @@ spring:
   profiles: local-development
 logging:
   config: classpath:log4j2-local.xml
+---
+spring:
+  profiles: zombodb
+  datasource:
+    url: "jdbc:postgresql://zombohost:5432/imrt"
