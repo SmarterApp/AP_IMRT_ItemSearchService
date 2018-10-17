@@ -41,6 +41,9 @@ configurations {
 }
 
 dependencies {
+    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.82'
+    compile 'org.opentestsystem.ap:ap-common:0.4.59'
+
     compileOnly 'com.google.code.findbugs:annotations:3.0.1'
     compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'org.springframework.boot:spring-boot-starter-actuator'
@@ -54,8 +57,6 @@ dependencies {
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310'
     compile 'biz.paluch.logging:logstash-gelf:1.12.0'
-    compile 'org.opentestsystem.ap:ap-imrt-common:0.1.81'
-    compile 'org.opentestsystem.ap:ap-common:0.4.59'
     testCompile 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'org.assertj:assertj-core:3.9.1'
 }
