@@ -172,3 +172,148 @@ The **Date Range Filter** allows for filtering items by a range of dates.  In ef
 }
 ```
 
+
+
+## Keywords Filter
+
+The **Keywords Filter** allows for filtering items by its keyword content. The content is culled from various sections
+depending on the item type. For example, for Short Answer items, the content comes the Prompt/Stem and the
+Spanish Prompt/Stem. When a keywords filter is applied, keywordSection field in
+the results will be populated with the name of the section where the first match was found.
+
+
+**Keywords Filter Fields**
+
+| Field | Description | Type | Required |
+| -------- | ----------- |---- | -------- |
+| property | The property to run the keywords filter. Supported properties listed below. | string | yes
+| value | The keyword search string. Syntax for this string described below. | string | yes
+| isCaseSensitive | `true` to search match the case of words in the keyword search, otherwise the search is case insensitive |true/false|no
+
+**Keywords Filter Behavior**
+
+* Single words -- matches content containing the pattern, e.g., text matches text, texts, context, textbook
+* Multiple words -- all words must appear consecutively in the content, e.g., my text matches my textbook
+* Single wildcard -- underscore (_) matches exactly one non-space character, e.g., te_t matches text, test, but not tet
+* Multi wildcard -- asterisk (\*) matches zero to many non-space characters, e.g., te*t matches tet, text, test, termagant, but not "tell them"
+* Logical AND -- the && operator allows matching multiple words which do not have to be consecutive, e.g. good && men matches "all good men", "the men are here, which is good",
+"for the good of all women and men"
+* Logical OR -- the || operator allows matching either of two words, e.g., color || colour matches "the color gray" and "the colour grey", 
+and Tom || Dick || Harry matches "I'm Tom when I'm good", "It's a beast of name ain't it -- Dick Deadeye?", and "60 Minutes' anchor Harry Reasoner"
+* Logical NOT -- the ~ operator allows reversing a match, e.g., ~Tom Sawyer matches any content not containing Tom Sawyer consecutively
+* Logical grouping -- the { and } operators allow building complex logical expressions, e.g., {Tom Sawyer || Huck Finn} && ~Becky Thatcher matches
+content with either Tom Sawyer or Huck Finn (or both), but not Becky Thatcher
+* Quoted string -- allows the special characters described above to be searched for literally, e.g. for "I am ~40 years old",
+the ~ is not treated as a NOT operator, but is searched for in the content. Note: in the json, the quotes must
+be escaped. See Example Usages below.
+* Double quotes -- in order to search for double quotes literally, use two double quotes, 
+e.g., He said, ""Hi"" matches He said, "Hi" in the content. This works inside or outside
+quoted strings
+* Whitespace -- all whitespace in the keywords filter is only significant to separate words, so words
+can be separated by multiple spaces, tabs, or new lines and the search will act as if they
+are separated a single space character
+  
+**Example Usages**
+
+* Find items with content containing the word or partial word "text"
+```json
+{
+	"property": "keywords",
+	"value": "text"
+}
+```
+
+* Find items with content containing the words "my text" consecutively
+```json
+{
+	"property": "keywords",
+	"value": "my text"
+}
+```
+
+* Find items with content containing te_t, where _ is any single non-space character
+```json
+{
+	"property": "keywords",
+	"value": "te_t"
+}
+```
+
+* Find items with content containing te*t, where * is zero or more characters, not
+crossing word boundaries
+```json
+{
+	"property": "keywords",
+	"value": "te*t"
+}
+```
+* Find items with content containing both good and men in any order
+```json
+{
+	"property": "keywords",
+	"value": "good && men"
+}
+```
+
+* Find items with content containing Tom or Dick or Harry (or some or all of these)
+```json
+{
+	"property": "keywords",
+	"value": "Tom || Dick || Harry",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing not containing Tom Sawyer
+```json
+{
+	"property": "keywords",
+	"value": "~Tom Sawyer",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing Tom Sawyer or Huck Finn, but not Becky Thatcher
+```json
+{
+	"property": "keywords",
+	"value": "{Tom Sawyer || Huck Finn} && ~Becky Thatcher",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing a special character (other than ")
+```json
+{
+	"property": "keywords",
+	"value": "\"I am about ~40 years old\"",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing double quote (")
+```json
+{
+	"property": "keywords",
+	"value": "He said, \"\"Hi\"\"",
+	"isCaseSensitive": false
+}
+```
+
+* Extra whitespace is not significant
+```json
+{
+	"property": "keywords",
+	"value": "English   \n   Spanish   \n  French   \n   ",
+	"isCaseSensitive": true
+}
+```
+is the same as: 
+```json
+{
+	"property": "keywords",
+	"value": "English Spanish French",
+	"isCaseSensitive": true
+}
+```
+
