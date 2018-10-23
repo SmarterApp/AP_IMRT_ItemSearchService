@@ -219,7 +219,7 @@ in the following table:
 |Multi wildcard| \* |asterisk (\*) matches zero to many non-space characters, e.g., te*t matches tet, text, test, termagant, but not "tell them" |
 |Logical AND | && | the && operator allows matching multiple words which do not have to be consecutive, e.g. good && men matches "all good men", "the men are here, which is good","for the good of all women and men"|
 | Logical OR| \|\| | the \|\| operator allows matching either of two words, e.g., color || colour matches "the color gray" and "the colour grey"|
-| Logical grouping | { and } | the { and } operators allow building complex logical expressions, e.g., {Tom Sawyer \|\| Huck Finn} && ~Becky Thatcher matches |
+| Logical grouping | { and } | the { and } operators allow building complex logical expressions, e.g., {Tom Sawyer \|\| Huck Finn} && ~Becky Thatcher |
 | Quoted String | \"" | in order to search for double quotes literally, use two double quotes, e.g., He said, ""Hi"" matches He said, "Hi" in the content. This works inside or outside quoted strings |
 | Whitespace | n/a | all whitespace in the keywords filter is only significant to separate words, so words can be separated by multiple spaces, tabs, or new lines and the search will act as if they are separated a single space character| 
   
