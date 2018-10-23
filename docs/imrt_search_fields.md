@@ -92,7 +92,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | writingPurpose | No | [Match](Filters.md#match-filter) | 
 
 ## Derived Fields
-Therre are a few fields that are not in the Item Data Dictionary nor the item.  These are fields that are either derived by IMRT or retrieved from another system (example, Item Content Tabulator Validation Results).  The table lists out those fields and how they're derived.
+There are a few fields that are not in the Item Data Dictionary nor the item.  These are fields that are either derived by IMRT or retrieved from another system (example, Item Content Tabulator Validation Results).  The table lists out those fields and how they're derived.
 
 | Field | Source | Description |
 | ----- | ------ | ----------- |
@@ -105,8 +105,68 @@ Therre are a few fields that are not in the Item Data Dictionary nor the item.  
 | isContentChangedAfterOperational | Derived by IMRT | The will be set to true if any of the english or spanish content has changed after an item has been marked operational. |
 
 
+## Keyword Fields
+This section covers the data captured and searchable with the [Keyword Filter](https://github.com/SmarterApp/AP_IMRT_ItemSearchService/blob/develop/docs/Filters.md#keywords-filter).  This currently includes a subset of data, which is listed in the table below.  When doing a search you will get the first section that is found that has the content.  For example, if you have to sections, "Options" and "Content" that contain your search term "the" only the first one found will be returned (be it Options or Content).
 
+All rich text content is stripped from content for one exception.  MathML is left within the content "as is".  This means that it has all the markup necessary for MathML.  Tags included in MathML may trigger a match.  To find exact MathML matches you will need to use the MathMl as stored in the item.json.  A list of MathMl tags can be found [here](https://developer.mozilla.org/en-US/docs/Web/MathML/Element).
 
+The data below captures the data captured and the section.  Sections specifically reference a "Section" of an item.
 
-
-
+| Item Type | Section |
+| --------- | --------|
+|EQ| Prompt / Stem|
+|EQ|Left Labels|
+|EQ|Right Labels|
+|EQ|Spanish Prompt / Stem|
+|EQ|Spanish Left Labels|
+|EQ|Spanish Right Labels|
+|EBSR|	Prompt / Stem	|
+|EBSR|	Part A Stem|
+|EBSR|	Part A Options|
+|EBSR|	Part B Stem|
+|EBSR|	Part B Options|
+|EBSR| Spanish Prompt / Stem	|
+|EBSR| Spanish Part A Stem|
+|EBSR| Spanish Part A Options|
+|EBSR| Spanish Part B Stem|
+|EBSR|	Spanish Part B Options|
+|GI|Prompt / Stem|
+|GI|Spanish Prompt / Stem|
+|HTQO|	Prompt / Stem	|
+|HTQO|	Interactive Texts|
+|HTQO|	Spanish Prompt / Stem	|
+|HTQO|	Spanish Interactive Texts|
+|HTQS|	Prompt / Stem	|
+|HTQS|Interactive Text|
+|HTQS|	Spanish Prompt / Stem	|
+|HTQS|Spanish Interactive Text|
+|MI|Prompt / Stem|
+|MI|Table column headers|
+|MI|Table row labels|
+|MI|Spanish Prompt / Stem|
+|MI|Spanish Table column headers|
+|MI|Spanish Table row labels|
+|MC|Prompt / Stem|
+|MC|Options|
+|MC|Spanish Prompt / Stem|
+|MC|Spanish Options|
+|MS|Prompt / Stem|
+|MS	|Options|
+|MS|Spanish Prompt / Stem|
+|MS	|Spanish Options|
+|SA|Prompt / Stem|
+|SA|Spanish Prompt / Stem|
+|TI|Prompt / Stem|
+|TI|Table Title|
+|TI|Table Column Headers|
+|TI|Table Cells (all types)|
+|TI|Spanish Prompt / Stem|
+|TI|Spanish Table Title|
+|TI|Spanish Table Column Headers|
+|TI|Spanish Table Cells (all types)|
+|WER|Prompt / Stem|
+|WER|Spanish Prompt / Stem|
+|STIM|Content|
+|STIM|Spanish Content|
+|TUT|Content|
+|TUT|Spanish Content|

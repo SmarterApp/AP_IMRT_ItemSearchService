@@ -172,3 +172,136 @@ The **Date Range Filter** allows for filtering items by a range of dates.  In ef
 }
 ```
 
+
+
+## Keywords Filter
+
+The **Keywords Filter** allows for filtering items by its keyword content. The content is culled from various sections depending on the item type which can be found on the [Keyword Fields](https://github.com/SmarterApp/AP_IMRT_ItemSearchService/blob/feature/keywordDocumentation/docs/imrt_search_fields.md#keyword-fields) page. When a keywords filter is applied, keywordSection field inthe results will be populated with the name of the section where the first match was found.
+
+
+### Keywords Filter Fields
+
+| Field | Description | Type | Required |
+| -------- | ----------- |---- | -------- |
+| property | The property to run the keywords filter. Supported properties listed below. | string | yes
+| value | The keyword search string. Syntax for this string described below. | string | yes
+| isCaseSensitive | `true` to search match the case of words in the keyword search, otherwise the search is case insensitive |true/false|no
+
+### Keywords Filter Behavior
+
+| Type | Operator | Functionality |
+| ---- | ---------|--------------|
+| Single words| n/a | matches content containing the pattern, e.g., text matches text, texts, context, textbook|
+| Multiple words| n/a | all words must appear consecutively in the content, e.g., my text matches my textbook|
+|Single wildcard | _ | underscore (_) matches exactly one non-space character, e.g., te_t matches text, test, but not tet|
+|Multi wildcard| \* |asterisk (\*) matches zero to many non-space characters, e.g., te*t matches tet, text, test, termagant, but not "tell them" |
+|Logical AND | && | the && operator allows matching multiple words which do not have to be consecutive, e.g. good && men matches "all good men", "the men are here, which is good","for the good of all women and men"|
+| Logical OR| \|\| | the \|\| operator allows matching either of two words, e.g., color || colour matches "the color gray" and "the colour grey"|
+| Logical grouping | { and } | the { and } operators allow building complex logical expressions, e.g., {Tom Sawyer \|\| Huck Finn} && ~Becky Thatcher matches |
+| Quoted String | \"" | in order to search for double quotes literally, use two double quotes, e.g., He said, ""Hi"" matches He said, "Hi" in the content. This works inside or outside quoted strings |
+| Whitespace | n/a | all whitespace in the keywords filter is only significant to separate words, so words can be separated by multiple spaces, tabs, or new lines and the search will act as if they are separated a single space character| 
+  
+### Keyword Filter Example Usages
+
+* Find items with content containing the word or partial word "text"
+```json
+{
+	"property": "keywords",
+	"value": "text"
+}
+```
+
+* Find items with content containing the words "my text" consecutively
+```json
+{
+	"property": "keywords",
+	"value": "my text"
+}
+```
+
+* Find items with content containing te_t, where _ is any single non-space character
+```json
+{
+	"property": "keywords",
+	"value": "te_t"
+}
+```
+
+* Find items with content containing te*t, where * is zero or more characters, not
+crossing word boundaries
+```json
+{
+	"property": "keywords",
+	"value": "te*t"
+}
+```
+* Find items with content containing both good and men in any order
+```json
+{
+	"property": "keywords",
+	"value": "good && men"
+}
+```
+
+* Find items with content containing Tom or Dick or Harry (or some or all of these)
+```json
+{
+	"property": "keywords",
+	"value": "Tom || Dick || Harry",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing not containing Tom Sawyer
+```json
+{
+	"property": "keywords",
+	"value": "~Tom Sawyer",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing Tom Sawyer or Huck Finn, but not Becky Thatcher
+```json
+{
+	"property": "keywords",
+	"value": "{Tom Sawyer || Huck Finn} && ~Becky Thatcher",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing a special character (other than ")
+```json
+{
+	"property": "keywords",
+	"value": "\"I am about ~40 years old\"",
+	"isCaseSensitive": true
+}
+```
+
+* Find items with content containing double quote (")
+```json
+{
+	"property": "keywords",
+	"value": "He said, \"\"Hi\"\"",
+	"isCaseSensitive": false
+}
+```
+
+* Extra whitespace is not significant
+```json
+{
+	"property": "keywords",
+	"value": "English   \n   Spanish   \n  French   \n   ",
+	"isCaseSensitive": true
+}
+```
+is the same as: 
+```json
+{
+	"property": "keywords",
+	"value": "English Spanish French",
+	"isCaseSensitive": true
+}
+```
+
