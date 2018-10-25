@@ -209,6 +209,23 @@ in the following table:
 | value | The keyword search string. Syntax for this string described below. | string | yes
 | isCaseSensitive | `true` to search match the case of words in the keyword search, otherwise the search is case insensitive |true/false|no
 
+**Keywords Filter Result Fields**
+
+| Field | Description | Type |
+| -------- | ----------- |---- |
+| keywordSection | The item section where a keyword match was found. (See Content Sections by Item Type table.) | string |
+| keywordContent | The matching text from the matched section. | string |
+
+Notes: 
+- Only one matching section will be returned per item even if there are matches in multiple sections. 
+- A target length for the return matched content return in keywordContent. If the matched region is shorter than this
+length, extra content outside the matched region will be added to the results for context. If the matched region is 
+longer than the target length, then the results will contain a truncated section of the matched region.
+- In the case of truncated results, not all the matched search terms will appear in the returned results. This does not
+mean that they were not matched in the item, just that the matched region is too large to represent fully
+in the results.
+- The target length is configurable via the deployment property iss.maxKeywordContextLength  
+  
 **Keywords Filter Behavior**
 
 | Type | Operator | Functionality |
@@ -218,7 +235,7 @@ in the following table:
 |Single wildcard | _ | underscore (_) matches exactly one non-space character, e.g., te_t matches text, test, but not tet|
 |Multi wildcard| \* |asterisk (\*) matches zero to many non-space characters, e.g., te*t matches tet, text, test, termagant, but not "tell them" |
 |Logical AND | && | the && operator allows matching multiple words which do not have to be consecutive, e.g. good && men matches "all good men", "the men are here, which is good","for the good of all women and men"|
-| Logical OR| \|\| | the \|\| operator allows matching either of two words, e.g., color || colour matches "the color gray" and "the colour grey"|
+| Logical OR| \|\| | the \|\| operator allows matching either of two words, e.g., color \|\| colour matches "the color gray" and "the colour grey"|
 | Logical grouping | { and } | the { and } operators allow building complex logical expressions, e.g., {Tom Sawyer \|\| Huck Finn} && ~Becky Thatcher |
 | Quoted String | \"" | in order to search for double quotes literally, use two double quotes, e.g., He said, ""Hi"" matches He said, "Hi" in the content. This works inside or outside quoted strings |
 | Whitespace | n/a | all whitespace in the keywords filter is only significant to separate words, so words can be separated by multiple spaces, tabs, or new lines and the search will act as if they are separated a single space character| 
