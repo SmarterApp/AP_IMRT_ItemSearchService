@@ -15,6 +15,10 @@ spring:
   freemarker:
     check-template-location: false
 
+management:
+  port: 9008
+  security:
+    enabled: "false"
 
 logging:
   level:
