@@ -83,7 +83,13 @@ sort : {
 			"property": "timeInWorkflowStatus",
 			"min": 1,
 			"max": 5
-		}
+		},
+		{
+			"property": "keywords",
+			"value": "match && text",
+			"isCaseSensitive": false
+		},
+		
 	],
 	"sort": {
 		"property": "itemId",
@@ -164,6 +170,8 @@ The table below describes the page information included in the response.  Values
             "degradedValidationResultCount": "3",
             "tolerableValidationResultCount": "9",
             "benignValidationResultCount": "1",
+            "keywordContent": "this is some matching text",
+            "keywordSection": "Prompt / Stem",
             "daysInWorkflowStatus": "145",
             "isAslRequired": "undetermined",
             "isBrailleRequired": "undetermined",
@@ -243,6 +251,8 @@ The table below describes the page information included in the response.  Values
             "degradedValidationResultCount": "3",
             "tolerableValidationResultCount": "9",
             "benignValidationResultCount": "1",
+            "keywordContent": "this text content contains a match",
+            "keywordSection": "Prompt / Stem",
             "daysInWorkflowStatus": "145",
             "isAslRequired": "undetermined",
             "isBrailleRequired": "undetermined",
