@@ -218,7 +218,7 @@ in the following table:
 
 Notes: 
 - Only one matching section will be returned per item even if there are matches in multiple sections. 
-- A target length for the return matched content return in keywordContent. If the matched region is shorter than this
+- A target length for the returned matched content return in keywordContent. If the matched region is shorter than this
 length, extra content outside the matched region will be added to the results for context. If the matched region is 
 longer than the target length, then the results will contain a truncated section of the matched region.
 - In the case of truncated results, not all the matched search terms will appear in the returned results. This does not
