@@ -68,7 +68,31 @@ sort : {
 }
 ```
 
-### Request Body
+##### Item ID Specific Sort
+
+This sort is different from standard sorting mechanics found in search.  This sort will sort the results in the order sent in the `id` MatchFilter.  The direction for this search must be `idOrder` and have an `id` search filter present in the request.  If either requirement is not met an invalid request response will be sent to the caller.
+
+**Example Search Request for Item ID Specific Sort***
+<pre>
+{
+    "filters": [
+        {
+            "property": "id",
+            "values": ["207982", "207984", "181074"]
+        }
+    ],
+    "sort": {
+        "property": "id",
+        "direction": "idOrder"
+    },
+    "page": {
+        "pageSize": 150,
+        "pageNumber": 0
+    }
+}
+</pre>
+
+### Example Request Body
 
 ```json
 {
@@ -102,7 +126,7 @@ sort : {
 }
 ```
 
-### Response Body
+### Example Response Body
 
 The table below describes the page information included in the response.  Values are currently all Strings except for dates.  Dates have the suffix `Date` on the property name.  Those can be null.  Any non date field that isn't supported will result in an empty String.
 
