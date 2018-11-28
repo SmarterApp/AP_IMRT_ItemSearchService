@@ -83,7 +83,7 @@ This sort is different from standard sorting mechanics found in search.  This so
     ],
     "sort": {
         "property": "id",
-        "direction": "idOrder"
+        "direction": "idFilterValues"
     },
     "page": {
         "pageSize": 150,
