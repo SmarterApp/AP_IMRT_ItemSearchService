@@ -72,7 +72,7 @@ sort : {
 
 This sort is different from standard sorting mechanics found in search.  This sort will sort the results in the order sent in the `id` MatchFilter.  The direction for this search must be `idOrder` and have an `id` search filter present in the request.  If either requirement is not met an invalid request response will be sent to the caller.
 
-**Example Search Request for Item ID Specific Sort***
+###### Example Search Request for Item ID Specific Sort
 <pre>
 {
     "filters": [
