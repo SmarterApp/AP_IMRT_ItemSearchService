@@ -66,15 +66,18 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | primaryClaim | Yes | [Match](Filters.md#match-filter) | 
 | primaryCommonCoreStandard | No | [Contains](Filters.md#contains-filter) | 
 | primaryContentDomain | No | [Contains](Filters.md#contains-filter) | 
+| primaryEnhancedId | No | [Contains](Filters.md#contains-filter) | 
 | primaryTarget | Yes | [Match](Filters.md#match-filter) | 
 | quaternaryClaim | Yes | [Match](Filters.md#match-filter) | 
 | quaternaryCommonCoreStandard | No | [Contains](Filters.md#contains-filter) | 
 | quaternaryContentDomain | No | [Contains](Filters.md#contains-filter) | 
+| quaternaryEnhancedId | No | [Contains](Filters.md#contains-filter) | 
 | quaternaryTarget | Yes | [Match](Filters.md#match-filter) | 
 | scoringEngine | No | [Match](Filters.md#match-filter) | 
 | secondaryClaim | Yes | [Match](Filters.md#match-filter) | 
 | secondaryCommonCoreStandard | No | [Contains](Filters.md#contains-filter) | 
 | secondaryContentDomain | No | [Contains](Filters.md#contains-filter) | 
+| secondaryEnhancedId | No | [Contains](Filters.md#contains-filter) | 
 | secondaryTarget | Yes | [Match](Filters.md#match-filter) | 
 | severeValidationResultCount | No |[Integer Range](Filters.md#integer-range-filter)|
 | spanishPassagesCount | No | [Integer Range](Filters.md#integer-range-filter) |
@@ -83,6 +86,7 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | tertiaryClaim | Yes | [Match](Filters.md#match-filter) | 
 | tertiaryCommonCoreStandard | No | [Contains](Filters.md#contains-filter) | 
 | tertiaryContentDomain | No | [Contains](Filters.md#contains-filter) | 
+| tertiaryEnhancedId | No | [Contains](Filters.md#contains-filter) | 
 | tertiaryTarget | Yes | [Match](Filters.md#match-filter) | 
 | testCategory | No | [Match](Filters.md#match-filter) | 
 | tolerableValidationResultCount | No | [Integer Range](Filters.md#integer-range-filter) |
