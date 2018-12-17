@@ -168,6 +168,16 @@ This page covers the API to multiple items by their ids.  The ids are the item's
 
             ]
          },
+         "serverManaged": {
+            "id": "205033",
+            "itsId": "",
+            "primaryEnhancedId": "",
+            "quaternaryEnhancedId": "",
+            "secondaryEnhancedId": "",
+            "tertiaryEnhancedId": "",
+            "type": "sa",
+            "version": ""
+         },         
          "textToSpeech":{
             "isVisualTTSRequired":"undetermined",
             "isVisualTTSProvided":false,
