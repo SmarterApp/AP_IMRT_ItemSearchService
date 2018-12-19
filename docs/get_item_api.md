@@ -166,6 +166,16 @@ Get a single IMRT item.  The item is a representation of an item within the item
          "audioResources":[  
 
          ]
+      },  
+      "serverManaged": {
+         "id": "205080",
+         "itsId": "",
+         "primaryEnhancedId": "",
+         "quaternaryEnhancedId": "",
+         "secondaryEnhancedId": "",
+         "tertiaryEnhancedId": "",
+         "type": "sa",
+         "version": ""
       },
       "textToSpeech":{  
          "isVisualTTSRequired":"undetermined",
