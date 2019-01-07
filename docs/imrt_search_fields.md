@@ -94,6 +94,8 @@ This page covers the search result fields from IMRT.  It lists all the fields an
 | workflowStatus | Yes | [Match](Filters.md#match-filter) | 
 | workflowStatusUpdatedDate | No | [Date Range](Filters.md#date-range-filter) |
 | writingPurpose | No | [Match](Filters.md#match-filter) | 
+| keywordContent | No | [Keyword](Filter.md#keyword-filter) |
+| keywordSection | Yes | No Filter Support |
 
 ## Derived Fields
 There are a few fields that are not in the Item Data Dictionary nor the item.  These are fields that are either derived by IMRT or retrieved from another system (example, Item Content Tabulator Validation Results).  The table lists out those fields and how they're derived.
