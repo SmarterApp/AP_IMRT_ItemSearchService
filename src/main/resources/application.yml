@@ -12,6 +12,8 @@ spring:
         format_sql: true
   datasource:
     url: "jdbc:postgresql://localhost:5432/imrt"
+    username: ${IMRT_DB_USER}
+    password: ${IMRT_DB_PASSWORD}
   freemarker:
     check-template-location: false
 
