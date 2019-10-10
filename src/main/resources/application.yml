@@ -16,6 +16,8 @@ spring:
     password: ${IMRT_DB_PASSWORD}
   freemarker:
     check-template-location: false
+  session:
+    enabled: \${SESSION_CLUSTER_ENABLED:true}
 
 management:
   port: 9008
