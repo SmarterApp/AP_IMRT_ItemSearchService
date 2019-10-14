@@ -20,6 +20,7 @@ spring:
     enabled: \${SESSION_CLUSTER_ENABLED:true}
 
 management:
+  context-path: "/manage"
   port: 9008
   security:
     enabled: "false"
