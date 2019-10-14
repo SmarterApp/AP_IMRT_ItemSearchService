@@ -22,7 +22,7 @@ The values within each filter are "OR"ed with each filter being "AND"ed together
 
 **All properties are required in requests**
 
-`POST /v1/items/search`
+`POST /api/v1/items/search`
 
 ### Request Body Description
 
