@@ -21,7 +21,7 @@ The Gap Report request computes the count of each Item Difficulty Qunitile level
 
 A `POST` to the Gap Report endpoint will execute a query against the item bank database and produce a count of items for each of the various difficulty levels.  The `POST` to the Gap Report API endpoint will appear as follows:
 
-`POST [Item Search Service domain]/v1/items/reports/gap`
+`POST [Item Search Service domain]/api/v1/items/reports/gap`
 
 ### Request Body Description
 The Gap Report request consists of two elements described below.  _**Both elements are required in the Gap Report request**_.
@@ -97,7 +97,7 @@ Shown below is an example `curl` call for fetching a Gap Report.
 
 ```bash
 curl -O -J -X POST \
-  http://localhost:9080/v1/items/reports/gap \
+  http://localhost:9080/api/v1/items/reports/gap \
   -H 'Accept: */*' \
   -H 'Authorization: Bearer [redacted]' \
   -H 'Cache-Control: no-cache' \
