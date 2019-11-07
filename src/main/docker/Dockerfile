@@ -10,6 +10,6 @@ RUN apk add --update curl && rm -rf /var/cache/apk/*
 
 ADD ap-imrt-iss-@version@.jar /
 
-ENTRYPOINT ["/usr/bin/java"]
+ENV MAX_HEAP_SIZE -Xmx384m
 
-CMD ["-jar", "/ap-imrt-iss-@version@.jar"]
+CMD java $MAX_HEAP_SIZE $JAVA_OPTS -jar ap-imrt-iss-@version@.jar
