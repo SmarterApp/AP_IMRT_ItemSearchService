@@ -7,20 +7,22 @@ import com.bmuschko.gradle.docker.tasks.image.DockerRemoveImage
 import org.apache.tools.ant.filters.ReplaceTokens
 
 buildscript {
+    ext {
+        springBootVersion = '1.5.2.RELEASE'
+    }
     repositories {
         mavenCentral()
         jcenter()
     }
     dependencies {
-        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.5.9.RELEASE")
-        classpath 'io.github.robwin:jgitflow-gradle-plugin:0.6.0'
+        classpath 'io.github.robwin:jgitflow-gradle-plugin:0.5.0'
     }
 }
 
 plugins {
     id 'java'
     id 'findbugs'
-    id 'org.springframework.boot' version '1.5.9.RELEASE'
+    id 'org.springframework.boot'               version '1.5.2.RELEASE'
     id 'jacoco'
     id 'maven-publish'
     id 'com.jfrog.artifactory' version '4.4.14'
@@ -32,6 +34,7 @@ repositories {
     mavenLocal()
     mavenCentral()
     maven { url "https://airdev.jfrog.io/airdev/libs-releases/" }
+    maven { url "https://airdev.jfrog.io/airdev/libs-snapshots/" }
 }
 
 sourceCompatibility = 1.8
@@ -42,31 +45,38 @@ configurations {
     compile.exclude module: 'spring-boot-starter-logging'
 }
 
+dependencyManagement {
+    imports {
+        mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Dalston.RELEASE'
+    }
+}
+
 dependencies {
     compile "org.opentestsystem.ap:ap-common:${commonVersion}"
 
-    compileOnly 'com.google.code.findbugs:annotations:3.0.1'
-    compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'org.springframework.boot:spring-boot-starter-actuator'
-    compile 'org.springframework.cloud:spring-cloud-starter-config'
     compile 'org.springframework.boot:spring-boot-starter-security'
-    compile 'org.springframework.security.oauth:spring-security-oauth2:2.3.0.RELEASE'
     compile 'org.springframework.boot:spring-boot-starter-aop'
-    compile 'org.springframework.retry:spring-retry'
+    compile 'org.springframework.boot:spring-boot-starter-amqp'
+    compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'org.springframework.boot:spring-boot-starter-log4j2'
+    compile 'org.springframework.boot:spring-boot-starter-freemarker'
+    compile 'org.springframework.boot:spring-boot-starter-cache'
     compile 'org.springframework.boot:spring-boot-starter-data-jpa'
+    compile 'org.springframework.security.oauth:spring-security-oauth2'
+    compile 'org.springframework.cloud:spring-cloud-starter-config'
+    compile 'org.springframework.cloud:spring-cloud-starter-sleuth'
+
+    compile 'org.springframework.retry:spring-retry'
+
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8'
     compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310'
     compile 'biz.paluch.logging:logstash-gelf:1.12.0'
     compile 'com.fathzer:javaluator:3.0.2'
+
+    compileOnly 'com.google.code.findbugs:annotations:3.0.1'
     testCompile 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'org.assertj:assertj-core:3.9.1'
-}
-
-dependencyManagement {
-    imports {
-        mavenBom "org.springframework.cloud:spring-cloud-dependencies:Edgware.RELEASE"
-    }
 }
 
 test {
@@ -235,16 +245,19 @@ task dockerCopyFiles(type: Copy) {
 task dockerBuildImage(type: DockerBuildImage) {
     dependsOn 'dockerCopyFiles'
     inputDir = project.file('build/docker/')
-    tag = "${dockerTagBase}/${jar.baseName}:${version}"
+    def name = "${dockerTagBase}/${jar.baseName}" + (project.version.contains('-SNAPSHOT') ? "": ":${project.version}")
+    tags.add(name.toString())
 }
 
 task dockerPushImage(type: DockerPushImage) {
     dependsOn 'dockerBuildImage'
-    imageName = "${dockerTagBase}/${jar.baseName}:${version}"
+    def name = "${dockerTagBase}/${jar.baseName}" + (project.version.contains('-SNAPSHOT') ? "": ":${project.version}")
+    imageName = name.toString()
 }
 
 task dockerRemoveImage(type: DockerRemoveImage) {
-    imageId = "${project.dockerTagBase}/${jar.baseName}:${project.version}"
+    def name = "${dockerTagBase}/${jar.baseName}" + (project.version.contains('-SNAPSHOT') ? "": ":${project.version}")
+    imageId = name.toString()
 }
 
 /**
