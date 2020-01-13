@@ -12,10 +12,15 @@ spring:
         format_sql: true
   datasource:
     url: "jdbc:postgresql://localhost:5432/imrt"
+    username: ${IMRT_DB_USER}
+    password: ${IMRT_DB_PASSWORD}
   freemarker:
     check-template-location: false
+  session:
+    enabled: \${SESSION_CLUSTER_ENABLED:true}
 
 management:
+  context-path: "/manage"
   port: 9008
   security:
     enabled: "false"
@@ -26,6 +31,9 @@ logging:
 
 openam:
     checkTokenEndpointUrl: https://sso-deployment.sbtds.org/auth/oauth2/tokeninfo
+
+jwt:
+  secret: ${TIMS_JWT_SECRET}
 
 server:
   port: ${IMRT_ISS_SERVER_PORT:9080}

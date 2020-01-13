@@ -1,3 +1,6 @@
+# !!! IMPORTANT !!! - Archived
+This project has been archived and is no longer actively maintained.  All code has been migrated to the [TIMS project](https://github.com/SmarterApp/TIMS).
+
 # IMRT Item Search Service
 
 The Item Search Service searches across the IMRT Item Data.  The application does not have a user interface but allows searches through the HTTP API.
